@@ -4,7 +4,10 @@
   "description": "weekly collection of fb.com/groups/f2etw",
   "main": "index.js",
   "scripts": {
-    "deploy": "jekyll b && gulp deploy",
+    "dev": "jekyll s",
+    "css": "postcss --no-map -c postcssconfig.json",
+    "build": "jekyll b && npm run css",
+    "deploy": "npm run build && gulp deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "gh-pages-deploy": {
@@ -21,7 +24,11 @@
   },
   "homepage": "https://github.com/f2etw/weekly-collection#readme",
   "devDependencies": {
+    "autoprefixer": "^6.3.4",
+    "css-mqpacker": "^4.0.1",
     "gulp": "^3.9.1",
-    "gulp-gh-pages": "^0.5.4"
+    "gulp-gh-pages": "^0.5.4",
+    "postcss-cli": "^2.5.1",
+    "postcss-csso": "^1.0.1"
   }
 }
