@@ -1,0 +1,27 @@
+{
+  "name": "weekly-collection",
+  "version": "1.0.0",
+  "description": "weekly collection of fb.com/groups/f2etw",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "jekyll b && gulp deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "gh-pages-deploy": {
+    "staticpath": "_site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2etw/weekly-collection.git"
+  },
+  "author": "Rplus <Rplus.tw@gmail.com> (https://github.com/Rplus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f2etw/weekly-collection/issues"
+  },
+  "homepage": "https://github.com/f2etw/weekly-collection#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
