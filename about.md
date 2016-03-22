@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+前端社群裡優質分享文眾多，  
+但 Facebook 先天不易搜尋，  
+故希望以每週精選的方式，為社群留些紀錄。
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+運作細節可見 [README](https://github.com/f2etw/weekly-collection/blob/master/README.md)
