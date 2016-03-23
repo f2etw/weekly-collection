@@ -4,7 +4,9 @@
   "description": "weekly collection of fb.com/groups/f2etw",
   "main": "index.js",
   "scripts": {
-    "dev": "jekyll s",
+    "dev": "npm run jekyllServe & npm run browserSync & wait",
+    "jekyllServe": "jekyll serve --port 9527",
+    "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open",
     "css": "postcss --no-map -c postcssconfig.json",
     "build": "jekyll b && npm run css",
     "deploy": "npm run build && gulp deploy",
@@ -25,6 +27,7 @@
   "homepage": "https://github.com/f2etw/weekly-collection#readme",
   "devDependencies": {
     "autoprefixer": "^6.3.4",
+    "browser-sync": "^2.11.2",
     "css-mqpacker": "^4.0.1",
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4",
