@@ -48,12 +48,14 @@
         "total_count": 6
       }
     },
+    "totalCommentsCount": 7,
     "power": [
-      667,
+      668.5,
       450,
-      6,
+      7,
       104
-    ]
+    ],
+    "order": 1
   },
   {
     "shares": {
@@ -105,12 +107,14 @@
         "total_count": 9
       }
     },
+    "totalCommentsCount": 12,
     "power": [
-      317.5,
+      322,
       180,
-      9,
+      12,
       62
-    ]
+    ],
+    "order": 2
   },
   {
     "shares": {
@@ -161,12 +165,14 @@
         "total_count": 5
       }
     },
+    "totalCommentsCount": 6,
     "power": [
-      159.5,
+      161,
       108,
-      5,
+      6,
       22
-    ]
+    ],
+    "order": 3
   },
   {
     "shares": {
@@ -217,12 +223,14 @@
         "total_count": 6
       }
     },
+    "totalCommentsCount": 7,
     "power": [
-      141,
+      142.5,
       94,
-      6,
+      7,
       19
-    ]
+    ],
+    "order": 4
   },
   {
     "shares": {
@@ -274,12 +282,14 @@
         "total_count": 13
       }
     },
+    "totalCommentsCount": 13,
     "power": [
       93.5,
       52,
       13,
       11
-    ]
+    ],
+    "order": 5
   },
   {
     "shares": {
@@ -331,12 +341,68 @@
         "total_count": 3
       }
     },
+    "totalCommentsCount": 12,
     "power": [
-      73.5,
+      87,
       53,
-      3,
+      12,
       8
-    ]
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-03-13T15:50:14+0000",
+    "from": {
+      "name": "Veck Hsiao",
+      "id": "1098620593488508"
+    },
+    "message": "大家好，我是前端新手，我今天發現一個嚇死我的狀況，我原本在不同電腦和不同家瀏覽器及同家但不同版本瀏覽器測試都沒問題的網頁，在一個朋友的電腦上用 Chrome 和 Safari 測試，突然發現用到的框架(pure.css)都不能顯示且console 顯示這個框架很多 invalid css 語法的 warning\n\n最後發現是朋友安裝了 AdBlock 這個外掛，我馬上在 Chrome 或 Safari 安裝後重新整理畫面，真～的～就～消～失～了！\n\n然後我關閉 AdBlock 後，就又恢復顯示了，Google 了一下 AdBlock 會 block 一些 CSS 屬性的樣子？而且可能使用其他框架也會這樣，但是我們沒辦法限制 user 不安裝或是請他關閉 AdBlock 吧？\n\n想請問大家有沒有遇到這樣的狀況，會怎麼樣避免或解決呢？\n\n感謝！",
+    "id": "521085554595481_960187820685250",
+    "updated_time": "2016-03-16T17:35:54+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-13T16:02:12+0000",
+          "from": {
+            "name": "Veck Hsiao",
+            "id": "1098620593488508"
+          },
+          "message": "喔喔！我確實有用到耶，我試試看！",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "960197484017617"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_960187820685250/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "totalCommentsCount": 16,
+    "power": [
+      76,
+      44,
+      16,
+      4
+    ],
+    "order": 7
   },
   {
     "shares": {
@@ -388,64 +454,14 @@
         "total_count": 4
       }
     },
+    "totalCommentsCount": 4,
     "power": [
       71,
       55,
       4,
       5
-    ]
-  },
-  {
-    "shares": {
-      "count": 4
-    },
-    "created_time": "2016-03-13T15:50:14+0000",
-    "from": {
-      "name": "Veck Hsiao",
-      "id": "1098620593488508"
-    },
-    "message": "大家好，我是前端新手，我今天發現一個嚇死我的狀況，我原本在不同電腦和不同家瀏覽器及同家但不同版本瀏覽器測試都沒問題的網頁，在一個朋友的電腦上用 Chrome 和 Safari 測試，突然發現用到的框架(pure.css)都不能顯示且console 顯示這個框架很多 invalid css 語法的 warning\n\n最後發現是朋友安裝了 AdBlock 這個外掛，我馬上在 Chrome 或 Safari 安裝後重新整理畫面，真～的～就～消～失～了！\n\n然後我關閉 AdBlock 後，就又恢復顯示了，Google 了一下 AdBlock 會 block 一些 CSS 屬性的樣子？而且可能使用其他框架也會這樣，但是我們沒辦法限制 user 不安裝或是請他關閉 AdBlock 吧？\n\n想請問大家有沒有遇到這樣的狀況，會怎麼樣避免或解決呢？\n\n感謝！",
-    "id": "521085554595481_960187820685250",
-    "updated_time": "2016-03-16T17:35:54+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 44
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-13T16:02:12+0000",
-          "from": {
-            "name": "Veck Hsiao",
-            "id": "1098620593488508"
-          },
-          "message": "喔喔！我確實有用到耶，我試試看！",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "960197484017617"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960187820685250/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 12
-      }
-    },
-    "power": [
-      70,
-      44,
-      12,
-      4
-    ]
+    ],
+    "order": 8
   },
   {
     "shares": {
@@ -477,12 +493,14 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       62,
       40,
       0,
       11
-    ]
+    ],
+    "order": 9
   },
   {
     "created_time": "2016-03-15T00:23:45+0000",
@@ -530,12 +548,72 @@
         "total_count": 2
       }
     },
+    "totalCommentsCount": 2,
     "power": [
       58,
       55,
       2,
       0
-    ]
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-03-13T01:55:09+0000",
+    "from": {
+      "name": "Jeffrey Chen",
+      "id": "10204254826399395"
+    },
+    "message": "剛看到的文章，探討要不要使用framework",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.catonmat.net/blog/frameworks-dont-make-sense/",
+    "name": "Frameworks don't make much sense - good coders code, great coders reuse",
+    "description": "Frameworks are one of the hugest anti-patterns in software development. They're hard to learn. They limit your creativity. They increase your project's complexity and dependencies. They go out of business and get abandoned. You've to maintain and upgrade your code to match the latest framework versi…",
+    "id": "521085554595481_959900694047296",
+    "updated_time": "2016-03-13T17:19:55+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-13T02:37:51+0000",
+          "from": {
+            "name": "Jeffrey Chen",
+            "id": "10204254826399395"
+          },
+          "message": "大家有什麼心得嗎?可以互相交流",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "959914864045879"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_959900694047296/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "totalCommentsCount": 17,
+    "power": [
+      53.5,
+      16,
+      17,
+      6
+    ],
+    "order": 11
   },
   {
     "shares": {
@@ -587,12 +665,14 @@
         "total_count": 2
       }
     },
+    "totalCommentsCount": 2,
     "power": [
       50,
       29,
       2,
       9
-    ]
+    ],
+    "order": 12
   },
   {
     "shares": {
@@ -644,228 +724,65 @@
         "total_count": 2
       }
     },
+    "totalCommentsCount": 3,
     "power": [
-      45,
+      46.5,
       30,
-      2,
+      3,
       6
-    ]
+    ],
+    "order": 13
   },
   {
-    "shares": {
-      "count": 6
-    },
-    "created_time": "2016-03-13T01:55:09+0000",
+    "created_time": "2016-03-16T17:00:26+0000",
     "from": {
-      "name": "Jeffrey Chen",
-      "id": "10204254826399395"
+      "name": "柳君翰",
+      "id": "942423002443312"
     },
-    "message": "剛看到的文章，探討要不要使用framework",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://www.catonmat.net/blog/frameworks-dont-make-sense/",
-    "name": "Frameworks don't make much sense - good coders code, great coders reuse",
-    "description": "Frameworks are one of the hugest anti-patterns in software development. They're hard to learn. They limit your creativity. They increase your project's complexity and dependencies. They go out of business and get abandoned. You've to maintain and upgrade your code to match the latest framework versi…",
-    "id": "521085554595481_959900694047296",
-    "updated_time": "2016-03-13T17:19:55+0000",
+    "message": "Hi 大家好\n前端過去都是以jQuery + CSS3為主\n最近想學學比較「潮」的react.js\n因此慢慢學習其他工具\n\n目前只有用webpack實作出commonJs後的打包方法\n接著我想嘗試使學習【babel】的用法\n將ES2015編譯成IE8看的懂得瀏覽器\n(因為家裡chrome太新，居然看的懂js6@Q@?)\n\n我目前的學習環境是\nubuntu 14.04 LTS\nnpm 3.7.3\nnode v5.8.0\n\n可我在 sudo npm install --save-dev babel-cli\n或是sudo npm install babel-preset-es2015 --save-dev\n的時候\n\n都會連續噴4個警告(WARN)，\n然後嘗試使用babel CLI編譯\n結果好像沒有發現 babel相關指令，建議我另外下載\n(如下圖)\n\n請問這類狀況應該怎麼解決呢\n光是這4個警告訊息，\nstackoverflow還沒看到相關的解決方法\n\n還請各位先進提點一下...\n感恩!!!~",
+    "id": "521085554595481_961998707170828",
+    "updated_time": "2016-03-18T06:22:51+0000",
     "likes": {
       "data": [],
       "summary": {
-        "total_count": 16
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-13T02:37:51+0000",
-          "from": {
-            "name": "Jeffrey Chen",
-            "id": "10204254826399395"
-          },
-          "message": "大家有什麼心得嗎?可以互相交流",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "959914864045879"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_959900694047296/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
         "total_count": 11
       }
     },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-16T17:05:41+0000",
+          "from": {
+            "name": "洪名辰",
+            "id": "1085718091444875"
+          },
+          "message": "你是裝在local 所以要把babel的指令放在package.json的scripts \n透過npm來執行",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "962001420503890"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_961998707170828/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "totalCommentsCount": 20,
     "power": [
-      44.5,
-      16,
+      41,
       11,
-      6
-    ]
-  },
-  {
-    "created_time": "2016-03-14T18:57:36+0000",
-    "from": {
-      "name": "陳聖博",
-      "id": "10206381218146197"
-    },
-    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1449035242.A.AAC.html",
-    "name": "批踢踢實業坊(Ptt.cc)",
-    "description": "[鄉民談軟體業] 一張圖看懂程式設計師的修煉之路",
-    "id": "521085554595481_960837680620264",
-    "updated_time": "2016-03-15T23:26:36+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 36
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T03:32:52+0000",
-          "from": {
-            "name": "林國凱",
-            "id": "10153419258082528"
-          },
-          "message": "作為沒有作品的front-end～我是不是要失業了",
-          "can_remove": false,
-          "like_count": 2,
-          "user_likes": false,
-          "id": "961047287265970"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960837680620264/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 2
-      }
-    },
-    "power": [
-      39,
-      36,
-      2,
+      20,
       0
-    ]
-  },
-  {
-    "shares": {
-      "count": 2
-    },
-    "created_time": "2016-03-14T06:35:28+0000",
-    "from": {
-      "name": "簡士倫",
-      "id": "1093857757307972"
-    },
-    "message": "大家好\n\n公司誠徵 前端工程師\n\n公司簡介\n宇宸數據(Cymmetrics)，由來是由分析使用者最重要三個元素relevanCy(關聯)、recenCy(近因)、adjacenCy(相關)，結合而成Cymmetrics。\n公司成立鑑於台灣數位廣告長期都由國外大公司給把持著，而RTB(Real Time Bidding即時競價)廣告技術在國外興起，RTB技術中最重要的DMP(Data Management Platform 瀏覽者資料管理平台)，決定著 有效投放(Performance Media Buying) 的關鍵。因此台灣資深網路產業的幾個朋友(前台灣Yahoo總經理、愛評網創辦人、Urcosme創辦人、群邑集團 Xaxis總經理)合資成立了宇宸數據，立志將台灣最珍貴的消費者網路廣告數據留在台灣，與台灣各大分眾網站合作，收集網路消費者行為數據，進而幫助廠商降低網路廣告成本、提高成效及深度市場分析。\n\n工作夥伴\n2位工程師，和2位美麗的助理小姐\n\n工作地點\n台北市大安區羅斯福路三段309號4樓之6\n台大旁邊，台電大樓站 以及 公館站的中間\n從台電大樓站 2號出口 或者 公館站 2號出口\n走路約5~10分鐘\n\n工作內容\n設計 內部系統UI介面\n主要用於 報表呈現 以及 操作介面人性化\n\n基本需求\n懂HTML5，CSS(在架構設計上 起碼要有整體的概念，而不是只針對單一介面做設計)\n懂RWD，或是 習慣使用bootstrap\n略懂javascript 或是 jquery(知道怎麼使用，遇到問題 知道怎麼Google 就可以)\n\n加分項目\najax\n會php等 web技術(非主要需求，只是有利於團隊溝通)\n對UX有興趣，會主動研究者佳\n\n學經歷\n不拘，大學生剛畢業 也歡迎面談\n\n薪資\n基本起薪35K以上\n有豐富的經歷 或條件者\n歡迎來面試時詳談\n\n聯絡方式\nRoger 陳先生\nroger.chen@cymmetrics.com.tw\n\n歡迎對我們有興趣的朋友 加入我們的團隊\n來信時 請附上您的履歷 以及作品\n謝謝",
-    "id": "521085554595481_960522887318410",
-    "updated_time": "2016-03-14T16:07:03+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 27
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-14T06:42:43+0000",
-          "from": {
-            "name": "Chihkai Jan",
-            "id": "10205439277633788"
-          },
-          "message": "工作地點是？",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "960524267318272"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960522887318410/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 4
-      }
-    },
-    "power": [
-      37,
-      27,
-      4,
-      2
-    ]
-  },
-  {
-    "shares": {
-      "count": 5
-    },
-    "created_time": "2016-03-12T16:03:32+0000",
-    "from": {
-      "name": "YuTin Liu",
-      "id": "10203040395925690"
-    },
-    "message": "由於「2016 第五屆HTML5峰會@台灣．台北」持續有網友寫信來詢問是否有更多的票卷可以釋出，經與主辦方討論後。\n2016 FrontEnd Developers Taiwan 這邊將於3/14(一)中午再次釋出50張票（最後一次了，再下去場地會塞不下）。\n另外有Mobile行銷案例, HTML5遊戲案例, 或者前端的開源專案（不知為何主辦對開源文化有興趣）貢獻者，歡迎私訊我取得邀請票的邀請碼 （喵\n\n報名網址：",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://f2e.kktix.cc/events/2015html5",
-    "name": "2016 第五屆HTML5峰會@台灣．台北",
-    "description": "由中國最大的HTML5社區--HTML5夢工廠舉辦的“使用iWeb峰會暨HTML5峰會”，官方活動資訊：http://2016.html5dw.com/taipei?lang=tw",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTWgaEOIpRsWmY&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F47965%2FScreen_Shot_2016-02-24_at_12.13.07_PM_original.png&cfs=1",
-    "id": "521085554595481_959684590735573",
-    "updated_time": "2016-03-13T00:34:02+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 22
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-12T16:13:51+0000",
-          "from": {
-            "name": "Jeremy Lïn",
-            "id": "977827442229417"
-          },
-          "message": "之前有直接在官網報名，但不知道有沒有成功（沒收到信）",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "959687484068617"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_959684590735573/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 2
-      }
-    },
-    "power": [
-      35,
-      22,
-      2,
-      5
-    ]
+    ],
+    "order": 14
   },
   {
     "shares": {
@@ -917,61 +834,180 @@
         "total_count": 2
       }
     },
+    "totalCommentsCount": 8,
     "power": [
-      30,
+      39,
       19,
-      2,
+      8,
       4
-    ]
+    ],
+    "order": 15
   },
   {
-    "created_time": "2016-03-16T17:00:26+0000",
+    "created_time": "2016-03-14T18:57:36+0000",
     "from": {
-      "name": "柳君翰",
-      "id": "942423002443312"
+      "name": "陳聖博",
+      "id": "10206381218146197"
     },
-    "message": "Hi 大家好\n前端過去都是以jQuery + CSS3為主\n最近想學學比較「潮」的react.js\n因此慢慢學習其他工具\n\n目前只有用webpack實作出commonJs後的打包方法\n接著我想嘗試使學習【babel】的用法\n將ES2015編譯成IE8看的懂得瀏覽器\n(因為家裡chrome太新，居然看的懂js6@Q@?)\n\n我目前的學習環境是\nubuntu 14.04 LTS\nnpm 3.7.3\nnode v5.8.0\n\n可我在 sudo npm install --save-dev babel-cli\n或是sudo npm install babel-preset-es2015 --save-dev\n的時候\n\n都會連續噴4個警告(WARN)，\n然後嘗試使用babel CLI編譯\n結果好像沒有發現 babel相關指令，建議我另外下載\n(如下圖)\n\n請問這類狀況應該怎麼解決呢\n光是這4個警告訊息，\nstackoverflow還沒看到相關的解決方法\n\n還請各位先進提點一下...\n感恩!!!~",
-    "id": "521085554595481_961998707170828",
-    "updated_time": "2016-03-18T06:22:51+0000",
+    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1449035242.A.AAC.html",
+    "name": "批踢踢實業坊(Ptt.cc)",
+    "description": "[鄉民談軟體業] 一張圖看懂程式設計師的修煉之路",
+    "id": "521085554595481_960837680620264",
+    "updated_time": "2016-03-15T23:26:36+0000",
     "likes": {
       "data": [],
       "summary": {
-        "total_count": 11
+        "total_count": 36
       }
     },
     "comments": {
       "data": [
         {
-          "created_time": "2016-03-16T17:05:41+0000",
+          "created_time": "2016-03-15T03:32:52+0000",
           "from": {
-            "name": "洪名辰",
-            "id": "1085718091444875"
+            "name": "林國凱",
+            "id": "10153419258082528"
           },
-          "message": "你是裝在local 所以要把babel的指令放在package.json的scripts \n透過npm來執行",
+          "message": "作為沒有作品的front-end～我是不是要失業了",
           "can_remove": false,
-          "like_count": 0,
+          "like_count": 2,
           "user_likes": false,
-          "id": "962001420503890"
+          "id": "961047287265970"
         }
       ],
       "paging": {
         "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
         },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_961998707170828/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
+        "next": "https://graph.facebook.com/v2.3/521085554595481_960837680620264/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
       },
       "summary": {
         "order": "chronological",
-        "total_count": 12
+        "total_count": 2
       }
     },
+    "totalCommentsCount": 2,
     "power": [
-      29,
-      11,
-      12,
+      39,
+      36,
+      2,
       0
-    ]
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-03-14T06:35:28+0000",
+    "from": {
+      "name": "簡士倫",
+      "id": "1093857757307972"
+    },
+    "message": "大家好\n\n公司誠徵 前端工程師\n\n公司簡介\n宇宸數據(Cymmetrics)，由來是由分析使用者最重要三個元素relevanCy(關聯)、recenCy(近因)、adjacenCy(相關)，結合而成Cymmetrics。\n公司成立鑑於台灣數位廣告長期都由國外大公司給把持著，而RTB(Real Time Bidding即時競價)廣告技術在國外興起，RTB技術中最重要的DMP(Data Management Platform 瀏覽者資料管理平台)，決定著 有效投放(Performance Media Buying) 的關鍵。因此台灣資深網路產業的幾個朋友(前台灣Yahoo總經理、愛評網創辦人、Urcosme創辦人、群邑集團 Xaxis總經理)合資成立了宇宸數據，立志將台灣最珍貴的消費者網路廣告數據留在台灣，與台灣各大分眾網站合作，收集網路消費者行為數據，進而幫助廠商降低網路廣告成本、提高成效及深度市場分析。\n\n工作夥伴\n2位工程師，和2位美麗的助理小姐\n\n工作地點\n台北市大安區羅斯福路三段309號4樓之6\n台大旁邊，台電大樓站 以及 公館站的中間\n從台電大樓站 2號出口 或者 公館站 2號出口\n走路約5~10分鐘\n\n工作內容\n設計 內部系統UI介面\n主要用於 報表呈現 以及 操作介面人性化\n\n基本需求\n懂HTML5，CSS(在架構設計上 起碼要有整體的概念，而不是只針對單一介面做設計)\n懂RWD，或是 習慣使用bootstrap\n略懂javascript 或是 jquery(知道怎麼使用，遇到問題 知道怎麼Google 就可以)\n\n加分項目\najax\n會php等 web技術(非主要需求，只是有利於團隊溝通)\n對UX有興趣，會主動研究者佳\n\n學經歷\n不拘，大學生剛畢業 也歡迎面談\n\n薪資\n基本起薪35K以上\n有豐富的經歷 或條件者\n歡迎來面試時詳談\n\n聯絡方式\nRoger 陳先生\nroger.chen@cymmetrics.com.tw\n\n歡迎對我們有興趣的朋友 加入我們的團隊\n來信時 請附上您的履歷 以及作品\n謝謝",
+    "id": "521085554595481_960522887318410",
+    "updated_time": "2016-03-14T16:07:03+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-14T06:42:43+0000",
+          "from": {
+            "name": "Chihkai Jan",
+            "id": "10205439277633788"
+          },
+          "message": "工作地點是？",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "960524267318272"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_960522887318410/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "totalCommentsCount": 5,
+    "power": [
+      38.5,
+      27,
+      5,
+      2
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-03-12T16:03:32+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "由於「2016 第五屆HTML5峰會@台灣．台北」持續有網友寫信來詢問是否有更多的票卷可以釋出，經與主辦方討論後。\n2016 FrontEnd Developers Taiwan 這邊將於3/14(一)中午再次釋出50張票（最後一次了，再下去場地會塞不下）。\n另外有Mobile行銷案例, HTML5遊戲案例, 或者前端的開源專案（不知為何主辦對開源文化有興趣）貢獻者，歡迎私訊我取得邀請票的邀請碼 （喵\n\n報名網址：",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/2015html5",
+    "name": "2016 第五屆HTML5峰會@台灣．台北",
+    "description": "由中國最大的HTML5社區--HTML5夢工廠舉辦的“使用iWeb峰會暨HTML5峰會”，官方活動資訊：http://2016.html5dw.com/taipei?lang=tw",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTWgaEOIpRsWmY&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F47965%2FScreen_Shot_2016-02-24_at_12.13.07_PM_original.png&cfs=1",
+    "id": "521085554595481_959684590735573",
+    "updated_time": "2016-03-13T00:34:02+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-12T16:13:51+0000",
+          "from": {
+            "name": "Jeremy Lïn",
+            "id": "977827442229417"
+          },
+          "message": "之前有直接在官網報名，但不知道有沒有成功（沒收到信）",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "959687484068617"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_959684590735573/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "totalCommentsCount": 3,
+    "power": [
+      36.5,
+      22,
+      3,
+      5
+    ],
+    "order": 18
   },
   {
     "created_time": "2016-03-14T15:09:05+0000",
@@ -1015,12 +1051,65 @@
         "total_count": 11
       }
     },
+    "totalCommentsCount": 19,
     "power": [
-      20.5,
+      32.5,
       4,
+      19,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-03-17T05:19:53+0000",
+    "from": {
+      "name": "Chihkai Jan",
+      "id": "10205439277633788"
+    },
+    "message": "這是javascript\n請問為什麼我第一個console讀得到資料\n第二個卻卻顯示undefine呢？\n\nfunction read(path){\n  jQuery.get(path, function(data) {\n    return data;\n  });\n}\njQuery.get('docs/notice.html', function(data) {\n    console.log(data);\n});\n\nconsole.log(read('docs/notice.html'))",
+    "id": "521085554595481_962301467140552",
+    "updated_time": "2016-03-17T09:28:35+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-17T05:30:45+0000",
+          "from": {
+            "name": "Chi Ching Chiang",
+            "id": "1020088911334731"
+          },
+          "message": "因為\"非同步\"",
+          "can_remove": false,
+          "like_count": 1,
+          "user_likes": false,
+          "id": "962304333806932"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_962301467140552/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "totalCommentsCount": 11,
+    "power": [
+      17.5,
+      1,
       11,
       0
-    ]
+    ],
+    "order": 20
   },
   {
     "shares": {
@@ -1052,11 +1141,163 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       16,
       8,
       0,
       4
+    ]
+  },
+  {
+    "created_time": "2016-03-06T19:02:39+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "link": "https://www.facebook.com/techsors/photos/a.997707333635784.1073741829.731128966960290/1008142825925568/?type=3",
+    "name": "TechSors",
+    "description": "Who can solve it?",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-0/s130x130/12799317_1008142825925568_6215401456625377524_n.jpg?oh=b7b1d9920f097c140b21d9658f77df8c&oe=57793DF2",
+    "id": "521085554595481_956697171034315",
+    "updated_time": "2016-03-16T08:19:36+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-07T00:04:27+0000",
+          "from": {
+            "name": "千葉牧人",
+            "id": "10156568556910574"
+          },
+          "message": "12",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "956805787690120"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_956697171034315/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "totalCommentsCount": 8,
+    "power": [
+      16,
+      4,
+      8,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-03-16T18:00:46+0000",
+    "from": {
+      "name": "許良齊",
+      "id": "1161278743891640"
+    },
+    "message": "大家好 小弟剛入門Reactjs 想請教一下各位前輩，\n如何讀取一個json file 然後用迴圈的方式把它顯示在UI上?\n是否也可用迴圈的方式在render 裡跑出來?\n請各位先進指點迷經",
+    "id": "521085554595481_962029363834429",
+    "updated_time": "2016-03-17T02:58:03+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-16T18:12:26+0000",
+          "from": {
+            "name": "莊育承",
+            "id": "10152974838298580"
+          },
+          "message": "可以，典型的作法是 array.map",
+          "can_remove": false,
+          "like_count": 1,
+          "user_likes": false,
+          "id": "962033877167311"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_962029363834429/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "totalCommentsCount": 9,
+    "power": [
+      14.5,
+      1,
+      9,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-03-19T05:14:56+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10153358118698343"
+    },
+    "id": "521085554595481_963603680343664",
+    "updated_time": "2016-03-19T15:49:57+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 10
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-19T05:44:19+0000",
+          "from": {
+            "name": "Hana Shiro",
+            "id": "179430369060409"
+          },
+          "message": "Mac Developer 對 command line 不熟悉的\n應該算是少數吧 XD",
+          "can_remove": false,
+          "like_count": 1,
+          "user_likes": false,
+          "id": "963613490342683"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD"
+        }
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "totalCommentsCount": 3,
+    "power": [
+      14.5,
+      10,
+      3,
+      0
     ]
   },
   {
@@ -1108,256 +1349,12 @@
         "total_count": 1
       }
     },
+    "totalCommentsCount": 1,
     "power": [
       13.5,
       6,
       1,
       3
-    ]
-  },
-  {
-    "created_time": "2016-03-19T05:14:56+0000",
-    "from": {
-      "name": "Hank Huang",
-      "id": "10153358118698343"
-    },
-    "id": "521085554595481_963603680343664",
-    "updated_time": "2016-03-19T15:49:57+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 10
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-19T05:44:19+0000",
-          "from": {
-            "name": "Hana Shiro",
-            "id": "179430369060409"
-          },
-          "message": "Mac Developer 對 command line 不熟悉的\n應該算是少數吧 XD",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "963613490342683"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "power": [
-      11.5,
-      10,
-      1,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-06T19:02:39+0000",
-    "from": {
-      "name": "Amobiz Chen",
-      "id": "521238804693443"
-    },
-    "link": "https://www.facebook.com/techsors/photos/a.997707333635784.1073741829.731128966960290/1008142825925568/?type=3",
-    "name": "TechSors",
-    "description": "Who can solve it?",
-    "picture": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-0/s130x130/12799317_1008142825925568_6215401456625377524_n.jpg?oh=972dcc64d90f21dae8ddd63cd75ead61&oe=5751B0F2",
-    "id": "521085554595481_956697171034315",
-    "updated_time": "2016-03-16T08:19:36+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 4
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-07T00:04:27+0000",
-          "from": {
-            "name": "千葉牧人",
-            "id": "10156568556910574"
-          },
-          "message": "12",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "956805787690120"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_956697171034315/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 4
-      }
-    },
-    "power": [
-      10,
-      4,
-      4,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-17T10:23:40+0000",
-    "from": {
-      "name": "Rplus Chen",
-      "id": "903912066343244"
-    },
-    "message": "target=_blank & window.opener 的小知識~\n\nAbout rel=noopener\nby Mathias Bynens\nhttps://mathiasbynens.github.io/rel-noopener/",
-    "id": "521085554595481_962453703791995",
-    "updated_time": "2016-03-17T10:36:28+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 8
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T10:36:28+0000",
-          "from": {
-            "name": "Chander Shiu",
-            "id": "690282577784734"
-          },
-          "message": "不過通常只會因為 SEO 才會設 norefer",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962461677124531"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "power": [
-      9.5,
-      8,
-      1,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-18T05:44:53+0000",
-    "from": {
-      "name": "Chihkai Jan",
-      "id": "10205439277633788"
-    },
-    "message": "請問像facebook的照片那樣點開然後後面是全黑\n然後點後面全黑的地方圖片就會關掉是要怎麼實現呢？\n感謝～～",
-    "id": "521085554595481_962962723741093",
-    "updated_time": "2016-03-18T07:54:21+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 0
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T05:52:45+0000",
-          "from": {
-            "name": "MingWei Yeh",
-            "id": "1009546482390204"
-          },
-          "message": "modal window?",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962964310407601"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962962723741093/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 6
-      }
-    },
-    "power": [
-      9,
-      0,
-      6,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-17T05:19:53+0000",
-    "from": {
-      "name": "Chihkai Jan",
-      "id": "10205439277633788"
-    },
-    "message": "這是javascript\n請問為什麼我第一個console讀得到資料\n第二個卻卻顯示undefine呢？\n\nfunction read(path){\n  jQuery.get(path, function(data) {\n    return data;\n  });\n}\njQuery.get('docs/notice.html', function(data) {\n    console.log(data);\n});\n\nconsole.log(read('docs/notice.html'))",
-    "id": "521085554595481_962301467140552",
-    "updated_time": "2016-03-17T09:28:35+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T05:30:45+0000",
-          "from": {
-            "name": "Chi Ching Chiang",
-            "id": "1020088911334731"
-          },
-          "message": "因為\"非同步\"",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "962304333806932"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962301467140552/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 5
-      }
-    },
-    "power": [
-      8.5,
-      1,
-      5,
-      0
     ]
   },
   {
@@ -1415,10 +1412,110 @@
         "total_count": 3
       }
     },
+    "totalCommentsCount": 4,
     "power": [
-      8.5,
+      10,
       4,
-      3,
+      4,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-03-17T10:23:40+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "target=_blank & window.opener 的小知識~\n\nAbout rel=noopener\nby Mathias Bynens\nhttps://mathiasbynens.github.io/rel-noopener/",
+    "id": "521085554595481_962453703791995",
+    "updated_time": "2016-03-17T10:36:28+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-17T10:36:28+0000",
+          "from": {
+            "name": "Chander Shiu",
+            "id": "690282577784734"
+          },
+          "message": "不過通常只會因為 SEO 才會設 norefer",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "962461677124531"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD"
+        }
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "totalCommentsCount": 1,
+    "power": [
+      9.5,
+      8,
+      1,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-03-18T05:44:53+0000",
+    "from": {
+      "name": "Chihkai Jan",
+      "id": "10205439277633788"
+    },
+    "message": "請問像facebook的照片那樣點開然後後面是全黑\n然後點後面全黑的地方圖片就會關掉是要怎麼實現呢？\n感謝～～",
+    "id": "521085554595481_962962723741093",
+    "updated_time": "2016-03-18T07:54:21+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-18T05:52:45+0000",
+          "from": {
+            "name": "MingWei Yeh",
+            "id": "1009546482390204"
+          },
+          "message": "modal window?",
+          "can_remove": false,
+          "like_count": 0,
+          "user_likes": false,
+          "id": "962964310407601"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
+        },
+        "next": "https://graph.facebook.com/v2.3/521085554595481_962962723741093/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "totalCommentsCount": 6,
+    "power": [
+      9,
+      0,
+      6,
       0
     ]
   },
@@ -1463,10 +1560,11 @@
         "total_count": 1
       }
     },
+    "totalCommentsCount": 2,
     "power": [
-      6.5,
+      8,
       5,
-      1,
+      2,
       0
     ]
   },
@@ -1495,6 +1593,7 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       6,
       4,
@@ -1503,14 +1602,18 @@
     ]
   },
   {
-    "created_time": "2016-03-16T18:00:46+0000",
+    "created_time": "2016-03-18T08:58:33+0000",
     "from": {
-      "name": "許良齊",
-      "id": "1161278743891640"
+      "name": "Varya Stepanova",
+      "id": "10206209579631912"
     },
-    "message": "大家好 小弟剛入門Reactjs 想請教一下各位前輩，\n如何讀取一個json file 然後用迴圈的方式把它顯示在UI上?\n是否也可用迴圈的方式在render 裡跑出來?\n請各位先進指點迷經",
-    "id": "521085554595481_962029363834429",
-    "updated_time": "2016-03-17T02:58:03+0000",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://varya.me/en/posts/image-diffs-with-git/",
+    "name": "Visual diffs for the images in a git repo",
+    "description": "The modified images in git repositories can have a decent visual representation of file changes. For that, you simply run `git diff` command. However, to get this output, you have to do a little configuration. This article shows how.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAABEg9rvQIZ568&w=130&h=130&url=http%3A%2F%2Fvarya.me%2Fposts%2Fimage-diffs-with-git%2Fthumb.png&cfs=1",
+    "id": "521085554595481_963036737067025",
+    "updated_time": "2016-03-18T10:00:29+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -1520,34 +1623,83 @@
     "comments": {
       "data": [
         {
-          "created_time": "2016-03-16T18:12:26+0000",
+          "created_time": "2016-03-18T09:32:58+0000",
           "from": {
-            "name": "莊育承",
-            "id": "10152974838298580"
+            "name": "Rplus Chen",
+            "id": "903912066343244"
           },
-          "message": "可以，典型的作法是 array.map",
+          "message": "O_Q \nsome error with imagemagick in my environment...",
           "can_remove": false,
-          "like_count": 1,
+          "like_count": 0,
           "user_likes": false,
-          "id": "962033877167311"
+          "id": "963049277065771"
         }
       ],
       "paging": {
         "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962029363834429/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD"
+        }
       },
       "summary": {
         "order": "chronological",
-        "total_count": 3
+        "total_count": 1
       }
     },
+    "totalCommentsCount": 3,
     "power": [
       5.5,
       1,
       3,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-03-15T04:52:40+0000",
+    "from": {
+      "name": "吳政霖",
+      "id": "1389709031057515"
+    },
+    "message": "新手前端求解：\n在網頁上要加上audio標籤(不是mobile網頁)\n在ios手機上會撥放樣式只會顯示一半(chrome、FireFox都一樣)\n但在android顯示正常\nPC非常正常\n有人遇到跟我一樣的問題嗎?如何正常顯示畫面?\nhttp://www.jcmusic.com.tw/lin/JC/index.php",
+    "id": "521085554595481_961095227261176",
+    "updated_time": "2016-03-15T05:56:28+0000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [
+        {
+          "created_time": "2016-03-15T04:55:11+0000",
+          "from": {
+            "name": "Jotarun Lin",
+            "id": "10203802346556014"
+          },
+          "message": "http://stackoverflow.com/questions/28783191/html-audio-tag-on-iphone-is-hidden-by-the-half-of-the-height",
+          "can_remove": false,
+          "like_count": 1,
+          "user_likes": false,
+          "id": "961097467260952"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD",
+          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD"
+        }
+      },
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "totalCommentsCount": 2,
+    "power": [
+      4,
+      1,
+      2,
       0
     ]
   },
@@ -1597,6 +1749,7 @@
         "total_count": 1
       }
     },
+    "totalCommentsCount": 1,
     "power": [
       3.5,
       2,
@@ -1631,6 +1784,7 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       3,
       3,
@@ -1663,110 +1817,11 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       3,
       3,
       0,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-15T04:52:40+0000",
-    "from": {
-      "name": "吳政霖",
-      "id": "1389709031057515"
-    },
-    "message": "新手前端求解：\n在網頁上要加上audio標籤(不是mobile網頁)\n在ios手機上會撥放樣式只會顯示一半(chrome、FireFox都一樣)\n但在android顯示正常\nPC非常正常\n有人遇到跟我一樣的問題嗎?如何正常顯示畫面?\nhttp://www.jcmusic.com.tw/lin/JC/index.php",
-    "id": "521085554595481_961095227261176",
-    "updated_time": "2016-03-15T05:56:28+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T04:55:11+0000",
-          "from": {
-            "name": "Jotarun Lin",
-            "id": "10203802346556014"
-          },
-          "message": "http://stackoverflow.com/questions/28783191/html-audio-tag-on-iphone-is-hidden-by-the-half-of-the-height",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "961097467260952"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "power": [
-      2.5,
-      1,
-      1,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-18T08:58:33+0000",
-    "from": {
-      "name": "Varya Stepanova",
-      "id": "10206209579631912"
-    },
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://varya.me/en/posts/image-diffs-with-git/",
-    "name": "Visual diffs for the images in a git repo",
-    "description": "The modified images in git repositories can have a decent visual representation of file changes. For that, you simply run `git diff` command. However, to get this output, you have to do a little configuration. This article shows how.",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAABEg9rvQIZ568&w=130&h=130&url=http%3A%2F%2Fvarya.me%2Fposts%2Fimage-diffs-with-git%2Fthumb.png&cfs=1",
-    "id": "521085554595481_963036737067025",
-    "updated_time": "2016-03-18T10:00:29+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T09:32:58+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "O_Q \nsome error with imagemagick in my environment...",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "963049277065771"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "power": [
-      2.5,
-      1,
-      1,
       0
     ]
   },
@@ -1797,6 +1852,7 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       2,
       2,
@@ -1831,6 +1887,7 @@
         "total_count": 0
       }
     },
+    "totalCommentsCount": 0,
     "power": [
       0,
       0,
