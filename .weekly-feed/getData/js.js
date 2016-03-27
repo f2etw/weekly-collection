@@ -119,19 +119,8 @@ WC.queryURL = ((key) => {
   return qObj;
 })();
 
-WC.init = () => {
-  if (!WC.queryURL) { return; }
-  var since = +new Date(WC.queryURL.since) / 1000;
-  var feedFields = [
-    'comments.limit(0).summary(true).filter(stream)',
-    'likes.limit(0).summary(true)',
-    'shares',
-    'created_time', 'updated_time', 'from', 'message',
-    'icon', 'link', 'name', 'description', 'picture'
-  ];
-  WC.feedUrl = `${WC.apiDomain}${WC.config.groupId}/feed?since=${since}&access_token=${WC.config.fbToken}&limit=${WC.config.perpage}&fields=${feedFields.join(',')}`;
-
-  if (WC.queryURL.top10) {
+WC.top10 = () => {
+  return new Promise(function (resolve, reject) {
     fetch(`../${WC.queryURL.since}.json`).then((response) => {
       return response.json();
     })
@@ -145,13 +134,36 @@ WC.init = () => {
         WC.feeds.top10[idx] = WC.feeds.top20[+order];
       });
 
-      WC.genarateMD(WC.feeds.top10);
-      var lists = document.querySelector('.popular-lists');
-      lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
+      return WC.feeds.top10;
     })
     .catch(function (err) {
       console.log('err msg: ' + err);
+      reject(err);
       return 'ccc';
+    })
+    .then(function (data) {
+      resolve(data);
+    });
+  });
+};
+
+WC.init = () => {
+  if (!WC.queryURL) { return; }
+  var since = +new Date(WC.queryURL.since) / 1000;
+  var feedFields = [
+    'comments.limit(0).summary(true).filter(stream)',
+    'likes.limit(0).summary(true)',
+    'shares',
+    'created_time', 'updated_time', 'from', 'message',
+    'icon', 'link', 'name', 'description', 'picture'
+  ];
+  WC.feedUrl = `${WC.apiDomain}${WC.config.groupId}/feed?since=${since}&access_token=${WC.config.fbToken}&limit=${WC.config.perpage}&fields=${feedFields.join(',')}`;
+
+  if (WC.queryURL.top10) {
+    WC.top10().then(data => {
+      WC.genarateMD(data);
+      var lists = document.querySelector('.popular-lists');
+      lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
     });
   } else {
     WC.getGroupFeed().then((data) => {
