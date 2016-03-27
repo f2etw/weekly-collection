@@ -131,6 +131,29 @@ WC.init = () => {
   ];
   WC.feedUrl = `${WC.apiDomain}${WC.config.groupId}/feed?since=${since}&access_token=${WC.config.fbToken}&limit=${WC.config.perpage}&fields=${feedFields.join(',')}`;
 
+  if (WC.queryURL.top10) {
+    fetch(`../${WC.queryURL.since}.json`).then((response) => {
+      return response.json();
+    })
+    .then(function (posts) {
+      WC.feeds = WC.feeds || {};
+      WC.feeds.top10 = [];
+      WC.feeds.top20 = posts;
+
+      var opOrder = WC.queryURL.top10.split(',');
+      opOrder.forEach((order, idx) => {
+        WC.feeds.top10[idx] = WC.feeds.top20[+order];
+      });
+
+      WC.genarateMD(WC.feeds.top10);
+      var lists = document.querySelector('.popular-lists');
+      lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
+    })
+    .catch(function (err) {
+      console.log('err msg: ' + err);
+      return 'ccc';
+    });
+  } else {
   WC.getGroupFeed().then((data) => {
     WC.feeds = {
       origin: data,
@@ -141,21 +164,9 @@ WC.init = () => {
 
     WC.feeds.filted = WC.filterByCreatedTime();
     WC.sortData(WC.feeds.filted);
-
-    if (WC.queryURL.top10) {
-      WC.feeds.top10 = [];
-      var opOrder = WC.queryURL.top10.split(',');
-      opOrder.forEach((order, idx) => {
-        WC.feeds.top10[idx] = WC.feeds.top20[+order];
-      });
-
-      WC.genarateMD(WC.feeds.top10);
-      var lists = document.querySelector('.popular-lists');
-      lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
-    } else {
-      WC.genarateMD(WC.feeds.top20);
-    }
+    WC.genarateMD(WC.feeds.top20);
   });
+  }
 };
 
 WC.init();
