@@ -154,18 +154,18 @@ WC.init = () => {
       return 'ccc';
     });
   } else {
-  WC.getGroupFeed().then((data) => {
-    WC.feeds = {
-      origin: data,
-      sorted: null,
-      top10: null,
-      top20: null
-    };
+    WC.getGroupFeed().then((data) => {
+      WC.feeds = {
+        origin: data,
+        sorted: null,
+        top10: null,
+        top20: null
+      };
 
-    WC.feeds.filted = WC.filterByCreatedTime();
-    WC.sortData(WC.feeds.filted);
-    WC.genarateMD(WC.feeds.top20);
-  });
+      WC.feeds.filted = WC.filterByCreatedTime();
+      WC.sortData(WC.feeds.filted);
+      WC.genarateMD(WC.feeds.top20);
+    });
   }
 };
 
