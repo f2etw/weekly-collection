@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+  .popular-list {
+    white-space: pre-wrap;
+    font-family: monospace;
+  }
+  .popular-list:nth-of-type(odd) {
+    background-color: #ddd;
+  }
+  </style>
+</head>
+<body>
+
+<ul class="popular-lists"></ul>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+
+<script id="template" type="x-tmpl-mustache">
+<li class="popular-list" contenteditable>
+| power# | likes | comments | shares |
+|:------:|:-----:|:--------:|:------:|
+| # {{ order }} | {{ power.1 }} | {{ power.2 }} | {{ power.3 }} |
+* [fb permalink](https://fb.com/{{ id }}) @ `{{ created_time }}`
+* who: [{{ from.name }}](https://facebook.com/{{ from.id }})  
+![](https://graph.facebook.com/{{ from.id }}/picture?width=60&height=60)
+* intro:
+```
+{{ message }}
+```
+
+> ![]({{ icon }}): [{{ name }}]({{ link }})
+> {{ description }}
+> ![]({{picture}})
+</li>
+</script>
+
+  <script src="js.js"></script>
+</body>
+</html>
