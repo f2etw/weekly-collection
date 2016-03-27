@@ -1,9 +1,48 @@
 [
   {
     "shares": {
+      "count": 126
+    },
+    "created_time": "2016-03-17T10:47:30+0000",
+    "updated_time": "2016-03-21T15:58:29+0000",
+    "from": {
+      "name": "Kim Wong",
+      "id": "10152364923244567"
+    },
+    "message": "bootstrap 4 grid 部分的詳解，從0開始",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://inder.com.tw/learn-bootstrap-4-grid/",
+    "name": "完全學習Bootstrap 4 - Grid – INDER",
+    "description": "前言 Bootstrap（或其他同等量級的框架）幾乎是現在專案常用的組合之一，但是加入這些框架後，有幾個常見的 … Continued",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDOpAWF0e20YlS4&w=130&h=130&url=http%3A%2F%2Finder.com.tw%2Fwp-content%2Fuploads%2F2016%2F03%2F002.jpg&cfs=1",
+    "id": "521085554595481_962465493790816",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 409
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      676,
+      409,
+      10,
+      126
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
       "count": 104
     },
     "created_time": "2016-03-15T11:55:01+0000",
+    "updated_time": "2016-03-18T03:11:31+0000",
     "from": {
       "name": "黃保翕",
       "id": "10206611907686693"
@@ -14,7 +53,6 @@
     "name": "Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen",
     "description": "This collection is a way of bookmarking some techniques that will be useful in practice in everyday dev.",
     "id": "521085554595481_961252387245460",
-    "updated_time": "2016-03-18T03:11:31+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -22,46 +60,102 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T13:39:47+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "正妹~ <3",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "961290870574945"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TWprd09EY3dOVGMwT1RRMU9qRTBOVGd3TkRreE9EYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TWprd09EY3dOVGMwT1RRMU9qRTBOVGd3TkRreE9EYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_961252387245460/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TWprd09EY3dOVGMwT1RRMU9qRTBOVGd3TkRreE9EYz0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 6
+        "total_count": 7
       }
     },
-    "totalCommentsCount": 7,
     "power": [
       668.5,
       450,
       7,
       104
     ],
-    "order": 1
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 98
+    },
+    "created_time": "2016-03-18T10:28:54+0000",
+    "updated_time": "2016-03-20T11:20:48+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "Hi all,\n這是我的粉絲專頁~~\n之後會放上一些我的前端和程式筆記，有興趣的可以看看喔~~\n\n最近剛寫了一篇文章，用比較輕鬆的筆法列出前端工程師需要知道的東西。\n有任何寫錯的或沒有寫到的，也歡迎在文章下方給我意見:)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419",
+    "name": "[前端連載] 前端工程師該懂的基本東西——網路架構篇",
+    "description": "簡介 先大概介紹一下我的前端經歷吧。第一次接觸前端是codecademy上的課程，學到現在大約學了半年的時間。…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDAn7_GNrKjca9t&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLSC2ELZ_OEQIj9mpzn5_ddWvw_Q0sEqi9Ew9KYPVwTCJY2EaeAs6zJAmqjYHk24WOJWTlY9mG27O0zOt2RBYGRTYoJi4coAfPZ9Q3xzoHlQ2hfwsr7O-2PDVhiKWvRynI5Ed_GbJFSuPefYMmeDZhN&cfs=1",
+    "id": "521085554595481_963077823729583",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 329
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      538.5,
+      329,
+      9,
+      98
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 47
+    },
+    "created_time": "2016-03-19T15:11:30+0000",
+    "updated_time": "2016-03-20T12:41:47+0000",
+    "from": {
+      "name": "Kim Wong",
+      "id": "10152364923244567"
+    },
+    "message": "更新, 小弟才疏學淺，寫的哪裡不好多多包涵\n第二篇 Media-object\n\n一個經常被忽略的單元，但是其實他很好用\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://inder.com.tw/learn-bootstrap-4-media-object/",
+    "name": "完全學習Bootstrap 4 – Media object – INDER",
+    "description": "前言 Bootstrap（或其他同等量級的框架）幾乎是現在專案常用的組合之一，但是加入這些框架後，有幾個常見的 … Continued",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCjtiicNS61S-TZ&w=130&h=130&url=http%3A%2F%2Finder.com.tw%2Fwp-content%2Fuploads%2F2016%2F03%2F003-1.jpg&cfs=1",
+    "id": "521085554595481_963847846985914",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 229
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      338,
+      229,
+      10,
+      47
+    ],
+    "order": 4
   },
   {
     "shares": {
       "count": 62
     },
     "created_time": "2016-03-15T14:11:21+0000",
+    "updated_time": "2016-03-17T01:44:56+0000",
     "from": {
       "name": "Bram Yeh",
       "id": "988873794457369"
@@ -73,7 +167,6 @@
     "description": "《TO》導讀：許多台灣傳統產業開始認知到網路化是事業轉型最重要也是唯一的契機，畢竟，AppWorks 合夥人程九如曾經預言，如果在 2018 年前店家沒有網路化，基本上也等於在現實生活中隱形了。但是， [...]",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCTrtgyvGaCR5Rj&w=130&h=130&url=http%3A%2F%2Fbuzzorange.com%2Ftechorange%2Fwp-content%2Fuploads%2F2016%2F03%2Fcome.png&cfs=1",
     "id": "521085554595481_961308417239857",
-    "updated_time": "2016-03-17T01:44:56+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -81,104 +174,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T14:24:30+0000",
-          "from": {
-            "name": "王柏駿",
-            "id": "1189287294422182"
-          },
-          "message": "這個只要加到書籤就好了\nRef. http://lab.maltewassermann.com/viewport-resizer/",
-          "can_remove": false,
-          "like_count": 8,
-          "user_likes": false,
-          "id": "961312877239411"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TXpFeU9EYzNNak01TkRFeE9qRTBOVGd3TlRFNE56RT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TXpFeU9EYzNNak01TkRFeE9qRTBOVGd3TlRFNE56RT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_961308417239857/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TXpFeU9EYzNNak01TkRFeE9qRTBOVGd3TlRFNE56RT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 9
+        "total_count": 12
       }
     },
-    "totalCommentsCount": 12,
     "power": [
       322,
       180,
       12,
       62
     ],
-    "order": 2
-  },
-  {
-    "shares": {
-      "count": 22
-    },
-    "created_time": "2016-03-10T09:55:15+0000",
-    "from": {
-      "name": "黃保翕",
-      "id": "10206611907686693"
-    },
-    "message": "以前我們要用手機控制藍芽訊號，都必須撰寫原生 App 才做得到，最近 Opera 開發團隊發布一份 Web Bluetooth API 規格，讓你未來可以透過 JavaScript 就可以控制任意藍芽裝置，底下文章有範例程式與示範影片 (用手機上的瀏覽器控制 BB-8 機器人)，蠻有趣的！ :) (y)\n.\n目前 Web Bluetooth API 已經實作在 Opera for Android beta 瀏覽器上，有興趣想搶先體驗的可以到這裡下載：\nhttps://play.google.com/store/apps/details?id=com.opera.browser.beta\n.\n不過目前這份規格還在草案階段，大家也都還可以提出回饋意見，讓我們拭目以待！ ;)\n.\nWeb Bluetooth\nhttps://webbluetoothcg.github.io/web-bluetooth/\n.\nIssues · WebBluetoothCG/web-bluetooth\nhttps://github.com/WebBluetoothCG/web-bluetooth/issues",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://opr.as/1nyGJoW",
-    "name": "Dev.Opera — An introduction to the Web Bluetooth API",
-    "description": "An introduction to the Web Bluetooth APIIntroductionThere is an explosion of electronic devices nowadays, and with many of them, it’s possible to interact with them via Bluetooth Low Energy, or BLE. However, installing a separate app for interacting with every single bluetooth gadget is impractical.…",
-    "id": "521085554595481_958480490855983",
-    "updated_time": "2016-03-13T02:07:26+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 108
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-12T22:23:15+0000",
-          "from": {
-            "name": "ChienChung Chang",
-            "id": "1093699923980304"
-          },
-          "message": "https://www.w3.org/community/web-bluetooth/",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "959816040722428"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T0RFMk1EUXdOekl5TkRJNE9qRTBOVGM0TWpFME1ERT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T0RFMk1EUXdOekl5TkRJNE9qRTBOVGM0TWpFME1ERT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_958480490855983/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T0RFMk1EUXdOekl5TkRJNE9qRTBOVGM0TWpFME1ERT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 5
-      }
-    },
-    "totalCommentsCount": 6,
-    "power": [
-      161,
-      108,
-      6,
-      22
-    ],
-    "order": 3
+    "order": 5
   },
   {
     "shares": {
       "count": 19
     },
     "created_time": "2016-03-17T16:01:27+0000",
+    "updated_time": "2016-03-19T16:36:59+0000",
     "from": {
       "name": "Clement Tang",
       "id": "10205598652859379"
@@ -189,7 +204,6 @@
     "name": "Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS",
     "description": "A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.",
     "id": "521085554595481_962606900443342",
-    "updated_time": "2016-03-19T16:36:59+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -197,105 +211,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T16:02:48+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "這個站的精華不只這頁~ <3",
-          "can_remove": false,
-          "like_count": 5,
-          "user_likes": false,
-          "id": "962607853776580"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TmpBM09EVXpOemMyTlRnd09qRTBOVGd5TXpBMU5qZAz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TmpBM09EVXpOemMyTlRnd09qRTBOVGd5TXpBMU5qZAz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962606900443342/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TmpBM09EVXpOemMyTlRnd09qRTBOVGd5TXpBMU5qZAz0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 6
+        "total_count": 7
       }
     },
-    "totalCommentsCount": 7,
     "power": [
       142.5,
       94,
       7,
       19
     ],
-    "order": 4
-  },
-  {
-    "shares": {
-      "count": 11
-    },
-    "created_time": "2016-03-10T06:47:08+0000",
-    "from": {
-      "name": "Famou Sky",
-      "id": "1538047563103756"
-    },
-    "message": "☕ + 💻 anyone? List of best cafés to work from in Taipei is here 🇹🇼\nAdded more pictures and places. Any recommendations what other places qualify to be added?",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://voice.focusasia.xyz/best-coffee-shops-to-work-from-in-taipei-a6fa8ab76096#.c3dm35fme",
-    "name": "Best cafés to work from in Taipei ☕ — Focus Asia",
-    "description": "Through my search to find the best places to work remotely, I have visited over 100+ cafés in Taipei alone. I decided I …",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCGNDZ88q61GxXK&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AwmxILNWqnXY0gH20IIHCJg.jpeg&cfs=1",
-    "id": "521085554595481_958428534194512",
-    "updated_time": "2016-03-16T05:01:41+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 52
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-10T06:58:37+0000",
-          "from": {
-            "name": "謝士揚",
-            "id": "10206364332777545"
-          },
-          "message": "Iechat (路上撿到一隻貓) is good. and here many cats.\n\nhttps://www.facebook.com/lechat%E8%B7%AF%E4%B8%8A%E6%92%BF%E5%88%B0%E4%B8%80%E9%9A%BB%E8%B2%93-130595764697/",
-          "can_remove": false,
-          "like_count": 3,
-          "user_likes": false,
-          "id": "958432430860789"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU0TkRNeU5ETXdPRFl3TnpnNU9qRTBOVGMxT1RNeE1UYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU0TkRNeU5ETXdPRFl3TnpnNU9qRTBOVGMxT1RNeE1UYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_958428534194512/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU0TkRNeU5ETXdPRFl3TnpnNU9qRTBOVGMxT1RNeE1UYz0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 13
-      }
-    },
-    "totalCommentsCount": 13,
-    "power": [
-      93.5,
-      52,
-      13,
-      11
-    ],
-    "order": 5
+    "order": 6
   },
   {
     "shares": {
       "count": 8
     },
     "created_time": "2016-03-18T02:08:28+0000",
+    "updated_time": "2016-03-18T16:14:04+0000",
     "from": {
       "name": "林立秦",
       "id": "952773934745171"
@@ -307,7 +242,6 @@
     "description": "customize your alert with beautiful css style",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCX1F_nFOEwT2ca&w=130&h=130&url=http%3A%2F%2Flichin.me%2FJuliealert%2Fimage.png&cfs=1",
     "id": "521085554595481_962887027081996",
-    "updated_time": "2016-03-18T16:14:04+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -315,53 +249,32 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T04:28:12+0000",
-          "from": {
-            "name": "Ming Ching Chen",
-            "id": "10203804822641050"
-          },
-          "message": "建議 彈跳出來後 點選黑色透明度的地方(其他空白地方)可以關閉，因為對於有些部分有數位落差的人就算有寫著關閉的按鈕在那邊他也不知道去按了會關閉",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962935557077143"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RNMU5UVTNNRGMzTVRRek9qRTBOVGd5TnpVeU9UST0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RNMU5UVTNNRGMzTVRRek9qRTBOVGd5TnpVeU9UST0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962887027081996/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RNMU5UVTNNRGMzTVRRek9qRTBOVGd5TnpVeU9UST0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 3
+        "total_count": 12
       }
     },
-    "totalCommentsCount": 12,
     "power": [
       87,
       53,
       12,
       8
     ],
-    "order": 6
+    "order": 7
   },
   {
     "shares": {
       "count": 4
     },
     "created_time": "2016-03-13T15:50:14+0000",
+    "updated_time": "2016-03-16T17:35:54+0000",
     "from": {
       "name": "Veck Hsiao",
       "id": "1098620593488508"
     },
     "message": "大家好，我是前端新手，我今天發現一個嚇死我的狀況，我原本在不同電腦和不同家瀏覽器及同家但不同版本瀏覽器測試都沒問題的網頁，在一個朋友的電腦上用 Chrome 和 Safari 測試，突然發現用到的框架(pure.css)都不能顯示且console 顯示這個框架很多 invalid css 語法的 warning\n\n最後發現是朋友安裝了 AdBlock 這個外掛，我馬上在 Chrome 或 Safari 安裝後重新整理畫面，真～的～就～消～失～了！\n\n然後我關閉 AdBlock 後，就又恢復顯示了，Google 了一下 AdBlock 會 block 一些 CSS 屬性的樣子？而且可能使用其他框架也會這樣，但是我們沒辦法限制 user 不安裝或是請他關閉 AdBlock 吧？\n\n想請問大家有沒有遇到這樣的狀況，會怎麼樣避免或解決呢？\n\n感謝！",
     "id": "521085554595481_960187820685250",
-    "updated_time": "2016-03-16T17:35:54+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -369,46 +282,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-13T16:02:12+0000",
-          "from": {
-            "name": "Veck Hsiao",
-            "id": "1098620593488508"
-          },
-          "message": "喔喔！我確實有用到耶，我試試看！",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "960197484017617"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960187820685250/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TVRrM05EZAzBNREUzTmpFM09qRTBOVGM0T0RRNU16ST0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 12
+        "total_count": 16
       }
     },
-    "totalCommentsCount": 16,
     "power": [
       76,
       44,
       16,
       4
     ],
-    "order": 7
+    "order": 8
   },
   {
     "shares": {
       "count": 5
     },
     "created_time": "2016-03-15T01:54:54+0000",
+    "updated_time": "2016-03-15T07:47:45+0000",
     "from": {
       "name": "鄒適齊",
       "id": "1137308042954007"
@@ -420,7 +313,6 @@
     "description": "A game for learning CSS flexbox",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB0QQpvf9PniMCR&w=130&h=130&url=http%3A%2F%2Fflexboxfroggy.com%2Fimages%2Fscreenshot.png&cfs=1",
     "id": "521085554595481_961005800603452",
-    "updated_time": "2016-03-15T07:47:45+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -428,46 +320,56 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T02:17:45+0000",
-          "from": {
-            "name": "鄒適齊",
-            "id": "1137308042954007"
-          },
-          "message": "同場加映：http://codepen.io/enxaneta/full/adLPwv/\n實用的codepen，方便隨時查詢",
-          "can_remove": false,
-          "like_count": 4,
-          "user_likes": false,
-          "id": "961013193936046"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURFek1Ua3pPVE0yTURRMk9qRTBOVGd3TURneU5qWT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURFek1Ua3pPVE0yTURRMk9qRTBOVGd3TURneU5qWT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_961005800603452/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURFek1Ua3pPVE0yTURRMk9qRTBOVGd3TURneU5qWT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
         "total_count": 4
       }
     },
-    "totalCommentsCount": 4,
     "power": [
       71,
       55,
       4,
       5
     ],
-    "order": 8
+    "order": 9
+  },
+  {
+    "created_time": "2016-03-19T16:39:32+0000",
+    "updated_time": "2016-03-20T16:27:18+0000",
+    "from": {
+      "name": "Bruce Lee",
+      "id": "10207696952959086"
+    },
+    "message": "小弟簡單翻譯跟整理關於StackOverflow於2016的開發者研究報告，希望能對有些人有幫助。",
+    "id": "521085554595481_963895766981122",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      63,
+      54,
+      6,
+      0
+    ],
+    "order": 10
   },
   {
     "shares": {
       "count": 11
     },
     "created_time": "2016-03-13T03:38:44+0000",
+    "updated_time": "2016-03-13T03:38:44+0000",
     "from": {
       "name": "MaoYang Chien",
       "id": "10153285570810982"
@@ -479,7 +381,6 @@
     "description": "關於本書 請參考原書網址             …",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBNeUrGnneWVrmI&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F03%2Ftrevan.jpg&cfs=1",
     "id": "521085554595481_959933710710661",
-    "updated_time": "2016-03-13T03:38:44+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -493,17 +394,17 @@
         "total_count": 0
       }
     },
-    "totalCommentsCount": 0,
     "power": [
       62,
       40,
       0,
       11
     ],
-    "order": 9
+    "order": 11
   },
   {
     "created_time": "2016-03-15T00:23:45+0000",
+    "updated_time": "2016-03-15T08:44:37+0000",
     "from": {
       "name": "Jas Chen",
       "id": "999962876680799"
@@ -514,7 +415,6 @@
     "description": "Trump.css by Brad Frost",
     "picture": "https://scontent.xx.fbcdn.net/hphotos-xlt1/v/t1.0-0/s130x130/12670946_1124775687540653_6460115316413658267_n.jpg?oh=f811ccb743a8680a56ca3cea243eb0de&oe=577D07AF",
     "id": "521085554595481_960969933940372",
-    "updated_time": "2016-03-15T08:44:37+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -522,46 +422,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T08:25:26+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "這好酸 XDDDD\n整個在婊川普的政策 XDDDD",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "961184227252276"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TVRnME1qSTNNalV5TWpjMk9qRTBOVGd3TXpBek1qYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TVRnME1qSTNNalV5TWpjMk9qRTBOVGd3TXpBek1qYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960969933940372/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TVRnME1qSTNNalV5TWpjMk9qRTBOVGd3TXpBek1qYz0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
         "total_count": 2
       }
     },
-    "totalCommentsCount": 2,
     "power": [
       58,
       55,
       2,
       0
     ],
-    "order": 10
+    "order": 12
   },
   {
     "shares": {
       "count": 6
     },
     "created_time": "2016-03-13T01:55:09+0000",
+    "updated_time": "2016-03-13T17:19:55+0000",
     "from": {
       "name": "Jeffrey Chen",
       "id": "10204254826399395"
@@ -572,7 +452,6 @@
     "name": "Frameworks don't make much sense - good coders code, great coders reuse",
     "description": "Frameworks are one of the hugest anti-patterns in software development. They're hard to learn. They limit your creativity. They increase your project's complexity and dependencies. They go out of business and get abandoned. You've to maintain and upgrade your code to match the latest framework versi…",
     "id": "521085554595481_959900694047296",
-    "updated_time": "2016-03-13T17:19:55+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -580,46 +459,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-13T02:37:51+0000",
-          "from": {
-            "name": "Jeffrey Chen",
-            "id": "10204254826399395"
-          },
-          "message": "大家有什麼心得嗎?可以互相交流",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "959914864045879"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_959900694047296/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1T1RFME9EWTBNRFExT0RjNU9qRTBOVGM0TXpZAMk56RT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 11
+        "total_count": 17
       }
     },
-    "totalCommentsCount": 17,
     "power": [
       53.5,
       16,
       17,
       6
     ],
-    "order": 11
+    "order": 13
   },
   {
     "shares": {
       "count": 9
     },
     "created_time": "2016-03-17T03:10:58+0000",
+    "updated_time": "2016-03-17T13:33:56+0000",
     "from": {
       "name": "MaoYang Chien",
       "id": "10153285570810982"
@@ -631,7 +490,6 @@
     "description": "Mark Di Sciullo shows how motion can be a key utility in helping your users achieve their goals.",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAn3VwhB6XNwmZ4&w=130&h=130&url=https%3A%2F%2Fmedia-mediatemple.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F02%2F02-ui-animation-storyboards-preview-opt.png&cfs=1",
     "id": "521085554595481_962249043812461",
-    "updated_time": "2016-03-17T13:33:56+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -639,46 +497,26 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T06:49:07+0000",
-          "from": {
-            "name": "Mack Chan",
-            "id": "10155559349015383"
-          },
-          "message": "Amazing ~",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "962331203804245"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpNeE1qQXpPREEwTWpRMU9qRTBOVGd4T1Rjek5EYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpNeE1qQXpPREEwTWpRMU9qRTBOVGd4T1Rjek5EYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962249043812461/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpNeE1qQXpPREEwTWpRMU9qRTBOVGd4T1Rjek5EYz0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
         "total_count": 2
       }
     },
-    "totalCommentsCount": 2,
     "power": [
       50,
       29,
       2,
       9
     ],
-    "order": 12
+    "order": 14
   },
   {
     "shares": {
-      "count": 6
+      "count": 7
     },
     "created_time": "2016-03-14T06:04:39+0000",
+    "updated_time": "2016-03-14T11:50:57+0000",
     "from": {
       "name": "吳政賢",
       "id": "1066773103336031"
@@ -690,7 +528,6 @@
     "description": "模擬手機水平 scroll view 的效果，利用 jquery、jquery-ui、jquery.ui.touch-punch 作出模擬手機 scroll view 的效果。",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCHW6oJSSP9950M&w=130&h=130&url=http%3A%2F%2Fcomdan66.github.io%2FOA-mobileScrollView%2Fimg%2Fog%2Flarger.png&cfs=1&sx=209&sy=0&sw=630&sh=630",
     "id": "521085554595481_960507037319995",
-    "updated_time": "2016-03-14T11:50:57+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -698,50 +535,29 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-14T06:34:46+0000",
-          "from": {
-            "name": "陳彥澄",
-            "id": "471041233050484"
-          },
-          "message": "怎麼感覺不太好移動，CSS的游標應該用 e-resize 比較好",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "960522277318471"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJeU1qYzNNekU0TkRjeE9qRTBOVGM1TXpjeU9EWT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJeU1qYzNNekU0TkRjeE9qRTBOVGM1TXpjeU9EWT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960507037319995/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJeU1qYzNNekU0TkRjeE9qRTBOVGM1TXpjeU9EWT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 2
+        "total_count": 3
       }
     },
-    "totalCommentsCount": 3,
     "power": [
-      46.5,
+      48.5,
       30,
       3,
-      6
+      7
     ],
-    "order": 13
+    "order": 15
   },
   {
     "created_time": "2016-03-16T17:00:26+0000",
+    "updated_time": "2016-03-18T06:22:51+0000",
     "from": {
       "name": "柳君翰",
       "id": "942423002443312"
     },
     "message": "Hi 大家好\n前端過去都是以jQuery + CSS3為主\n最近想學學比較「潮」的react.js\n因此慢慢學習其他工具\n\n目前只有用webpack實作出commonJs後的打包方法\n接著我想嘗試使學習【babel】的用法\n將ES2015編譯成IE8看的懂得瀏覽器\n(因為家裡chrome太新，居然看的懂js6@Q@?)\n\n我目前的學習環境是\nubuntu 14.04 LTS\nnpm 3.7.3\nnode v5.8.0\n\n可我在 sudo npm install --save-dev babel-cli\n或是sudo npm install babel-preset-es2015 --save-dev\n的時候\n\n都會連續噴4個警告(WARN)，\n然後嘗試使用babel CLI編譯\n結果好像沒有發現 babel相關指令，建議我另外下載\n(如下圖)\n\n請問這類狀況應該怎麼解決呢\n光是這4個警告訊息，\nstackoverflow還沒看到相關的解決方法\n\n還請各位先進提點一下...\n感恩!!!~",
     "id": "521085554595481_961998707170828",
-    "updated_time": "2016-03-18T06:22:51+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -749,46 +565,58 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-16T17:05:41+0000",
-          "from": {
-            "name": "洪名辰",
-            "id": "1085718091444875"
-          },
-          "message": "你是裝在local 所以要把babel的指令放在package.json的scripts \n透過npm來執行",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962001420503890"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_961998707170828/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURBeE5ESXdOVEF6T0Rrd09qRTBOVGd4TkRjNU5ERT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 12
+        "total_count": 20
       }
     },
-    "totalCommentsCount": 20,
     "power": [
       41,
       11,
       20,
       0
     ],
-    "order": 14
+    "order": 16
+  },
+  {
+    "created_time": "2016-03-14T18:57:36+0000",
+    "updated_time": "2016-03-15T23:26:36+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1449035242.A.AAC.html",
+    "name": "批踢踢實業坊(Ptt.cc)",
+    "description": "[鄉民談軟體業] 一張圖看懂程式設計師的修煉之路",
+    "id": "521085554595481_960837680620264",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 36
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      39,
+      36,
+      2,
+      0
+    ],
+    "order": 17
   },
   {
     "shares": {
       "count": 4
     },
     "created_time": "2016-03-13T16:46:36+0000",
+    "updated_time": "2016-03-14T04:09:41+0000",
     "from": {
       "name": "Clement Tang",
       "id": "10205598652859379"
@@ -800,7 +628,6 @@
     "description": "Hey, I'm Zell. I'm a designer, developer and speaker. This is where I share everything I know.",
     "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB9Y6XFX5HPcIJ7&w=130&h=130&url=http%3A%2F%2Fzellwk.com%2Fimages%2Fsmashingmag.png&cfs=1",
     "id": "521085554595481_960218190682213",
-    "updated_time": "2016-03-14T04:09:41+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -808,106 +635,32 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-13T16:50:41+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "他那個 step function 的算法很有趣~ 哈哈",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "960219804015385"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TWpFNU9EQTBNREUxTXpnMU9qRTBOVGM0T0RjNE5ERT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TWpFNU9EQTBNREUxTXpnMU9qRTBOVGM0T0RjNE5ERT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960218190682213/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TWpFNU9EQTBNREUxTXpnMU9qRTBOVGM0T0RjNE5ERT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 2
+        "total_count": 8
       }
     },
-    "totalCommentsCount": 8,
     "power": [
       39,
       19,
       8,
       4
     ],
-    "order": 15
-  },
-  {
-    "created_time": "2016-03-14T18:57:36+0000",
-    "from": {
-      "name": "陳聖博",
-      "id": "10206381218146197"
-    },
-    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1449035242.A.AAC.html",
-    "name": "批踢踢實業坊(Ptt.cc)",
-    "description": "[鄉民談軟體業] 一張圖看懂程式設計師的修煉之路",
-    "id": "521085554595481_960837680620264",
-    "updated_time": "2016-03-15T23:26:36+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 36
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T03:32:52+0000",
-          "from": {
-            "name": "林國凱",
-            "id": "10153419258082528"
-          },
-          "message": "作為沒有作品的front-end～我是不是要失業了",
-          "can_remove": false,
-          "like_count": 2,
-          "user_likes": false,
-          "id": "961047287265970"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960837680620264/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURRM01qZAzNNalkxT1Rjd09qRTBOVGd3TVRJM056TT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 2
-      }
-    },
-    "totalCommentsCount": 2,
-    "power": [
-      39,
-      36,
-      2,
-      0
-    ],
-    "order": 16
+    "order": 18
   },
   {
     "shares": {
       "count": 2
     },
     "created_time": "2016-03-14T06:35:28+0000",
+    "updated_time": "2016-03-14T16:07:03+0000",
     "from": {
       "name": "簡士倫",
       "id": "1093857757307972"
     },
     "message": "大家好\n\n公司誠徵 前端工程師\n\n公司簡介\n宇宸數據(Cymmetrics)，由來是由分析使用者最重要三個元素relevanCy(關聯)、recenCy(近因)、adjacenCy(相關)，結合而成Cymmetrics。\n公司成立鑑於台灣數位廣告長期都由國外大公司給把持著，而RTB(Real Time Bidding即時競價)廣告技術在國外興起，RTB技術中最重要的DMP(Data Management Platform 瀏覽者資料管理平台)，決定著 有效投放(Performance Media Buying) 的關鍵。因此台灣資深網路產業的幾個朋友(前台灣Yahoo總經理、愛評網創辦人、Urcosme創辦人、群邑集團 Xaxis總經理)合資成立了宇宸數據，立志將台灣最珍貴的消費者網路廣告數據留在台灣，與台灣各大分眾網站合作，收集網路消費者行為數據，進而幫助廠商降低網路廣告成本、提高成效及深度市場分析。\n\n工作夥伴\n2位工程師，和2位美麗的助理小姐\n\n工作地點\n台北市大安區羅斯福路三段309號4樓之6\n台大旁邊，台電大樓站 以及 公館站的中間\n從台電大樓站 2號出口 或者 公館站 2號出口\n走路約5~10分鐘\n\n工作內容\n設計 內部系統UI介面\n主要用於 報表呈現 以及 操作介面人性化\n\n基本需求\n懂HTML5，CSS(在架構設計上 起碼要有整體的概念，而不是只針對單一介面做設計)\n懂RWD，或是 習慣使用bootstrap\n略懂javascript 或是 jquery(知道怎麼使用，遇到問題 知道怎麼Google 就可以)\n\n加分項目\najax\n會php等 web技術(非主要需求，只是有利於團隊溝通)\n對UX有興趣，會主動研究者佳\n\n學經歷\n不拘，大學生剛畢業 也歡迎面談\n\n薪資\n基本起薪35K以上\n有豐富的經歷 或條件者\n歡迎來面試時詳談\n\n聯絡方式\nRoger 陳先生\nroger.chen@cymmetrics.com.tw\n\n歡迎對我們有興趣的朋友 加入我們的團隊\n來信時 請附上您的履歷 以及作品\n謝謝",
     "id": "521085554595481_960522887318410",
-    "updated_time": "2016-03-14T16:07:03+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -915,109 +668,29 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-14T06:42:43+0000",
-          "from": {
-            "name": "Chihkai Jan",
-            "id": "10205439277633788"
-          },
-          "message": "工作地點是？",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "960524267318272"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960522887318410/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TlRJME1qWTNNekU0TWpjeU9qRTBOVGM1TXpjM05qUT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 4
+        "total_count": 5
       }
     },
-    "totalCommentsCount": 5,
     "power": [
       38.5,
       27,
       5,
       2
     ],
-    "order": 17
-  },
-  {
-    "shares": {
-      "count": 5
-    },
-    "created_time": "2016-03-12T16:03:32+0000",
-    "from": {
-      "name": "YuTin Liu",
-      "id": "10203040395925690"
-    },
-    "message": "由於「2016 第五屆HTML5峰會@台灣．台北」持續有網友寫信來詢問是否有更多的票卷可以釋出，經與主辦方討論後。\n2016 FrontEnd Developers Taiwan 這邊將於3/14(一)中午再次釋出50張票（最後一次了，再下去場地會塞不下）。\n另外有Mobile行銷案例, HTML5遊戲案例, 或者前端的開源專案（不知為何主辦對開源文化有興趣）貢獻者，歡迎私訊我取得邀請票的邀請碼 （喵\n\n報名網址：",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://f2e.kktix.cc/events/2015html5",
-    "name": "2016 第五屆HTML5峰會@台灣．台北",
-    "description": "由中國最大的HTML5社區--HTML5夢工廠舉辦的“使用iWeb峰會暨HTML5峰會”，官方活動資訊：http://2016.html5dw.com/taipei?lang=tw",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTWgaEOIpRsWmY&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F47965%2FScreen_Shot_2016-02-24_at_12.13.07_PM_original.png&cfs=1",
-    "id": "521085554595481_959684590735573",
-    "updated_time": "2016-03-13T00:34:02+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 22
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-12T16:13:51+0000",
-          "from": {
-            "name": "Jeremy Lïn",
-            "id": "977827442229417"
-          },
-          "message": "之前有直接在官網報名，但不知道有沒有成功（沒收到信）",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "959687484068617"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_959684590735573/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFU1TmpnM05EZAzBNRFk0TmpFM09qRTBOVGMzT1RreU16RT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 2
-      }
-    },
-    "totalCommentsCount": 3,
-    "power": [
-      36.5,
-      22,
-      3,
-      5
-    ],
-    "order": 18
+    "order": 19
   },
   {
     "created_time": "2016-03-14T15:09:05+0000",
+    "updated_time": "2016-03-15T13:08:31+0000",
     "from": {
       "name": "Shing Fu Cheng",
       "id": "577616619068868"
     },
     "message": "有關https\n公司的網站最近由http轉了https，發現有小部份用戶使用電腦chrom瀏覽時會網站css讀不到，用戶幫忙直入進入css的連結會顯示ERR_SSL_VERSION_OR_CIPHER_MISMATCH 請問這問題可如何解決？",
     "id": "521085554595481_960744817296217",
-    "updated_time": "2016-03-15T13:08:31+0000",
     "likes": {
       "data": [],
       "summary": {
@@ -1025,874 +698,18 @@
       }
     },
     "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-14T15:12:22+0000",
-          "from": {
-            "name": "黃保翕",
-            "id": "10206611907686693"
-          },
-          "message": "有用無痕模式測過嗎？",
-          "can_remove": false,
-          "like_count": 3,
-          "user_likes": false,
-          "id": "960746270629405"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TnpRMk1qY3dOakk1TkRBMU9qRTBOVGM1Tmpnek5ETT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TnpRMk1qY3dOakk1TkRBMU9qRTBOVGM1Tmpnek5ETT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_960744817296217/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TnpRMk1qY3dOakk1TkRBMU9qRTBOVGM1Tmpnek5ETT0ZD"
-      },
+      "data": [],
       "summary": {
         "order": "chronological",
-        "total_count": 11
+        "total_count": 19
       }
     },
-    "totalCommentsCount": 19,
     "power": [
       32.5,
       4,
       19,
       0
     ],
-    "order": 19
-  },
-  {
-    "created_time": "2016-03-17T05:19:53+0000",
-    "from": {
-      "name": "Chihkai Jan",
-      "id": "10205439277633788"
-    },
-    "message": "這是javascript\n請問為什麼我第一個console讀得到資料\n第二個卻卻顯示undefine呢？\n\nfunction read(path){\n  jQuery.get(path, function(data) {\n    return data;\n  });\n}\njQuery.get('docs/notice.html', function(data) {\n    console.log(data);\n});\n\nconsole.log(read('docs/notice.html'))",
-    "id": "521085554595481_962301467140552",
-    "updated_time": "2016-03-17T09:28:35+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T05:30:45+0000",
-          "from": {
-            "name": "Chi Ching Chiang",
-            "id": "1020088911334731"
-          },
-          "message": "因為\"非同步\"",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "962304333806932"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962301467140552/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpBME16TXpPREEyT1RNeU9qRTBOVGd4T1RJMk5EWT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 5
-      }
-    },
-    "totalCommentsCount": 11,
-    "power": [
-      17.5,
-      1,
-      11,
-      0
-    ],
     "order": 20
-  },
-  {
-    "shares": {
-      "count": 4
-    },
-    "created_time": "2016-03-18T03:31:05+0000",
-    "from": {
-      "name": "MaoYang Chien",
-      "id": "10153285570810982"
-    },
-    "message": "這篇是由Facebook的Product designer分享的文章, 他介紹了他使用Framer & Sketch的設計流程與經驗分享, 這篇文章底下他還提供範例將Framer的source code &  sketch檔案放在github讓您參考\n\n對Framer有興趣, 歡迎參考\nhttps://goo.gl/3OctTw 這邊有整理一些跟Framer相關的資源\n\n",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://medium.com/facebook-design/framer-sketch-an-intentional-workflow-f91ee2ee1cc1#.xbdbq8r6w",
-    "name": "Framer & Sketch: An Intentional Workflow — Facebook Design",
-    "description": "Making Framer prototypes can communicate what a final product will feel like early in the design process. I find working…",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDg44VT2zFCs7aS&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AO-RRL9pclFwfVb2hZorm6g.png&cfs=1",
-    "id": "521085554595481_962913993745966",
-    "updated_time": "2016-03-18T03:31:05+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 8
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      16,
-      8,
-      0,
-      4
-    ]
-  },
-  {
-    "created_time": "2016-03-06T19:02:39+0000",
-    "from": {
-      "name": "Amobiz Chen",
-      "id": "521238804693443"
-    },
-    "link": "https://www.facebook.com/techsors/photos/a.997707333635784.1073741829.731128966960290/1008142825925568/?type=3",
-    "name": "TechSors",
-    "description": "Who can solve it?",
-    "picture": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-0/s130x130/12799317_1008142825925568_6215401456625377524_n.jpg?oh=b7b1d9920f097c140b21d9658f77df8c&oe=57793DF2",
-    "id": "521085554595481_956697171034315",
-    "updated_time": "2016-03-16T08:19:36+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 4
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-07T00:04:27+0000",
-          "from": {
-            "name": "千葉牧人",
-            "id": "10156568556910574"
-          },
-          "message": "12",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "956805787690120"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_956697171034315/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUyT0RBMU56ZAzNOamt3TVRJd09qRTBOVGN6TURrd05qYz0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 4
-      }
-    },
-    "totalCommentsCount": 8,
-    "power": [
-      16,
-      4,
-      8,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-16T18:00:46+0000",
-    "from": {
-      "name": "許良齊",
-      "id": "1161278743891640"
-    },
-    "message": "大家好 小弟剛入門Reactjs 想請教一下各位前輩，\n如何讀取一個json file 然後用迴圈的方式把它顯示在UI上?\n是否也可用迴圈的方式在render 裡跑出來?\n請各位先進指點迷經",
-    "id": "521085554595481_962029363834429",
-    "updated_time": "2016-03-17T02:58:03+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-16T18:12:26+0000",
-          "from": {
-            "name": "莊育承",
-            "id": "10152974838298580"
-          },
-          "message": "可以，典型的作法是 array.map",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "962033877167311"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962029363834429/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TURNek9EYzNNVFkzTXpFeE9qRTBOVGd4TlRFNU5EYz0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 3
-      }
-    },
-    "totalCommentsCount": 9,
-    "power": [
-      14.5,
-      1,
-      9,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-19T05:14:56+0000",
-    "from": {
-      "name": "Hank Huang",
-      "id": "10153358118698343"
-    },
-    "id": "521085554595481_963603680343664",
-    "updated_time": "2016-03-19T15:49:57+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 10
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-19T05:44:19+0000",
-          "from": {
-            "name": "Hana Shiro",
-            "id": "179430369060409"
-          },
-          "message": "Mac Developer 對 command line 不熟悉的\n應該算是少數吧 XD",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "963613490342683"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TmpFek5Ea3dNelF5Tmpnek9qRTBOVGd6TmpZAeU5Uaz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 3,
-    "power": [
-      14.5,
-      10,
-      3,
-      0
-    ]
-  },
-  {
-    "shares": {
-      "count": 3
-    },
-    "created_time": "2016-03-16T01:57:07+0000",
-    "from": {
-      "name": "陳聖博",
-      "id": "10206381218146197"
-    },
-    "message": "Angry Bots 一個移植到 WebAssembly 的 Unity 遊戲，用金絲雀測試還蠻順的。",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://webassembly.github.io/demo/",
-    "name": "WebAssembly",
-    "description": "This is an experimental demo of Angry Bots, a Unity game which has been ported to WebAssembly. Fight robots and explore a 3D space station with realistic environmental effects in this top-down shooter. Movement is controlled by W, A, S, D or the arrow keys and aiming & firing is controlled by the mo…",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAK7TN1tcXkmCwf&w=130&h=130&url=https%3A%2F%2Fwebassembly.github.io%2Fdemo%2Fscreenshot.jpg&cfs=1",
-    "id": "521085554595481_961578023879563",
-    "updated_time": "2016-03-16T02:11:58+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 6
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-16T02:11:58+0000",
-          "from": {
-            "name": "Jas Chen",
-            "id": "999962876680799"
-          },
-          "message": "WebAssembly 目前狀態說明\nhttps://hacks.mozilla.org/2016/03/a-webassembly-milestone/",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "961583827212316"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TlRnek9ESTNNakV5TXpFMk9qRTBOVGd3T1RRek1UZAz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TlRnek9ESTNNakV5TXpFMk9qRTBOVGd3T1RRek1UZAz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 1,
-    "power": [
-      13.5,
-      6,
-      1,
-      3
-    ]
-  },
-  {
-    "created_time": "2016-03-18T09:47:05+0000",
-    "from": {
-      "name": "Rplus Chen",
-      "id": "903912066343244"
-    },
-    "icon": "https://www.facebook.com/images/icons/event.gif",
-    "link": "https://www.facebook.com/events/947252142056999/",
-    "name": "《實作練習區》-- 就是要寫 code！part2",
-    "description": "開個長期小活動，\n讓大家可以將練習的作品貼上來與大家分享~\n\n也歡迎大家線上 code review\n一同討論如何精進程式碼~\n\n( 活動時間會一直展期 XD",
-    "picture": "https://scontent.xx.fbcdn.net/hphotos-xlp1/v/t1.0-0/c73.0.130.130/p130x130/10482848_1079023232165459_7420913282843921568_n.jpg?oh=a5a603672b5c06cce10d59a34caa0d5d&oe=5789162D",
-    "id": "521085554595481_963054660398566",
-    "updated_time": "2016-03-18T09:58:49+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 4
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T09:47:42+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "因為 part1 活動過期了 Orz\nhttps://www.facebook.com/events/925748734151998/",
-          "can_remove": false,
-          "like_count": 0,
-          "message_tags": [
-            {
-              "id": "925748734151998",
-              "length": 48,
-              "name": "《實作練習區》-- 就是要寫 code！",
-              "offset": 19,
-              "type": "event"
-            }
-          ],
-          "user_likes": false,
-          "id": "963054830398549"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURVME9ETXdNems0TlRRNU9qRTBOVGd5T1RRME5qST0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURVME9ETXdNems0TlRRNU9qRTBOVGd5T1RRME5qST0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_963054660398566/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURVME9ETXdNems0TlRRNU9qRTBOVGd5T1RRME5qST0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 3
-      }
-    },
-    "totalCommentsCount": 4,
-    "power": [
-      10,
-      4,
-      4,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-17T10:23:40+0000",
-    "from": {
-      "name": "Rplus Chen",
-      "id": "903912066343244"
-    },
-    "message": "target=_blank & window.opener 的小知識~\n\nAbout rel=noopener\nby Mathias Bynens\nhttps://mathiasbynens.github.io/rel-noopener/",
-    "id": "521085554595481_962453703791995",
-    "updated_time": "2016-03-17T10:36:28+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 8
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T10:36:28+0000",
-          "from": {
-            "name": "Chander Shiu",
-            "id": "690282577784734"
-          },
-          "message": "不過通常只會因為 SEO 才會設 norefer",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962461677124531"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TkRZAeE5qYzNNVEkwTlRNeE9qRTBOVGd5TVRBNU9EZAz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 1,
-    "power": [
-      9.5,
-      8,
-      1,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-18T05:44:53+0000",
-    "from": {
-      "name": "Chihkai Jan",
-      "id": "10205439277633788"
-    },
-    "message": "請問像facebook的照片那樣點開然後後面是全黑\n然後點後面全黑的地方圖片就會關掉是要怎麼實現呢？\n感謝～～",
-    "id": "521085554595481_962962723741093",
-    "updated_time": "2016-03-18T07:54:21+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 0
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T05:52:45+0000",
-          "from": {
-            "name": "MingWei Yeh",
-            "id": "1009546482390204"
-          },
-          "message": "modal window?",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "962964310407601"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
-        },
-        "next": "https://graph.facebook.com/v2.3/521085554595481_962962723741093/comments?access_token=1385521591772831%7ClMcuWxJls6aEK-IwR0Z-_AQVMV4&pretty=1&summary=true&limit=1&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5T1RZAME16RXdOREEzTmpBeE9qRTBOVGd5T0RBek5qVT0ZD"
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 6
-      }
-    },
-    "totalCommentsCount": 6,
-    "power": [
-      9,
-      0,
-      6,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-16T15:08:48+0000",
-    "from": {
-      "name": "Rex Lo",
-      "id": "10205903609327539"
-    },
-    "message": "因為不想把自己累死，想徵求前端的工作夥伴分擔案件，只要熟Javascript/CSS, 用過Sketch或Avocode的朋友，拜託儘速和我聯絡~我只想趕快把手邊的案子做完，所以錢都好談~\n目前手邊最急的一個用現成的版型，改出11頁的網站，設計師已經準備好sketch和Avocode檔，11頁的內容元素都在版型裡找得到。\n希望結案時間: 3/30\n薪酬: 3萬",
-    "id": "521085554595481_961943770509655",
-    "updated_time": "2016-03-17T10:33:25+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 5
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-17T07:05:04+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "徵才文一律需附薪酬範圍，麻煩配合。",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "962336787137020"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpNMk56ZAzNNVE0zTURJd09qRTBOVGd4T1Rnek1EUT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl5TXpNMk56ZAzNNVE0zTURJd09qRTBOVGd4T1Rnek1EUT0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 2,
-    "power": [
-      8,
-      5,
-      2,
-      0
-    ]
-  },
-  {
-    "shares": {
-      "count": 1
-    },
-    "created_time": "2016-03-15T07:13:37+0000",
-    "from": {
-      "name": "Ray Dobe",
-      "id": "1142105999140458"
-    },
-    "message": "你的博客打开慢？来用 Coding Pages 吧！\n还嫌慢？用 谷歌 AMP，65ms 加载完毕！\n你可以在 http://tvvocold.coding.me/amplify/ 体验 AMP 到底有多快；）\n想要拥有 AMP 驱动的 Jekyll 博客？ Fork https://coding.net/u/tvvocold/p/amplify  ，然后开启 Pages 服务即可；）",
-    "id": "521085554595481_961156910588341",
-    "updated_time": "2016-03-15T08:13:04+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 4
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      6,
-      4,
-      0,
-      1
-    ]
-  },
-  {
-    "created_time": "2016-03-18T08:58:33+0000",
-    "from": {
-      "name": "Varya Stepanova",
-      "id": "10206209579631912"
-    },
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "http://varya.me/en/posts/image-diffs-with-git/",
-    "name": "Visual diffs for the images in a git repo",
-    "description": "The modified images in git repositories can have a decent visual representation of file changes. For that, you simply run `git diff` command. However, to get this output, you have to do a little configuration. This article shows how.",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAABEg9rvQIZ568&w=130&h=130&url=http%3A%2F%2Fvarya.me%2Fposts%2Fimage-diffs-with-git%2Fthumb.png&cfs=1",
-    "id": "521085554595481_963036737067025",
-    "updated_time": "2016-03-18T10:00:29+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-18T09:32:58+0000",
-          "from": {
-            "name": "Rplus Chen",
-            "id": "903912066343244"
-          },
-          "message": "O_Q \nsome error with imagemagick in my environment...",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "963049277065771"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl6TURRNU1qYzNNRFkxTnpjeE9qRTBOVGd5T1RNMU56az0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 3,
-    "power": [
-      5.5,
-      1,
-      3,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-15T04:52:40+0000",
-    "from": {
-      "name": "吳政霖",
-      "id": "1389709031057515"
-    },
-    "message": "新手前端求解：\n在網頁上要加上audio標籤(不是mobile網頁)\n在ios手機上會撥放樣式只會顯示一半(chrome、FireFox都一樣)\n但在android顯示正常\nPC非常正常\n有人遇到跟我一樣的問題嗎?如何正常顯示畫面?\nhttp://www.jcmusic.com.tw/lin/JC/index.php",
-    "id": "521085554595481_961095227261176",
-    "updated_time": "2016-03-15T05:56:28+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 1
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-15T04:55:11+0000",
-          "from": {
-            "name": "Jotarun Lin",
-            "id": "10203802346556014"
-          },
-          "message": "http://stackoverflow.com/questions/28783191/html-audio-tag-on-iphone-is-hidden-by-the-half-of-the-height",
-          "can_remove": false,
-          "like_count": 1,
-          "user_likes": false,
-          "id": "961097467260952"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl4TURrM05EWTNNall3T1RVeU9qRTBOVGd3TVRjM01UTT0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 2,
-    "power": [
-      4,
-      1,
-      2,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-14T04:59:40+0000",
-    "from": {
-      "name": "陳彥澄",
-      "id": "471041233050484"
-    },
-    "message": "# AngularJS\n\n大家都用哪一種 gulp + $templateCache 的外掛?\n\n我目前覺得是用這個\n",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://github.com/teambition/gulp-ng-template",
-    "name": "teambition/gulp-ng-template",
-    "description": "gulp-ng-template - Precompile AngularJS templates to a JS file with $templateCache",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDRJTMKa_jZHy25&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1983116%3Fv%3D3%26s%3D400&cfs=1",
-    "id": "521085554595481_960484900655542",
-    "updated_time": "2016-03-14T05:11:09+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 2
-      }
-    },
-    "comments": {
-      "data": [
-        {
-          "created_time": "2016-03-14T05:11:08+0000",
-          "from": {
-            "name": "范致宣",
-            "id": "840752055961175"
-          },
-          "message": "grunt 版路過",
-          "can_remove": false,
-          "like_count": 0,
-          "user_likes": false,
-          "id": "960491760654856"
-        }
-      ],
-      "paging": {
-        "cursors": {
-          "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TkRreE56WXdOalUwT0RVMk9qRTBOVGM1TXpJeU5qZAz0ZD",
-          "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFl3TkRreE56WXdOalUwT0RVMk9qRTBOVGM1TXpJeU5qZAz0ZD"
-        }
-      },
-      "summary": {
-        "order": "chronological",
-        "total_count": 1
-      }
-    },
-    "totalCommentsCount": 1,
-    "power": [
-      3.5,
-      2,
-      1,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-16T17:55:55+0000",
-    "from": {
-      "name": "Isaiah Grey",
-      "id": "10204168254646213"
-    },
-    "message": "Build a real time app with Pubnub and Stamplay! ",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://blog.stamplay.com/build-a-collaborative-real-time-shopping-list-with-pubnub-and-stamplay/",
-    "name": "Build A Mobile Collaborative Real-time Shopping List with PubNub",
-    "description": "PubNub is data stream network for developers to build realtime web applications. Here at Stamplay we love PubNub because we love the real-time web, and how simple PubNub makes building real-time features in our applications. Recently we added PubNub as an integration for Stamplay, and we are",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBYeQqkrnE4wc_f&w=130&h=130&url=https%3A%2F%2Fblog.stamplay.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fstep_1-1.png&cfs=1",
-    "id": "521085554595481_962027777167921",
-    "updated_time": "2016-03-16T17:55:55+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 3
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      3,
-      3,
-      0,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-17T00:22:34+0000",
-    "from": {
-      "name": "Amobiz Chen",
-      "id": "521238804693443"
-    },
-    "link": "https://youtu.be/N42LQ2dLoA8",
-    "name": "Addy Osmani",
-    "description": "Uprade to Gulp 4.0 with the new episode of Totally Tooling Tips! https://youtu.be/N42LQ2dLoA8 🍕",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQADXj4swH8AC_jg&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FN42LQ2dLoA8%2Fmaxresdefault.jpg&cfs=1",
-    "id": "521085554595481_962183073819058",
-    "updated_time": "2016-03-17T00:22:34+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 3
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      3,
-      3,
-      0,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-16T12:15:45+0000",
-    "from": {
-      "name": "Famou Sky",
-      "id": "1538047563103756"
-    },
-    "message": "Hello everyone! We are giving away to one lucky member 2-day pass for Tech In Asia event happening this April in Singapore and another 2-day pass for Slush Asia in May in Tokyo. This, among other perks is a solid reason to join our growing, Focus Asia community. \nWe will be organising casual meetup this month in Taipei as well and non-members are welcome to join!",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://www.focusasia.xyz/?ref=fdev",
-    "name": "Asia's NO1 Startup Community | Focus Asia",
-    "description": "Connect and live-chat with over 390+ professionals from the startup scene in Asia - Singapore, HK, Taiwan, Japan, Thailand, China & more!",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC7UC9MyElM98HV&w=130&h=130&url=https%3A%2F%2Fwww.focusasia.xyz%2Fstartup-community-in-asia-focus-asia-singapore-taiwan-japan-korea-thailand-malaysia-indonesia-china.png&cfs=1&sx=819&sy=0&sw=1036&sh=1036",
-    "id": "521085554595481_961859113851454",
-    "updated_time": "2016-03-16T12:15:45+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 2
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      2,
-      2,
-      0,
-      0
-    ]
-  },
-  {
-    "created_time": "2016-03-15T13:48:23+0000",
-    "from": {
-      "name": "Jonathan Saring",
-      "id": "194621467578543"
-    },
-    "message": "Check out this new search engine for open source code:\nhttps://www.facebook.com/cocycles/?ref=aymt_homepage_panel",
-    "icon": "https://www.facebook.com/images/icons/post.gif",
-    "link": "https://www.facebook.com/cocycles/",
-    "name": "CoCycles",
-    "description": "Search engine for open source code. Explore the vast space of open source code, finding every little piece of it.",
-    "picture": "https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p200x200/12800234_219886275030856_5909873897069257874_n.png?oh=786ddc7ee9a7a6ac2917a0e4c27c0718&oe=5789AAAB",
-    "id": "521085554595481_961294707241228",
-    "updated_time": "2016-03-15T13:48:23+0000",
-    "likes": {
-      "data": [],
-      "summary": {
-        "total_count": 0
-      }
-    },
-    "comments": {
-      "data": [],
-      "summary": {
-        "order": "chronological",
-        "total_count": 0
-      }
-    },
-    "totalCommentsCount": 0,
-    "power": [
-      0,
-      0,
-      0,
-      0
-    ]
   }
 ]
