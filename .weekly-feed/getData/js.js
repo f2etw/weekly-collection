@@ -9,7 +9,8 @@ WC.config = {
   power: {
     likes: 1,
     comments: 1.5,
-    shares: 2
+    shares: 2,
+    vote: 3
   },
   perpage: 200,
   groupId: '521085554595481',
@@ -139,6 +140,53 @@ WC.getSavedFeeds = () => {
   });
 };
 
+WC.renderTop10 = () => {
+  WC.genarateMD(WC.feeds.top10);
+  var lists = document.querySelector('.popular-lists');
+  lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
+};
+
+WC.calcVotedResult = () => {
+  fetch(`../${WC.queryURL.since}-vote.json`)
+  .then((response) => response.json())
+  .then((voteData) => {
+    var _weight = WC.config.power;
+    var voteResult = {};
+
+    voteData.forEach((data) => {
+      voteResult[data.postId] = data.vote;
+    });
+
+    WC.feeds.top20.forEach((feed) => {
+      feed.powerObj = {
+        likes: feed.power[1],
+        comments: feed.power[2],
+        shares: feed.power[3],
+        vote: voteResult[feed.id] || 0
+      };
+
+      feed.powerObj.sum = ['likes', 'comments', 'shares', 'vote'].map((i) => {
+        return feed.powerObj[i] * _weight[i];
+      }).reduce((prev, curr) => prev + curr);
+    });
+
+    WC.feeds.top20withOrder = WC.feeds.top20.sort((feed1, feed2) => {
+      return feed2.powerObj.sum - feed1.powerObj.sum;
+    });
+
+    WC.feeds.top10 = WC.feeds.top20withOrder.slice(0, 10);
+
+    console.log('WC.feeds.top10 generated!');
+
+    WC.renderTop10();
+  })
+  .catch(function (err) {
+    console.log('err msg: ' + err);
+    console.log('fetch fails!!!');
+    return 'ccc';
+  });
+};
+
 WC.init = () => {
   if (!WC.queryURL) { return; }
   var since = +new Date(WC.queryURL.since) / 1000;
@@ -151,20 +199,24 @@ WC.init = () => {
   ];
   WC.feedUrl = `${WC.apiDomain}${WC.config.groupId}/feed?since=${since}&access_token=${WC.config.fbToken}&limit=${WC.config.perpage}&fields=${feedFields.join(',')}`;
 
-  if (WC.queryURL.top10) {
+  if (WC.queryURL.top10 || WC.queryURL.top10 === '') {
     WC.getSavedFeeds().then(($feeds) => {
+      var opOrder;
+
       WC.feeds = WC.feeds || {};
       WC.feeds.top10 = [];
       WC.feeds.top20 = $feeds;
 
-      var opOrder = WC.queryURL.top10.split(',');
-      opOrder.forEach((order, idx) => {
-        WC.feeds.top10[idx] = WC.feeds.top20[+order];
-      });
+      if (WC.queryURL.top10) {
+        opOrder = WC.queryURL.top10.split(',');
+        opOrder.forEach((order, idx) => {
+          WC.feeds.top10[idx] = WC.feeds.top20[+order];
+        });
 
-      WC.genarateMD(WC.feeds.top10);
-      var lists = document.querySelector('.popular-lists');
-      lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
+        WC.renderTop10();
+      } else {
+        WC.calcVotedResult();
+      }
     });
   } else {
     WC.getGroupFeed().then((data) => {
