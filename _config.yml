@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - node_modules
+  - .weekly-feed
+  - .publish
