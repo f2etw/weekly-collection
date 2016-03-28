@@ -3,24 +3,15 @@ layout: default
 ---
 
 
-<div class="posts">
+<ul class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <li class="post">
+      <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+        <time class="" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
+        <h3 class="post__title">Collection: #{{ post.title }}</h3>
+        <p> {{ post.date-since }} ~ {{ post.date-until }}</p>
+      </a>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    </li>
   {% endfor %}
-</div>
-
-
-
-
-
-
-<!--testing-->
+</ul>
