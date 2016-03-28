@@ -1,0 +1,39 @@
+
+<div class="Card-box">
+{% for item in include.items %}
+  <article class="Card">
+    {% if item.cover %}
+    <a class="Card__cover-link" href="{{ item.link }}">
+        <img class="Card__cover" src="{{ item.cover }}" alt="{{ item.title }}">
+    </a>
+    {% else %}
+    <a class="Card__cover-link" href="{{ item.link }}">
+        <img class="Card__cover" src="http://placebeard.it/g/222/150/notag" alt="{{ item.title }}">
+    </a>
+    {% endif %}
+
+    <div class="Card__intro">
+
+      <h3 class="Card__title">
+        <a href="{{ item.link || item.permalink }}">{{ item.title }}</a>
+      </h3>
+
+      <p class="Card__intro">
+        {{ item.intro }}
+      </p>
+
+      <div class="Metainfo">
+        <a class="Metainfo__sharer" href="https://fb.com/{{ item.sharer-id }}">
+          <img src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
+          {{ item.sharer-name }}
+        </a>
+        <time class="Metainfo__time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
+        <a class="Metainfo__permalink" href="{{ item.permalink }}">permalink</a>
+      </div>
+    </div>
+    <hr>
+    <hr>
+    <hr>
+  </article>
+{% endfor %}
+</div>
