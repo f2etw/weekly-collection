@@ -3,16 +3,14 @@
 {% for item in include.items %}
   <article class="Card">
     {% if item.cover %}
-    <a class="Card__cover-link" href="{{ item.link }}">
-        <img class="Card__cover" src="{{ item.cover }}" alt="{{ item.title }}">
+    <a class="Card__cover-link" href="{{ item.link }}" style="background-image: url('{{ item.cover }}');">
+      <img class="Card__cover" src="{{ item.cover }}" alt="{{ item.title }}">
     </a>
     {% else %}
-    <a class="Card__cover-link" href="{{ item.link }}">
-        <img class="Card__cover" src="http://placebeard.it/g/222/150/notag" alt="{{ item.title }}">
-    </a>
+    <a class="Card__cover-link" href="{{ item.link }}"></a>
     {% endif %}
 
-    <div class="Card__intro">
+    <div class="Card__info">
 
       <h3 class="Card__title">
         <a href="{{ item.link || item.permalink }}">{{ item.title }}</a>
@@ -23,17 +21,17 @@
       </p>
 
       <div class="Metainfo">
-        <a class="Metainfo__sharer" href="https://fb.com/{{ item.sharer-id }}">
-          <img src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
-          {{ item.sharer-name }}
-        </a>
         <time class="Metainfo__time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
         <a class="Metainfo__permalink" href="{{ item.permalink }}">permalink</a>
+        <a class="Metainfo__sharer" href="https://fb.com/{{ item.sharer-id }}">
+          {{ item.sharer-name }}
+          <img src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
+        </a>
       </div>
     </div>
-    <hr>
-    <hr>
-    <hr>
   </article>
 {% endfor %}
+  <article class="Card"></article>
+  <article class="Card"></article>
+  <article class="Card"></article>
 </div>
