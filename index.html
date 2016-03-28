@@ -7,9 +7,9 @@ layout: default
   {% for post in site.posts %}
     <li class="post">
       <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-        <time class="" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
-        <h3 class="post__title">Collection: #{{ post.title }}</h3>
-        <p> {{ post.date-since }} ~ {{ post.date-until }}</p>
+        <time class="post__time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
+        <h3 class="post__title">{{ post.title }}</h3>
+        <p class="post__content"> {{ post.date-since }} ~ {{ post.date-until }}</p>
       </a>
 
     </li>

@@ -1,0 +1,33 @@
+.posts {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.post {
+  padding: 1rem;
+}
+
+.post__link {
+  display: block;
+  color: inherit;
+}
+
+.post__time {
+  font-family: monospace;
+  font-size: smaller;
+  opacity: .3;
+}
+
+.post__title {
+  margin: 0;
+
+  .post__link:hover & {
+    text-decoration: underline;
+  }
+}
+
+.post__content {
+  margin: 0;
+  padding-left: 1em;
+  border-left: .5em solid rgba(#000, .05);
+}
