@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
+<link href="/feed.xml" rel="self" type="application/atom+xml" />
+<link href="/" rel="alternate" type="text/html" />
+<updated>2016-03-29T07:42:59+08:00</updated>
+<id>/</id>
+<title>Weekly Collection @ F2ETW</title>
+<subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
+<entry>
+<title>Collection 000</title>
+<link href="/2016/03/13/collection-000/" rel="alternate" type="text/html" title="Collection 000" />
+<published>2016-03-13T00:00:00+08:00</published>
+<updated>2016-03-13T00:00:00+08:00</updated>
+<id>/2016/03/13/collection-000</id>
+<content type="html" xml:base="/2016/03/13/collection-000/">&lt;p&gt;{% include card.html items=site.data.c000 %}&lt;/p&gt;
+
+</content>
+<category term="weekly-popular" />
+<summary>                                          完全學習Bootstrap 4 - Grid – INDER                    Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理                    2016-03-17        permalink                  Kim Wong                                                                        Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen                    保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。                    2016-03-15        permalink                  黃保翕                                                                        [前端連載] 前端工程師該懂的基本東西——網路架構篇                    邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。                    2016-03-18        permalink                  邱弘毅                                                                        完全學習Bootstrap 4 – Media object – INDER                    Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。                    2016-03-19        permalink                  Kim Wong                                                                        網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange                    Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer                    2016-03-15        permalink                  Bram Yeh                                                              Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS                    由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。                    2016-03-18        permalink                  Clement Tang                                                                        JulieAlert                    林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert                    2016-03-18        permalink                  林立秦                                                                        Flexbox Froggy                    鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站                    2016-03-15        permalink                  鄒適齊                                                                        Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...                    MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍                    2016-03-13        permalink                  MaoYang Chien                                                                                  關於 Adblock 隱藏非預期元素、以及雷區的討論                    2016-03-13        permalink                  Veck Hsiao                                    </summary>
+</entry>
+</feed>
