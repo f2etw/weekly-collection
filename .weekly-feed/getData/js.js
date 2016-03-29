@@ -1,4 +1,4 @@
-/* global fetch, WC, Mustache */
+/* global fetch, WC, Mustache, Blob, URL */
 console.log('init', 111);
 
 // weekColection
@@ -126,7 +126,6 @@ WC.getSavedFeeds = () => {
       return response.json();
     })
     .then(function (posts) {
-
       return posts;
     })
     .catch(function (err) {
@@ -144,6 +143,28 @@ WC.renderTop10 = () => {
   WC.genarateMD(WC.feeds.top10);
   var lists = document.querySelector('.popular-lists');
   lists.innerHTML = lists.innerHTML.replace(/contenteditable/g, '');
+};
+
+WC.renderYAML = () => {
+  var yamlBox = document.getElementById('yaml');
+  var yamlTpl = document.getElementById('yaml-template').innerHTML;
+  var _html = WC.feeds.top10.map((data) => {
+    data.cover = data.picture ? decodeURIComponent(data.picture.split(/&url=([^&]+)/)[1]) : '';
+    return Mustache.render(yamlTpl, data);
+  });
+
+  yamlBox.innerHTML = _html.join('');
+  WC.bindDownload(_html.join(''), `${WC.queryURL.since}.yml`);
+};
+
+WC.bindDownload = (text, filename) => {
+  var downloadLink = document.getElementById('download');
+
+  downloadLink.addEventListener('click', () => {
+    var file = new Blob([text], {type: 'text/plain'});
+    downloadLink.href = URL.createObjectURL(file);
+    downloadLink.download = filename;
+  });
 };
 
 WC.calcVotedResult = () => {
@@ -178,7 +199,11 @@ WC.calcVotedResult = () => {
 
     console.log('WC.feeds.top10 generated!');
 
-    WC.renderTop10();
+    if (WC.queryURL.yaml === '') {
+      WC.renderYAML();
+    } else {
+      WC.renderTop10();
+    }
   })
   .catch(function (err) {
     console.log('err msg: ' + err);

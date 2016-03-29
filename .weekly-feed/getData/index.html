@@ -11,9 +11,28 @@
   .popular-list:nth-of-type(odd) {
     background-color: #ddd;
   }
+  #yaml {
+    white-space: pre;
+    font-family: monospace;
+  }
   </style>
 </head>
 <body>
+
+<a id="download">download</a>
+<hr>
+
+<div id="yaml"></div>
+<script id="yaml-template" type="x-tmpl-mustache">
+- permalink: https://fb.com/{{ id }}
+  time: {{ created_time }}
+  sharer-name: {{ from.name }}
+  sharer-id: {{ from.id }}
+  title: {{ name }}
+  link: {{ link }}
+  cover: {{ cover }}
+  intro: ''
+</script>
 
 <ul class="popular-lists"></ul>
 
