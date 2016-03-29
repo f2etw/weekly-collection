@@ -15,6 +15,9 @@ layout: default
   </div>
 
   <div class="date">
+    {% if page.volunteer %}
+      本期由 {{ page.volunteer }} 匯編，
+    {% endif %}
     publish on {{ page.publish-date | date: "%Y-%m-%d" }} <br>
   </div>
 
