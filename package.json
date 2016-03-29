@@ -7,6 +7,7 @@
     "dev": "npm run jekyllServe & npm run browserSync & wait",
     "jekyllServe": "jekyll serve --port 9527",
     "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open",
+    "getFeeds": "browser-sync start --server '.weekly-feed/' --startPath './getData/?since=2016-03-13&top10=&yaml' --files '.weekly-feed/**/*'",
     "css": "postcss --no-map -c postcssconfig.json",
     "build": "jekyll b && npm run css",
     "deploy": "npm run build && gulp deploy",
