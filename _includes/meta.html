@@ -4,8 +4,8 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="description" content="{{ page.title }}: popular posts from {{ page.date-since }} to {{ page.date-until }}" />
+    <meta property="og:description" content="{{ page.title }}: popular posts from {{ page.date-since }} to {{ page.date-until }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
@@ -15,4 +15,10 @@
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
+    {% endif %}
+
+    {% if page.cover %}
+    <meta property="og:image" content="{{ page.cover }}" />
+    {% else %}
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/8252114?s=300" />
     {% endif %}
