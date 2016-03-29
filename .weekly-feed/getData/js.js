@@ -238,7 +238,12 @@ WC.init = () => {
           WC.feeds.top10[idx] = WC.feeds.top20[+order];
         });
 
-        WC.renderTop10();
+        if (WC.queryURL.yaml === '') {
+          WC.renderYAML();
+        } else {
+          WC.renderTop10();
+        }
+
       } else {
         WC.calcVotedResult();
       }
