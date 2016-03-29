@@ -2,18 +2,24 @@
 <div class="Card-box">
 {% for item in include.items %}
   <article class="Card">
+    {% if item.link %}
+      {% assign item_link = item.link %}
+    {% else %}
+      {% assign item_link = item.permalink %}
+    {% endif %}
+
     {% if item.cover %}
-    <a class="Card__cover-link" href="{{ item.link }}" style="background-image: url('{{ item.cover }}');">
+    <a class="Card__cover-link" href="{{ item_link }}" style="background-image: url('{{ item.cover }}');">
       <img class="Card__cover" src="{{ item.cover }}" alt="{{ item.title }}">
     </a>
     {% else %}
-    <a class="Card__cover-link" href="{{ item.link }}"></a>
+      <a class="Card__cover-link" href="{{ item_link }}"></a>
     {% endif %}
 
     <div class="Card__info">
 
       <h3 class="Card__title">
-        <a href="{{ item.link || item.permalink }}">{{ item.title }}</a>
+        <a href="{{ item_link }}">{{ item.title }}</a>
       </h3>
 
       <p class="Card__intro">
