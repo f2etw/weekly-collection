@@ -26,6 +26,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 75rem;
+  padding: 0;
   width: 100%;
 }
 
@@ -44,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
   a {
     color: inherit;
   }
@@ -65,6 +66,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  line-height: 1.6em;
 }
 
 a {
@@ -151,7 +153,6 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
 }
 
 .masthead {
@@ -197,13 +198,12 @@ img {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 14px;
 
   @include mobile {
     margin: 3px 0;
@@ -272,7 +272,6 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
