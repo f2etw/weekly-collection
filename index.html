@@ -3,16 +3,16 @@ layout: default
 ---
 
 <div class="container">
-	<ul class="posts">
-		{% for post in site.posts %}
-		<li class="post">
-			<a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-				<time class="post__time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
-				<h3 class="post__title">{{ post.title }}</h3>
-				<p class="post__content"> {{ post.date-since }} ~ {{ post.date-until }}</p>
-			</a>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li class="post">
+      <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+        <time class="post__time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
+        <h3 class="post__title">{{ post.title }}</h3>
+        <p class="post__content"> {{ post.date-since }} ~ {{ post.date-until }}</p>
+      </a>
 
-		</li>
-		{% endfor %}
-	</ul>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
