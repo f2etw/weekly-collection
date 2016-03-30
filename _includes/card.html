@@ -27,12 +27,12 @@
       </p>
 
       <div class="Metainfo">
-        <time class="Metainfo__time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
-        <a class="Metainfo__permalink" href="{{ item.permalink }}">permalink</a>
         <a class="Metainfo__sharer" href="https://fb.com/{{ item.sharer-id }}">
           {{ item.sharer-name }}
           <img src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
         </a>
+        <time class="Metainfo__time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
+        <a class="Metainfo__permalink" href="{{ item.permalink }}">permalink</a>
       </div>
     </div>
   </article>
