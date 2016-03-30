@@ -117,9 +117,10 @@ img {
 }
 
 .date {
-  font-family: monospace;
-  font-style: italic;
   color: $gray;
+  &__text {
+    font-size: .875em;
+  }
 }
 
 // Specify the color of the selection
@@ -242,12 +243,12 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 40px 0;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
+  padding-bottom: 40px;
   border-bottom: none;
 }
 
@@ -282,6 +283,13 @@ footer {
   text-align: center;
 }
 
+.post, .page {
+  h1 {
+    font-size: 3em;
+    margin: 80px 0 0;
+    font-family: 'Lato', serif;
+  }
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

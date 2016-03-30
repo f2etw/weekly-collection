@@ -1,15 +1,25 @@
 .posts {
-  padding-left: 0;
   list-style-type: none;
+  padding: 0;
 }
 
 .post {
-  padding: 1rem;
+  .entry {
+    margin-top: 80px;
+    padding: 80px 40px;
+    background: $lightGray;
+  }
 }
 
 .post__link {
   display: block;
   color: inherit;
+  &:hover {
+    .post__content,
+    .post__time {
+      color: $gray;
+    }
+  }
 }
 
 .post__time {
@@ -20,11 +30,12 @@
 
 .post__title {
   margin: 0;
-
+  font-size: 2em;
   font-family: 'Lato', serif;
   .post__link:hover & {
-    text-decoration: underline;
-  }
+      // text-decoration: underline;
+      color: #4183C4;
+    }
 }
 
 .post__content {
