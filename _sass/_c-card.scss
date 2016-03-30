@@ -1,109 +1,109 @@
 .Card-box {
-	display: flex;
-	flex-wrap: wrap;
-	margin: 0 -15px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
 }
 
 .Card {
-	display: flex;
-	flex-direction: column;
-	flex: 1 0 15em;
-	margin: 0 1rem 2rem;
-	padding-bottom: 1.5rem;
-	// box-shadow: 0 2px 10px -1px rgba(#000, .2);
-	background-color: #fff;
-	transition: box-shadow .3s;
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 15em;
+  margin: 0 1rem 2rem;
+  padding-bottom: 1.5rem;
+  // box-shadow: 0 2px 10px -1px rgba(#000, .2);
+  background-color: #fff;
+  transition: box-shadow .3s;
 
-	&:hover {
-		// box-shadow: 0 2px 10px -1px rgba(#000, .5);
-		box-shadow: 0px 0px 0px 3px rgb(35, 125, 172) inset;
-		
-	}
+  &:hover {
+    // box-shadow: 0 2px 10px -1px rgba(#000, .5);
+    box-shadow: 0px 0px 0px 3px rgb(35, 125, 172) inset;
+    
+  }
 
-	&:empty {
-		height: 0;
-		padding-bottom: 0;
-		overflow: hidden;
-	}
+  &:empty {
+    height: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+  }
 }
 
 .Card__cover-link {
-	background: no-repeat 50% / cover;
-	margin: 3px;
-	&:empty {
-		padding-bottom: 50%;
-		background: rgba(#efe, .5) url("https://avatars2.githubusercontent.com/u/8252114?s=240") no-repeat 50% / contain;
-	}
+  background: no-repeat 50% / cover;
+  margin: 3px;
+  &:empty {
+    padding-bottom: 50%;
+    background: rgba(#efe, .5) url("https://avatars2.githubusercontent.com/u/8252114?s=240") no-repeat 50% / contain;
+  }
 }
 
 .Card__cover {
-	width: 100%;
-	max-height: 12rem;
-	display: block;
-	opacity: 0;
+  width: 100%;
+  max-height: 12rem;
+  display: block;
+  opacity: 0;
 }
 
 .Card__info {
-	display: flex;
-	flex-grow: 1;
-	flex-direction: column;
-	padding: 0 .75em;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  padding: 0 .75em;
 }
 
 .Card__title {
-	line-height: 1.25;
-	text-shadow: 1px 1px #fff, -1px 1px #fff;
+  line-height: 1.25;
+  text-shadow: 1px 1px #fff, -1px 1px #fff;
 
-	a {
-		color: #237dac;
-		transition: color .3s;
+  a {
+    color: #237dac;
+    transition: color .3s;
 
-		&:hover {
-			color: inherit;
-		}
-	}
+    &:hover {
+      color: inherit;
+    }
+  }
 
-	&:hover a {
-		background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
-		background-repeat: repeat-x;
-		background-size: 6px 1px;
-		background-position: 0 95%;
-	}
+  &:hover a {
+    background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
+    background-repeat: repeat-x;
+    background-size: 6px 1px;
+    background-position: 0 95%;
+  }
 }
 
 .Card__intro {
-	margin-bottom: auto;
-	margin-top: 0;
-	padding-bottom: 2em;
-	opacity: .75;
-	font-size: 0.875em;
+  margin-bottom: auto;
+  margin-top: 0;
+  padding-bottom: 2em;
+  opacity: .75;
+  font-size: 0.875em;
 }
 
 .Metainfo {
-	padding-top: 1em;
-	border-top: 1px solid rgba(#000, .2);
-	text-align: right;
-	opacity: .3;
-	transition: opacity .3s;
-	will-change: opacity;
+  padding-top: 1em;
+  border-top: 1px solid rgba(#000, .2);
+  text-align: right;
+  opacity: .3;
+  transition: opacity .3s;
+  will-change: opacity;
 
-	.Card:hover & {
-		opacity: 1;
-	}
+  .Card:hover & {
+    opacity: 1;
+  }
 }
 
 .Metainfo__sharer {
-	display: block;
+  display: block;
 
-	img {
-		width: 2em;
-		border-radius: 50%;
-		vertical-align: middle;
-	}
+  img {
+    width: 2em;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
 }
 
 .Metainfo__permalink,
 .Metainfo__time {
-	font-family: monospace;
-	font-size: smaller;
+  font-family: monospace;
+  font-size: smaller;
 }
