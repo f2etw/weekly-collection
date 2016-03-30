@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<ul class="posts">
-  {% for post in site.posts limit:100 reversed %}
+<div class="container">
+  <ul class="posts">
+    {% for post in site.posts limit:100 reversed %}
     <li class="post">
       <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
         <time class="post__time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
@@ -11,5 +12,6 @@ layout: default
         <p class="post__content"> {{ post.date-since }} ~ {{ post.date-until }}</p>
       </a>
     </li>
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+</div>
