@@ -25,8 +25,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 80rem;
-  padding: 0 10px;
+  max-width: 75rem;
+  padding: 0;
   width: 100%;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
   a {
     color: inherit;
   }
@@ -66,6 +66,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  line-height: 1.6em;
 }
 
 a {
@@ -116,9 +117,10 @@ img {
 }
 
 .date {
-  font-family: monospace;
-  font-style: italic;
   color: $gray;
+  &__text {
+    font-size: .875em;
+  }
 }
 
 // Specify the color of the selection
@@ -152,7 +154,6 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
 }
 
 .masthead {
@@ -195,16 +196,15 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 14px;
 
   @include mobile {
     margin: 3px 0;
@@ -214,7 +214,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Lato', sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -243,12 +243,12 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 40px 0;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
+  padding-bottom: 40px;
   border-bottom: none;
 }
 
@@ -273,7 +273,6 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
@@ -284,10 +283,18 @@ footer {
   text-align: center;
 }
 
+.post, .page {
+  h1 {
+    font-size: 3em;
+    margin: 80px 0 0;
+    font-family: 'Lato', serif;
+  }
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
 
 @import "c-post";
+@import "c-page";
 @import "c-card";

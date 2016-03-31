@@ -3,22 +3,27 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <div class="container">
+    <h1>{{ page.title }}</h1>
 
-  <div class="date">
-    since: {{ page.date-since | date: "%Y-%m-%d" }} <br>
-    until: {{ page.date-until | date: "%Y-%m-%d" }} <br>
+    <div class="date">
+      <span class="date__text">since: {{ page.date-since | date: "%Y-%m-%d" }}</span>
+      <span class="date__text">until: {{ page.date-until | date: "%Y-%m-%d" }}</span>
+
+    </div>
+    <div class="date">
+      <span class="date__text">{% if page.volunteer %}
+        本期由 {{ page.volunteer }} 匯編，
+        {% endif %}
+        publish on {{ page.publish-date | date: "%Y-%m-%d" }} 
+      </span>
+    </div>
   </div>
 
   <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    {% if page.volunteer %}
-      本期由 {{ page.volunteer }} 匯編，
-    {% endif %}
-    publish on {{ page.publish-date | date: "%Y-%m-%d" }} <br>
+    <div class="container">
+      {{ content }}
+    </div>
   </div>
 
   <div class="PageNavigation">
