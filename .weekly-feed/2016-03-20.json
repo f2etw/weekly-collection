@@ -1,0 +1,724 @@
+[
+  {
+    "shares": {
+      "count": 220
+    },
+    "created_time": "2016-03-21T14:31:43+0000",
+    "updated_time": "2016-03-23T02:19:04+0000",
+    "from": {
+      "name": "Hsiang Lee",
+      "id": "10156068311535551"
+    },
+    "message": "分享這個前端好物給大家：ngrok \n可以用內網變成外網給其他人看，是近期同事分享的，發現好好用，早點發現就好了，有種相見恨晚的感覺，還可以加登入帳密，縮短了很多小案子 demo 給客戶的建置測試站時間",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tenten.co/blog/how-to-use-ngrok-to-connect-your-localhost/",
+    "name": "怎麼將內網的 localhost 讓外面的人都看得到呢？用用 ngrok 吧！ - 転転 |",
+    "description": "平常在自己的電腦上開發，要給外部的人看頁面的時候是不是都很不方便，用了 ngrok 後他會自動幫你產生個網址給外部的人連進去看，非常方便，適合開發中的你。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAS-q3MPpOo3Qyw&w=130&h=130&url=https%3A%2F%2Fscontent-tpe1-1.xx.fbcdn.net%2Fhphotos-xpa1%2Ft31.0-8%2F12891002_1155048391180343_5687560786681931280_o.png&cfs=1",
+    "id": "521085554595481_965064240197608",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 466
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 35
+      }
+    },
+    "power": [
+      958.5,
+      466,
+      35,
+      220
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 113
+    },
+    "created_time": "2016-03-25T03:54:19+0000",
+    "updated_time": "2016-03-25T13:23:23+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "969639729722349"
+    },
+    "message": "大家安安\n\n常常有設計師做好設計之後 工程師很難寫css的情況出現\n\n這次跟某設計師合作\n\n她用Sketch弄好好設計 上傳Zeplin\n\n我直接用web打開Zeplin就能看到設計+各個細節（margin, padding, width ... etc）\n\n甚至連相關圖片都打包好了\n\n幾乎不用再去問設計師任何問題\n\n用過之後 實在非常驚豔\n\n跟大家推薦一下\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://zeplin.io/features.html#developer",
+    "name": "Zeplin",
+    "description": "Collaboration app for UI designers and frontend developers",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC8oXJaOVo4JEsp&w=130&h=130&url=https%3A%2F%2Fzeplin.io%2Fimg%2Ffavicon%2F228x228.png&cfs=1",
+    "id": "521085554595481_968003103237055",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 444
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      698.5,
+      444,
+      19,
+      113
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 69
+    },
+    "created_time": "2016-03-25T03:51:50+0000",
+    "updated_time": "2016-03-26T14:44:12+0000",
+    "from": {
+      "name": "Derek Wang",
+      "id": "920437281311659"
+    },
+    "message": "阿娘萎...筆記\n1.alert 掰掰\n2.confirm 掰掰\n3.close 掰掰\n4.window.open + opener 改方法吧",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://jimmysu.logdown.com/posts/290026-inapp-browser-webview-problem",
+    "name": "你知道你的網站可能在 InAppBrowser/webview 無法使用嗎? « 要改的地方太多了，那就改天吧",
+    "description": "你知道你的購物網站，可能在 Facebook App 裡面無法結帳嗎? 最近遇到一個案例，購物網站上線後，廠商說許多消費者回報「購物車無法刪除商品」，選擇取貨的超商分店後「無法跳回原本的結帳頁...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCaqazvYlmGr6It&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2F-6oBhactpUrc%2FVcXIGi6q6WI%2FAAAAAAAALRc%2Fd3JaK2EUMhc%2Fs1000-Ic42%2Fde36e908-8402-4766-bdb9-44e1595673e0.jpg&cfs=1",
+    "id": "521085554595481_968001996570499",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 171
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      322.5,
+      171,
+      9,
+      69
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 75
+    },
+    "created_time": "2016-03-22T13:01:53+0000",
+    "updated_time": "2016-03-22T13:01:53+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "22個css3 animation範例教學，很值得收錄!\n記得之前有人問到翻頁動畫，裡面也有完整程式碼。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.creativebloq.com/css3/animation-with-css3-712437",
+    "name": "22 stunning examples of CSS3 animation | CSS3 | Creative Bloq",
+    "description": "You no longer need Flash to create web-based animations and interactivity. Here are some of the best experiments in CSS3 animation to inspire you.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCGIGyLnA61ZqNV&w=130&h=130&url=http%3A%2F%2Fmedia.creativebloq.futurecdn.net%2Fsites%2Fcreativebloq.com%2Ffiles%2Farticles%2Farticle%2F2012%2F07%2Fcssmario.jpg&cfs=1",
+    "id": "521085554595481_965811500122882",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 157
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      307,
+      157,
+      0,
+      75
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 52
+    },
+    "created_time": "2016-03-23T06:02:50+0000",
+    "updated_time": "2016-03-23T20:19:33+0000",
+    "from": {
+      "name": "Rex Rex",
+      "id": "10101007382129979"
+    },
+    "message": "全 CSS + JS 特技製作，一個呼籲保育瀕危物種的網頁：\n\nhttp://species-in-pieces.com/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://species-in-pieces.com/#",
+    "name": "In Pieces - 30 Endangered Species",
+    "description": "30 species, 30 pieces. In Pieces is an interactive exhibition of 30 of the world’s most interesting but unfortunately endangered species — their survivals laying literally, in pieces. Explore information, facts and figures and download assets of each unique species.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCNTxkx8Ew3efZT&w=130&h=130&url=http%3A%2F%2Fwww.species-in-pieces.com%2Fimg%2Fog-image.png&cfs=1",
+    "id": "521085554595481_966422130061819",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 179
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      295,
+      179,
+      8,
+      52
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 16
+    },
+    "created_time": "2016-03-22T05:12:47+0000",
+    "updated_time": "2016-03-23T12:55:45+0000",
+    "from": {
+      "name": "余澄弈",
+      "id": "10153216087036552"
+    },
+    "message": "大家好，我公司叫旺宸（未來網路遊戲業務會轉移到子公司登豐資訊，子公司下個月會去設立），母公司主要是做遊戲機台開發，子公司現在要徵求前端 Junior，工作內容主要是 2D Web Game 開發（未來可能會有 3D Web Game）\n\n可在家工作，需視專案狀況，每周 1 ~ 3 日至公司工作開會，公司位於新北市新莊區\n\n本薪 5.5 - 6.5 萬，勞健保等外加（實際到你帳戶一定至少 5.5 - 6.5 萬），年薪 14 個月\n\n技能需求\n1. HTML5 / CSS3 / JavaScript（以純 JavaScript 開發為主）\n　Web Game 有效能問題，所以會盡量擺脫過於複雜的框架進行開發\n2. 熟悉 WebGL / Web Game Framework 者加分\n3. 已服完役\n\n其他需求\n1. 一年以上相關經歷者加分\n2. 具 TypeScript 相關經歷者加分\n3. 具自制力且有幹勁的夥伴\n\n如有意願煩請私訊我詢問，或寄信至 erinus.startup@gmail.com\n\nP.S. 不知道這樣徵才有沒有違反版規，如有的話煩請通知，我會立即撤下，感謝",
+    "id": "521085554595481_965554706815228",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 135
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 79
+      }
+    },
+    "power": [
+      285.5,
+      135,
+      79,
+      16
+    ],
+    "order": 6
+  },
+  {
+    "created_time": "2016-03-22T11:39:55+0000",
+    "updated_time": "2016-03-23T04:32:46+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "小弟我的第一個 react-native 成功上架啦！！/撒花/\n\n使用react-native開發的確省去不少工, 尤其在跨平台上透過檔名xxx.ios.js與xxx.android.js的差異, 就可以輕鬆的決定要import哪支檔案. 同個專案裡甚至可以部分共用, 部分不共用code.\n\n至於第三方 package 的使用上也很方便, 靠 rnpm link (react-native link 多數專案不work)就可以快速使用哩, 但是目前package不夠充足, 大多數的地方還是要靠自己寫native (ex. barcode掃描). 尤其在android遇到sdk衝突(A package 支援 16~22 + B package 支援 20~26 = 只支援 20~22)的問題實在很麻煩, 變成自己必須要fork下來改寫.\n\n雖然有時候會發生重複View會閃退, 同樣的style在A手機沒事在B手機就GG.\n可是整體操作體驗上比起cordova實在好太多, 也許現在不適合用在正式產品上, 不過長遠看來 react-native 會是個好選擇, 而且 https://github.com/facebook/react-native Star數即將來到30k.\n\n題外話, https://apphub.io/ 這個服務值得關注.",
+    "id": "521085554595481_965745843462781",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 216
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      241.5,
+      216,
+      17,
+      0
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 48
+    },
+    "created_time": "2016-03-20T15:59:50+0000",
+    "updated_time": "2016-03-21T12:36:27+0000",
+    "from": {
+      "name": "黃保翕",
+      "id": "10206611907686693"
+    },
+    "message": "[重大漏洞通知] 全平台 (作業系統)、全版本的 Git 命令列工具，被發現一個非常嚴重的程式漏洞，你只要透過 git clone 一個惡意的遠端儲存庫 (remote repository) 或 git push 一個惡意的本地儲存庫到遠端儲存庫，都有可能導致 Git Client 或 Git Server 執行任意程式碼，這種又稱 RCE (Remote Code Execution) 的攻擊手法，此問題 *十分嚴重*，請大家務必轉發給有在用 Git 的朋友知道，轉發時請記得貼上我的說明文字，以免有人會覺得是英文文章而跳過。\n.\n目前只要你安裝的 Git 版本是低於 2.7.4 版都包含此漏洞，請務必盡速升級手邊的所有 Git 工具程式，包含 Git for Windows, GitHub Desktop 等用戶端軟體 ( 由於 TortoiseGit, SourceTree 預設都直接使用 Git for Windows 工具，因此不用特別更新 )，以及 GitLabs 等伺服器端軟體，都應該立即升級到最新版本，要快！ :-O",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://bit.ly/25dhr1u",
+    "name": "Remote Code Execution in all git versions (client + server) < 2.7.4: CVE-2016-2324, CVE-2016‑2315",
+    "description": "This has the potential to be huge: server and client side remote code execution through a buffer overflow in all git versions before 2.7.1 2.7.4 (see update). Ok the bug works by pushing or cloning a repository with a large filename or a large number of nested trees. [...] The point is affected vers…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB2mIO6vFMZPPMa&w=130&h=130&url=https%3A%2F%2Fma.ttias.be%2Fwp-content%2Fuploads%2F2016%2F03%2Fgit_cve_vulnerability.png&cfs=1",
+    "id": "521085554595481_964473126923386",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 133
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      236.5,
+      133,
+      5,
+      48
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 29
+    },
+    "created_time": "2016-03-21T10:12:20+0000",
+    "updated_time": "2016-03-23T01:48:06+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "969639729722349"
+    },
+    "message": "大家安安\n\n小弟一直覺得css的class name命名很難\n\n想學點css架構方法 但又不想搞得太複雜\n\n剛剛找到了這個\n\nhttp://rscss.io\n\n試了一下 非常簡單有效\n\n只要分components, elements, variants, hellpers四種即可\n\n推薦給大家",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://rscss.io/",
+    "name": "rscss",
+    "description": "Reasonable System for CSS Stylesheet Structure. A set of simple ideas to guide your process of building maintainable CSS.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDg2S8Z8bHnYQR8&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F74385%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_964954616875237",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 123
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      205,
+      123,
+      16,
+      29
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-03-26T05:55:26+0000",
+    "updated_time": "2016-03-28T12:00:08+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "2016-03-26 第五屆HTML5峰會@台灣台北",
+    "id": "521085554595481_968887389815293",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 177
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      199.5,
+      177,
+      15,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 29
+    },
+    "created_time": "2016-03-26T11:12:06+0000",
+    "updated_time": "2016-03-29T16:01:40+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "因為上禮拜反應還蠻不錯的，所以又手癢寫了一篇。\n一樣用輕鬆的語調敘寫，希望飯後閒著看的各位會喜歡。\n如果漏掉什麼，也歡迎給我意見，謝謝各位:)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://noootown.wordpress.com/2016/03/23/frontend-backend-breakfast/",
+    "name": "[前端連載] 買早餐也能了解前端 vs 後端？",
+    "description": "簡介 上次講完了網路的架構，今天來談點前端和後端的東西吧。我們常聽到的前端和後端（或者前台與後台），其實是一個…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCZEduAcMhlI9Qs&w=130&h=130&url=https%3A%2F%2Fnoootown.files.wordpress.com%2F2016%2F03%2Fbackend-news1.png&cfs=1",
+    "id": "521085554595481_969034409800591",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 132
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      197.5,
+      132,
+      5,
+      29
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 31
+    },
+    "created_time": "2016-03-21T04:07:57+0000",
+    "updated_time": "2016-03-21T19:03:46+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "前端學習整理資源 ",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/AutumnsWind/Front-end-tutorial",
+    "name": "AutumnsWind/Front-end-tutorial",
+    "description": "Front-end-tutorial - :panda_face:最全的资源教程-前端涉及的所有知识体系",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD555IEKB4q-Pk1&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10759713%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_964819143555451",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 88
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      175.5,
+      88,
+      17,
+      31
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 29
+    },
+    "created_time": "2016-03-23T08:17:33+0000",
+    "updated_time": "2016-03-23T08:17:33+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "收集很多精美的Web/App的前端設計網站, 進去每個分類的Resource子分類還有收集一些很有設計感的opensource\n\n找工作嗎? https://goo.gl/Sj1dti\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.uplabs.com/",
+    "name": "UpLabs",
+    "description": "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAkku15XjUlwt5Y&w=130&h=130&url=http%3A%2F%2Fwww.uplabs.com%2Fassets%2Flogo%2Fmarket%2Fdefault--128x128-04b8a03e2683735b4b37b7477d450fcdb9dfe427b0d47e7156419a5cdd2ecd70.png&cfs=1",
+    "id": "521085554595481_966487656721933",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 61
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      119,
+      61,
+      0,
+      29
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-03-22T17:13:43+0000",
+    "updated_time": "2016-03-26T07:35:22+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "嗨~ 大家好~\n\n社團裡優質分享文眾多，\n但 Facebook 先天不易搜尋，\n故希望以每週精選的方式，為社群留些紀錄。\n\n目前已先草擬了運作流程 (可見 README )\n希望能有五六位熱血前端幫忙大家整理文章，讓週刊可以生出來\n\n有興趣的歡迎報名~\n( 下方用留言，或是去第一個 issue 報名都可以~  \n\n任務：\n* 輪流整理\n* 每週要看文章來協助篩選\n\n需求：\n* 平常有在看大家的分享文\n* 能在 GitHub 上互動 ( 打字 & 按讚 XD )\n\n薪酬：\n無薪志工 ( 會不會被劣退呀 XDD\n\nhttps://github.com/f2etw/weekly-collection/",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1082445825156533&set=gm.965967576773941&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-0/s130x130/1422461_1082445825156533_6491884051885889856_n.jpg?oh=0fb8c21fd33fa763495747f0fcf49a8e&oe=5772D451",
+    "id": "521085554595481_965967576773941",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      93.5,
+      71,
+      11,
+      3
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-03-21T03:37:56+0000",
+    "updated_time": "2016-03-21T05:50:03+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "HTML進階考題，大家可以試試，看看對幾題",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.flightsimaviation.com/quiz-web_html_advanced.html",
+    "name": "Quiz: Advanced HTML - Quizzes - Flightsim Aviation Zone",
+    "description": "Quiz: Advanced HTML - Quizzes - Flightsim Aviation Zone - Number 1 Flight Simulation and Aviation Resource! Information, Tools, Multimedia, Downloads, Databases, Links and more.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_wzVKM1Ig-qFJ&w=130&h=130&url=http%3A%2F%2Fwww.flightsimaviation.com%2Fimages%2Fgui%2Fheader_logo.gif&cfs=1",
+    "id": "521085554595481_964802710223761",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 25
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      76.5,
+      25,
+      21,
+      10
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-03-21T04:17:31+0000",
+    "updated_time": "2016-03-22T19:57:23+0000",
+    "from": {
+      "name": "Shan Chen Chang",
+      "id": "787886751346692"
+    },
+    "message": "請問html css有什麼證照可以考嗎 感恩",
+    "id": "521085554595481_964824276888271",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 38
+      }
+    },
+    "power": [
+      65,
+      6,
+      38,
+      1
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-03-24T04:25:07+0000",
+    "updated_time": "2016-03-24T04:25:07+0000",
+    "from": {
+      "name": "Ming Ching Chen",
+      "id": "10203804822641050"
+    },
+    "message": "http://blog.mozilla.com.tw/posts/8618/a-frame-for-360syria  網頁也得跟上流行，VR WEB",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.mozilla.com.tw/posts/8618/a-frame-for-360syria",
+    "name": "Mozilla 的 A-Frame 為虛擬實境新網站 #360Syria 提供震撼效果 | 部落格 | Mozilla Taiwan",
+    "description": "提供 Mozilla 與 Firefox、Firefox OS 的五花八門最新訊息，包括 Firefox 開發、Firefox 最新功能、Firefox 使用教學、Firefox 錯誤迷思導正、Firefox 好用附加元件訊息，以及由 Mozilla Taiwan 官方舉辦的各式 Firefox 活動訊息、新聞、部落文分享",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCPoiAHrokwmnNx&w=130&h=130&url=http%3A%2F%2Fblog.mozilla.com.tw%2Fwp-content%2Fuploads%2FFoS-1024x637.jpg&cfs=1",
+    "id": "521085554595481_967177553319610",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 38
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      62,
+      38,
+      0,
+      12
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-03-22T08:56:19+0000",
+    "updated_time": "2016-03-22T18:18:10+0000",
+    "from": {
+      "name": "Claudia Wen",
+      "id": "203809316656813"
+    },
+    "message": "想請問一下各位\nhttp://www.kyoto-u.ac.jp/explore/professor/02_uchida.html\n這個網站的人物圖片會跟著滑鼠的滾輪變化\n覺得很厲害 想請問是怎麼寫出來的?還是會有相對應的套件嗎?\n\n感謝再感謝：）",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.kyoto-u.ac.jp/explore/professor/02_uchida.html",
+    "name": "内田由紀子先生｜京大先生図鑑｜探検！京都大学",
+    "description": "フィールドワーカーになって京大をバーチャル探検！、京大の先生の生態を紹介する図鑑、ノーベル賞受賞者のメッセージ、データで紐解く京大の特色などを紹介。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDQgJr5Z_Px2M89&w=130&h=130&url=http%3A%2F%2Fwww.kyoto-u.ac.jp%2Fexplore%2Fcommon%2Fimg%2Fogp_image.jpg&cfs=1",
+    "id": "521085554595481_965658703471495",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 32
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      61,
+      32,
+      10,
+      7
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-03-25T00:15:31+0000",
+    "updated_time": "2016-03-25T10:33:06+0000",
+    "from": {
+      "name": "Muyueh Lee",
+      "id": "933186230130612"
+    },
+    "message": "Google 前幾天開放雲端的語音辨識服務，所以怎麼樣設計一個聲控為基礎的網頁？\n\n我們先前有建立幾個語音互動為基礎的介面(http://sheethub.github.io/smartcity2016/map/map2.5d.html)，使用的還是舊的瀏覽器辨識，所以我們對這一個消息真的蠻興奮的。接下來再跟大家分享開發中的技術挑戰！",
+    "link": "https://cloud.google.com/speech/",
+    "name": "資料視覺化 李慕約公司 / Muyueh Data Visualization",
+    "description": "新的媒介就有新的 UI/UX 互動方式，所以比方因為手機平板的出現有整個關於 RWD 的設計與實踐，問題會是下一個 UI/UX 互動方式是什麼，下一個是 RWD 是什麼？\n\n我覺得是聲控，除了跟未來的裝置相容，它也跟過去的所有裝置相容，而且他的互動方式更直覺。\n\n為什麼聲控技術存在那麼久了，過去都沒有起飛，憑什麼現在會？\n\n理論是因為這是互動技術，所以都會有一個使用門檻（想像 90% ~ 95% 之間），也就是還沒有過這一個門檻使用者不太喜歡用，因為太不準了。包含台灣本土的科技廠聲控一出來就可以做到 60%~70%，但要進步到 90%~95%，就真的是要很多很多的資料跟努力了。這是我個人非常關注幾個大廠，包含 Google，包含被 Facebook 併購的 wit.ai。所以你可能也注意到，Facebook 創辦人馬克·扎克伯格 今年的個人願望就是可以實作可以語音對話的個人助理。\n\n過去 Google 只把他的便是包在裝置跟瀏覽器上，所以要在 Android 手機，以及瀏覽器裡面才可以使用到。所以比方說 Ronny 跟我幾個禮拜前，還使用這樣的技術做了一個「聲控地圖」，但只有在 Chrome 上使用的時候會用到 Google 的辨識：http://sheethub.github.io/smartcity2016/map/map2.5d.html\n\n雖然只是實驗性質，還很不穩定，但我們自己是覺得這樣互動的感覺真的很神奇。\n\n我們在對賭的技術發展，是有一天 Google 會釋出雲端版的語音辨識，就真的可以開始建立語音聲控的網頁服務了。一旦這一種服務推出後，服務就會因為大量使用，而讓辨識技術變得更好。\n\n\n然後前幾天這終於發生了，Google 真的推出雲端版的語音辨識了！\nhttps://cloud.google.com/speech/\n\n我們下一個主題可以分享我們截至目前為止建立語音服務的挑戰，歡迎關注。\n\n\n\"Live in the future and build what's missing.\"\n- Paul Graham",
+    "id": "521085554595481_967836326587066",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      56,
+      44,
+      8,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-03-24T00:12:11+0000",
+    "updated_time": "2016-03-27T04:07:12+0000",
+    "from": {
+      "name": "李安甡",
+      "id": "835259753287579"
+    },
+    "message": "大家好～\n目前已做前端碰快兩年，對於 UI 設計師有點疑惑\n我們公司目前 UI 設計師出圖的方式是這樣\nUI 圖都只丟 pdf 甚至是 png 上頭也沒有標明布局格線、尺寸、色票，更不用說像是顯示當下頁面的底線放錯位置...（例如目錄有「參數設定」與「系統設定」，明明目前 UI 圖是「參數設定」，結果他卻把目錄上「系統設定」的欄位做出選取的特效）\n\n他們那邊是常常說他們很忙，不只一個專案要設計，所以所謂的 UI 圖其實只是示意一下而已，請問大家公司裡的 UI 設計師 也是這樣的嗎？\n\n謝謝。",
+    "id": "521085554595481_967037330000299",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 18
+      }
+    },
+    "power": [
+      53,
+      22,
+      18,
+      2
+    ],
+    "order": 20
+  }
+]
