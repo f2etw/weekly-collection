@@ -8,9 +8,15 @@
       {% assign item_link = item.permalink %}
     {% endif %}
 
-      <a class="Card__cover-link" href="{{ item_link }}" style="background-image: url('{{ item.cover }}');">
-        <img class="Card__cover" src="{{ item.cover }}" alt="{{ item.title }}">
+
     {% if item.cover and item.cover != empty %}
+      {% if item.resize %}
+       {% assign item_cover = item.cover | strip_url_protocol | prepend: '//images.weserv.nl/?url=' | append: '&w=400&il' %}
+      {% else %}
+        {% assign item_cover = item.cover %}
+      {% endif %}
+      <a class="Card__cover-link" href="{{ item_link }}" style="background-image: url('{{ item_cover }}');">
+        <img class="Card__cover" src="{{ item_cover }}" alt="{{ item.title }}">
       </a>
     {% else %}
       <a class="Card__cover-link" href="{{ item_link }}"></a>
