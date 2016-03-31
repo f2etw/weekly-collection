@@ -2,7 +2,7 @@ module StripKUrlProtocolFilter
 
   # Return the url without protocol
   def strip_url_protocol(url)
-    return url.gsub(/^https?:\/\//, '')
+    url.sub(/https?:\/\//, '')
   end
 
 end
