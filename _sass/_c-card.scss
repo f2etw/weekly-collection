@@ -10,14 +10,11 @@
   flex: 1 0 15em;
   margin: 0 1rem 2rem;
   padding-bottom: 1.5rem;
-  // box-shadow: 0 2px 10px -1px rgba(#000, .2);
   background-color: #fff;
   transition: box-shadow .3s;
 
   &:hover {
-    // box-shadow: 0 2px 10px -1px rgba(#000, .5);
     box-shadow: 0px 0px 0px 3px rgb(35, 125, 172) inset;
-    
   }
 
   &:empty {
