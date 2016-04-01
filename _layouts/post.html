@@ -3,36 +3,36 @@ layout: default
 ---
 
 <article class="post">
-  <div class="container">
-    <h1>{{ page.title }}</h1>
+  <div class="mb3">
+    <h1 class="page-title mb2 center ff-ss">{{ page.title }}</h1>
 
-    <div class="date">
-      <span class="date__text">since: {{ page.date-since | date: "%Y-%m-%d" }}</span>
-      <span class="date__text">until: {{ page.date-until | date: "%Y-%m-%d" }}</span>
-
-    </div>
-    <div class="date">
-      <span class="date__text">{% if page.volunteer %}
-        本期由 {{ page.volunteer }} 匯編，
-        {% endif %}
-        publish on {{ page.publish-date | date: "%Y-%m-%d" }} 
-      </span>
+    <div class="center">
+      <div class="time">since: {{ page.date-since | date: "%Y-%m-%d" }}</div>
+      <div class="time">until: {{ page.date-until | date: "%Y-%m-%d" }}</div>
     </div>
   </div>
 
-  <div class="entry">
-    <div class="container">
-      {{ content }}
-    </div>
+  <div>
+    {{ content }}
+  </div>
+
+  <div class="right-align pr2">
+    <span class="italic">
+      publish on {{ page.publish-date | date: "%Y-%m-%d" }}
+      {% if page.volunteer %}
+      <br>
+      本期由 {{ page.volunteer }} 彙編
+      {% endif %}
+    </span>
   </div>
 
   <div class="PageNavigation">
     {% if page.previous.url %}
-      <a class="prev" href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+      <a class="PageNavigation__prev" href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
     {% endif %}
 
     {% if page.next.url %}
-      <a class="next" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+      <a class="PageNavigation__next" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
     {% endif %}
   </div>
 

@@ -1,13 +1,13 @@
 
-<div class="Card-box">
-{% for item in include.items %}
-  <article class="Card">
+<div class="Cards sm-flex flex-wrap pt2">
+  {% for item in include.items %}
+  <div class="flex sm-col-6 md-col-4 lg-col-3">
+  <article class="Card flex flex-column flex-auto mx2 mb3">
     {% if item.link %}
       {% assign item_link = item.link %}
     {% else %}
       {% assign item_link = item.permalink %}
     {% endif %}
-
 
     {% if item.cover and item.cover != empty %}
       {% if item.resize %}
@@ -15,35 +15,34 @@
       {% else %}
         {% assign item_cover = item.cover %}
       {% endif %}
-      <a class="Card__cover-link" href="{{ item_link }}" style="background-image: url('{{ item_cover }}');">
-        <img class="Card__cover" src="{{ item_cover }}" alt="{{ item.title }}">
+      <a class="Card__cover--link" href="{{ item_link }}" style="background-image: url('{{ item_cover }}');">
+        <img class="Card__cover fit" src="{{ item_cover }}" alt="{{ item.title }}">
       </a>
     {% else %}
-      <a class="Card__cover-link" href="{{ item_link }}"></a>
+      <a class="Card__cover--link" href="{{ item_link }}"></a>
     {% endif %}
 
-    <div class="Card__info">
+    <div class="flex flex-column flex-auto px2">
 
-      <h3 class="Card__title">
-        <a href="{{ item_link }}">{{ item.title }}</a>
+      <h3 class="line-height-3">
+        <a class="td-dash history-link" href="{{ item_link }}">{{ item.title }}</a>
       </h3>
 
-      <p class="Card__intro">
+      <p class="Card__desc flex-auto mt0 mb3">
         {{ item.intro }}
       </p>
 
-      <div class="Metainfo">
-        <a class="Metainfo__sharer" href="https://fb.com/{{ item.sharer-id }}">
+      <div class="Card__meta right-align pt2 pb3">
+        <time class="time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
+        <a class="td-dash" href="{{ item.permalink }}">permalink</a>
+        <br>
+        <a class="text-decoration-none" href="https://fb.com/{{ item.sharer-id }}">
           {{ item.sharer-name }}
-          <img src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
+          <img class="circle align-middle" src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32" alt="{{ item.sharer-name }}">
         </a>
-        <time class="Metainfo__time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
-        <a class="Metainfo__permalink" href="{{ item.permalink }}">permalink</a>
       </div>
     </div>
   </article>
-{% endfor %}
-  <article class="Card"></article>
-  <article class="Card"></article>
-  <article class="Card"></article>
+  </div>
+  {% endfor %}
 </div>

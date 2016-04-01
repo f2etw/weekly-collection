@@ -10,43 +10,46 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <div class="workspace">
+      <header class="Header">
+        <div class="center sm-flex flex-wrap max-width-3 mx-auto mb4 pt3 pb2 px1">
+          <a class="text-decoration-none" href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" width="70" height="70" alt="{{ site.org-name }} logo" /></a>
+          <div class="SiteCaption pb2 pl2">
+            <h1 class="SiteCaption__title m0 regular"><a class="text-decoration-none" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            {% unless page.title %}
+            <p class="SiteCaption__desc m0 pl1">{{ site.description }}</p>
+            {% endunless %}
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/tags">Tags</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+          <nav class="Nav flex items-end text-right sm-center">
+            <a class="Nav__link td-dash mx1 text-decoration-none" href="{{ site.baseurl }}/">Blog</a>
+            <a class="Nav__link td-dash mx1 text-decoration-none" href="{{ site.baseurl }}/tags">Tags</a>
+            <a class="Nav__link td-dash mx1 text-decoration-none" href="{{ site.baseurl }}/about">About</a>
           </nav>
-        </header>
-      </div>
+        </div>
+      </header>
+
+      {% if page.layout == 'post' %}
+      <main class="max-width-5 mx-auto mb4 px1" role="main">
+      {% else %}
+      <main class="max-width-3 mx-auto mb4 px1" role="main">
+      {% endif %}
+        {{ content }}
+      </main>
     </div>
 
-    <div id="main" role="main">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
+    <footer class="Footer center bg-silver">
+      <div class="max-width-3 mx-auto py4 bg-silver">
+        {% include svg-icons.html %}
       </div>
-    </div>
+    </footer>
 
     {% include counter.html %}
     {% include analytics.html %}

@@ -1,0 +1,50 @@
+body {
+  line-height: 1.4;
+  color: #333;
+  font-family: serif;
+  background-color: darken(#fff, 4);
+}
+
+.time {
+  font-family: "Consolas", Monaco, monospace;
+}
+
+.td-dash {
+  background-repeat: repeat-x;
+  background-size: 6px 1px;
+  background-position: 0 99%;
+  text-decoration: none;
+
+  &:hover {
+    background-image: linear-gradient(to right, currentColor 4px, transparent 4px);
+  }
+}
+
+a {
+  color: $c-link;
+  transition: color .2s;
+
+  &:hover {
+    color: inherit;
+  }
+}
+
+.history-link {
+  &:visited {
+    color: lighten($c-link, 10);
+  }
+
+  &:hover {
+    color: inherit;
+  }
+}
+
+.page-title {
+  font-size: 3em;
+  font-size: calc(2em + 2vw);
+  letter-spacing: -1px;
+}
+
+.ff-ss {
+  font-family: sans-serif;
+}

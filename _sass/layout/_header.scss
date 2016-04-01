@@ -1,0 +1,42 @@
+.Header {
+  position: relative;
+  background-color: $c-white;
+  box-shadow: 0 3px .5em -3px rgba($c-black, .15);
+  font-family: sans-serif;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: $c-link;
+    }
+  }
+}
+
+.SiteCaption {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.SiteCaption__desc {
+  opacity: .5;
+  font-style: italic;
+  font-family: serif;
+}
+
+.Nav {
+  justify-content: center;
+}
+
+@media #{$breakpoint-sm} {
+  .Header {
+    text-align: left;
+  }
+
+  .SiteCaption {
+    justify-content: space-between;
+  }
+}

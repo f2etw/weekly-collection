@@ -16,10 +16,12 @@ permalink: /tags/
 {% endfor %}
 </ul>
 
+<hr>
+
 {% for tag in site.tags %}
 <h3 id="tag-{{ tag[0] }}" class="p-tag">
   <a href="#tag-{{ tag[0] }}" class="anchor">⚓ {{ tag[0] }}</a><a href="#" class="back-to-top"></a>
-  <a href="#">back to top</a>
+  <a href="#">back to top ⤴</a>
 </h3>
 
 <ul>

@@ -1,0 +1,6 @@
+@mixin fill($dir: 'full') {
+  @if $dir == 'full' or $dir != 'top'   { bottom: 0; }
+  @if $dir == 'full' or $dir != 'bottom'{ top: 0;    }
+  @if $dir == 'full' or $dir != 'left'  { right: 0;  }
+  @if $dir == 'full' or $dir != 'right' { left: 0;   }
+}

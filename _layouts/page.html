@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<article class="page">
-  <div class="container">
-    <h1>{{ page.title }}</h1>
+<article class="Page px3 pt2 pb4 rounded">
+  <div class="mb3">
+    <h1 class="page-title mb2 center ff-ss">{{ page.title }}</h1>
   </div>
-  <div class="entry">
-    <div class="container">
-      {{ content }}
-    </div>
+
+  <div>
+    {{ content }}
   </div>
 </article>
