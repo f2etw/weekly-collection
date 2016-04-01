@@ -19,20 +19,12 @@ org-name: F2ETW
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook: groups/f2e.tw
-  flickr:
-  github: f2etw/weekly-collection
-  instagram:
-  linkedin:
-  pinterest:
+  # email:
+  github: https://github.com/f2etw/weekly-collection
+  facebook: https://www.facebook.com/groups/f2e.tw
+  gitter: https://gitter.im/f2etw/weekly-collection
   rss: true # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  # twitter:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
