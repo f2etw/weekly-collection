@@ -1,0 +1,16 @@
+.Nav {
+  font-size: 1.1em;
+}
+
+.Nav__link {
+  background-size: 6px 2px;
+
+  &.Nav__link {
+    color: $c-link;
+  }
+
+  &:hover {
+    color: inherit;
+    text-shadow: 0 0 1px;
+  }
+}

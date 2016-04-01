@@ -1,0 +1,24 @@
+.Footer {
+  background-color: darken($c-white, 12);
+  box-shadow: inset 0 4px .5em -3px rgba($c-black, .3);
+}
+
+.Footer__link {
+  &.Footer__link--github   {color: #333; }
+  &.Footer__link--facebook {color: #3b5998; }
+  &.Footer__link--gitter   {color: #ed1965; }
+  &.Footer__link--rss      {color: #f26522; }
+}
+
+.SVGIcon {
+  width: 3em;
+  height: 3em;
+  fill: currentColor;
+  opacity: .6;
+  transition: opacity .3s;
+  filter: drop-shadow(2px 2px 1px rgba($c-black,.8));
+
+  .Footer__link:hover & {
+    opacity: 1;
+  }
+}
