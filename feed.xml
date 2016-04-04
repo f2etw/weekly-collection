@@ -3,10 +3,30 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="/feed.xml" rel="self" type="application/atom+xml" />
 <link href="/" rel="alternate" type="text/html" />
-<updated>2016-04-01T08:58:10+08:00</updated>
+<updated>2016-04-05T01:47:42+08:00</updated>
 <id>/</id>
 <title>Weekly Collection @F2ETW</title>
 <subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
+<entry>
+<title>Colection #001</title>
+<link href="/collection/001/" rel="alternate" type="text/html" title="Colection #001" />
+<published>2016-03-20T00:00:00+08:00</published>
+<updated>2016-03-20T00:00:00+08:00</updated>
+<id>/collection/001</id>
+<content type="html" xml:base="/collection/001/">&lt;p&gt;{% include card.html items=site.data.2016-03-20 %}&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;※ 編按：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;希望大家多多參與社團上貼文的討論，&lt;br /&gt;
+討論及分享，將更能讓你喜愛的文章上榜唷~&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+<category term="weekly-popular" />
+<summary>                                                              怎麼將內網的 localhost 讓外面的人都看得到呢？用用 ngrok 吧！ - 転転 |                    Hsiang Lee 分享她們開發團隊使用的一款工具: ngrok，可讓自己本機的 localhost 分享給其他人觀看，demo 的輔助工具                    2016-03-21        permalink                          Hsiang Lee                                                                                              Zeplin                    能直接看 sketch 檔案內的規格的輔助工具: Zeplin 又被分享了一次囉~                    2016-03-25        permalink                          尤川豪                                                                                              你知道你的網站可能在 InAppBrowser/webview 無法使用嗎? « 要改的地方太多了，那就改天吧                    Derek Wang 分享了這篇關於手機 APP 內置瀏覽器陷阱的去年文章；雖然目前部份已改善了，仍可作為測試參考資料                    2016-03-25        permalink                          Derek Wang                                                                                              22 stunning examples of CSS3 animation | CSS3 | Creative Bloq                    林靜君分享了這篇關於 CSS animation 的文章，雖然是 2014 所寫的，不過或許也有些例子的使用方式也能帶來些新的啟發                    2016-03-22        permalink                          林靜君                                                                                              In Pieces - 30 Endangered Species                    華麗的「In Pieces」再次成為版上的焦點。這一去年的推出的專案，主題為 30 個瀕危的物種，每個動物都以 30 片三角組成，其背後的 JS 與 CSS 處理方式可以參考社團內分享的舊文                    2016-03-23        permalink                          Rex Rex                                                                                              臺北市社會局x數位災民證APP                    YuTin Liu 分享了他與臺北市社會局合作的數位災民證 APP 專案。專案目的主要為災害避難處所管理 &amp;amp; 識別的協助系統                    2016-03-22        permalink                          YuTin Liu                                                                                              Remote Code Execution in all git versions (client + server) &amp;lt; 2.7.4: CVE-2016-2324, CVE-2016‑2315                    保哥分享了這篇關於 Git 上可操作 Remote Code Execution 攻擊的程式漏洞。並提醒盡快升級至 2.7.4 以上                    2016-03-20        permalink                          黃保翕                                                                                              rscss                    尤川豪分享了 rscss (Reasonable System for CSS Stylesheet Structure)這一 CSS 命名方針，裡頭介紹了如何管理 CSS 命名而不失去理智。若還未有一套固有的整理方式，不妨多加參考借鏡                    2016-03-21        permalink                          尤川豪                                                                                              [前端連載] 買早餐也能了解前端 vs 後端？                    邱弘毅再次帶來輕鬆的分享是以買早餐的過程來簡介網頁前端與後端                    2016-03-26        permalink                          邱弘毅                                                                          2016-03-26 第五屆HTML5峰會@台灣台北                    由 YuTin Liu 所拍攝的活動現場一覽                    2016-03-26        permalink                          YuTin Liu                                  </summary>
+</entry>
 <entry>
 <title>Colection #000</title>
 <link href="/collection/000/" rel="alternate" type="text/html" title="Colection #000" />
