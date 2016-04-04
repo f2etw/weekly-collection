@@ -1,13 +1,41 @@
-{% if site.footer-links.dribbble %}<a href="https://dribbble.com/{{ site.footer-links.dribbble }}"><i class="svg-icon dribbble"></i></a>{% endif %}
-{% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i></a>{% endif %}
-{% if site.footer-links.facebook %}<a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><i class="svg-icon facebook"></i></a>{% endif %}
-{% if site.footer-links.flickr %}<a href="https://www.flickr.com/{{ site.footer-links.flickr }}"><i class="svg-icon flickr"></i></a>{% endif %}
-{% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}"><i class="svg-icon github"></i></a>{% endif %}
-{% if site.footer-links.instagram %}<a href="https://instagram.com/{{ site.footer-links.instagram }}"><i class="svg-icon instagram"></i></a>{% endif %}
-{% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="svg-icon linkedin"></i></a>{% endif %}
-{% if site.footer-links.pinterest %}<a href="https://www.pinterest.com/{{ site.footer-links.pinterest }}"><i class="svg-icon pinterest"></i></a>{% endif %}
-{% if site.footer-links.rss %}<a href="{{ site.baseurl }}/feed.xml"><i class="svg-icon rss"></i></a>{% endif %}
-{% if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a>{% endif %}
-{% if site.footer-links.stackoverflow %}<a href="http://stackoverflow.com/{{ site.footer-links.stackoverflow }}"><i class="svg-icon stackoverflow"></i></a>{% endif %}
-{% if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}"><i class="svg-icon youtube"></i></a>{% endif %}
-{% if site.footer-links.googleplus %}<a href="https://plus.google.com/{{ site.footer-links.googleplus }}"><i class="svg-icon googleplus"></i></a>{% endif %}
+{% for link in site.footer-links %}
+  {% if link[1] and link[1] != empty %}
+    {% if link[0] == 'rss' %}
+      {% assign footerlink = site.baseurl | append: '/feed.xml' %}
+    {% else %}
+      {% assign footerlink = link[1] %}
+    {% endif %}
+    <a class="Footer__link Footer__link--{{ link[0] }} text-decoration-none" href="{{ footerlink }}" title="{{ link[0] | upcase }}">
+      <svg class="SVGIcon"><use xlink:href="#icon-{{ link[0] }}" /></svg>
+    </a>
+  {% endif %}
+{% endfor %}
+
+<svg height="0" style="position: absolute; width: 0; height: 0;" version="1.1" width="0" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <symbol id="icon-gitter" viewbox="0 0 32 32">
+    <title>
+      gitter
+    </title>
+    <path d="M27.356 1.75h-22.712c-1.599 0-2.894 1.296-2.894 2.894v22.712c0 1.599 1.296 2.894 2.894 2.894h22.712c1.599 0 2.894-1.296 2.894-2.894v-22.712c0-1.599-1.296-2.894-2.894-2.894zM12.885 18.231h-1.326v-9.808h1.326v9.808zM15.538 23.577h-1.326v-12.903h1.326v12.903zM18.231 23.577h-1.326v-12.903h1.326v12.903zM20.884 18.231h-1.326v-7.557h1.326v7.557z"></path>
+  </symbol>
+  <symbol id="icon-github" viewbox="0 0 27 32">
+    <title>
+      github
+    </title>
+    <path d="M7.036 24.143q-0.143 0.161-0.357-0.054-0.232-0.196-0.071-0.339 0.143-0.161 0.357 0.054 0.214 0.196 0.071 0.339zM6.286 23.054q0.161 0.214 0 0.339-0.143 0.107-0.304-0.125t0-0.321q0.161-0.125 0.304 0.107zM5.196 21.982q-0.089 0.125-0.232 0.036-0.179-0.089-0.125-0.214 0.054-0.089 0.232-0.036 0.179 0.089 0.125 0.214zM5.75 22.589q-0.107 0.125-0.286-0.054-0.161-0.196-0.036-0.286 0.107-0.107 0.286 0.054 0.161 0.196 0.036 0.286zM8.054 24.589q-0.071 0.214-0.339 0.107-0.304-0.071-0.232-0.268t0.339-0.125q0.286 0.089 0.232 0.286zM9.179 24.679q0 0.196-0.286 0.196-0.304 0.036-0.304-0.196 0-0.196 0.286-0.196 0.304-0.036 0.304 0.196zM10.214 24.5q0.036 0.179-0.25 0.25t-0.321-0.143 0.25-0.268q0.286-0.036 0.321 0.161zM27.429 7.429v17.143q0 2.125-1.509 3.634t-3.634 1.509h-4q-0.286 0-0.438-0.018t-0.348-0.089-0.286-0.259-0.089-0.491v-4.268q0-1.732-0.929-2.536 1.018-0.107 1.83-0.321t1.679-0.696 1.446-1.188 0.946-1.875 0.366-2.688q0-2.161-1.411-3.679 0.661-1.625-0.143-3.643-0.5-0.161-1.446 0.196t-1.643 0.786l-0.679 0.429q-1.661-0.464-3.429-0.464t-3.429 0.464q-0.286-0.196-0.759-0.482t-1.491-0.688-1.536-0.241q-0.786 2.018-0.125 3.643-1.411 1.518-1.411 3.679 0 1.518 0.366 2.679t0.938 1.875 1.438 1.196 1.679 0.696 1.83 0.321q-0.714 0.643-0.875 1.839-0.375 0.179-0.804 0.268t-1.018 0.089-1.17-0.384-0.991-1.116q-0.339-0.571-0.866-0.929t-0.884-0.429l-0.357-0.054q-0.375 0-0.518 0.080t-0.089 0.205 0.161 0.25 0.232 0.214l0.125 0.089q0.393 0.179 0.777 0.679t0.563 0.911l0.179 0.411q0.232 0.679 0.786 1.098t1.196 0.536 1.241 0.125 0.991-0.063l0.411-0.071q0 0.679 0.009 1.839t0.009 1.214q0 0.393-0.196 0.598t-0.393 0.232-0.589 0.027h-4q-2.125 0-3.634-1.509t-1.509-3.634v-17.143q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"></path>
+  </symbol>
+  <symbol id="icon-facebook" viewbox="0 0 27 32">
+    <title>
+      facebook
+    </title>
+    <path d="M22.286 2.286q2.125 0 3.634 1.509t1.509 3.634v17.143q0 2.125-1.509 3.634t-3.634 1.509h-3.357v-10.625h3.554l0.536-4.143h-4.089v-2.643q0-1 0.42-1.5t1.634-0.5l2.179-0.018v-3.696q-1.125-0.161-3.179-0.161-2.429 0-3.884 1.429t-1.455 4.036v3.054h-3.571v4.143h3.571v10.625h-9.5q-2.125 0-3.634-1.509t-1.509-3.634v-17.143q0-2.125 1.509-3.634t3.634-1.509h17.143z"></path>
+  </symbol>
+  <symbol id="icon-rss" viewbox="0 0 27 32">
+    <title>
+      rss
+    </title>
+    <path d="M9.143 22.857q0-0.946-0.67-1.616t-1.616-0.67-1.616 0.67-0.67 1.616 0.67 1.616 1.616 0.67 1.616-0.67 0.67-1.616zM15.411 24.536q-0.232-4.143-3.161-7.071t-7.071-3.161q-0.25-0.018-0.429 0.161t-0.179 0.411v2.286q0 0.232 0.152 0.393t0.384 0.179q2.75 0.196 4.714 2.161t2.161 4.714q0.018 0.232 0.179 0.384t0.393 0.152h2.286q0.232 0 0.411-0.179t0.161-0.429zM22.268 24.554q-0.089-2.75-1-5.313t-2.491-4.643-3.661-3.661-4.643-2.491-5.313-1q-0.25-0.018-0.411 0.161-0.179 0.179-0.179 0.411v2.286q0 0.232 0.161 0.393t0.393 0.179q3.643 0.125 6.75 1.991t4.973 4.973 1.991 6.75q0.018 0.232 0.179 0.393t0.393 0.161h2.286q0.232 0 0.411-0.179 0.196-0.161 0.161-0.411zM27.429 7.429v17.143q0 2.125-1.509 3.634t-3.634 1.509h-17.143q-2.125 0-3.634-1.509t-1.509-3.634v-17.143q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"></path>
+  </symbol>
+</defs>
+</svg>

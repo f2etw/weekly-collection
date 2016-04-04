@@ -1,0 +1,9 @@
+.Page {
+  font-size: 1.2em;
+  background-color: rgba($c-white, .9);
+  box-shadow: inset 1px 2px .25em rgba($c-black, .25);
+
+  a {
+    @extend .td-dash;
+  }
+}

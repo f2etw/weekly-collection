@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div class="container">
-  <ul class="posts">
+<div class="Page px4 pt3 pb3 rounded">
+  <ul class="PostLists list-reset">
     {% for post in site.posts limit:100 reversed %}
-    <li class="post">
-      <a class="post__link" href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-        <time class="post__time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
-        <h3 class="post__title">{{ post.title }}</h3>
-        <p class="post__content"> {{ post.date-since }} ~ {{ post.date-until }}</p>
-      </a>
+    <li class="PostList ff-ss mb3">
+        <time class="PostList__time time" datetime="{{ post.publish-date | date_to_xmlschema }}">{{ post.publish-date }}</time>
+        <h3 class="PostList__title m0 line-height-1">
+          <a class="PostList__link td-dash" href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a>
+        </h3>
+        <div class="PostList__txt pl2"> {{ post.date-since }} ~ {{ post.date-until }}</div>
     </li>
     {% endfor %}
   </ul>
