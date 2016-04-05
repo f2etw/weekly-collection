@@ -11,7 +11,7 @@
 
     {% if item.cover and item.cover != empty %}
       {% if item.resize %}
-       {% assign item_cover = item.cover | strip_url_protocol | prepend: '//images.weserv.nl/?url=' | append: '&w=400&il' %}
+        {% assign item_cover = item.cover | prepend: 'http://imageproxy.pimg.tw/zoomcrop?url=' | append: '&width=400' %}
       {% else %}
         {% assign item_cover = item.cover %}
       {% endif %}
