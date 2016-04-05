@@ -32,10 +32,14 @@
         {{ item.intro }}
       </p>
 
-      <div class="Card__meta right-align pt2 pb3">
-        <time class="time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
-        <a class="td-dash" href="{{ item.permalink }}">permalink</a>
-        <br>
+      <div class="Card__meta right-align pb3">
+        <div class="Card__meta__timestamp mb1">
+          <time class="time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
+          <a class="text-decoration-none" title="Facebook permalink" href="{{ item.permalink }}">
+            <svg class="permalink-icon align-middle"><use xlink:href="#icon-facebook" /></svg>
+          </a>
+        </div>
+
         <a class="text-decoration-none" href="https://fb.com/{{ item.sharer-id }}">
           {{ item.sharer-name }}
           <img class="circle align-middle" src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32&height=32&type=square" alt="{{ item.sharer-name }}" width="32" height="32">

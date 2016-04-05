@@ -48,7 +48,6 @@
 }
 
 .Card__meta {
-  border-top: 1px solid rgba($c-black, .3);
   opacity: .5;
   transition: opacity .3s;
   font-family: serif;
@@ -56,4 +55,15 @@
   .Card:hover & {
     opacity: 1;
   }
+}
+
+.Card__meta__timestamp {
+  border-bottom: 1px solid rgba($c-black, .3);
+  opacity: .75;
+}
+
+.permalink-icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
 }
