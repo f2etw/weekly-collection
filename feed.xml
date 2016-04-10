@@ -3,10 +3,21 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="/feed.xml" rel="self" type="application/atom+xml" />
 <link href="/" rel="alternate" type="text/html" />
-<updated>2016-04-06T03:17:13+08:00</updated>
+<updated>2016-04-11T01:18:18+08:00</updated>
 <id>/</id>
 <title>Weekly Collection @F2ETW</title>
 <subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
+<entry>
+<title>Collection #002</title>
+<link href="/collection/002/" rel="alternate" type="text/html" title="Collection #002" />
+<published>2016-03-27T00:00:00+08:00</published>
+<updated>2016-03-27T00:00:00+08:00</updated>
+<id>/collection/002</id>
+<content type="html" xml:base="/collection/002/">&lt;p&gt;{% include card.html items=site.data.2016-03-27 %}&lt;/p&gt;
+</content>
+<category term="weekly-popular" />
+<summary>                                                              程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網                    由 left-pad 撤架事件衍生之 npm 環境影響的後續報導                              2016-03-31                                                          楊雅晴                                                                                              首波主打課程 基礎 HTML + CSS - 六角學院                    由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程                              2016-03-31                                                          王志誠                                                                                              Colection #000                    本週刊試刊號於前端社團的宣傳貼文，也順便徵人                              2016-03-29                                                          Rplus Chen                                                                                              Firework                    邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library                              2016-04-01                                                          邱弘毅                                                                                              設計資源總匯 - 奧革設計                    由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了                              2016-03-30                                                          莊為任                                                                                              DavidMenu                    林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式                              2016-03-27                                                          林立秦                                                                                              好的使用者經驗設計，絕對不是從使用者開始                    一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應                              2016-04-02                                                          陳聖博                                                                                              What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks                    Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言                              2016-03-28                                                          Clement Tang                                                                                              Dominant Colors for Lazy-Loading Images                    一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度                              2016-03-30                                                          Rplus Chen                                                                                              Dirty Tricks From The Dark Corners Of Front-End                    知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧                              2016-04-02                                                          Rplus Chen                                  </summary>
+</entry>
 <entry>
 <title>Collection #001</title>
 <link href="/collection/001/" rel="alternate" type="text/html" title="Collection #001" />
