@@ -1,6 +1,5 @@
 /* global */
 javascript: (function () {
-
   var member = ['Rplus', 'whalesingswee', 'amazingandyyy', 'Clementtang', 'erwaiyang'];
 
   var weight = {
@@ -32,7 +31,7 @@ javascript: (function () {
     var voteData = {};
     var _id = targetComments[idx].querySelector('.comment-body a').href.replace('https://fb.com/', '');
 
-    console.log(_id);
+    console.log(idx, `https://fb.com/${_id}`);
 
     var tds = [].slice.call(targetComments[idx].querySelectorAll('tbody td'));
     var tdsData = tds.map((td) => {
@@ -54,10 +53,22 @@ javascript: (function () {
 
     Object.keys(voteData).forEach((i) => {
       if (!member.includes(i)) { return; }
-      if (voteData[i] === '+1') {
-        voteData.vote += 1;
-      } else if (voteData[i] === 'thinking_face') {
-        voteData.vote -= 1;
+
+      switch (voteData[i]) {
+        case '+1':
+          voteData.vote += 1;
+          break;
+
+        case 'thinking_face':
+          voteData.vote -= 1;
+          break;
+
+        case 'tada':
+          if (i === member[0]) {
+            console.log('tada');
+            voteData.vote -= 500;
+          }
+          break;
       }
     });
 
