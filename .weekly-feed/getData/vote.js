@@ -63,6 +63,13 @@ javascript: (function () {
         case 'thinking_face':
           voteData.vote -= 1;
           break;
+
+        case 'tada':
+          if (i === member[0]) {
+            console.log('tada');
+            voteData.vote -= 500;
+          }
+          break;
       }
     });
 
