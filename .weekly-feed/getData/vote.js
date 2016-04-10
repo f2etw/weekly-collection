@@ -54,10 +54,15 @@ javascript: (function () {
 
     Object.keys(voteData).forEach((i) => {
       if (!member.includes(i)) { return; }
-      if (voteData[i] === '+1') {
-        voteData.vote += 1;
-      } else if (voteData[i] === 'thinking_face') {
-        voteData.vote -= 1;
+
+      switch (voteData[i]) {
+        case '+1':
+          voteData.vote += 1;
+          break;
+
+        case 'thinking_face':
+          voteData.vote -= 1;
+          break;
       }
     });
 
