@@ -1,0 +1,698 @@
+[
+  {
+    "shares": {
+      "count": 23
+    },
+    "created_time": "2016-03-31T04:35:28+0000",
+    "updated_time": "2016-04-01T16:08:02+0000",
+    "from": {
+      "name": "楊雅晴",
+      "id": "1062487557144901"
+    },
+    "message": "http://hk.thenewslens.com/post/305094/\n不知道有沒有op",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://hk.thenewslens.com/post/305094/",
+    "name": "程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網",
+    "description": "刪除短短11行程式碼，竟然會令Facebook、Reddit、Netflix及Spotify等大型網站出現錯誤？早前互聯網的一次意外，揭露了不少網站的弱點。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCHZ55Pz1YHkHWV&w=130&h=130&url=http%3A%2F%2Fimage.thenewslens.com%2Fwp-content%2Fuploads%2F2016%2F03%2F42-76427003.jpg&cfs=1",
+    "id": "521085554595481_973094689394563",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 118
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      188,
+      118,
+      16,
+      23
+    ],
+    "order": 1
+  },
+  {
+    "created_time": "2016-03-31T03:02:49+0000",
+    "updated_time": "2016-03-31T07:57:40+0000",
+    "from": {
+      "name": "王志誠",
+      "id": "1120548697961771"
+    },
+    "message": "各位大家好， 廖洧杰 與我規劃半年的課程今天上線了\n主題是：使用 HTML、CSS 開發一個網站\n\n這次是採用線上影音教學\n除了詳細的教學影片外\n**更大的重點是我們有 Code Review !!**\n如果你不確定程式碼正確度\n將課程最後的作業完成\n回寄後我們會給予作業修正的建議\n使課程的吸收效果更為加倍\n\n當然也為了確保課程品質\n特別邀請前端教育專家 Amos Lee  擔任課程的顧問\n透過 Amos Lee 的寶貴經驗，使課程更臻完善\n\n課程售價 $50\n為慶祝今天課程上線\n**前一百名的僅需要 $9 就能有完整課程**\n(包含以後的更新內容)\n\nPS: 優惠名額僅提供100位，趕快分享給正在學網頁設計的朋友吧！",
+    "link": "http://www.hexschool.com/",
+    "name": "洧杰",
+    "description": "今天是高雄前端社群成立滿三週年的日子，在以往的聚會中，我最常被遇到的問題就是：「如何自學前端？有沒有推薦的技術課程？」在自學部分，雖然我們會提供適當的建議，但網路資源和技術書籍隨時都在推陳出新，所以還是得自行摸索來找到適合自己程度的內容。\n\n另外在實體課程的部分，除了北部有些不錯的程式學院外，其他縣市很少有被業界認同的前端教育單位。雖然我對教育抱有熱忱，也曾經動念是否要成為專業講師，但我很清楚自己需要實務經驗，才有辦法維持技術競爭力。\n\n不過想要完善前端基礎教育資源的念頭，仍在我腦海揮之不去，直到去年看到 udemy 的線上影音課程服務，開始讓我萌生設計線上教材的想法，未來當技術更新時，只要調整部分教材，就能讓各位學習到正確且跟上時勢的課程內容，更棒的是再也不用侷限於地域性，這樣不是很好嗎！？\n\n和王志誠談了我的想法，雙方一拍即合，開始合作創立「六角學院」，並設計出第一門課程「使用 HTML、CSS 開發一個網站」，HTML、CSS 並不像其他後端語言或 javascript 有過多抽象的程式邏輯，對想了解程式領域的初學者來說絕對是最好的入門磚。為確保課程內容沒問題，我們甚至找了在前端教育領域經驗豐富的 Amos Lee 來擔任此課程的顧問，在設計過程中他提供了許多寶貴建議，使課程更臻完善。\n\n此線上課程定價是50美金，今天特別慶祝六角學院成立，我們官網有提供折扣連結，提供前100位註冊學生能享有9美金的超優惠價格！未來我們也會持續更新課程內容，讓各位能夠終身複習。\n\n我們是六角學院，希望我們的陪伴，能讓各位在前端程式學習的道路上不孤單 :D\n\nPS: 優惠名額僅提供100位，趕快分享給正在學網頁設計的朋友吧！\n\n",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCLWUAbtCBDQeO6&w=130&h=130&url=http%3A%2F%2Fwww.hexschool.com%2Fimages%2Flogo_for_fb.png&cfs=1",
+    "id": "521085554595481_973051156065583",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 134
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      159.5,
+      134,
+      17,
+      0
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-03-29T14:06:19+0000",
+    "updated_time": "2016-03-29T20:55:20+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Weekly Collection @ F2ETW  \nColection #000\n\n週刊的試刊號~ \n歡迎大家提供意見！\n\nhttp://www.f2e.tw/weekly-collection/collection/000/\n\n貼文收集區間：\nsince: 2016-03-13 \nuntil: 2016-03-19\n\n-------\n\nps: 我們還缺人手唷~ 歡迎熱血的有志之士加入！\n https://github.com/f2etw/weekly-collection/issues/2",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.f2e.tw/weekly-collection/collection/000/",
+    "name": "Colection #000",
+    "description": "Colection #000: popular posts from 2016-03-13 to 2016-03-19",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDvQRuhv_zV7To0&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8252114%3Fs%3D300&cfs=1",
+    "id": "521085554595481_971724509531581",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 111
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      136,
+      111,
+      10,
+      5
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-04-01T11:13:53+0000",
+    "updated_time": "2016-04-01T14:00:31+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "去年八月就想要做一個電子煙火，\n斷斷續續的做到今年，\n因為demo site想做的功能太多做不完，\n於是前不久把它包好成一個jquery library了，\n分享給大家，\n用簡單的canvas api刻的\n順便想問一下，或許有其它方法（例如webgl或其它library）做會更美更簡單？\n歡迎給我一些意見:)\n\ngithub repository：\nhttps://github.com/noootown/FireWork",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://noootown.github.io/FireWork/",
+    "name": "Firework",
+    "description": "Firework",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDHx_sd4yWCC_Zf&w=130&h=130&url=https%3A%2F%2Fscontent-tpe1-1.xx.fbcdn.net%2Fhphotos-xfp1%2Ft31.0-8%2F12916114_480948858763464_8978374017135795755_o.png&cfs=1",
+    "id": "521085554595481_974204135950285",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 88
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      119.5,
+      88,
+      13,
+      6
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-03-30T06:33:27+0000",
+    "updated_time": "2016-03-30T07:41:24+0000",
+    "from": {
+      "name": "莊為任",
+      "id": "821560307892406"
+    },
+    "message": "從友社-使用者經驗分析轉來的，小弟自己常拿來參考的資源整理，最近大改版。\n風格清爽很多，手機板的體驗也變好很多優。\n\n推薦給各位開發者。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ogdesign.tw/resources",
+    "name": "設計資源總匯 - 奧革設計",
+    "description": "奧革設計團隊精心整理的設計師必備設計資源，收藏各式各樣的靈感、配色、資源、設計工具、免費圖庫等，設計師趕快把他收藏到書籤吧！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAHBoGoShFUO19V&w=130&h=130&url=http%3A%2F%2Fwww.ogdesign.tw%2Fimages%2Fcover.jpg&cfs=1",
+    "id": "521085554595481_972314856139213",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 95
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      118.5,
+      95,
+      1,
+      11
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-03-27T10:49:42+0000",
+    "updated_time": "2016-04-01T01:13:03+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "http://lichin.me/Davidmenu/\ngithub:https://github.com/lichin-lin/Davidmenu\n這個週末做了一個小套件\n是全螢幕的menu\n配上顏色以及animation\n想要請問：\n手機本身對css動畫呈現的效果，\n就沒電腦來的好嗎？\n如果是的話，\n在手機應該要怎麼改進呢？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://lichin.me/Davidmenu/",
+    "name": "DavidMenu",
+    "description": "customize your menu with beautiful css style",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB3CN1B0_uQfygf&w=130&h=130&url=http%3A%2F%2Flichin.me%2FDavidmenu%2Fimage.png&cfs=1",
+    "id": "521085554595481_969926576378041",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 69
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      118,
+      69,
+      14,
+      14
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 22
+    },
+    "created_time": "2016-04-02T04:34:54+0000",
+    "updated_time": "2016-04-02T04:34:54+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi",
+    "name": "好的使用者經驗設計，絕對不是從使用者開始",
+    "description": "在以人為本的設計相當盛行的世代，不論是稱之為設計思考或者是使用者經驗設計，直覺上的第一步通常是「瞭解使用者」，我們接觸使用者、傾聽他、感受它的需求並做出理想的設計。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDNvrZ1jpNuzNNd&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F0%2AC97OAg84NHnqWk3a.&cfs=1",
+    "id": "521085554595481_974666092570756",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 74
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      118,
+      74,
+      0,
+      22
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-03-27T17:06:01+0000",
+    "updated_time": "2016-03-29T09:07:47+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "原來 @font-face 可以針對 font properties 去定義，如果不需要就不會下載。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://css-tricks.com/whats-deal-declaring-font-properties-font-face",
+    "name": "What's the deal with declaring font properties on @font-face? | CSS-Tricks",
+    "description": "I hope you read that title out loud in your best Seinfeld impression. A recent question in our forums made me aware that there are more properties that can",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCXcDTfwuET93gD&w=130&h=130&url=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2016%2F03%2Ffont-face-usage.png&cfs=1",
+    "id": "521085554595481_970141973023168",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      77,
+      60,
+      6,
+      4
+    ],
+    "order": 8
+  },
+  {
+    "created_time": "2016-03-30T15:56:32+0000",
+    "updated_time": "2016-04-05T02:46:29+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Manuel Wieser 以 Pinterest 等多圖網站為例\n指出目前這類網站都會使用 lazyloading 來加快初載速度\n& 降低非必要的圖片請求數\n\n而目前也常見到這些服務會在這些 lazy-loading 單調的佔位圖上做些手腳\n文中提到兩種，「圖片背景色」 & 「極低解析的模糊圖片」\n\n這邊他示範如何用程式自動化拿到客製過的佔位圖\n( 有 nodejs & PHP\n\nps: 大家在做 lazy-loading 時會處理這些特效嗎？ ：P\n\nDominant Colors for Lazy-Loading Images\nby Manuel Wieser 2016-03-09\nhttps://manu.ninja/dominant-colors-for-lazy-loading-images\n\n#f2etw",
+    "id": "521085554595481_972663459437686",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      71,
+      50,
+      14,
+      0
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-03-30T22:12:14+0000",
+    "updated_time": "2016-04-01T00:39:02+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "烘焙用icon，也太可愛了❤",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/artsmc/pen/DjFpy",
+    "name": "Bakestrap Icons",
+    "description": "Working on a boostrap for baking sites/blogs step 1 was adding baking icons to go with font awesome icons. ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD8QVM8DsA8Y1go&w=130&h=130&url=http%3A%2F%2Fi.cdpn.io.s3.amazonaws.com%2F25693.DjFpy.35e482fd-ab73-4417-9dc2-561f660120e3.png&cfs=1",
+    "id": "521085554595481_972888769415155",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      63,
+      34,
+      10,
+      7
+    ],
+    "order": 10
+  },
+  {
+    "created_time": "2016-04-01T18:23:44+0000",
+    "updated_time": "2016-04-01T18:26:58+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "這份是 Smashing Magazine 主編 Vitaly Friedman 於上個月 SmashingConf Oxford 2016 中的演講投影片\n\n主題是他收集的各種前端神秘技巧\n技巧有新有舊，有幾個甚至在 twitter 上才剛看過不久\n也有幾則有在版上看過分享，\n但總的來說就是「學不完啦~」 XD\n\n若看到有趣的也可以提出來討論一下~ :P\n\nDirty Tricks From The Dark Corners Of Front-End\nby Vitaly Friedman 2016-03-19\nhttps://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end\n\n#f2etw",
+    "id": "521085554595481_974420155928683",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 59
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      60.5,
+      59,
+      1,
+      0
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-03-30T09:08:28+0000",
+    "updated_time": "2016-03-31T16:42:13+0000",
+    "from": {
+      "name": "Melissa  Peng",
+      "id": "483784561768935"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://wdc.tca.org.tw/index.html",
+    "name": "一秒搞懂政府網站創意競賽",
+    "id": "521085554595481_972402309463801",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      56.5,
+      27,
+      5,
+      11
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-03-28T05:01:39+0000",
+    "updated_time": "2016-03-29T08:24:07+0000",
+    "from": {
+      "name": "Neil Zheng",
+      "id": "1117168858298230"
+    },
+    "message": "[BoniO徵前端工程師] 有興趣或問題都可私訊我!\n\n[公司介紹]\nPaGamO 團隊在2013年，設計出 MOOC 專用的多人線上競技遊戲。在 2014年創辦BoniO軟體新創公司，推出學校專用、企業專用及個人專用的多人線上競技遊戲式教學用平台。2014 年 12 月，PaGamO 在美國華頓商學院與QS 機構主辦的「第一屆世界教學創新大賽」中，獲得全球教學創新冠軍，在 E-Learning 項目上也得了第一名。\n隨後就連長春藤名校美國賓州大學牙醫學院，都主動與 BoniO 簽訂3年合約，將PaGamO引進牙醫教學教育。在 2015年3 月，PaGamO 推出台灣中小學專用的全學科教學用多人線上競技遊戲平台，用戶於6週內便突破5萬人。\n>>>>>>歡迎加入我們，一起實踐改變教育的可能<<<<<<\n\n[技能需求]\n1. 熟悉html/css/javascripts並有能力看設計稿切版製作網站layout\n2. 熟悉javascripts有過angular或react其中一個框架的開發經驗者佳\n3. 有過Flux架構開發專案經驗者尤佳\n4. 有過scrum經驗者佳\n5. 了解後端語言者加分 (Ruby尤佳)\n** 無工作經驗可，只要有積極學習的能力 **\n\n[工作福利]\n- 新創公司自由、彈性\n- 全新辦公室，有寬敞活潑的工作空間\n- 工時彈性工時、無需打卡                    \n- 提供早餐、水果                    \n- 每月慶生會、公司聚餐                    \n- 吃不完的零食、飲料（但其實有時候會很快被吃完haha）                    - 每年保障薪資 13 個月                    \n- 第一年 7 天特休，第二至三年 14 天特休                    \n- 每月藝文活動、運動、講座課程補助\n\n[薪資範圍]50K~70K\n\n[公司介紹]\nhttps://official.pagamo.org\n\n[紛絲專頁]\nhttps://www.facebook.com/pagamo2014\n\n[聯絡方式]\nEmail您的履歷至iliao@bonio.com.tw廖小姐，請務必附上作品集/Github",
+    "id": "521085554595481_970590276311671",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 37
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      49.5,
+      37,
+      7,
+      1
+    ],
+    "order": 13
+  },
+  {
+    "created_time": "2016-03-27T08:47:24+0000",
+    "updated_time": "2016-03-28T01:00:21+0000",
+    "from": {
+      "name": "陳守情",
+      "id": "1195967923754098"
+    },
+    "message": "想請教各位先進，目前在練習前端時有看到一些圖表，如長條圖、曲線圖，各位都是選擇哪一種方式或框架去設計，感謝。",
+    "id": "521085554595481_969818793055486",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      31.5,
+      9,
+      15,
+      0
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-03-28T20:17:17+0000",
+    "updated_time": "2016-04-02T15:00:32+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "message": "04/07 起有前、後端整合技術講座，每場只有四位名額，線上同步教學。本講座屬於中階實作課程，參加者需具備基礎 HTML、CSS、PHP 和 MySQL 的能力，歡迎報名。（備有講義，供課後複習、練習。）\n\n------ 本次講座特色 ------\n\n《前、後端工程師都需了解的前、後台資料介接技巧》\n\n在完成「前台視覺設計」與「後台管理系統」之後，接下來就是前、後台的資料介接。前台必須正常帶出資料庫資料而不跑版，甚至需要將資料庫資料整合至互動效果中（例如：大圖輪播）。在現今 RWD 已經成為網站標準配備的時代，更要考慮前台在不同裝置的資料呈現。若前、後端工程師對於彼此的工作沒有基礎概念，可能造成整合時來回修改，甚至導致前端需要重新切版，或需要重新帶資料的狀況。\n\n《什麼是Elixir (Gulp)》\n\n在 Laravel 「前端」開發流程中，Elixir 佔了一個很重要的角色。Elixir 是一個 Node.js 模組，安裝後會存放在每個 Laravel 專案資料夾內的node_modules。它提供了一組更簡單的 API 指令來執行 Gulp 前端工作管理器，可自動化處理 Sass/SCSS/Less 的編譯、CSS 的合併、JavaScript 的合併、將 CSS/JavaScript 會用到的資源檔 (如：JS檔、圖檔、字型檔) 複製到 public 資料夾下......等基本卻繁瑣的任務，讓前端開發流程更順暢。\n\n------ 詳情請點閱課程資訊頁 ------ \n\n備註：\n1. 歡迎一次報多場。\n2. 線上授課，不用擔心刮風下雨沒筆電。\n3. 參考著作：http://goo.gl/CIdjRY",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.accupass.com/event/register/1602240222319940255200",
+    "name": "Laravel網站前、後台實戰練功場-Accupass 活動通",
+    "description": "根據 SitePoint的統計，Laravel 更蟬連了 2014年、2015年 PHP 框架市佔率的冠軍，在十多種 PHP 框架中脫穎而出，高達 25% 以上的市場佔有率。 本系列課程以Laravel框架為基礎，帶同學從入門到進階，了解商品後台開發實務技術。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDPUvGI4PtdTtsB&w=130&h=130&url=http%3A%2F%2Faz796311.vo.msecnd.net%2Fuserupload%2F9f04b62fa7c745ddaa87b7e6482bf291.jpg&cfs=1",
+    "id": "521085554595481_971120766258622",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 13
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      30,
+      13,
+      2,
+      7
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-03-28T15:29:50+0000",
+    "updated_time": "2016-03-29T01:36:22+0000",
+    "from": {
+      "name": "Muyueh Lee",
+      "id": "933186230130612"
+    },
+    "message": "語音互動的介紹影片，討論既有技術，以及開發上的挑戰。",
+    "link": "https://www.youtube.com/watch?v=X4GCz5Kut_o",
+    "name": "資料視覺化 李慕約公司 / Muyueh Data Visualization",
+    "description": "關於語音控制的完整討論，包含現有的服務（Google Speech API 以及 Facebook Wit.ai），我們的過去案例，以及在製作這些案例的時候我們面對的設計問題。\n\n文字大綱，以及參考連結可以在這裡找到：https://sheethub.hackpad.com/CXxs3e9xZQh#:h=語音控制\n\n\n\nhttps://www.youtube.com/watch?v=X4GCz5Kut_o",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAqPt4_HKaCEKFV&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLm_4MmkvpItijfDlCHK8Hjns960EnfLQwIdFEgRijAcp_15RDKfVc7zRw3ssGt6dmJm78Nb8D-4W0kuFYKKhQPcEOcHJEduHt2KceF-GxhN5mqPcA7e6UhJiK7QFzfKgBYGJFG1wvyC1X68gG22INv&cfs=1",
+    "id": "521085554595481_970949032942462",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 21
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      24,
+      21,
+      2,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-03-27T06:47:42+0000",
+    "updated_time": "2016-03-28T00:30:48+0000",
+    "from": {
+      "name": "Frances Cheng",
+      "id": "1271430766204244"
+    },
+    "message": "請問各位，在製作網站過程中 在developer tools出現了body style = height:5823px;\n導致我的footer 底下出現大空白， 在css裡我並沒有加入這個element 卻developer tools 出現。\n請問各位是甚麼原因呢><",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1304722636208390&set=gm.969757509728281&type=3",
+    "name": "Photos from Frances Cheng's post",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-0/s130x130/940962_1304722636208390_5049988305393538178_n.jpg?oh=64d0be868c0088380f9616516c84cb0c&oe=57BC66B9",
+    "id": "521085554595481_969757509728281",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      20.5,
+      1,
+      13,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-03-30T03:25:59+0000",
+    "updated_time": "2016-03-31T00:51:57+0000",
+    "from": {
+      "name": "楊宗穎",
+      "id": "10208527300355353"
+    },
+    "message": "想問大家\n我用XHR技術來下載一個很大的檔案\n有辦法實作pause/resume的功能嗎?\n\n我是想利用XHR的progress來截取blob\n但是我現在只能組好之後跳出下載視窗選擇目的地\n有辦法先選目的地再把blob寫進去嗎?",
+    "id": "521085554595481_972219359482096",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      19.5,
+      0,
+      13,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-03-28T08:52:27+0000",
+    "updated_time": "2016-03-28T13:08:20+0000",
+    "from": {
+      "name": "Tzrae Hsieh",
+      "id": "1240482665966382"
+    },
+    "message": "想請問 \n\n有沒有教學或者書籍 是寫 有關 瀏覽器 跟 伺服器 之間互動的詳細探討呢?\n\n感謝",
+    "id": "521085554595481_970720009632031",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      18,
+      6,
+      8,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-03-31T02:28:50+0000",
+    "updated_time": "2016-03-31T03:37:58+0000",
+    "from": {
+      "name": "Jas Chen",
+      "id": "999962876680799"
+    },
+    "message": "依據使用者的瀏覽器UA給予適當 polyfill 的服務。\n用法是透過 features 參數設定要使用的功能，例如要使用 fetch 就寫 features=fetch，此時不支援 fetch 的瀏覽器會拿到 fetch 的程式碼，已支援的瀏覽器只會拿到空白。更多使用方法請見 Live examples 說明頁，上 production 記得加上 .min 喔！（如果沒加 features 參數，預設為 features=default）",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://cdn.polyfill.io/v2/docs/",
+    "name": "Polyfill service",
+    "description": "The polyfill service selectively bundles browser polyfills based on the User-Agent header supplied in a request, with the intention of allowing JavaScript and CSS developers to use modern standards in legacy user agents that do not natively support the standard. Think of it like a pair of glasses fo…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCx9ZCe7TdH0Vw3&w=130&h=130&url=https%3A%2F%2Fbuild.origami.ft.com%2Fv2%2Ffiles%2Fo-header%404.0.0%2Fimg%2Fft-logo.png&cfs=1",
+    "id": "521085554595481_973032876067411",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      17.5,
+      4,
+      9,
+      0
+    ],
+    "order": 20
+  }
+]
