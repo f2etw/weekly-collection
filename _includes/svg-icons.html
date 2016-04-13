@@ -13,6 +13,27 @@
 
 <svg height="0" style="position: absolute; width: 0; height: 0;" version="1.1" width="0" xmlns="http://www.w3.org/2000/svg">
 <defs>
+  <!-- inset-shadow source: http://codepen.io/sol0mka/pen/egfqv/ -->
+  <filter id='inset-shadow'>
+    <!-- Shadow Offset -->
+    <feOffset dx='4' dy='4'/>
+    <!-- Shadow Blur -->
+    <feGaussianBlur stdDeviation='3' result='offset-blur'/>
+
+    <!-- Invert the drop shadow
+         to create an inner shadow -->
+    <feComposite operator='out' in='SourceGraphic' in2='offset-blur' result='inverse' />
+
+    <!-- Color & Opacity -->
+    <feFlood flood-color='black' flood-opacity='1' result='color' />
+
+    <!-- Clip color inside shadow -->
+    <feComposite operator='in' in='color' in2='inverse' result='shadow' />
+
+    <!-- Put shadow over original object -->
+    <feComposite operator='over' in='shadow' in2='SourceGraphic' />
+  </filter>
+
   <symbol id="icon-gitter" viewbox="0 0 32 32">
     <title>
       gitter
@@ -36,6 +57,13 @@
       rss
     </title>
     <path d="M9.143 22.857q0-0.946-0.67-1.616t-1.616-0.67-1.616 0.67-0.67 1.616 0.67 1.616 1.616 0.67 1.616-0.67 0.67-1.616zM15.411 24.536q-0.232-4.143-3.161-7.071t-7.071-3.161q-0.25-0.018-0.429 0.161t-0.179 0.411v2.286q0 0.232 0.152 0.393t0.384 0.179q2.75 0.196 4.714 2.161t2.161 4.714q0.018 0.232 0.179 0.384t0.393 0.152h2.286q0.232 0 0.411-0.179t0.161-0.429zM22.268 24.554q-0.089-2.75-1-5.313t-2.491-4.643-3.661-3.661-4.643-2.491-5.313-1q-0.25-0.018-0.411 0.161-0.179 0.179-0.179 0.411v2.286q0 0.232 0.161 0.393t0.393 0.179q3.643 0.125 6.75 1.991t4.973 4.973 1.991 6.75q0.018 0.232 0.179 0.393t0.393 0.161h2.286q0.232 0 0.411-0.179 0.196-0.161 0.161-0.411zM27.429 7.429v17.143q0 2.125-1.509 3.634t-3.634 1.509h-17.143q-2.125 0-3.634-1.509t-1.509-3.634v-17.143q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"></path>
+  </symbol>
+  <symbol id="icon-email-subscription" viewBox="0 0 32 32">
+    <title>
+      email-subscription
+    </title>
+    <path d="M 25.34,2 H 6.667 C 4.1,2 2,4.1 2,6.724 V 25.37 C 2,27.9 4.1,30 6.667,30 H 25.34 C 27.9,30 30,27.9 30,25.37 V 6.724 C 30,4.1 27.9,2 25.34,2 z M 9,9 h 14 c 0.25,0 0.48,0.103 0.71,0.177 L 16,18.19 8.286,9.177 C 8.509,9.072 8.75,9 8.999,9 z M 7.25,21.24 V 10.76 c 0,0 0,-0.11 0,-0.11 l 5.14,5.95 -5.084,5.08 C 7.276,21.57 7.254,21.43 7.254,21.24 z M 23,23 H 9 C 8.846,23 8.694,23 8.549,23 L 13.52,18.01 16,20.9 18.48,18.01 23.45,23 c -0.14,0 -0.3,0 -0.45,0 z m 1.76,-1.76 c 0,0.19 0,0.36 -0.11,0.45 l -5.05,-5.08 5.14,-5.95 c 0,0 0,0.11 0,0.11 v 10.49 z" transform="scale(.9)"></path>
+    <use xlink:href="#icon-rss" fill="#333" transform="scale(.5) translate(32,32)" transform-origin="20,30" />
   </symbol>
 </defs>
 </svg>
