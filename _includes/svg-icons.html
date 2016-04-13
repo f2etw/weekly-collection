@@ -13,6 +13,27 @@
 
 <svg height="0" style="position: absolute; width: 0; height: 0;" version="1.1" width="0" xmlns="http://www.w3.org/2000/svg">
 <defs>
+  <!-- inset-shadow source: http://codepen.io/sol0mka/pen/egfqv/ -->
+  <filter id='inset-shadow'>
+    <!-- Shadow Offset -->
+    <feOffset dx='4' dy='4'/>
+    <!-- Shadow Blur -->
+    <feGaussianBlur stdDeviation='3' result='offset-blur'/>
+
+    <!-- Invert the drop shadow
+         to create an inner shadow -->
+    <feComposite operator='out' in='SourceGraphic' in2='offset-blur' result='inverse' />
+
+    <!-- Color & Opacity -->
+    <feFlood flood-color='black' flood-opacity='1' result='color' />
+
+    <!-- Clip color inside shadow -->
+    <feComposite operator='in' in='color' in2='inverse' result='shadow' />
+
+    <!-- Put shadow over original object -->
+    <feComposite operator='over' in='shadow' in2='SourceGraphic' />
+  </filter>
+
   <symbol id="icon-gitter" viewbox="0 0 32 32">
     <title>
       gitter

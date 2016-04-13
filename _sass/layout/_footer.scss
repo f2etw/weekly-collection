@@ -1,9 +1,28 @@
 .Footer {
+  position: relative;
   background-color: darken($c-white, 12);
   box-shadow: inset 0 4px .5em -3px rgba($c-black, .3);
 }
 
 .Footer__link {
+  &::before {
+    content: attr(title);
+    position: absolute;
+    top: 1em;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate3d(-50%, 0, 0);
+    font-weight: 900;
+    opacity: 0;
+    transition: opacity .2s;
+    text-shadow: 1px 1px rgba($c-white, .5);
+    pointer-events: none;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+
   &.Footer__link--github   {color: #333; }
   &.Footer__link--facebook {color: #3b5998; }
   &.Footer__link--gitter   {color: #ed1965; }
@@ -17,7 +36,7 @@
   fill: currentColor;
   opacity: .6;
   transition: opacity .3s;
-  filter: drop-shadow(2px 2px 1px rgba($c-black,.8));
+  filter: url(#inset-shadow);
 
   .Footer__link:hover & {
     opacity: 1;
