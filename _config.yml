@@ -24,6 +24,7 @@ footer-links:
   facebook: https://www.facebook.com/groups/f2e.tw
   gitter: https://gitter.im/f2etw/weekly-collection
   rss: true # just type anything here for a working RSS icon
+  email-subscription: https://feedburner.google.com/fb/a/mailverify?uri=WeeklyCollectionf2etw
   # twitter:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
