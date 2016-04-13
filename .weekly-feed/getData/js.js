@@ -50,7 +50,7 @@ WC.genarateMD = (data) => {
   data.forEach(function (feed, index) {
     // console.log(feed);
     feed.order = index + 1;
-    html.push(Mustache.render(tpl, feed).replace(/\!\[\]\(\)/g, '').replace(/\>\ \:\ \[\]\(\)/g, ''));
+    html.push(Mustache.render(tpl, feed));
   });
 
   var lists = document.querySelector('.popular-lists');

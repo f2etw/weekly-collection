@@ -30,7 +30,9 @@
   sharer-id: '{{ from.id }}'
   title: '{{ name }}'
   link: '{{{ link }}}'
+  {{# cover }}
   cover: '{{{ cover }}}'
+  {{/ cover }}
   intro: ''
 </script>
 
@@ -46,14 +48,21 @@
 * [fb permalink](https://fb.com/{{ id }}) @ `{{ created_time }}`
 * who: [{{ from.name }}](https://facebook.com/{{ from.id }})  
 ![](https://graph.facebook.com/{{ from.id }}/picture?width=60&height=60)
+{{# message }}
 * intro:
 ```
 {{ message }}
 ```
-
+{{/ message }}
+{{# icon }}
 > ![]({{ icon }}): [{{ name }}]({{ link }})
+{{/ icon }}
+{{# description }}
 > {{ description }}
+{{/ description }}
+{{#picture}}
 > ![]({{picture}})
+{{/picture}}
 </li>
 </script>
 
