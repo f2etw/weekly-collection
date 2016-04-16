@@ -22,7 +22,7 @@ javascript: (function () {
     return reactionBtn.map((btn) => {
       return {
         reaction: btn.value.split(/\s+/)[0],
-        who: btn.getAttribute('aria-label').replace(/,| and/g, '').split(/\s+/)
+        who: btn.getAttribute('aria-label').split(' reacted with')[0].replace(/,| and/g, '').split(/\s+/)
       };
     });
   });
