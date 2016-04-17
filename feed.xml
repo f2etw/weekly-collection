@@ -3,10 +3,30 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="http://www.f2e.tw//weekly-collection/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://www.f2e.tw//weekly-collection/" rel="alternate" type="text/html" />
-<updated>2016-04-13T23:26:53+08:00</updated>
+<updated>2016-04-17T19:20:16+08:00</updated>
 <id>http://www.f2e.tw//weekly-collection/</id>
 <title>Weekly Collection @F2ETW</title>
 <subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
+<entry>
+<title>Collection #003</title>
+<link href="http://www.f2e.tw//weekly-collection/collection/003/" rel="alternate" type="text/html" title="Collection #003" />
+<published>2016-04-03T00:00:00+08:00</published>
+<updated>2016-04-03T00:00:00+08:00</updated>
+<id>http://www.f2e.tw//weekly-collection/collection/003</id>
+<content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/003/">&lt;p&gt;{% include card.html items=site.data.2016-04-03 %}&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;※ 編按：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;目前有新增了 email 訂閱功能囉~&lt;br /&gt;
+訂閱連結是頁尾最右邊那顆信箱 + RSS 的圖示&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+<category term="weekly-popular" />
+<summary>                                                              [前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api                    邱弘毅用生活化口吻簡介了前後端部份的網路基礎概念                              2016-04-08                                                          邱弘毅                                                                                              ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選                    文中以 Casey Muratori 欣賞的 immediate mode 概念為軸，介紹 GUI 管理控制的方式，並推薦利用 ReactJS 的 virtual DOM 來處理 UI render 效能的問題                              2016-04-04                                                          Arthur Liao                                                                                              數據驅動的網站優化 Data Driven Website Optimization                    這篇分析網站數據的文章先簡介了網路行銷分類，再逐一介紹網站各種優化方式的目的；最後介紹了可能發生的數據差異的原因，並建議在實行網站優化時，也更應該注重精確資料的獲取                              2016-04-07                                                          林靜君                                                                                              A couple of alternatives to the hamburger menu                    針對漢堡選單圖示，Kenan Yusuf 在文介紹了兩種有趣的替代方案。或許可以討論哪個較有認知落差                              2016-04-09                                                          Rplus Chen                                                                                              高雄前端社群直播活動: CSS 架構                    王志誠宣傳這次在高雄以 CSS 架構為主題的聚會，將會有線上直播，有興趣的可以多加關注                              2016-04-07                                                          王志誠                                                                                              如何将 npm 作为构建工具使用                    介紹 npm script 的知名文章被翻譯成中文了。若對原文有些吸收不良者，不妨比對一下譯文來瞭解如何使用 npm script 取代常見的 gulp, webpack 環境                              2016-04-08                                                          呂耶書                                                                                              想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson                    Quincy Larson 以自身經歷建議初學者更加注重一心一意、專精技能。對比那些「每六周重寫一次」的揶揄或許會有不同的感觸                              2016-04-07                                                          陳聖博                                                                                              Collection #001                    週刊刊號一的宣傳文章。感謝各位的協助與支持 &amp;lt;(_ _)&amp;gt;                              2016-04-05                                                          Rplus Chen                                                                                              Tomorrow’s CSS syntax with cssnext                    這篇文章介紹新穎的 CSS syntax 以及如何使用 PostCSS &amp;amp; cssnext 來輔助生成現行支援的語法                              2016-04-04                                                          Clement Tang                                                                          【問】網站弱點掃瞄的工具？                    討論串裡大家分享了很多掃描網站弱點的工具                              2016-04-07                                                          蔡宥鋐                                  </summary>
+</entry>
 <entry>
 <title>Collection #002</title>
 <link href="http://www.f2e.tw//weekly-collection/collection/002/" rel="alternate" type="text/html" title="Collection #002" />
