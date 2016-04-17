@@ -1,0 +1,722 @@
+[
+  {
+    "shares": {
+      "count": 51
+    },
+    "created_time": "2016-04-08T11:27:55+0000",
+    "updated_time": "2016-04-08T13:57:14+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "周五輕鬆飯後小品文\n這次來講一下網頁發展的歷史，\n希望大家會喜歡，\n有任何遺漏的，或想下次一起寫上的，歡迎留言幫補上:)\n感激不盡:)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://noootown.wordpress.com/2016/04/08/web-development-history-1/",
+    "name": "[前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api",
+    "description": "簡介 上次介紹完了前端和後端在做什麼，這次來講一下網頁開發這一行的演進歷史，也順便帶一些網頁開發常會聽到的名詞…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAApgCVgfH2VNRl&w=130&h=130&url=https%3A%2F%2Fnoootown.files.wordpress.com%2F2016%2F04%2Fmvc.png&cfs=1",
+    "id": "521085554595481_977914365579262",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 207
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      319.5,
+      207,
+      7,
+      51
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 39
+    },
+    "created_time": "2016-04-04T04:09:33+0000",
+    "updated_time": "2016-04-05T09:10:27+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "這裡應該不少人聽過但還沒用過ReactJS。這是我前幾天寫的一篇文章，介紹ReactJS的一個重大特色（我個人認為是ReactJS最強的地方），看能不能幫推人進ReactJS的坑。XD\n\n畫面中的男子叫Casey Muratori，是位很厲害的GUI工程師。他在一段影片中闡述了Immediate-mode GUI的概念，有空的人可以看看這段影片（在我的文章中有連結），我認為非常值得一看！他山之石，可以攻錯，雖然講的是GUI開發，但對網頁前端開發很有啟發性。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/javascript/reactjs/*631q",
+    "name": "ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選",
+    "description": "兩年多前ReactJS剛出現的時候，Angular、Ember（加上更早的Backbone）還是大型網站應用程式的開發主流。ReactJS的出現，引起許多人注意。當時我看到一篇文章很有意思：Re...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBnawj-eUtqV6hS&w=130&h=130&url=https%3A%2F%2Ffarm2.staticflickr.com%2F1539%2F26041744102_1e47c255d0_o_d.jpg&cfs=1&sx=0&sy=0&sw=360&sh=360",
+    "id": "521085554595481_975806442456721",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 117
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      198,
+      117,
+      2,
+      39
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 45
+    },
+    "created_time": "2016-04-07T02:33:10+0000",
+    "updated_time": "2016-04-07T02:33:10+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "一篇關於「網站優化」與「搜尋引擎優化」非常精辟的文章，值得細讀",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://seo.dns.com.tw/?p=11862",
+    "name": "數據驅動的網站優化 Data Driven Website Optimization",
+    "description": "什麼是網站優化? 你問十個人可能會有十個答案。並且大多數人認知的網站優化，就是做關鍵字安排，修改標題及描述，把關鍵字放置在網頁內容裡面，但是其實網站優化該做的不只這些 ... 「數據驅動的網站優化」是在2016",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBKD-G5-AC9FkbX&w=130&h=130&url=http%3A%2F%2Fseo.dns.com.tw%2Fwp-content%2Fuploads%2F2016%2F03%2Fwso1-1024x635.jpg&cfs=1",
+    "id": "521085554595481_977249542312411",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 70
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      160,
+      70,
+      0,
+      45
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 17
+    },
+    "created_time": "2016-04-09T03:50:08+0000",
+    "updated_time": "2016-04-10T07:03:09+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "在 RWD 中，你可能常見到使用漢堡圖示來收合冗長的選單\n而 Kenan Yusuf 於文中介紹了兩種有趣的替代方案：\n\n一種是類似版上分享過的 okayNav，\n可自動將多餘的選當項目摺起來\n相對於 hamburger menu 能維持更一致的選單樣式\ne.g. http://www.bbc.com/\n\n而另一種方式是可水平捲動的選單\n這類型的通常都較低調，\n可搭配邊界的漸層來提示：在視界外尚有其它內容\ne.g. http://google.com, http://www.theguardian.com/\n\n不曉得大家還有見過哪些有趣的處理方式呢？\n\nA couple of alternatives to the hamburger menu\nby Kenan Yusuf 2016-03-11\nhttp://kyusuf.com/post/a-couple-of-alternatives-to-the-hamburger-menu\n\n#f2etw #hamburger",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/4rqfdWaYzd",
+    "name": "A couple of alternatives to the hamburger menu",
+    "description": "For some time, we have been swapping out full width navigation bars for hamburger menus at smaller breakpoints - this is a great technique that optimises the space, or lack of space, at desktop and mobile sizes. But what about the masses of unused screen real-estate once the full width navigation ha…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDDM0_ZFX9Saj9L&w=130&h=130&url=http%3A%2F%2Fkyusuf.com%2Fassets%2Fimages%2Fcontent%2Fhamburger-alternatives%2Ftheguardian.jpg&cfs=1&sx=74&sy=0&sw=362&sh=362",
+    "id": "521085554595481_978286022208763",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 20
+      }
+    },
+    "power": [
+      135,
+      71,
+      20,
+      17
+    ],
+    "order": 4
+  },
+  {
+    "created_time": "2016-04-07T04:39:20+0000",
+    "updated_time": "2016-04-07T14:52:27+0000",
+    "from": {
+      "name": "王志誠",
+      "id": "1120548697961771"
+    },
+    "message": "哈囉，今天晚上我們高雄前端社群有直播\n這次主題是 \"CSS 架構\"\n有興趣的朋友可以在 hackpad 內看到直播連結\n\n時間： 4/7 19:30\n\n#希望今天網路狀況良好",
+    "link": "https://csscollege.hackpad.com/CSS-3-CSS-fkE5HXwHeID",
+    "name": "志誠",
+    "description": "https://csscollege.hackpad.com/CSS-3-CSS-fkE5HXwHeID\n\n這是 (4/719:30) CSS 讀書會的共筆文件\n當天的直播連結會在這邊公布\n如果不方便參加的人，也可以在之後回來看這份文件喔～\n\n----\n一直以來 CSS 都是越寫越亂的，\n行數也總是增加沒有減少，\n在這樣的情況下是怎麼樣讀懂昨天寫的 Code 呢？\n而且還常常類似的樣式還重複寫了三四次，\n這次就透過 OOCSS 的觀念來學會良好的 CSS 架構。\n- 瞭解 OOCSS 兩大基本觀念\n- 透過 OOCSS 分析其他 CSS Framework\n\n預計時間約一小時，最晚九點結束\n如果討論不完的部分，會延至下次讀書會\n----\n\n直播時間 (04/07) 19:30",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1",
+    "id": "521085554595481_977296448974387",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 121
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      130,
+      121,
+      6,
+      0
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 20
+    },
+    "created_time": "2016-04-08T11:14:18+0000",
+    "updated_time": "2016-04-08T16:47:19+0000",
+    "from": {
+      "name": "呂耶書",
+      "id": "10204008574682345"
+    },
+    "message": "用 npm 取代 Grunt 和 Gulp",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://bubkoo.com/2016/03/18/how-to-use-npm-as-a-build-tool/",
+    "name": "如何将 npm 作为构建工具使用",
+    "description": "上个月，我在这篇文章《为什么要停止使用 Grunt 和 Gulp》中建议大家使用 npm 作为替代方案，npm 的 scripts 配置可以实现这些构建工具的所有功能，而且更简洁、更优雅和较少的模块依赖和维护开销。本文第一稿大概有 6000 字，深入讲解了如何将 npm 作为替代方案，但那篇文章主要在表达我的观点，而不是作为一篇教程。然而，读者的反馈却很强烈，许多读者告诉我 npm 并不能完全实现这些构建工具提供的特性，甚至有的读者直接给我一个 Gruntfile，然后反问我：“怎么用 npm 来实现这样的构建方案”？所以我决定进一步更新本文，将其作为一个新手入门教程，主要分享如何使用 npm…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBJ9yQ9tFe4mM99&w=130&h=130&url=http%3A%2F%2Fbubkoo.qiniudn.com%2Fimages%2Fnpm-logo.png&cfs=1",
+    "id": "521085554595481_977907738913258",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      127.5,
+      80,
+      5,
+      20
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 20
+    },
+    "created_time": "2016-04-07T07:23:25+0000",
+    "updated_time": "2016-04-07T09:43:02+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.inside.com.tw/2015/04/17/a-cautionary-tale-of-learning-to-code-quincy-larson",
+    "name": "想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson",
+    "description": "Quincy Larson 現在是線上程式語言學習平台 Free Code Camp 的軟體工程師，前陣子他發表了一篇文章描述他自學程式語言而幾乎被逼瘋的過程，也在最後給真心想「轉行」的程式新手們一些過來人的意見。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCTeNc3lKj1eoXT&w=130&h=130&url=http%3A%2F%2Fwww.inside.com.tw%2Fwp-content%2Fuploads%2F2015%2F04%2Fquincy.jpg&cfs=1&sx=0&sy=0&sw=480&sh=480",
+    "id": "521085554595481_977338445636854",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 39
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      86.5,
+      39,
+      5,
+      20
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-04-05T15:51:30+0000",
+    "updated_time": "2016-04-11T02:43:59+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Weekly Collection #001 @F2ETW\nhttp://www.f2e.tw/weekly-collection/collection/001/\n\n經過兩週的試驗後，目前發佈流程已穩定些了 <3\n\n除了歡迎多多分享文章到社團裡之外，\n也希望大家多多參與社團上的討論，\n討論及分享，將更能讓你喜愛的文章上榜唷~\n\n***\n\nPS:\n如果希望收到通知的，可以到 GitHub repository 點 [Watch]\n( 因為不想每個禮拜都來吵大家 T__T",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.f2e.tw/weekly-collection/collection/001/",
+    "name": "Collection #001",
+    "description": "Collection #001: popular posts from 2016-03-20 to 2016-03-26",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDvQRuhv_zV7To0&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8252114%3Fs%3D300&cfs=1",
+    "id": "521085554595481_976544755716223",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 63
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      85.5,
+      63,
+      11,
+      3
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-04-04T06:57:57+0000",
+    "updated_time": "2016-04-06T05:38:28+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "利用 PostCSS + cssnext 外掛來使用一些 CSS 功能，包含：\n\n1. CSS Variables\n2. CSS selectors nesting\n3. Custom media queries and media queries ranges\n4. Some new selectors，例如 :any-link、:matches 等",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://julian.io/tomorrows-css-syntax-with-cssnext",
+    "name": "Tomorrow’s CSS syntax with cssnext",
+    "description": "Although there isn't something like CSS4 right now, there are many new features in the works, which, with a little help, you can use nowadays.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCPGoFOM06t-MD4&w=130&h=130&url=http%3A%2F%2Fjulian.io%2Fcontent%2Fimages%2F2015%2F01%2Favatar.jpeg&cfs=1&sx=0&sy=0&sw=200&sh=200",
+    "id": "521085554595481_975849085785790",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 29
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      66.5,
+      29,
+      17,
+      6
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-07T03:11:58+0000",
+    "updated_time": "2016-04-07T15:46:25+0000",
+    "from": {
+      "name": "蔡宥鋐",
+      "id": "10203972125167650"
+    },
+    "message": "請教一下，網站弱點掃瞄最常用的什麼樣的工具？謝謝！",
+    "id": "521085554595481_977272872310078",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      35,
+      12,
+      14,
+      1
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-08T05:17:43+0000",
+    "updated_time": "2016-04-08T10:30:51+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6",
+    "name": "TypeScript vs. CoffeeScript vs. ES6",
+    "description": "*** Visit my blog at neilonsoftware.com Google Trends says it all: TypeScript is on the rise as CoffeeScript declines, with ES6 slowly gaining popularity. I wo…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBuH_mJZYT6DN-N&w=130&h=130&url=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Ftypescriptvscoffeescriptvses6-150414203959-conversion-gate01-thumbnail-4.jpg%3Fcb%3D1445871043&cfs=1",
+    "id": "521085554595481_977781848925847",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      28.5,
+      20,
+      3,
+      2
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-04-08T14:27:36+0000",
+    "updated_time": "2016-04-09T09:21:16+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "禮拜五做一個小練習:\nhttp://codepen.io/lichin-lin/full/Varapo/\n\n主要是參考這個dribbble 作品:\nhttps://dribbble.com/shots/2539623-Daily-UI-001-Sign-Up\n\n想要請問:\nhtml 的 password shape 沒辦法自己定義嗎？\n手機上看到的password shape為什麼無法跟電腦上的一樣?",
+    "id": "521085554595481_977990208905011",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      24.5,
+      20,
+      3,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-06T06:03:34+0000",
+    "updated_time": "2016-04-06T06:03:34+0000",
+    "from": {
+      "name": "Yu Liang",
+      "id": "1058035437541839"
+    },
+    "message": "Kono 正在找尋 full stack web developer 加入我們的團隊，這個職缺的工作內容主要是開發我們現有的 https://www.thekono.com 網站（用 Angular 開發的，會 Angular 的朋友尤佳），以及我們內部的 internal system，工作內容會是 70% 是前端開發，30% 是後端，有興趣的朋友可以寄信至 yu.liang[at]thekono.com 給我，謝謝！\n\n薪資：NT$50000 以上，依能力往上談",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/jobs/issues/75",
+    "name": "[徵才] Kono - Full Stack Web Developer · Issue #75 · f2etw/jobs",
+    "description": "公司簡介 Kono 是豐富、好讀、專屬你的電子雜誌閱讀平台。並且朝向更具個人服務性的文章閱讀體驗發展，讓電子雜誌的閱讀不再具有障礙。 2011 年於美國矽谷創立 Kono Digital Inc. (美商知識能股份有限公司)，同年在台灣成立分公司。由幾位來自美國 Stanford 大學畢業的台灣人共同創立，對於閱讀的熱愛與創新的熱忱，欲打造一個深具社群概念的數位內容...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAjplhtielOZfst&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3981242%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_976843532353012",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      24,
+      22,
+      0,
+      1
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-04T13:44:54+0000",
+    "updated_time": "2016-04-04T13:44:54+0000",
+    "from": {
+      "name": "Joanna Su",
+      "id": "1224474064234857"
+    },
+    "message": "【朋友，我想和你一起去矽谷】\n＿＿＿,\n\n2016.06.03-06.18 我們一起去矽谷吧！\n機票和食宿，聽說 Sudo 都準備好了！\n就算你去不了，我也要去給你看啊，\n曬曬加州陽光，多看一眼沙灘上的比基尼女郎，\n也許走在路上還可以巧遇穿了 H&M 的 Mark Zuckerberg 曬女兒  B| \n\n2016.07.18-08.12 台灣的學子，需要我們！\n邀請朋友一起去矽谷：https://goo.gl/hYiXZO\n去之前聽個說明會好了：https://goo.gl/GCNOA6\n\n** 若有違反版規，煩請告知，將立即刪除 **",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://goo.gl/hYiXZO",
+    "name": "【短期專案】 Summer Academy instructor - Sudo x Make School Summer Academy",
+    "description": "薪水範圍(月薪): NT$ 20,000 至 20,000 技能要求:swift,iOS,global training,矽谷超強團隊,國際講師,兩週密集培訓,台灣代表,結訓後實務教學應用,免費...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCCIap5EztpPbzf&w=130&h=130&url=https%3A%2F%2Fdceq5qf6sv0er.cloudfront.net%2Fuploads%2Fcompanies%2Fcovers%2F000%2F000%2F162%2Fmedium%2Fff936fa4a3920dad0d5b14c966fbfb10.png%3F1459403368&cfs=1",
+    "id": "521085554595481_975983005772398",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      16,
+      12,
+      0,
+      2
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-06T06:44:02+0000",
+    "updated_time": "2016-04-06T07:53:24+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "剛想到比較一下用Array和Object來做group by的效能，在Chrome上測試，Object的效能快了一倍呢...\nhttps://jsbin.com/luliba/edit?html,js",
+    "id": "521085554595481_976853522352013",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      14,
+      9,
+      2,
+      1
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-04T02:28:23+0000",
+    "updated_time": "2016-04-04T02:52:20+0000",
+    "from": {
+      "name": "陳伯宇",
+      "id": "10204849186204725"
+    },
+    "message": "PO個職缺，希望找有相關經驗的高手，有興趣也可私訊我\n前端、後端都有缺，只要有興趣皆可聊聊\n薪資：32K～80K，依照能力都可談",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.104.com.tw/job/?jobno=4c12g&jobsource",
+    "name": "IoT Product:Web(Front-end) Design Engineer_建漢科技股份有限公司 - 104人力銀行",
+    "description": "1.Developing web application for the IoT、O2O product. 2. Front-end web design by using JavaScript、HTML5、CSS3、 JQuery、 Ajax and Bootstrap",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB947IJGnfPWjB8&w=130&h=130&url=https%3A%2F%2Fwww.104.com.tw%2Fupload1%2Fcustintroduce%2FL1_1%2FL2_6%2F1659489200020150422014614top.jpg&cfs=1",
+    "id": "521085554595481_975780869125945",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      12.5,
+      6,
+      3,
+      1
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-03T06:59:29+0000",
+    "updated_time": "2016-04-03T06:59:29+0000",
+    "from": {
+      "name": "Kenta Ng II",
+      "id": "899294450152057"
+    },
+    "message": "Base64也可以\n好處是不如decode base64/svg 就能改顏色\n唯一不好的就是圖的size一定要預先知道\n過大不能縮小, 如果你想是用background-image就不行\n有誰有svg/base64改顏色的經驗可以教一下小弟嗎?",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images",
+    "name": "Coloring SVGs in CSS Background Images",
+    "description": "I love using SVG in CSS background images but it sucks that you can't alter the fill color easily within your CSS. Here are a few ways around that.SVG in CSS backgroundsUsing SVG in CSS backgrounds...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDrvwZJPXvQQJO0&w=80&h=80&url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fs.cdpn.io%2F18515%2Fprofile%2Fprofile-80_3.jpg&cfs=1&sx=0&sy=0&sw=80&sh=80",
+    "id": "521085554595481_975266352510730",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      10,
+      6,
+      0,
+      2
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-04-09T09:16:46+0000",
+    "updated_time": "2016-04-10T14:03:03+0000",
+    "from": {
+      "name": "Louis Liu",
+      "id": "10207554893540176"
+    },
+    "message": "請教一下，如何讓local lan 中的 web app 可以在 ios 與 android, win , osx 都會跳出 notification 提示?\n我可以用最笨的定時詢問 server方式，只要達到會跳出提示的效果就好\n或者有沒有什麼 browser addon, 或是 pushover 這類通知軟體，可以在local lan 中做到通知的功能\n感恩 !!",
+    "id": "521085554595481_978377842199581",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      9.5,
+      2,
+      5,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-04-07T06:19:02+0000",
+    "updated_time": "2016-04-11T04:01:10+0000",
+    "from": {
+      "name": "呂耶書",
+      "id": "10204008574682345"
+    },
+    "message": "compass 有個好用工具 Image Dimension Helpers；但我覺得 compass 編譯速度較慢，目前改用 node-sass + compass-mixins；請問 node-sass 有沒有讀取圖片工具？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://compass-style.org/reference/compass/helpers/image-dimensions/",
+    "name": "Compass Image Dimension Helpers | Compass Documentation",
+    "description": "Compass Image Dimension Helpers image-width($image) Returns the width of the image found at the path supplied by $image relative to your project's images directory. image-height($image) Returns the height of the image found at the path supplied by $image relative to your project's images directory.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCN5rBptAJROPgx&w=130&h=130&url=http%3A%2F%2Fi.creativecommons.org%2Fl%2Fby-nc-sa%2F3.0%2Fus%2F88x31.png&cfs=1",
+    "id": "521085554595481_977321938971838",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      9,
+      0,
+      6,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-04-07T16:40:38+0000",
+    "updated_time": "2016-04-07T17:18:39+0000",
+    "from": {
+      "name": "Hsin-Han Wu",
+      "id": "882043825167698"
+    },
+    "message": "想請問一個 Susy 設定的問題，連結的問題是有三個區塊 h1, section 跟 aside，gutter-position: split 的情況下，h1 永遠滿版但 section, aside 會變動，所以 h1 設了 @include span(full)，但是如果不在每個 breakpoint 重寫一次 span(full) 的話 (如連結裡的 sass 第 30 行)，susy 就會用最一開始 layout 的 margin 百分比去算 gutter，這樣就會跑版，有沒有滿版一次到定位的寫法呢？謝謝。\n\nhttp://codepen.io/sinhan/pen/bpaqRZ",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1076415279063884&set=gm.977541318949900&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-0/s130x130/12670908_1076415279063884_7588458069112578569_n.jpg?oh=4c741d58a755e789a1ba8e976882be74&oe=57AD2127",
+    "id": "521085554595481_977541318949900",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      7.5,
+      0,
+      5,
+      0
+    ],
+    "order": 20
+  }
+]
