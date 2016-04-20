@@ -1,0 +1,29 @@
+---
+---
+
+[
+  {% for post in site.posts %}
+  {% assign week = site.data[post.date-since] %}
+  {
+    "date-since": "{{ post.date-since }}",
+    "volunteer": "{{ post.volunteer }}",
+    "post-url": "{{ site.baseurl }}{{ post.url }}",
+    "title": "{{ post.title | xml_escape }}",
+    "items": [
+      {% for item in week %}
+        {
+          "title": "{{ item.title | xml_escape }}",
+          "url": "{{ item.link | xml_escape }}",
+          "sharer": "{{ item.sharer-name | xml_escape }}",
+          "sharer-id": "{{ item.sharer-id }}",
+          "permalink": "{{ item.permalink | xml_escape }}",
+          "time": "{{ item.time }}",
+          "intro": "{{ item.intro | xml_escape }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+  }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
