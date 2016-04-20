@@ -1,4 +1,4 @@
-/* global fetch */
+/* global fetch, history */
 
 var search = {
   form: document.querySelector('.Search'),
@@ -20,9 +20,11 @@ search.fetchData = () => {
         week.stringify = week.items.map((item) => {
           return Object.keys(item).map((itemProp) => item[itemProp]).join();
         }).join();
-
         return week;
       });
+    })
+    .then(() => {
+      search.updateState();
     });
 };
 
@@ -42,7 +44,12 @@ search.queryKwd = ($kwd) => {
     }
   });
 
+  search.pushState();
   search.renderResult();
+};
+
+search.pushState = () => {
+  history.pushState({kwd: search.kwd}, null, `./?q=${search.kwd}`);
 };
 
 search.renderResult = () => {
@@ -64,6 +71,13 @@ search.renderResult = () => {
   search.ul.innerHTML = html.join('');
 };
 
+search.updateState = () => {
+  if (!history.state) { return; }
+
+  search.queryKwd(history.state.kwd);
+  search.input.value = history.state.kwd;
+};
+
 search.binding = () => {
   search.form.addEventListener('submit', (e) => {
     e.preventDefault();
@@ -72,6 +86,11 @@ search.binding = () => {
     if (searchValue && search.data) {
       search.queryKwd(searchValue);
     }
+  });
+
+  window.addEventListener('popstate', (e) => {
+    console.log(12312312312, e.state, history.state);
+    search.updateState();
   });
 };
 
