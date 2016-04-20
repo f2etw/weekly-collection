@@ -1,0 +1,491 @@
+[
+  
+  
+  {
+    "date-since": "2016-04-03",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/003/",
+    "title": "Collection #003",
+    "items": [
+      
+        {
+          "title": "[前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api",
+          "url": "https://noootown.wordpress.com/2016/04/08/web-development-history-1/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_977914365579262",
+          "time": "2016-04-08T11:27:55+0000",
+          "intro": "邱弘毅用生活化口吻簡介了前後端部份的網路基礎概念"
+        }
+        ,
+        
+        {
+          "title": "ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選",
+          "url": "https://tw.twincl.com/javascript/reactjs/*631q",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_975806442456721",
+          "time": "2016-04-04T04:09:33+0000",
+          "intro": "文中以 Casey Muratori 欣賞的 immediate mode 概念為軸，介紹 GUI 管理控制的方式，並推薦利用 ReactJS 的 virtual DOM 來處理 UI render 效能的問題"
+        }
+        ,
+        
+        {
+          "title": "數據驅動的網站優化 Data Driven Website Optimization",
+          "url": "http://seo.dns.com.tw/?p=11862",
+          "sharer": "林靜君",
+          "sharer-id": "1123047127708817",
+          "permalink": "https://fb.com/521085554595481_977249542312411",
+          "time": "2016-04-07T02:33:10+0000",
+          "intro": "這篇分析網站數據的文章先簡介了網路行銷分類，再逐一介紹網站各種優化方式的目的；最後介紹了可能發生的數據差異的原因，並建議在實行網站優化時，也更應該注重精確資料的獲取"
+        }
+        ,
+        
+        {
+          "title": "A couple of alternatives to the hamburger menu",
+          "url": "https://t.co/4rqfdWaYzd",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_978286022208763",
+          "time": "2016-04-09T03:50:08+0000",
+          "intro": "針對漢堡選單圖示，Kenan Yusuf 在文介紹了兩種有趣的替代方案。或許可以討論哪個較有認知落差"
+        }
+        ,
+        
+        {
+          "title": "高雄前端社群直播活動: CSS 架構",
+          "url": "https://csscollege.hackpad.com/CSS-3-CSS-fkE5HXwHeID",
+          "sharer": "王志誠",
+          "sharer-id": "1120548697961771",
+          "permalink": "https://fb.com/521085554595481_977296448974387",
+          "time": "2016-04-07T04:39:20+0000",
+          "intro": "王志誠宣傳這次在高雄以 CSS 架構為主題的聚會，將會有線上直播，有興趣的可以多加關注"
+        }
+        ,
+        
+        {
+          "title": "如何将 npm 作为构建工具使用",
+          "url": "http://bubkoo.com/2016/03/18/how-to-use-npm-as-a-build-tool/",
+          "sharer": "呂耶書",
+          "sharer-id": "10204008574682345",
+          "permalink": "https://fb.com/521085554595481_977907738913258",
+          "time": "2016-04-08T11:14:18+0000",
+          "intro": "介紹 npm script 的知名文章被翻譯成中文了。若對原文有些吸收不良者，不妨比對一下譯文來瞭解如何使用 npm script 取代常見的 gulp, webpack 環境"
+        }
+        ,
+        
+        {
+          "title": "想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson",
+          "url": "http://www.inside.com.tw/2015/04/17/a-cautionary-tale-of-learning-to-code-quincy-larson",
+          "sharer": "陳聖博",
+          "sharer-id": "10206381218146197",
+          "permalink": "https://fb.com/521085554595481_977338445636854",
+          "time": "2016-04-07T07:23:25+0000",
+          "intro": "Quincy Larson 以自身經歷建議初學者更加注重一心一意、專精技能。對比那些「每六周重寫一次」的揶揄或許會有不同的感觸"
+        }
+        ,
+        
+        {
+          "title": "Collection #001",
+          "url": "http://www.f2e.tw/weekly-collection/collection/001/",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_976544755716223",
+          "time": "2016-04-05T15:51:30+0000",
+          "intro": "週刊刊號一的宣傳文章。感謝各位的協助與支持 &lt;(_ _)&gt;"
+        }
+        ,
+        
+        {
+          "title": "Tomorrow’s CSS syntax with cssnext",
+          "url": "http://julian.io/tomorrows-css-syntax-with-cssnext",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_975849085785790",
+          "time": "2016-04-04T06:57:57+0000",
+          "intro": "這篇文章介紹新穎的 CSS syntax 以及如何使用 PostCSS &amp; cssnext 來輔助生成現行支援的語法"
+        }
+        ,
+        
+        {
+          "title": "【問】網站弱點掃瞄的工具？",
+          "url": "",
+          "sharer": "蔡宥鋐",
+          "sharer-id": "10203972125167650",
+          "permalink": "https://fb.com/521085554595481_977272872310078",
+          "time": "2016-04-07T03:11:58+0000",
+          "intro": "討論串裡大家分享了很多掃描網站弱點的工具"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
+    "date-since": "2016-03-27",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/002/",
+    "title": "Collection #002",
+    "items": [
+      
+        {
+          "title": "程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網",
+          "url": "http://hk.thenewslens.com/post/305094/",
+          "sharer": "楊雅晴",
+          "sharer-id": "1062487557144901",
+          "permalink": "https://fb.com/521085554595481_973094689394563",
+          "time": "2016-03-31T04:35:28+0000",
+          "intro": "由 left-pad 撤架事件衍生之 npm 環境影響的後續報導"
+        }
+        ,
+        
+        {
+          "title": "首波主打課程 基礎 HTML + CSS - 六角學院",
+          "url": "http://www.hexschool.com/",
+          "sharer": "王志誠",
+          "sharer-id": "1120548697961771",
+          "permalink": "https://fb.com/521085554595481_973051156065583",
+          "time": "2016-03-31T03:02:49+0000",
+          "intro": "由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程"
+        }
+        ,
+        
+        {
+          "title": "Colection #000",
+          "url": "http://www.f2e.tw/weekly-collection/collection/000/",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_971724509531581",
+          "time": "2016-03-29T14:06:19+0000",
+          "intro": "本週刊試刊號於前端社團的宣傳貼文，也順便徵人"
+        }
+        ,
+        
+        {
+          "title": "Firework",
+          "url": "http://noootown.github.io/FireWork/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_974204135950285",
+          "time": "2016-04-01T11:13:53+0000",
+          "intro": "邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library"
+        }
+        ,
+        
+        {
+          "title": "設計資源總匯 - 奧革設計",
+          "url": "http://www.ogdesign.tw/resources",
+          "sharer": "莊為任",
+          "sharer-id": "821560307892406",
+          "permalink": "https://fb.com/521085554595481_972314856139213",
+          "time": "2016-03-30T06:33:27+0000",
+          "intro": "由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了"
+        }
+        ,
+        
+        {
+          "title": "DavidMenu",
+          "url": "http://lichin.me/Davidmenu/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_969926576378041",
+          "time": "2016-03-27T10:49:42+0000",
+          "intro": "林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式"
+        }
+        ,
+        
+        {
+          "title": "好的使用者經驗設計，絕對不是從使用者開始",
+          "url": "https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi",
+          "sharer": "陳聖博",
+          "sharer-id": "10206381218146197",
+          "permalink": "https://fb.com/521085554595481_974666092570756",
+          "time": "2016-04-02T04:34:54+0000",
+          "intro": "一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應"
+        }
+        ,
+        
+        {
+          "title": "What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks",
+          "url": "https://css-tricks.com/whats-deal-declaring-font-properties-font-face",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_970141973023168",
+          "time": "2016-03-27T17:06:01+0000",
+          "intro": "Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言"
+        }
+        ,
+        
+        {
+          "title": "Dominant Colors for Lazy-Loading Images",
+          "url": "https://manu.ninja/dominant-colors-for-lazy-loading-images",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_972663459437686",
+          "time": "2016-03-30T15:56:32+0000",
+          "intro": "一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度"
+        }
+        ,
+        
+        {
+          "title": "Dirty Tricks From The Dark Corners Of Front-End",
+          "url": "https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_974420155928683",
+          "time": "2016-04-01T18:23:44+0000",
+          "intro": "知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
+    "date-since": "2016-03-20",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/001/",
+    "title": "Collection #001",
+    "items": [
+      
+        {
+          "title": "怎麼將內網的 localhost 讓外面的人都看得到呢？用用 ngrok 吧！ - 転転 |",
+          "url": "https://tenten.co/blog/how-to-use-ngrok-to-connect-your-localhost/",
+          "sharer": "Hsiang Lee",
+          "sharer-id": "10156068311535551",
+          "permalink": "https://fb.com/521085554595481_965064240197608",
+          "time": "2016-03-21T14:31:43+0000",
+          "intro": "Hsiang Lee 分享她們開發團隊使用的一款工具: ngrok，可讓自己本機的 localhost 分享給其他人觀看，demo 的輔助工具"
+        }
+        ,
+        
+        {
+          "title": "Zeplin",
+          "url": "https://zeplin.io/features.html#developer",
+          "sharer": "尤川豪",
+          "sharer-id": "969639729722349",
+          "permalink": "https://fb.com/521085554595481_968003103237055",
+          "time": "2016-03-25T03:54:19+0000",
+          "intro": "能直接看 sketch 檔案內的規格的輔助工具: Zeplin 又被分享了一次囉~"
+        }
+        ,
+        
+        {
+          "title": "你知道你的網站可能在 InAppBrowser/webview 無法使用嗎? « 要改的地方太多了，那就改天吧",
+          "url": "http://jimmysu.logdown.com/posts/290026-inapp-browser-webview-problem",
+          "sharer": "Derek Wang",
+          "sharer-id": "920437281311659",
+          "permalink": "https://fb.com/521085554595481_968001996570499",
+          "time": "2016-03-25T03:51:50+0000",
+          "intro": "Derek Wang 分享了這篇關於手機 APP 內置瀏覽器陷阱的去年文章；雖然目前部份已改善了，仍可作為測試參考資料"
+        }
+        ,
+        
+        {
+          "title": "22 stunning examples of CSS3 animation | CSS3 | Creative Bloq",
+          "url": "http://www.creativebloq.com/css3/animation-with-css3-712437",
+          "sharer": "林靜君",
+          "sharer-id": "1123047127708817",
+          "permalink": "https://fb.com/521085554595481_965811500122882",
+          "time": "2016-03-22T13:01:53+0000",
+          "intro": "林靜君分享了這篇關於 CSS animation 的文章，雖然是 2014 所寫的，不過或許也有些例子的使用方式也能帶來些新的啟發"
+        }
+        ,
+        
+        {
+          "title": "In Pieces - 30 Endangered Species",
+          "url": "http://species-in-pieces.com/#",
+          "sharer": "Rex Rex",
+          "sharer-id": "10101007382129979",
+          "permalink": "https://fb.com/521085554595481_966422130061819",
+          "time": "2016-03-23T06:02:50+0000",
+          "intro": "華麗的「In Pieces」再次成為版上的焦點。這一去年的推出的專案，主題為 30 個瀕危的物種，每個動物都以 30 片三角組成，其背後的 JS 與 CSS 處理方式可以參考社團內分享的舊文"
+        }
+        ,
+        
+        {
+          "title": "臺北市社會局x數位災民證APP",
+          "url": "",
+          "sharer": "YuTin Liu",
+          "sharer-id": "10203040395925690",
+          "permalink": "https://fb.com/521085554595481_965745843462781",
+          "time": "2016-03-22T11:39:55+0000",
+          "intro": "YuTin Liu 分享了他與臺北市社會局合作的數位災民證 APP 專案。專案目的主要為災害避難處所管理 &amp; 識別的協助系統"
+        }
+        ,
+        
+        {
+          "title": "Remote Code Execution in all git versions (client + server) &lt; 2.7.4: CVE-2016-2324, CVE-2016‑2315",
+          "url": "http://bit.ly/25dhr1u",
+          "sharer": "黃保翕",
+          "sharer-id": "10206611907686693",
+          "permalink": "https://fb.com/521085554595481_964473126923386",
+          "time": "2016-03-20T15:59:50+0000",
+          "intro": "保哥分享了這篇關於 Git 上可操作 Remote Code Execution 攻擊的程式漏洞。並提醒盡快升級至 2.7.4 以上"
+        }
+        ,
+        
+        {
+          "title": "rscss",
+          "url": "http://rscss.io/",
+          "sharer": "尤川豪",
+          "sharer-id": "969639729722349",
+          "permalink": "https://fb.com/521085554595481_964954616875237",
+          "time": "2016-03-21T10:12:20+0000",
+          "intro": "尤川豪分享了 rscss (Reasonable System for CSS Stylesheet Structure)這一 CSS 命名方針，裡頭介紹了如何管理 CSS 命名而不失去理智。若還未有一套固有的整理方式，不妨多加參考借鏡"
+        }
+        ,
+        
+        {
+          "title": "[前端連載] 買早餐也能了解前端 vs 後端？",
+          "url": "https://noootown.wordpress.com/2016/03/23/frontend-backend-breakfast/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_969034409800591",
+          "time": "2016-03-26T11:12:06+0000",
+          "intro": "邱弘毅再次帶來輕鬆的分享是以買早餐的過程來簡介網頁前端與後端"
+        }
+        ,
+        
+        {
+          "title": "2016-03-26 第五屆HTML5峰會@台灣台北",
+          "url": "",
+          "sharer": "YuTin Liu",
+          "sharer-id": "10203040395925690",
+          "permalink": "https://fb.com/521085554595481_968887389815293",
+          "time": "2016-03-26T05:55:26+0000",
+          "intro": "由 YuTin Liu 所拍攝的活動現場一覽"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
+    "date-since": "2016-03-13",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/000/",
+    "title": "Collection #000",
+    "items": [
+      
+        {
+          "title": "完全學習Bootstrap 4 - Grid – INDER",
+          "url": "http://inder.com.tw/learn-bootstrap-4-grid/",
+          "sharer": "Kim Wong",
+          "sharer-id": "10152364923244567",
+          "permalink": "https://fb.com/521085554595481_962465493790816",
+          "time": "2016-03-17T10:47:30+0000",
+          "intro": "Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp; placeholder 開發原理"
+        }
+        ,
+        
+        {
+          "title": "Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen",
+          "url": "http://codepen.io/collection/nMgKxJ/",
+          "sharer": "黃保翕",
+          "sharer-id": "10206611907686693",
+          "permalink": "https://fb.com/521085554595481_961252387245460",
+          "time": "2016-03-15T11:55:01+0000",
+          "intro": "保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。"
+        }
+        ,
+        
+        {
+          "title": "[前端連載] 前端工程師該懂的基本東西——網路架構篇",
+          "url": "https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_963077823729583",
+          "time": "2016-03-18T10:28:54+0000",
+          "intro": "邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。"
+        }
+        ,
+        
+        {
+          "title": "完全學習Bootstrap 4 – Media object – INDER",
+          "url": "http://inder.com.tw/learn-bootstrap-4-media-object/",
+          "sharer": "Kim Wong",
+          "sharer-id": "10152364923244567",
+          "permalink": "https://fb.com/521085554595481_963847846985914",
+          "time": "2016-03-19T15:11:30+0000",
+          "intro": "Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。"
+        }
+        ,
+        
+        {
+          "title": "網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange",
+          "url": "http://buzzorange.com/techorange/2016/03/15/google-resizer/",
+          "sharer": "Bram Yeh",
+          "sharer-id": "988873794457369",
+          "permalink": "https://fb.com/521085554595481_961308417239857",
+          "time": "2016-03-15T14:11:21+0000",
+          "intro": "Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer"
+        }
+        ,
+        
+        {
+          "title": "Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS",
+          "url": "https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_962606900443342",
+          "time": "2016-03-17T16:01:27+0000",
+          "intro": "由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。"
+        }
+        ,
+        
+        {
+          "title": "JulieAlert",
+          "url": "http://lichin.me/Juliealert/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_962887027081996",
+          "time": "2016-03-18T02:08:28+0000",
+          "intro": "林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert"
+        }
+        ,
+        
+        {
+          "title": "Flexbox Froggy",
+          "url": "http://flexboxfroggy.com/",
+          "sharer": "鄒適齊",
+          "sharer-id": "1137308042954007",
+          "permalink": "https://fb.com/521085554595481_961005800603452",
+          "time": "2016-03-15T01:54:54+0000",
+          "intro": "鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站"
+        }
+        ,
+        
+        {
+          "title": "Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...",
+          "url": "https://softnshare.wordpress.com/portfolio/driving-technical-change-why-people-on-your-team-dont-act-on-good-ideas-and-how-to-convince-them-they-should/",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_959933710710661",
+          "time": "2016-03-13T03:38:44+0000",
+          "intro": "MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Veck Hsiao",
+          "sharer-id": "1098620593488508",
+          "permalink": "https://fb.com/521085554595481_960187820685250",
+          "time": "2016-03-13T15:50:14+0000",
+          "intro": "關於 Adblock 隱藏非預期元素、以及雷區的討論"
+        }
+        
+        
+    ]
+  }
+  
+  
+]
