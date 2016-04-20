@@ -1,6 +1,6 @@
 
 <div class="Cards sm-flex flex-wrap pt2">
-  {% for item in include.items %}
+  {% for item in site.data[page.date-since] %}
   <div class="flex sm-col-6 md-col-4 lg-col-3">
   <article class="Card flex flex-column flex-auto mx2 mb3">
     {% if item.link %}
