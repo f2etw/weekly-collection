@@ -1,0 +1,22 @@
+.Search {
+  // display: flex;
+}
+
+// .Search__input
+// .Search__submit
+
+.SearchLists {
+  margin-left: 5%;
+}
+
+.SearchLists__item {
+  font-family: monospace;
+  opacity: .75;
+  margin-left: 5%;
+
+  &::before,
+  &::after {
+    content: '…';
+    opacity: .3;
+  }
+}
