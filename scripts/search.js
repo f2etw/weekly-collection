@@ -37,8 +37,10 @@ search.fetchData = () => {
 
 search.queryKwd = ($kwd, $preventPushState) => {
   search.matchedArr = [];
-  search.kwd = $kwd.trim();
+  search.kwd = $kwd.replace(/[\\\s\.\*\?\+\(\)\[\]\|]/g, '');
   search.pattern = new RegExp(`(?:.{0,${search.kwdBuffer}})${search.kwd}(?:.{0,${search.kwdBuffer}})`, 'gi');
+
+  if (!search.kwd || !search.pattern) { return; }
 
   search.data.forEach((week) => {
     var matchedItem = week.stringify.match(search.pattern);
