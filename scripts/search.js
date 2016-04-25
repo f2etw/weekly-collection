@@ -24,6 +24,13 @@ search.fetchData = () => {
       });
     })
     .then(() => {
+      var urlKwd = location.search.match(/(?:\?q\=)([^&]+)/);
+
+      if (!history.state && urlKwd) {
+        search.kwd = urlKwd[1];
+        search.pushState();
+      }
+
       search.updateState();
     });
 };
