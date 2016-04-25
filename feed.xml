@@ -3,10 +3,29 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="http://www.f2e.tw//weekly-collection/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://www.f2e.tw//weekly-collection/" rel="alternate" type="text/html" />
-<updated>2016-04-21T05:32:58+08:00</updated>
+<updated>2016-04-25T15:18:29+08:00</updated>
 <id>http://www.f2e.tw//weekly-collection/</id>
 <title>Weekly Collection @F2ETW</title>
 <subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
+<entry>
+<title>Collection #004</title>
+<link href="http://www.f2e.tw//weekly-collection/collection/004/" rel="alternate" type="text/html" title="Collection #004" />
+<published>2016-04-10T00:00:00+08:00</published>
+<updated>2016-04-10T00:00:00+08:00</updated>
+<id>http://www.f2e.tw//weekly-collection/collection/004</id>
+<content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/004/">&lt;p&gt;{% include card.html %}&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;※ 編按：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;有興趣探索更多前端文章的同好們可以常駐 &lt;a href=&quot;https://twitter.com/hashtag/f2etw?f=tweets&quot;&gt;#F2ETW @Twitter&lt;/a&gt; 這個連結的分頁唷~ ✌☕&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+<category term="weekly-popular" />
+<summary>                                                              農曆三月十九下午 陣頭遶境 Google Maps 路線地圖 - 北港迎媽祖                    吳政賢以其專業與熱忱製作了這個充滿在地文化氣氛的北港迎媽祖網站                              2016-04-14                                                          吳政賢                                                                                              面試求生指南：一位面試官的心得分享                    Arthur Liao 多年面試求才的經驗談，或可更多瞭解以面試官視角會有什麼不一樣的想法                              2016-04-15                                                          Arthur Liao                                                                                              Visual Studio Code 1.0!                    Microsoft 的開源文字編輯器 Visual Studio Code 推出了第一個大版號的更新。加入了各語法更多的功能支援，並且也提供在地化語系                              2016-04-15                                                          黃保翕                                                                                              簡單聊一下 One-way data flow、Two-way data binding 與前端框架 | 轉個彎日誌                    關於 data-driven 兩種行為的簡介；並用各知名 JS 來介紹如何以不同方向來更新 data model                              2016-04-15                                                          楊雅晴                                                                                              媽祖進香去-陣頭怎麼看 | 圖文不符                    透過由圖文不符製作的「跟著媽祖進香去」專案，可以更加瞭解遶境陣頭各角色的小知識唷！                              2016-04-13                                                          詹致遠                                                                                              [Javascript] Promise, generator, async與ES6 « Huli&amp;#39;s Blog                    JS 處理非同步的進化史簡介。由最基礎的 callback 到 ES6 的 Promise，再引入 Generator 來精簡，最後是 ES7 的 async function                              2016-04-11                                                          Ruby Chen                                                                                              CSS @apply rule (native CSS mixins)                    繼 variables 後，CSS @apply 這一有趣的功能也被瀏覽器實作了，期待未來能更便利地由這功能來達成 mixin 的效果！                              2016-04-13                                                          Rplus Chen                                                                                              AngularJS 1.5 最佳實務                    Amobiz Chen 以自己開發 AngularJS v1 的經驗匯整為這篇詳細的 better practice！                              2016-04-15                                                          Amobiz Chen                                                                                              Framer Code                    FramerJS 是款標榜易用且高保真的 prototype 製作框架。這網站收集了諸多由 FramerJS 製作而成的範例專案                              2016-04-14                                                          MaoYang Chien                                                                                              #F2ETW hashtag                    推廣 Twitter 上的 #F2ETW hashtag，希望針對網頁前端領域能有更多元的討論及分享方式                              2016-04-13                                                          Rplus Chen                                  </summary>
+</entry>
 <entry>
 <title>Collection #003</title>
 <link href="http://www.f2e.tw//weekly-collection/collection/003/" rel="alternate" type="text/html" title="Collection #003" />

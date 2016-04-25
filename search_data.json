@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-04-10",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/004/",
+    "title": "Collection #004",
+    "items": [
+      
+        {
+          "title": "農曆三月十九下午 陣頭遶境 Google Maps 路線地圖 - 北港迎媽祖",
+          "url": "http://mazu.ioa.tw/maps/dintao",
+          "sharer": "吳政賢",
+          "sharer-id": "1066773103336031",
+          "permalink": "https://fb.com/521085554595481_980856278618404",
+          "time": "2016-04-14T02:48:06+0000",
+          "intro": "吳政賢以其專業與熱忱製作了這個充滿在地文化氣氛的北港迎媽祖網站"
+        }
+        ,
+        
+        {
+          "title": "面試求生指南：一位面試官的心得分享",
+          "url": "https://tw.twincl.com/career/*6425",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_981578268546205",
+          "time": "2016-04-15T14:26:52+0000",
+          "intro": "Arthur Liao 多年面試求才的經驗談，或可更多瞭解以面試官視角會有什麼不一樣的想法"
+        }
+        ,
+        
+        {
+          "title": "Visual Studio Code 1.0!",
+          "url": "http://bit.ly/vscode1rtm",
+          "sharer": "黃保翕",
+          "sharer-id": "10206611907686693",
+          "permalink": "https://fb.com/521085554595481_981377808566251",
+          "time": "2016-04-15T03:03:15+0000",
+          "intro": "Microsoft 的開源文字編輯器 Visual Studio Code 推出了第一個大版號的更新。加入了各語法更多的功能支援，並且也提供在地化語系"
+        }
+        ,
+        
+        {
+          "title": "簡單聊一下 One-way data flow、Two-way data binding 與前端框架 | 轉個彎日誌",
+          "url": "http://blog.turn.tw/?p=2948",
+          "sharer": "楊雅晴",
+          "sharer-id": "1062487557144901",
+          "permalink": "https://fb.com/521085554595481_981453208558711",
+          "time": "2016-04-15T07:28:34+0000",
+          "intro": "關於 data-driven 兩種行為的簡介；並用各知名 JS 來介紹如何以不同方向來更新 data model"
+        }
+        ,
+        
+        {
+          "title": "媽祖進香去-陣頭怎麼看 | 圖文不符",
+          "url": "http://matsu.simpleinfo.cc/",
+          "sharer": "詹致遠",
+          "sharer-id": "991353267543024",
+          "permalink": "https://fb.com/521085554595481_980531325317566",
+          "time": "2016-04-13T13:20:14+0000",
+          "intro": "透過由圖文不符製作的「跟著媽祖進香去」專案，可以更加瞭解遶境陣頭各角色的小知識唷！"
+        }
+        ,
+        
+        {
+          "title": "[Javascript] Promise, generator, async與ES6 « Huli&amp;#39;s Blog",
+          "url": "http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6",
+          "sharer": "Ruby Chen",
+          "sharer-id": "1156602471017725",
+          "permalink": "https://fb.com/521085554595481_979481472089218",
+          "time": "2016-04-11T13:04:00+0000",
+          "intro": "JS 處理非同步的進化史簡介。由最基礎的 callback 到 ES6 的 Promise，再引入 Generator 來精簡，最後是 ES7 的 async function"
+        }
+        ,
+        
+        {
+          "title": "CSS @apply rule (native CSS mixins)",
+          "url": "https://t.co/aVKid292kG",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_980514468652585",
+          "time": "2016-04-13T12:28:28+0000",
+          "intro": "繼 variables 後，CSS @apply 這一有趣的功能也被瀏覽器實作了，期待未來能更便利地由這功能來達成 mixin 的效果！"
+        }
+        ,
+        
+        {
+          "title": "AngularJS 1.5 最佳實務",
+          "url": "http://amobiz.github.io/2016/04/15/angularjs-1.5-best-practices/",
+          "sharer": "Amobiz Chen",
+          "sharer-id": "521238804693443",
+          "permalink": "https://fb.com/521085554595481_981369365233762",
+          "time": "2016-04-15T02:34:42+0000",
+          "intro": "Amobiz Chen 以自己開發 AngularJS v1 的經驗匯整為這篇詳細的 better practice！"
+        }
+        ,
+        
+        {
+          "title": "Framer Code",
+          "url": "http://framerco.de/",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_980997615270937",
+          "time": "2016-04-14T10:52:18+0000",
+          "intro": "FramerJS 是款標榜易用且高保真的 prototype 製作框架。這網站收集了諸多由 FramerJS 製作而成的範例專案"
+        }
+        ,
+        
+        {
+          "title": "#F2ETW hashtag",
+          "url": "https://www.facebook.com/photo.php?fbid=1099690636765385&amp;set=gm.980452781992087&amp;type=3",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_980452781992087",
+          "time": "2016-04-13T09:55:43+0000",
+          "intro": "推廣 Twitter 上的 #F2ETW hashtag，希望針對網頁前端領域能有更多元的討論及分享方式"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-04-03",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/003/",
