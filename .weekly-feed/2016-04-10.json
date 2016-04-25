@@ -1,0 +1,709 @@
+[
+  {
+    "shares": {
+      "count": 23
+    },
+    "created_time": "2016-04-14T02:48:06+0000",
+    "updated_time": "2016-04-15T01:03:50+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "Hi all, 很久沒來版上 PO文章了 >\"<\n\n最近忙著幫忙我們家鄉的活動製作網站，幾本上我是屬於義務性幫忙、非官方、沒盈利的自主服務(XD)，每一年的製作這個網站我算是不斷自我突破吧(疑？)，從後端、系統、設計、切版、上稿，我嘗試一個人完成！\n\n話題扯遠了，回到正題，這個網站我要分享的是前端部分！\n\nhttp://mazu.ioa.tw/maps/dintao\n\n從設計開始，我參考了 Material Design 的角度去設計版面以及流程，不過當然的，手機與網頁的表現還是會有些許的差異，但是整體我仍然盡量參考規範ＸＤ\n\nJavaScript 這次主力都在 Google Maps API 的運用，因為三年前我將此地圖資訊與廟會遶境路線做了結合，開啟了我對 Google Maps 運用的熱愛，所以今年也是把他當主力，活動當天沒意外的話，我會結合 GPS 線上定位！\n\nCSS 的部分，我則是使用 compass scss 去實作，javascript 的話則是使用 jQuery 以及一些其他的 lib 實作！因為前後端都自己包辦，所以 Framework(CodeIgniter) 我做了一些修改，讓這些靜態 css、javascript code 上 production 時候自動的 merge 以及 minify。\n\n在靜態檔案的處理，我利用 S3 強大的空間功能，將網站的圖檔資源、js、css 都上到 S3 以減少 EC2 的 Loading，所以說，S3 上的 js、css 都是已經 minify 的了，而圖片檔，若是遇到大檔案，我則利用 TinyPNG 去對圖片做壓縮，然後再上傳到 S3，對了，以上當然是用程式跑的：）\n\n再來則是 HTML，基本上網站前台都是使用大量的文章以及簡介，所以可以做大量的 cache，然後這部分採用 file cache 而已，雖然我有原本打算使用 Redis 去實作，但是我把記憶體留給 MySQL 了..(我沒開 RDS，MySQL 是上在與 Server 同一台的 EC2)，因為有作 output 的 cache，所以我也順便將 HTML minify 囉，因為做 HTML 的 output cache，所以瀏覽人數的紀錄就不能跑 php 做 +1，所以這部分我使用 Ajax 去實作回傳人氣的紀錄！\n\nPHP 這是我就使用了很潮的 php7，跑起來貌似有變快，因為我的爬蟲變快了，所以整體來說算是很滿意，只是有些 function 需要稍做調整，不過大致上都很健康！\n\n最後 SEO，以及相關搜尋的設定，robots.txt、Sitemap 不用講，一定會做，這次我還加入了一點點的 schema、Google AMP、JSON-LD 的結構，這些都是去餵 Search Engine 想吃的菜！\n\n其實過程中我學到很多經驗，也嘗試很多架構，這次我使用 AWS 的服務，主要開了一台東京 t2.micro 的 EC2，以及使用 S3 的服務而已，網頁流量，據我看 GA 的即時人數，最高曾經落在 1900 多人，可能有些頁面是使用 S3 吧，所以都撐得住！這是目前我個人做過最高流量的網站，相對的也是個人里程碑！\n\n以上是我的經驗、心得分享，\n回到做網站初衷，我只是個熱愛故鄉的鄉土文化，想為家鄉盡一分力，利用自己的專長技術，支援這個從小的信仰，如此簡單。\n\n文章有點太長，如果看到這裡的朋友，非常感謝您將它看完，\n如果大家有想要來北港玩的，倒是可以看看網站內容喔！\n\n以下是我的 GitHub 資源：\nhttps://github.com/comdan66/mazu\n\n網站 Demo：\nhttp://mazu.ioa.tw/\n\n若是文章不適合再版上討論的話，可以跟我說一下 >\"<\n有問題或疑問的話，非常歡迎各位討論喔：）",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://mazu.ioa.tw/maps/dintao",
+    "name": "農曆三月十九下午 陣頭遶境 Google Maps 路線地圖 - 北港迎媽祖",
+    "description": "2016年，三月十九下午陣頭遶境路線圖(地圖版)，出廟➜中山路➜民生路➜益安路➜信義路➜捷發街➜光明路➜益安路➜東興街➜中秋路➜東勢街➜東華巷➜彌陀寺➜前中央市場後➜厚生路➜媽祖廟後➜國宮旅社前➜仁和路➜三連街➜公館街➜大同路➜博愛路➜大復戲院前➜賜福街➜義民路➜復興街➜文化路➜民有路➜公園路➜民族路➜文昌路➜民有路➜華勝路➜民治路➜文昌路➜民有路➜華興街➜民治路➜吉祥路➜民有路➜公園路➜文星路➜吉祥路➜民享路➜文昌路➜文明路➜右轉吉祥路➜左轉文仁路➜左轉文昌路➜文明路➜文明路155巷➜仁愛路➜民享路➜文昌路➜民治路➜華勝路➜勝利路➜大同路➜文化路➜公民路➜義民路➜中正路➜電信局前➜媽祖廟西邊…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBuaYO78DTlP_ct&w=130&h=130&url=http%3A%2F%2Fpic.mazu.ioa.tw%2Fresource%2Fimage%2Fog%2Fdintao%2Flarger.png&cfs=1",
+    "id": "521085554595481_980856278618404",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 183
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      262,
+      183,
+      22,
+      23
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 46
+    },
+    "created_time": "2016-04-15T14:26:52+0000",
+    "updated_time": "2016-04-15T15:44:37+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "這是我寫的一篇求職分享文，雖然跟Front-End沒有直接關係，但跟找工作有關係。我很認真的把一些面試重要know-how分享出來，希望對大家有些參考價值。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/career/*6425",
+    "name": "面試求生指南：一位面試官的心得分享",
+    "description": "近20年的職場生涯，我待過幾家不同規模的外商及本土公司，面試過數百位求職者。我在面試時的角色，一般是用人部門主管（一線或二線），有時也幫老闆或其它部門...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBuZqC0sGphnB2d&w=130&h=130&url=https%3A%2F%2Ffarm5.staticflickr.com%2F4127%2F4975913210_2e0262478e_z_d.jpg&cfs=1",
+    "id": "521085554595481_981578268546205",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 92
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      190,
+      92,
+      4,
+      46
+    ],
+    "order": 2
+  },
+  {
+    "created_time": "2016-04-15T03:03:15+0000",
+    "updated_time": "2016-04-16T06:15:36+0000",
+    "from": {
+      "name": "黃保翕",
+      "id": "10206611907686693"
+    },
+    "message": "期待已久的 Visual Studio Code 編輯器終於推出 1.0 正式版啦！ (y)\n.\n大量的擴充套件可以增強許多編輯器的開發與偵錯能力，支援多種程式語言的高量、偵錯支援，前端人必備好物啊 <3\nhttps://marketplace.visualstudio.com/VSCode",
+    "link": "http://bit.ly/vscode1rtm",
+    "name": "Will 保哥的技術交流中心",
+    "description": "千呼萬喚始出來，即將榮登地表最強編輯器的 Visual Studio Code 推出 1.0 正式版啦！ (y) (y) (y)",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD_WSTf_8W3x_3d&w=130&h=130&url=https%3A%2F%2Fcode.visualstudio.com%2Fimages%2F2016_04_14_header.png&cfs=1",
+    "id": "521085554595481_981377808566251",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 124
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      157,
+      124,
+      22,
+      0
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-04-15T07:28:34+0000",
+    "updated_time": "2016-04-15T08:10:53+0000",
+    "from": {
+      "name": "楊雅晴",
+      "id": "1062487557144901"
+    },
+    "message": "滿清楚的文章，解釋了之前心中的一些疑惑～\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.turn.tw/?p=2948",
+    "name": "簡單聊一下 One-way data flow、Two-way data binding 與前端框架 | 轉個彎日誌",
+    "description": "programming 簡單聊一下 One-way data flow、Two-way data binding 與前端框架 2016/02/29 howtomakeaturn 6 則迴響 新手在學完JavaScript基本知識、離開新手村之後，很快就必須面對前端框架。 這些框架常會號稱是one-way data flow或是two-way data binding。 這兩個名詞究竟代表什麼呢？一定要有框架才能做到嗎？一個框架只能是one-way或是two-way嗎？ 這篇文章會一次回答這些觀念問題，並且分別檢視一次Backbone、Angular、React三套框架。 用詞澄清 在開始之前，…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBDIRCPbtvUHZAF&w=130&h=130&url=http%3A%2F%2Fblog.turn.tw%2Fwp-content%2Fuploads%2F2016%2F02%2Ffancy.jpg&cfs=1",
+    "id": "521085554595481_981453208558711",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 79
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      118.5,
+      79,
+      1,
+      19
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-04-13T13:20:14+0000",
+    "updated_time": "2016-04-14T09:51:54+0000",
+    "from": {
+      "name": "詹致遠",
+      "id": "991353267543024"
+    },
+    "message": "各位大大好\n這是我們公司(圖文不符)推出的一個實驗性的Web-Info\n使用 SVG + TweenMax 開發\n做的時候遇到很多 svg 跟 AI 的雷 ORZ\n拿來給大家笑笑 (程式部分啦)\n我們最近在徵有薪實習生\n歡迎有心人一起來玩一起來撞雷\n詳細情形可私訊或參照我們的粉專\n#圖文不符 #徵有薪實習生\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://matsu.simpleinfo.cc/",
+    "name": "媽祖進香去-陣頭怎麼看 | 圖文不符",
+    "description": "「大甲媽祖遶境進香」，臺灣最盛大的宗教嘉年華！快跟著圖文不符一起走，教你看陣頭！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQByUENAkE-xTtB4&w=130&h=130&url=http%3A%2F%2Fmatsu.simpleinfo.cc%2Fassets%2Fimgs%2Fog-image.png&cfs=1",
+    "id": "521085554595481_980531325317566",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 81
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      109.5,
+      81,
+      7,
+      9
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 18
+    },
+    "created_time": "2016-04-11T13:04:00+0000",
+    "updated_time": "2016-04-12T10:16:53+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6\n----------\nAsync真的很重要呢！generator超讚的啦！搭配bluebird -->\nhttp://bluebirdjs.com/docs/api/promise.coroutine.html\n---------",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6",
+    "name": "[Javascript] Promise, generator, async與ES6 « Huli's Blog",
+    "description": "在Javascript裡面，有一個超級重要的概念就是非同步，這也是剛入門的時候最容易搞混、忘記的觀念 ES6原生支援了Promise，搭配Generator使用效果更佳，而ES7甚至支援了asy...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRKzdQnwJjpsQK&w=130&h=130&url=http%3A%2F%2Flogdown.com%2Fimages%2Fog_plain.jpg&cfs=1",
+    "id": "521085554595481_979481472089218",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 63
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      103.5,
+      63,
+      3,
+      18
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-04-13T12:28:28+0000",
+    "updated_time": "2016-04-14T13:42:20+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "喜歡 SCSS 上各種強捍又便利的 mixin 嗎？\nCSS at-rules 可能又要多一個成員了\n\n@apply 這一新的語法目前已經可以在 Canary 上試玩了\n\nCSS variables + @apply 可視為 SCSS syntax 裡的 @mixin & @include 組合\n\nSerg Gospodarets 在文中介紹了 @apply 的基本語法、支援度、目前 postcss plugin 的處理方案\n以及示範如何用 JS 來偵測瀏覽器是否支援這一新穎的 CSS 語法\n\n(( 感覺 CSS 世界也愈來愈奇妙了呢~\n\n***\n\nCSS @apply rule (native CSS mixins)\nby Serg Gospodarets 2016-04-11\nhttps://blog.gospodarets.com/css_apply_rule\n\n✨ #f2etw ✨",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/aVKid292kG",
+    "name": "CSS @apply rule (native CSS mixins)",
+    "description": "CSS @apply rule (native CSS mixins / custom sets of properties)",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA0OBOjB86kSCDp&w=130&h=130&url=http%3A%2F%2Fi.imgur.com%2Fo7pDpdQ.png&cfs=1",
+    "id": "521085554595481_980514468652585",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 70
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      101.5,
+      70,
+      5,
+      12
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-04-12T10:29:18+0000",
+    "updated_time": "2016-04-13T07:48:24+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "橫跨ios到android？ 嘖嘖嘖..",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://technews.tw/2016/04/09/google-is-said-to-be-considering-swift-as-a-first-class-language-for-android/",
+    "name": "Swift 開源後，傳 Google 考慮作為開發 Android 的主要程式語言",
+    "description": "國外媒體 The Next Web 獲得知情人士的消息指出，2015 年底蘋果官方正式將 Swift 開放原始碼時，曾與 Google、Facebook、Uber 三大服務的代表於倫敦討論這門程式語言的發展。Google 曾考慮將 Swift 作為開發 Android 的主要語言，而 Faceboo...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDqzqeTZOqbvrqc&w=130&h=130&url=http%3A%2F%2Fimg.technews.tw%2Fwp-content%2Fuploads%2F2016%2F04%2FApple-Craig-Federighi_Swift.jpg&cfs=1&sx=551&sy=0&sw=449&sh=449",
+    "id": "521085554595481_979970408706991",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 85
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      100,
+      85,
+      6,
+      3
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-04-15T02:34:42+0000",
+    "updated_time": "2016-04-22T13:39:12+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amobiz.github.io/2016/04/15/angularjs-1.5-best-practices/",
+    "name": "AngularJS 1.5 最佳實務",
+    "description": "前言本文整理截至目前 AngularJS 1.5 為止， 個人以為的最佳實務做法。 為什麼現在？基於以下三點理由： 雖然 AngularJS 2.0 發佈在即，但是既有的 AngularJS 1.x 程式碼仍需要維護。 由於 AngularJS 1.x 受到廣泛的歡迎，前後做了不少的改進，因此網路上到處可見其實已經過時的作法。 基於向後相容的原則，有些功能雖然被保留下來，但未必是最佳作法。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDyBhj6_IMailr4&w=130&h=130&url=https%3A%2F%2Fangularjs.org%2Fimg%2FAngularJS-large.png&cfs=1",
+    "id": "521085554595481_981369365233762",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 41
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 18
+      }
+    },
+    "power": [
+      92,
+      41,
+      18,
+      12
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-04-14T10:52:18+0000",
+    "updated_time": "2016-04-14T10:52:18+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "這個網站收集好多Framer的example, 還有source code, 如果有在用Framer做Hi-Fi prototype 值得參考\n\n想參加Framer團購嗎? 請先到這邊-->https://goo.gl/fWqaAm 留言 \"我要團購\"\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://framerco.de/",
+    "name": "Framer Code",
+    "description": "A collection of FramerJS modules, code examples, snippets and tips.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAjbiD3UKFLp9iG&w=130&h=130&url=http%3A%2F%2F41.media.tumblr.com%2Ff07cff256450b31e7114908057307087%2Ftumblr_nysh26xdTN1ur3yszo1_1280.png&cfs=1",
+    "id": "521085554595481_980997615270937",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 36
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      60,
+      36,
+      0,
+      12
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-13T09:55:43+0000",
+    "updated_time": "2016-04-13T17:31:18+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "嗨，大家好\n\n最近還蠻習慣使用 Twitter & Facebook 的同步功能\n來分享一些前端文章\n\n轉推別人 tweet 時順便加上一個 ✨ #F2ETW ✨ 的 tag\n就能在這一頁裡看到所有加上這 tag 的文章囉~\nhttps://twitter.com/hashtag/f2etw?f=tweets\n\n相對於 Facebook group 來說\n可以減少跨社團需要重覆貼文分享的狀況\n\n也不必太擔心自己分享的東西還沒看完、\n或是煩惱文章太淺太難都不太敢分享到社團裡\n( 畢竟是自己的 Twitter 牆，要轉貼啥沒人管你 XD\n\n說這麼多~ 希望大家也可以透過這方式來分享 & 討論 \n\n✨  #F2ETW  ✨",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1099690636765385&set=gm.980452781992087&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-0/s130x130/13000098_1099690636765385_2553378537154595171_n.jpg?oh=8d56a5a62c1782a6e9416a4db3703bbd&oe=57A298DE",
+    "id": "521085554595481_980452781992087",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 24
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      49,
+      24,
+      14,
+      2
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-04-13T16:16:20+0000",
+    "updated_time": "2016-04-13T17:01:53+0000",
+    "from": {
+      "name": "莊為任",
+      "id": "821560307892406"
+    },
+    "message": "希望前端能夠成為台灣一個成熟的產業!\n主要討論: 前端網頁技術，使用者介面探討，網頁設計。\nHTML，CSS，JavaScript等語言技術討論，瀏覽器開發工具。\niOS, Android 等 Mobile App 使用者介面相關議題討論。\n也歡迎前端經驗分享，以及企業徵才。(請附上薪資)\n歡迎在fb/twitter 的前端技術文章標上hashtag #f2etw 方便大家follow歐\nhttps://twitter.com/hashtag/f2etw \n\n徵才github : https://github.com/f2etw/jobs/issues \n官網: www.f2e.tw\n召集人: Kevin Zhuang - 莊為任 (www.kvzhuang.net)\n策展人: 劉宇庭 (www.utin.tw)\n",
+    "id": "521085554595481_980606691976696",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 43
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      49,
+      43,
+      4,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-04-14T08:38:34+0000",
+    "updated_time": "2016-04-24T07:48:53+0000",
+    "from": {
+      "name": "Guanjun Chen",
+      "id": "919392348081916"
+    },
+    "message": "嗨嗨，想請問大家「如何實作好的網站SEO？」。另外SEO實作有多重要？因為發現很多有名的網站DIV裡面的資訊也都只有class而已，沒有太多額外的資訊。\n\n我是今天才開始了解SEO，目前正在爬RDFa並研究MICRODATA, JSON-LD & SCHEMA.ORG。\n\n發現有很多「歷史」需要知道，大部分講得「清楚」的都是原文居多。想知道各位的怎麼學SEO的知識與這專業。有任何的建議與網站資源連結或是書單的分享，我都會很感激。\n\n謝謝，謝謝。",
+    "id": "521085554595481_980950785275620",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      45.5,
+      12,
+      17,
+      4
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-04-15T21:17:20+0000",
+    "updated_time": "2016-04-16T07:23:24+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "message": "【转载】Houdini：也许是你从未听过的在CSS领域最令人兴奋的发展\nhttp://www.w3cplus.com/css/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of.html",
+    "id": "521085554595481_981738665196832",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 25
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      35.5,
+      25,
+      3,
+      3
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-04-11T14:38:54+0000",
+    "updated_time": "2016-04-11T14:38:54+0000",
+    "from": {
+      "name": "Muyueh Lee",
+      "id": "933186230130612"
+    },
+    "message": "這是三年前我個人寫的「資料視覺化學習地圖」，以及三年過後我對這些方法的回顧。回過頭來回顧過去三年，我覺得蠻扎實的一個練習，是連續三十天，用真實資料每天製作一個新的視覺化圖表。另外，士氣很重要：常常發表，以及找到同好。\n除了程式技術以外，我覺得視覺化很重要的在「視覺化的設計」，以及分析「商業問題」的能力（了解 domain knowhow）。\n並且文末也提供一系列平常在工作中常用的工具組給大家參考。",
+    "link": "http://muyueh.com/essay/DataVisualization_LearningMap.html",
+    "name": "資料視覺化 李慕約公司 / Muyueh Data Visualization",
+    "description": "我（李慕約）三年前第一次發表關於資料視覺化的演講，會後就寫了一篇視覺化的學習地圖。最近剛好有機會拿來重新檢視當初的建議，有一些今天還是很認同的，有一些覺得需要修正的。並且也重新分享了過去三年對自己在學習視覺化上面很有幫助的方法。\n\nhttp://muyueh.com/essay/DataVisualization_LearningMap.html",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA5TtpI_NU91J0w&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLfg1Cf6VdCuHTXoUwcsw20Gw1feZWxDu-FDEnNPeCJz6Y6bsbPDA_RsaJq2k0fmmEPBgsjjIN0Vu15bGO0RtgKQKEkbtnly7y9WqSz6KGhIgCDdXK5lUG4akaiqq-ibXaeZKDoP0gxP56zeF5-_7IP&cfs=1",
+    "id": "521085554595481_979522768751755",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 33
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      33,
+      33,
+      0,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-04-13T13:43:46+0000",
+    "updated_time": "2016-04-13T13:43:46+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "詳細的Sketch+Framer教學\n\n想要參加Framer最新版的團購嗎? 請先到這邊-->https://goo.gl/fWqaAm 留言 \"我要參加團購\" 人數有到50人以上團購就成立\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://meatball.io/sketch-framerjs-up-and-running-46a687e8856c#.kjq9jge8g",
+    "name": "Sketch + FramerJS — up and running — Meatball IO",
+    "description": "Many people on my Facebook page is talking about the countdown for a new update for framer.js . And when the clock zeroe…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDCJkmybQzRaQ-4&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2A9LUBMlkax3qgEIdiSTKTcQ.png&cfs=1&sx=388&sy=0&sw=812&sh=812",
+    "id": "521085554595481_980539768650055",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 18
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      32,
+      18,
+      0,
+      7
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-04-11T08:54:54+0000",
+    "updated_time": "2016-04-11T09:20:31+0000",
+    "from": {
+      "name": "Rex Rex",
+      "id": "10101007382129979"
+    },
+    "message": "大家好，\n\n我是今年 Rails Pacific 2016 的主辦人。目前當任於紐約新聞網站 Mashable 的軟體工程師，我之前在舊金山矽谷和洛杉磯工作過。\n\nRails Pacific 的時間定於 5/20 - 5/21，地點在張榮發基金會國際會議中心。兩天的會議邀請了 7 個不同的國家 12 位知名講者。講座的內容相當豐富，包括 Rspec、Rails 5、付款系統、創業、開發者自我學習、以及開發者管理等。\n\n這週末我特別寫了一篇說明 Rails Pacific 細節的文章，希望能協助對這會議有興趣或有疑問的朋友。\n\nRails Pacific 早鳥票一的優惠只到 4/20，在此呼籲有興趣參加的朋友要提早購票！\n\n我的文章：http://rexytseng.com/posts/6\n大會網址：http://railspacific.com\n售票頁面：http://peatix.com/event/155164\n\nP.S. 所有參加者都會獲得我們贊助商 The Pragmatic Bookshelf 的 20% off 折價卷 + 天龍書局會員價的優惠。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://rexytseng.com/posts/6",
+    "name": "Rails Pacific 2016 - 亞洲專屬的技術年會回來了",
+    "description": "我很榮幸宣布，2014 深受好評，亞洲專屬的 Ruby on Rails 年會－－Rails Pacific，今年終於回來了！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAravqK8FzsrCKW&w=130&h=130&url=http%3A%2F%2Fi.imgur.com%2Fo75Dr1t.png&cfs=1",
+    "id": "521085554595481_979390868764945",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 26
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      29,
+      26,
+      2,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-15T06:00:25+0000",
+    "updated_time": "2016-04-16T10:05:40+0000",
+    "from": {
+      "name": "Guanjun Chen",
+      "id": "919392348081916"
+    },
+    "message": "想請問大家都怎麼做分類與紀錄。\n\n事情是這樣子的，自從昨天發問SEO的問題以後，現在Broswer已經開了不少的分頁(大概20個左右)，現在有先用OneTap收起來了，不過不太知道要怎麼「做筆記」與「分類」。\n\n我其實都是寫筆記本的，會用一本品墨良行那種Calender式的，然後會搭配一本全部空白的筆記本來用。電腦跟手機則是盡量試著善用Google Bookmarks和Evernote。\n\n我會把學到的東西用自己的話簡短抄寫在空白的筆記本，然後附註一些自己的想法。Google Bookmarks和Evernote則是存連結以及一些用Copy Paste做記錄可以很省時間的事。\n\n可我最近發現Evernote不能「翻閱」，有些需要「複習」的資訊就會很容易忘記。像是一天的結束，想要翻翻今天學了什麼，資訊一多，用Evernote其實很難「複習」。\n\n另外也有發現東西一學得多，資訊會不知道怎麼分門別類，卻又保持同步的狀態。像我的Google Bookmarks就被我搞到很亂，有時候都會不太知道自己連結存在哪個Folder。\n\n想拜託各位分享收藏的技巧與分類的經驗與秘訣。有什麼方式，App或是平台的推薦我都會很感激。感謝，感謝。\n\n最後想要強調的問題是，電腦跟手機好像沒有辦法像我們手持書本這樣可以「翻閱」？不知道有沒有人知道可以讓你「翻閱」的記事本APP或是平台？",
+    "id": "521085554595481_981431765227522",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      29,
+      9,
+      12,
+      1
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-04-13T08:20:19+0000",
+    "updated_time": "2016-04-13T09:13:15+0000",
+    "from": {
+      "name": "Huang Alun",
+      "id": "1075115052501841"
+    },
+    "message": "請問 各位前輩 \nhttp://i1os.com/?-yL7VP4-kP4.video\n關於這種效果是要怎麼做的呀?",
+    "id": "521085554595481_980411498662882",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      21.5,
+      8,
+      9,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-04-16T03:40:06+0000",
+    "updated_time": "2016-04-17T07:32:59+0000",
+    "from": {
+      "name": "Wesley Hwang",
+      "id": "10200245721942111"
+    },
+    "message": "請教一下各位大大，在手機版的網頁中，很常見的側邊選單，有無可能在滑動時，不要影響到後方內容的滑動?\n\n如圖示，在A中的區塊滑動，但B內容不會影響?",
+    "id": "521085554595481_981864311850934",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      19,
+      4,
+      10,
+      0
+    ],
+    "order": 20
+  }
+]
