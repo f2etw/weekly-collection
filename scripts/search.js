@@ -28,7 +28,7 @@ search.fetchData = () => {
     });
 };
 
-search.queryKwd = ($kwd) => {
+search.queryKwd = ($kwd, $preventPushState) => {
   search.matchedArr = [];
   search.kwd = $kwd.trim();
   search.pattern = new RegExp(`(?:.{0,${search.kwdBuffer}})${search.kwd}(?:.{0,${search.kwdBuffer}})`, 'gi');
@@ -44,7 +44,10 @@ search.queryKwd = ($kwd) => {
     }
   });
 
-  search.pushState();
+  if (!$preventPushState) {
+    search.pushState();
+  }
+
   search.renderResult();
 };
 
@@ -74,7 +77,7 @@ search.renderResult = () => {
 search.updateState = () => {
   if (!history.state) { return; }
 
-  search.queryKwd(history.state.kwd);
+  search.queryKwd(history.state.kwd, true);
   search.input.value = history.state.kwd;
 };
 
