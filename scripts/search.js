@@ -24,14 +24,23 @@ search.fetchData = () => {
       });
     })
     .then(() => {
+      var urlKwd = location.search.match(/(?:\?q\=)([^&]+)/);
+
+      if (!history.state && urlKwd) {
+        search.kwd = urlKwd[1];
+        search.pushState();
+      }
+
       search.updateState();
     });
 };
 
-search.queryKwd = ($kwd) => {
+search.queryKwd = ($kwd, $preventPushState) => {
   search.matchedArr = [];
-  search.kwd = $kwd.trim();
+  search.kwd = $kwd.replace(/[\\\s\.\*\?\+\(\)\[\]\|]/g, '');
   search.pattern = new RegExp(`(?:.{0,${search.kwdBuffer}})${search.kwd}(?:.{0,${search.kwdBuffer}})`, 'gi');
+
+  if (!search.kwd || !search.pattern) { return; }
 
   search.data.forEach((week) => {
     var matchedItem = week.stringify.match(search.pattern);
@@ -44,7 +53,10 @@ search.queryKwd = ($kwd) => {
     }
   });
 
-  search.pushState();
+  if (!$preventPushState) {
+    search.pushState();
+  }
+
   search.renderResult();
 };
 
@@ -74,7 +86,7 @@ search.renderResult = () => {
 search.updateState = () => {
   if (!history.state) { return; }
 
-  search.queryKwd(history.state.kwd);
+  search.queryKwd(history.state.kwd, true);
   search.input.value = history.state.kwd;
 };
 
@@ -89,7 +101,6 @@ search.binding = () => {
   });
 
   window.addEventListener('popstate', (e) => {
-    console.log(12312312312, e.state, history.state);
     search.updateState();
   });
 };
