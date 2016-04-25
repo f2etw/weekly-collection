@@ -89,7 +89,6 @@ search.binding = () => {
   });
 
   window.addEventListener('popstate', (e) => {
-    console.log(12312312312, e.state, history.state);
     search.updateState();
   });
 };
