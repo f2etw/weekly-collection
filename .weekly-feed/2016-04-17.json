@@ -1,0 +1,721 @@
+[
+  {
+    "shares": {
+      "count": 27
+    },
+    "created_time": "2016-04-22T11:01:22+0000",
+    "updated_time": "2016-04-23T07:58:35+0000",
+    "from": {
+      "name": "林郁琇",
+      "id": "10201337658720888"
+    },
+    "message": "這本書要來打破大家對JavaScript「可測試性」的誤解。不論你是用Node.js、Express、MongoDB、jQuery、AngularJS，或是直接操作DOM，都可以透過測試導向來開發JavaScript。在這本書中會介紹Karma、Mocha、Chai，透過這些工具學習如何寫出有意義、有效果的自動化測試。測試非同步的JavaScript；解耦合、適當的運用模擬來隔離相依性；衡量程式碼覆蓋率；讓你不論在Server端或Client端都能拿出更優良的模組設計。你在測試上面的投資，會大幅回饋到你的程式碼，除了讓你寫出可預期的優良程式碼之外，也能能夠更有效的面對需求變動。  對這本書有興趣的話, 歡迎點入看好康.\n\n有在使用WebStorm嗎? 歡迎加入WebStorm台灣社群 https://goo.gl/5MC8Iu",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/portfolio/test-driving-javascript-applications/",
+    "name": "Test-Driving JavaScript Applications",
+    "description": "JavaScript應用程式的TDD-快速、自信，可維護的程式碼 這本書要來打破大家對JavaScript「可…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCsC2tVco-wz3dr&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F04%2Fvsjavas.jpg&cfs=1",
+    "id": "521085554595481_985175321519833",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 133
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      190,
+      133,
+      2,
+      27
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-04-21T07:10:11+0000",
+    "updated_time": "2016-04-21T08:19:12+0000",
+    "from": {
+      "name": "丁磊",
+      "id": "1013967215350244"
+    },
+    "message": "《Atom 编辑器使用者手册》",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://flight-manual.atom.io/",
+    "name": "Atom",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD5Srcm14oTzaPZ&w=130&h=130&url=http%3A%2F%2Fflight-manual.atom.io%2Fassets%2Fimages%2Fbook%2Fcover.png&cfs=1",
+    "id": "521085554595481_984558311581534",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 123
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      174,
+      123,
+      6,
+      21
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 17
+    },
+    "created_time": "2016-04-17T15:05:16+0000",
+    "updated_time": "2016-04-19T18:47:04+0000",
+    "from": {
+      "name": "Yuren Ju",
+      "id": "10152785149951631"
+    },
+    "message": "[演講訊息]\n作為前端工程師，各位在網頁上寫過的應用程式肯定不會少。每天的日常工作大多在表單、樣式表、驗證欄位、測試、排版、CSS 動畫打轉。大家都曾經歷過跟舊版 IE 奮戰，樂趣無窮呢，是吧（苦笑）。\n　\n那不知道你有沒有作過向量繪圖的軟體？身為一個前端工程師，多半曾經用 canvas 或 SVG 實作過一部分的繪圖操作，最常見的就是執行圖片裁切或是採用 SVG 圖示或設計這一類的功能。但整個網頁應用程式大部分全用 canvas/SVG 弄出來就比較不常見了。\n　\n這次我在 Jobspace 想和大家分享我使用 JavaScript 開發向量繪圖軟體時的心得。我想從過去的前端工作經驗出發，探討這種軟體開發和常見的前端工程有何不同。進一步再討論怎麼實作那許多散落在系統中有大有小的功能。有些直接和繪圖相關，有些則是核心功能的延伸。可能會提到一些技術上的細節，例如如何追蹤修訂紀錄、如何合併屬性不同的物件、如何實作漸層、等等。如果演講本體的 40 分鐘不夠講，我們就一邊吃一邊聊到老闆趕人吧。\n　\n有興趣的朋友，請到 KKTIX 報名： http://jobspace.kktix.cc/events/2016-create-vectors\n　\n此則訊息將會 cross post 到 JavaScript.tw，請多見諒 m(_ _)m",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://jobspace.kktix.cc/events/2016-create-vectors",
+    "name": "Jobspace Meetup: 前端向量技術 -- Create Vectors in JavaScript",
+    "description": "Let's see how to build a vector image editor using only JavaScript!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_982667588437273",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 119
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      159,
+      119,
+      4,
+      17
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-22T02:54:51+0000",
+    "updated_time": "2016-04-22T05:18:10+0000",
+    "from": {
+      "name": "丁磊",
+      "id": "1013967215350244"
+    },
+    "message": "拿Atom源文件修改重新编译了一次，玩成了透明的，并且去掉了标题栏",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1014453168634982&set=gm.985032104867488&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-0/s130x130/13062388_1014453168634982_1763106350609438884_n.jpg?oh=fcbbc3023bf98a3e600d0331bbf64346&oe=57A5A2B9",
+    "id": "521085554595481_985032104867488",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 149
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      157,
+      149,
+      4,
+      1
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 15
+    },
+    "created_time": "2016-04-17T12:09:52+0000",
+    "updated_time": "2016-04-18T10:21:05+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "jQuery-ui的datepicker雖然好用，但遇到需要不同日期連動防呆設定日期區間時，在計算日期天數的機制還是不免遇到不少問題。\n在日期計算的部分，最後還是靠moment.js才解決。\n\n分享給大家。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://momentjs.com/",
+    "name": "Moment.js | Home",
+    "id": "521085554595481_982569278447104",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 89
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      123.5,
+      89,
+      3,
+      15
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-04-17T10:46:14+0000",
+    "updated_time": "2016-04-17T12:39:07+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "前端連載\n周末小品文輕鬆看\n講一下javascript的發展歷史 和 framework是什麼。\n希望大家會喜歡:)",
+    "link": "http://wp.me/p6gwC3-L7",
+    "name": "沒一村前端筆記",
+    "description": "[#前端連載]\n今天介紹前端最重要的javscript的歷史，以及前端常會聽到的framework到底是什麼。\n\n本來打算一口氣講完的，結果在javascript的地方講多了:)\n希望大家會喜歡:)\n\nhttp://wp.me/p6gwC3-L7",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC90T-vDBojoOlm&w=130&h=130&url=https%3A%2F%2Fnoootown.files.wordpress.com%2F2016%2F04%2Fweb-error.png&cfs=1",
+    "id": "521085554595481_982537598450272",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 102
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      112.5,
+      102,
+      7,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-23T09:19:27+0000",
+    "updated_time": "2016-04-23T10:43:07+0000",
+    "from": {
+      "name": "莊為任",
+      "id": "821560307892406"
+    },
+    "message": "版務通知\n\n最近有文章跟社團推廣在短時間內重複性偏高，我們版務討論了一下，可能會整理一下版面。還是希望這邊留一些互動型高，大家可以互相討論的技術文章。\n\n我們期望這裡是讓新手不會害怕提問，高手樂於分享實戰經驗的地方，而非重複的推廣文，非常謝謝各位開發者。 :)",
+    "id": "521085554595481_985613274809371",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 102
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      110.5,
+      102,
+      3,
+      2
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-04-22T08:19:14+0000",
+    "updated_time": "2016-04-22T08:19:14+0000",
+    "from": {
+      "name": "Brecht Huang",
+      "id": "10206272771480344"
+    },
+    "message": "Modern Web 2016 今年開始招募講者了，歡迎各方前端高手來參加，大家一起交流，推動Web技術與產業的發展",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://ithometw.kktix.cc/events/modernweb2016cfs",
+    "name": "Modern Web 2016::Call for Speakers",
+    "description": "Modern Web 2016 是台灣網站開發、設計與營運人員展現能量與火力的絕佳場域，來成為講者吧，來分享你的經驗與技術，我們會因為交流而進化，成為一員新時代 Web 更好的推手",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBsI3rwR0vZQn3G&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F49663%2FFacebook-share-banner_original.jpg&cfs=1",
+    "id": "521085554595481_985124218191610",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 95
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      109,
+      95,
+      0,
+      7
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-04-22T08:24:23+0000",
+    "updated_time": "2016-04-25T08:38:21+0000",
+    "from": {
+      "name": "Taker Wu",
+      "id": "10152874271783562"
+    },
+    "message": "「網頁基礎15天」\n15天打穩網頁基礎：HTML / CSS3 / jQuery / Bootstrap / RWD\n\nTaker 把網頁基礎所需要的技能\n結合實體課程中的經驗（本身為 ALPHACamp 網頁前端講師）\n做成這個線上課程\n\n課程將在幾天後開放報名\n想報名的朋友記得先進網站填寫 Email，我再寄 Email 通知大家喔\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.everyonecanwebsite.com/",
+    "name": "網頁基礎15天",
+    "description": "15天打穩網頁基礎：HTML / CSS3 / jQuery / AJAX / Bootstrap / RWD",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAbjU0BtIlXDeBt&w=130&h=130&url=http%3A%2F%2Fpizwu.github.io%2Fimages%2Fcover%2520Taker.jpg&cfs=1&sx=31&sy=0&sw=756&sh=756",
+    "id": "521085554595481_985125524858146",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 20
+      }
+    },
+    "power": [
+      108,
+      60,
+      20,
+      9
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-04-21T07:15:31+0000",
+    "updated_time": "2016-04-26T09:28:44+0000",
+    "from": {
+      "name": "郭柏逸",
+      "id": "973950949320262"
+    },
+    "message": "想問一下大家\n建置網站的時候，若是有導覽列<nav><header>等等...這些區塊，可以做共用的時候，大家都怎麼做?\n\n以往都是用最笨的方法，每一頁把一樣的區塊複製貼上，但要改一個地方時，就要每一頁都改一次。\n目前只知道兩種方法\n1. 每一頁共用的地方用動態產生\n2. 進入入口時是一個主頁，點選連結時會變動的區塊切成<iframe>，整個網站只有<iframe>在換頁。\n\n不知道業界中大多使用哪種方法呢?",
+    "id": "521085554595481_984560011581364",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 53
+      }
+    },
+    "power": [
+      97.5,
+      12,
+      53,
+      3
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 17
+    },
+    "created_time": "2016-04-19T11:53:24+0000",
+    "updated_time": "2016-04-19T12:37:56+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "日本酷站集錦，雖然有不少是沒做RWD的，但還是很值得收錄參考。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://bm.straightline.jp/",
+    "name": "straightline bookmark",
+    "description": "Webデザインの参考・お手本となるサイトを集めた、Webデザイナー向けWebサイトギャラリー・リンク集。大きなサムネイル付き。素敵なwebサイトを見つけて、新しいwebデザインのインスピレーションを手にしてください。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCi1lKHKOFyWYK1&w=130&h=130&url=http%3A%2F%2Fbm.straightline.jp%2Fstatic%2Fimage%2Fog-image.png&cfs=1",
+    "id": "521085554595481_983611695009529",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 59
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      96,
+      59,
+      2,
+      17
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-04-23T12:45:35+0000",
+    "updated_time": "2016-04-23T18:06:18+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "http://codepen.io/lichin-lin/full/KzeLMb/\n這是我這個禮拜做的一些小練習\n主要都是css animation 的一些運用\n其中包含css linear gradient,before&after元素的操控\n--\n另外想請問在safari觀看的時候\n為什麼有一顆按鈕沒辦法跑動畫\nlinear gradient 在 safari 上有不支援的地方嗎？",
+    "id": "521085554595481_985677424802956",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 86
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      95,
+      86,
+      6,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-04-20T03:17:15+0000",
+    "updated_time": "2016-04-21T03:49:22+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "969639729722349"
+    },
+    "message": "大家安安，小弟在弄一個英文網站，一直醜醜的\n\n最近發現一個把英文網站變漂亮的懶人方法，跟大家分享一下：\n\n在css檔案的最上面加入這幾行 code\n\n@import url('https://fonts.googleapis.com/css?family=Open+Sans');\n\n* {\n   font-family: 'Open Sans';\n}\n\n網站就會從google web font載入Open Sans字體\n\n然後蓋掉所有元素的預設字體\n\n可以試試看網站有沒有變漂亮\n\n（PS: 換成其他喜歡的字體也可以）\n\nhttps://www.google.com/fonts",
+    "id": "521085554595481_983977084972990",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 48
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      92,
+      48,
+      16,
+      10
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-04-17T08:18:17+0000",
+    "updated_time": "2016-04-17T12:10:10+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10153358118698343"
+    },
+    "message": "超實用 Sketch 插件大集合，你們還有哪些私藏的呢？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.uisdc.com/25-useful-sketch-app-plugins",
+    "name": "最佳助攻！25款轻巧实用的Sketch插件大合集",
+    "description": "优秀网页设计联盟(SDC)，是有着良好职业交流氛围的网页设计行业联盟。与优设哥、獠麝鸡、你丫才美工一起听讲座，聊设计。联盟始终坚持开放、分享、成长的宗旨，为会员提供交流互动平台和网页设计讲座。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBJmoXhSFGN246r&w=130&h=130&url=http%3A%2F%2Fimage.uisdc.com%2Fwp-content%2Fuploads%2F2016%2F04%2FBuild-Lightweight-Mobile-Prototypes.jpg&cfs=1&sx=598&sy=0&sw=533&sh=533",
+    "id": "521085554595481_982495001787865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 46
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      88,
+      46,
+      0,
+      21
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-23T16:58:17+0000",
+    "updated_time": "2016-04-24T03:24:34+0000",
+    "from": {
+      "name": "郝晉凱",
+      "id": "1194969293866085"
+    },
+    "message": "這幾天用 React, Redux, Immutable.js 做的踩地雷遊戲\nReact 和 Redux 負責遊戲的 U，Immutable.js 負責遊戲邏輯的資料結構\n左下角選單打開後有一些自訂的功能\n其中把紅色問號取消成灰色後產生的遊戲都不會有需要猜的情況唷～\n那部分用到了一些滿複雜的數學邏輯\n不過當遊戲大一點時點第一下還是跑得很慢 T^T\n總覺得踩地雷是個滿好當作練習的項目\n說不定有人有自己的版本可以交流交流～！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://kevin940726.github.io/minesweeper/",
+    "name": "Minesweeper",
+    "id": "521085554595481_985774628126569",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 63
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      71.5,
+      63,
+      3,
+      2
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-04-23T04:31:06+0000",
+    "updated_time": "2016-04-23T21:13:12+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amobiz.github.io/2016/04/22/modular-css-notes/",
+    "name": "Modular CSS",
+    "description": "前言這篇文章記錄個人嘗試 css-modules 過程中所遇到的問題，並且順便將目前業界各種對 modular css 的嘗試/進展，做一個相關資訊的摘錄。 還沒有找到適合自己偏好作法的讀者，可以將此文視為簡單的技術選型指南，從中挑選適合自己的作法。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCxVMm9h_lTpUUl&w=130&h=130&url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1460750860062-82a52139a0d6%3Fcrop%3Dentropy%26fit%3Dcrop%26fm%3Djpg%26h%3D975%26ixjsv%3D2.1.0%26ixlib%3Drb-0.3.5%26q%3D80%26w%3D1000&cfs=1",
+    "id": "521085554595481_985539111483454",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 39
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      69,
+      39,
+      8,
+      9
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-04-22T08:59:47+0000",
+    "updated_time": "2016-04-22T08:59:47+0000",
+    "from": {
+      "name": "Tachun Lin",
+      "id": "10207276086930897"
+    },
+    "message": "這看起來超棒\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.codingame.com/",
+    "name": "CodinGame - Programming is fun",
+    "description": "CodinGame is the gaming platform for programmers. Solve programming puzzles, improve your skills, share, have fun.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCs4XPu6Y-VA_QS&w=130&h=130&url=https%3A%2F%2Ffiles.codingame.com%2Fcodingame%2Fshare.jpg&cfs=1",
+    "id": "521085554595481_985134134857285",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 33
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      61,
+      33,
+      0,
+      14
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-04-21T02:25:24+0000",
+    "updated_time": "2016-04-21T02:59:59+0000",
+    "from": {
+      "name": "Jas Chen",
+      "id": "999962876680799"
+    },
+    "message": "Build awesome user interfaces with CSS flexbox.\n示範 flexbox 在各種 UI 上的應用。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.flexboxpatterns.com/",
+    "name": "Flexbox Patterns",
+    "id": "521085554595481_984450278259004",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 40
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      51.5,
+      40,
+      1,
+      5
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-04-22T15:43:23+0000",
+    "updated_time": "2016-04-24T02:34:30+0000",
+    "from": {
+      "name": "張正豪",
+      "id": "1073372696016958"
+    },
+    "message": "[Reversed-Tetris]\nJavaScript和DOM構成的遊戲。\n週末就是要打game!\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/changbenny/reversed-tetris",
+    "name": "changbenny/reversed-tetris",
+    "description": "reversed-tetris - A innovative game with unique gameplay written in JavaScript",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDK7d1ENp7d0KSZ&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3777138%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_985278374842861",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 31
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      47,
+      31,
+      4,
+      5
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-04-18T02:09:18+0000",
+    "updated_time": "2016-04-21T09:34:06+0000",
+    "from": {
+      "name": "王志誠",
+      "id": "1120548697961771"
+    },
+    "message": "◽工具使用分享◽\n最近在考慮換文字編輯器嗎？\n六角學院的講師在PK文字編輯器，\nA講師說Sublime Text棒，B講師說 Atom 棒！\n雙方各提供一種文字編輯器教學，\n免費提供給大家評評理。\n\n先前打折的課程 (使用 HTML、CSS 開發一個網站)，\n我們提免費供抽獎活動，\n名額三位，透過以下連結進入活動吧！\n\n----\n題外話：\n我先投 Atom 一票，哈哈哈哈哈～",
+    "link": "http://www.hexschool.com/fb-01/?couponCode=IDE",
+    "name": "六角學院",
+    "description": "✨按讚留言抽獎活動✨\n想學網頁設計卻找不到適用的文字編輯器嗎？\n六角講師們不藏私地推出兩套熱門編輯器影音教學，\n立即進入學習並推薦給你/妳的朋友吧！\n　\n🎁 抽獎贈品：\n上線當月湧入百位學生的 udemy 影音課程：「使用 HTML、CSS 開發一個網站」，名額三位~\n獎品傳送門：https://goo.gl/qiIUcT\n　\n🚻 抽獎方式：\n1. 加入【六角學院】粉絲團\n2. tag朋友並留言，「試試看這兩套網頁編輯器吧！」\n\nhttp://www.hexschool.com/fb-01/?couponCode=IDE",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCIjJgTPk8Ak7Mm&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJ3SMgTP5AhjfLI2KtD9nqzstX8pfpfNCi4Q_jjEnmO7g04Un0uXq8vRG21G4d5t4o_tOfE2tZ1b3GN41xEA55Nvv5xCYTYW1BEPNf_Ag2zi09qJUGeNGuIEDSFr1pjUO7gX3uuPTxy8YTlqBOU8Rni&cfs=1",
+    "id": "521085554595481_982915275079171",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      43.5,
+      27,
+      11,
+      0
+    ],
+    "order": 20
+  }
+]
