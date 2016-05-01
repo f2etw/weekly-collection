@@ -46,6 +46,11 @@
           </a>
         </div>
       </div>
+
+      {% if item.notice %}
+      <input class="Card__notice__switcher hide" type="checkbox" id="article-{{ forloop.index }}" checked>
+      <label class="Card__notice__overlay" for="article-{{ forloop.index }}" title="click to show" data-notice="{{ item.notice }}"></label>
+      {% endif %}
     </article>
   </div>
   {% endfor %}
