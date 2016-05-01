@@ -4,3 +4,11 @@
   @if $dir == 'full' or $dir != 'left'  { right: 0;  }
   @if $dir == 'full' or $dir != 'right' { left: 0;   }
 }
+
+@mixin t-center() {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

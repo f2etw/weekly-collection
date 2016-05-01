@@ -2,51 +2,56 @@
 <div class="Cards sm-flex flex-wrap pt2">
   {% for item in site.data[page.date-since] %}
   <div class="flex sm-col-6 md-col-4 lg-col-3">
-  <article class="Card flex flex-column flex-auto mx2 mb3">
-    {% if item.link %}
-      {% assign item_link = item.link %}
-    {% else %}
-      {% assign item_link = item.permalink %}
-    {% endif %}
-
-    {% if item.cover and item.cover != empty %}
-      {% if item.resize %}
-        {% assign item_cover = item.cover | prepend: 'http://imageproxy.pimg.tw/zoomcrop?url=' | append: '&width=400' %}
+    <article class="Card flex flex-column flex-auto mx2 mb3">
+      {% if item.link %}
+        {% assign item_link = item.link %}
       {% else %}
-        {% assign item_cover = item.cover %}
+        {% assign item_link = item.permalink %}
       {% endif %}
-      <a class="Card__cover--link" href="{{ item_link }}" style="background-image: url('{{ item_cover }}');">
-        <img class="Card__cover fit" src="{{ item_cover }}" alt="{{ item.title }}">
-      </a>
-    {% else %}
-      <a class="Card__cover--link" href="{{ item_link }}"></a>
-    {% endif %}
 
-    <div class="flex flex-column flex-auto px2">
+      {% if item.cover and item.cover != empty %}
+        {% if item.resize %}
+          {% assign item_cover = item.cover | prepend: 'http://imageproxy.pimg.tw/zoomcrop?url=' | append: '&width=400' %}
+        {% else %}
+          {% assign item_cover = item.cover %}
+        {% endif %}
+        <a class="Card__cover--link" href="{{ item_link }}" style="background-image: url('{{ item_cover }}');">
+          <img class="Card__cover fit" src="{{ item_cover }}" alt="{{ item.title }}">
+        </a>
+      {% else %}
+        <a class="Card__cover--link" href="{{ item_link }}"></a>
+      {% endif %}
 
-      <h3 class="line-height-3">
-        <a class="td-dash history-link" href="{{ item_link }}">{{ item.title }}</a>
-      </h3>
+      <div class="flex flex-column flex-auto px2">
 
-      <p class="Card__desc flex-auto mt0 mb3">
-        {{ item.intro }}
-      </p>
+        <h3 class="line-height-3">
+          <a class="td-dash history-link" href="{{ item_link }}">{{ item.title }}</a>
+        </h3>
 
-      <div class="Card__meta right-align pb3">
-        <div class="Card__meta__timestamp mb1">
-          <time class="time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
-          <a class="text-decoration-none" title="Facebook permalink" href="{{ item.permalink }}">
-            <svg class="permalink-icon align-middle"><use xlink:href="#icon-facebook" /></svg>
+        <p class="Card__desc flex-auto mt0 mb3">
+          {{ item.intro }}
+        </p>
+
+        <div class="Card__meta right-align pb3">
+          <div class="Card__meta__timestamp mb1">
+            <time class="time" datetime="{{ item.time | date_to_xmlschema }}" title="{{ item.time | date_to_xmlschema }}">{{ item.time | date: '%Y-%m-%d' }}</time>
+            <a class="text-decoration-none" title="Facebook permalink" href="{{ item.permalink }}">
+              <svg class="permalink-icon align-middle"><use xlink:href="#icon-facebook" /></svg>
+            </a>
+          </div>
+
+          <a class="text-decoration-none" href="https://fb.com/{{ item.sharer-id }}">
+            {{ item.sharer-name }}
+            <img class="circle align-middle" src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32&height=32&type=square" alt="{{ item.sharer-name }}" width="32" height="32">
           </a>
         </div>
-
-        <a class="text-decoration-none" href="https://fb.com/{{ item.sharer-id }}">
-          {{ item.sharer-name }}
-          <img class="circle align-middle" src="https://graph.facebook.com/{{ item.sharer-id }}/picture?width=32&height=32&type=square" alt="{{ item.sharer-name }}" width="32" height="32">
-        </a>
       </div>
-    </div>
-  </article>
+
+      {% if item.notice %}
+      <input class="Card__notice__switcher hide" type="checkbox" id="article-{{ forloop.index }}" checked>
+      <label class="Card__notice__overlay" for="article-{{ forloop.index }}" title="click to show" data-notice="{{ item.notice }}"></label>
+      {% endif %}
+    </article>
   </div>
   {% endfor %}
 </div>
