@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-04-17",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/005/",
+    "title": "Collection #005",
+    "items": [
+      
+        {
+          "title": "《Atom 编辑器使用者手册》",
+          "url": "http://flight-manual.atom.io/",
+          "sharer": "丁磊",
+          "sharer-id": "1013967215350244",
+          "permalink": "https://fb.com/521085554595481_984558311581534",
+          "time": "2016-04-21T07:10:11+0000",
+          "intro": "Atom Flight Manual: Atom 官方文件更新囉(※1)，喜歡 Atom 的人可以好好動手客製一翻"
+        }
+        ,
+        
+        {
+          "title": "frameless window for transparency",
+          "url": "https://github.com/transcranial/atom/commit/bd8b597d17711489ea519642df7b0fc6d1c91ffc",
+          "sharer": "丁磊",
+          "sharer-id": "1013967215350244",
+          "permalink": "https://fb.com/521085554595481_985032104867488",
+          "time": "2016-04-22T02:54:51+0000",
+          "intro": "丁磊分享了如何調整 Atom 編輯器為無編框 &amp; 透明背景的技巧"
+        }
+        ,
+        
+        {
+          "title": "Jobspace Meetup: 前端向量技術 -- Create Vectors in JavaScript",
+          "url": "http://jobspace.kktix.cc/events/2016-create-vectors",
+          "sharer": "Yuren Ju",
+          "sharer-id": "10152785149951631",
+          "permalink": "https://fb.com/521085554595481_982667588437273",
+          "time": "2016-04-17T15:05:16+0000",
+          "intro": "Yuren Ju 宣傳於 Jobspace 的付費聚會活動： 使用 JS 開發向量繪圖軟體的心得"
+        }
+        ,
+        
+        {
+          "title": "Moment.js | Home",
+          "url": "http://momentjs.com/",
+          "sharer": "林靜君",
+          "sharer-id": "1123047127708817",
+          "permalink": "https://fb.com/521085554595481_982569278447104",
+          "time": "2016-04-17T12:09:52+0000",
+          "intro": "Moment.js 是一款處理時間的知名 JS library，包含解析、驗證、運算、格式化"
+        }
+        ,
+        
+        {
+          "title": "[前端連載] 了解網頁發展的脈絡(中)——JavaScript 歷史 和 Framework 是什麼？",
+          "url": "https://noootown.wordpress.com/2016/04/17/javascript-framework-explain-2/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_982537598450272",
+          "time": "2016-04-17T10:46:14+0000",
+          "intro": "邱弘毅簡介 JS 的歷史與目前常見 framework"
+        }
+        ,
+        
+        {
+          "title": "Modern Web 2016::Call for Speakers",
+          "url": "http://ithometw.kktix.cc/events/modernweb2016cfs",
+          "sharer": "Brecht Huang",
+          "sharer-id": "10206272771480344",
+          "permalink": "https://fb.com/521085554595481_985124218191610",
+          "time": "2016-04-22T08:19:14+0000",
+          "intro": "Modern Web 2016 開始招募講者了！今年議程有四大領域：產品設計、網站開發、系統維運、營運管理。歡迎各路前端好手踴躍報名參與！"
+        }
+        ,
+        
+        {
+          "title": "網頁基礎15天",
+          "url": "http://www.everyonecanwebsite.com/",
+          "sharer": "Taker Wu",
+          "sharer-id": "10152874271783562",
+          "permalink": "https://fb.com/521085554595481_985125524858146",
+          "time": "2016-04-22T08:24:23+0000",
+          "intro": "Taker Wu 開辦的線上網頁基礎課程廣宣文"
+        }
+        ,
+        
+        {
+          "title": "straightline bookmark",
+          "url": "http://bm.straightline.jp/",
+          "sharer": "林靜君",
+          "sharer-id": "1123047127708817",
+          "permalink": "https://fb.com/521085554595481_983611695009529",
+          "time": "2016-04-19T11:53:24+0000",
+          "intro": "這網站收集諸多漂亮的網站設計可供觀摩，並附有 tag filter"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "郭柏逸",
+          "sharer-id": "973950949320262",
+          "permalink": "https://fb.com/521085554595481_984560011581364",
+          "time": "2016-04-21T07:15:31+0000",
+          "intro": "又見關於局部靜態結構疑問的熱烈討論"
+        }
+        ,
+        
+        {
+          "title": "animation button#2",
+          "url": "http://codepen.io/lichin-lin/full/KzeLMb/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_985677424802956",
+          "time": "2016-04-23T12:45:35+0000",
+          "intro": "林立秦分享他按鈕背景動畫的練習作品"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-04-10",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/004/",
