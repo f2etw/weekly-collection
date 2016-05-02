@@ -10,11 +10,8 @@
     "getFeeds": "browser-sync start --server '.weekly-feed/' --startPath './getData/?since=2016-03-13&top10=&yaml' --files '.weekly-feed/**/*'",
     "css": "postcss --no-map -c postcssconfig.json",
     "build": "JEKYLL_ENV=production jekyll b && npm run css",
-    "deploy": "npm run build && gulp deploy",
+    "deploy": "npm run build && gh-pages -d _site",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "gh-pages-deploy": {
-    "staticpath": "_site"
   },
   "repository": {
     "type": "git",
@@ -30,8 +27,8 @@
     "autoprefixer": "^6.3.4",
     "browser-sync": "^2.11.2",
     "css-mqpacker": "^4.0.1",
+    "gh-pages": "^0.11.0",
     "gulp": "^3.9.1",
-    "gulp-gh-pages": "^0.5.4",
     "postcss-cli": "^2.5.1",
     "postcss-csso": "^1.0.1"
   }
