@@ -8,7 +8,7 @@ permalink: /tags
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
   <li class="site-tag">
-    <a href="{{ site.baseurl }}/tags/#tag-{{ tag | first | slugify }}"
+    <a href="{{ site.baseurl }}/tags#tag-{{ tag | first | slugify }}"
       style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
       {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
