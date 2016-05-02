@@ -87,3 +87,7 @@ exclude:
   - node_modules
   - .weekly-feed
   - .publish
+  - package.json
+  - postcssconfig.json
+  - gulpfile.js
+  - CHANGELOG.md

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
-
     {% include meta.html %}
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -54,7 +54,9 @@
       </div>
     </footer>
 
-    {% include counter.html %}
-    {% include analytics.html %}
+    {% if jekyll.environment == "production" %}
+      {% include counter.html %}
+      {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
