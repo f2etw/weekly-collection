@@ -1,0 +1,27 @@
+.PageNavigation {
+  border-top: 1px dashed rgba($c-black, .1);
+}
+
+.PageNavigation__link {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: -1;
+    width: $space-3;
+    height: $space-3;
+    background-image: linear-gradient(45deg, lighten(desaturate($c-link, 30%), 30%), transparent 50%);
+    transform: translateY(-50%) rotate(45deg);
+  }
+}
+
+.PageNavigation__next {
+  &::before {
+    left: auto;
+    right: 0;
+    transform: translateY(-50%) rotate(-135deg);
+  }
+}
