@@ -1,8 +1,0 @@
-{
-  "use": ["autoprefixer", "css-mqpacker", "postcss-csso"],
-  "input": "_site/style.css",
-  "output": "_site/style.css",
-  "postcss-csso": {
-    "restructure": true
-  }
-}

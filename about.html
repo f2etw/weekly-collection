@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Search – Weekly Collection @F2ETW</title>
-
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -15,14 +13,16 @@
     <meta name="author" content="Weekly Collection @F2ETW" />
 
     
-    <meta property="og:title" content="Search" />
-    <meta property="twitter:title" content="Search" />
+    <meta property="og:title" content="About" />
+    <meta property="twitter:title" content="About" />
     
 
     
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/8252114?s=300" />
     
 
+
+    <title>About – Weekly Collection @F2ETW</title>
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -59,20 +59,58 @@
       
         <article class="Page px3 pt2 pb4 rounded">
   <div class="mb3">
-    <h1 class="page-title mb2 center ff-ss">Search</h1>
+    <h1 class="page-title mb2 center ff-ss">About</h1>
   </div>
 
   <div>
-    <div class="Search-box center">
-  <form class="Search" action="./">
-    <input class="Search__input" type="search" autofocus>
-    <input type="submit">
-  </form>
+    <p>前端社群裡優質分享文眾多，<br />
+但 Facebook 先天不易搜尋，<br />
+故希望以每週精選的方式，為社群留些紀錄。</p>
 
-  <dl class="SearchLists left-align"></dl>
-</div>
+<p>運作細節可見 <a href="https://github.com/f2etw/weekly-collection/blob/master/README.md">README</a></p>
 
-<script src="/weekly-collection/scripts/search.js"></script>
+<hr />
+
+<h1 id="q--a">Q &amp; A</h1>
+
+<h2 id="goals">週刊的目的 goals</h2>
+
+<p>記錄社團內的熱門文章，藉以反映現有成員的參與類型與趨勢。<br />
+亦希望成員們能更多地參與有興趣的議題，讓社團走向更加清晰。</p>
+
+<h2 id="factors">上榜的因素 factors</h2>
+
+<p>目前(2016-03-31)的算法是以「likes」、「comments」、「shares」三種互動類型的數量進行加權，由高至低取前二十篇貼文做遴選。遴選由社團志工負責討論及投票，最後再與票數加權後相加，排序出前十篇貼文。</p>
+
+<p>細部流程可參考 <a href="https://github.com/f2etw/weekly-collection/wiki/%E9%80%B1%E5%88%8A%E7%99%BC%E4%BD%88%E6%B5%81%E7%A8%8B">wiki 文件的說明: 週刊發佈流程</a>。</p>
+
+<h2 id="weight">各數值加權的權數？ weight</h2>
+
+<ul>
+  <li>likes: *1</li>
+  <li>comments: *1.5</li>
+  <li>shares: *2</li>
+  <li>votes: *3</li>
+</ul>
+
+<p>目前的權數如上，comments 跟 shares 的權數會比 likes 高的原因是
+希望前端社團內能有更多元的討論以及讓好文章的更加擴散、更好觸及。</p>
+
+<p>至於票選的權數未來會視投票成員的數量再做調整</p>
+
+<h2 id="contact">聯繫管道 contact</h2>
+
+<ul>
+  <li><a href="https://gitter.im/f2etw/weekly-collection">Gitter room</a>: 一般事務的討論都會在這邊</li>
+  <li><a href="https://github.com/f2etw/weekly-collection/issues">Issues</a>: 發現 bug、有明確調整目標、需討論的議題都會在這邊寫下來。</li>
+  <li><a href="https://www.facebook.com/groups/f2e.tw">FB 社團</a></li>
+  <li><a href="https://fb.me/Rplus.tw">R+</a>: 發想 weekly-collection 的人 ( 都找不到人時才找…</li>
+</ul>
+
+<h2 id="member">成員 member</h2>
+
+<p>基本上目前流程還在摸索中，所以採取放牛吃草的狀態。<br />
+活躍成員的話，可以直接看 Gitter room 記錄。</p>
 
   </div>
 </article>
@@ -179,7 +217,8 @@
       </div>
     </footer>
 
-    <span title="total" style="background-image: url('http://sitestates.com/show/image/31463');"></span>
+    
+      <span title="total" style="background-image: url('http://sitestates.com/show/image/31463');"></span>
 <noscript>
   <span title="no-script" style="background-image: url('http://sitestates.com/show/image/31464');"></span>
 </noscript>
@@ -187,7 +226,7 @@
   <span class="counter" style="background-image: url('http://sitestates.com/show/image/31465')"></span>
 </span>
 
-    
+      
   <!-- Google Analytics -->
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -197,12 +236,13 @@
 
     ga('create', 'UA-75744936-1', 'auto');
     ga('send', 'pageview', {
-      'page': '/weekly-collection/search/',
-      'title': 'Search'
+      'page': '/weekly-collection/about',
+      'title': 'About'
     });
   </script>
   <!-- End Google Analytics -->
 
 
+    
   </body>
 </html>

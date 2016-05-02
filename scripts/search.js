@@ -13,7 +13,7 @@ search.fetchData = () => {
     return;
   }
 
-  fetch('../search_data.json')
+  fetch('./scripts/search_data.json')
     .then((res) => res.json())
     .then((data) => {
       search.data = data.map((week) => {
@@ -61,7 +61,7 @@ search.queryKwd = ($kwd, $preventPushState) => {
 };
 
 search.pushState = () => {
-  history.pushState({kwd: search.kwd}, null, `./?q=${search.kwd}`);
+  history.pushState({kwd: search.kwd}, null, `?q=${search.kwd}`);
 };
 
 search.renderResult = () => {
