@@ -54,7 +54,9 @@
       </div>
     </footer>
 
-    {% include counter.html %}
-    {% include analytics.html %}
+    {% if jekyll.environment == "production" %}
+      {% include counter.html %}
+      {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
