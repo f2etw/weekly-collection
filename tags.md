@@ -20,8 +20,8 @@ permalink: /tags
 
 {% for tag in site.tags %}
 <h3 id="tag-{{ tag[0] }}" class="p-tag">
-  <a href="#tag-{{ tag[0] }}" class="anchor">⚓ {{ tag[0] }}</a><a href="#" class="back-to-top"></a>
-  <a href="#">back to top ⤴</a>
+  <a href="#tag-{{ tag[0] }}" class="anchor">⚓ {{ tag[0] }}</a>
+  <a href="#" class="right regular"><small>back to top ⤴</small></a>
 </h3>
 
 <ul>
