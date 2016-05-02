@@ -13,7 +13,7 @@ search.fetchData = () => {
     return;
   }
 
-  fetch('./search_data.json')
+  fetch('./scripts/search_data.json')
     .then((res) => res.json())
     .then((data) => {
       search.data = data.map((week) => {
