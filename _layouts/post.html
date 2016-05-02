@@ -16,7 +16,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="right-align pr2">
+  <div class="right-align pr2 mb3">
     <span class="italic">
       publish on {{ page.publish-date | date: "%Y-%m-%d" }}
       {% if page.volunteer %}
@@ -26,13 +26,13 @@ layout: default
     </span>
   </div>
 
-  <div class="PageNavigation">
+  <div class="PageNavigation flex justify-around pt3">
     {% if page.previous.url %}
-      <a class="PageNavigation__prev" href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+      <a class="PageNavigation__link PageNavigation__prev text-decoration-none px1" href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
     {% endif %}
 
     {% if page.next.url %}
-      <a class="PageNavigation__next" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+      <a class="PageNavigation__link PageNavigation__next text-decoration-none px1" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
     {% endif %}
   </div>
 
