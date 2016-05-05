@@ -19,10 +19,25 @@ javascript: (function () {
   var emojisData = targetComments.map((t) => {
     var reactionBtn = [].slice.call(t.querySelectorAll('.comment-reactions-options .reaction-summary-item'));
 
+    var avatarBoxStyle = document.getElementById('customAvatarBoxStyle');
+    if (!avatarBoxStyle) {
+      var style = document.createElement('style');
+      style.id = 'customAvatarBoxStyle';
+      style.innerHTML = '.customAvatarBox img {width: 20px; height: 20px; vertical-align: top; margin-left: 3px; border-radius: 3px;}';
+      document.head.appendChild(style);
+    }
+
     return reactionBtn.map((btn) => {
+      var who = btn.getAttribute('aria-label').split(' reacted with')[0].replace(/,| and/g, '').split(/\s+/);
+
+      var avatarBox = document.createElement('span');
+      avatarBox.className = 'customAvatarBox';
+      avatarBox.innerHTML = who.map((uid) => `<img src="https://github.com/${uid}.png">`).join('');
+      btn.appendChild(avatarBox);
+
       return {
         reaction: btn.value.split(/\s+/)[0],
-        who: btn.getAttribute('aria-label').split(' reacted with')[0].replace(/,| and/g, '').split(/\s+/)
+        who: who
       };
     });
   });
