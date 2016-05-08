@@ -1,0 +1,735 @@
+[
+  {
+    "shares": {
+      "count": 114
+    },
+    "created_time": "2016-04-30T05:19:48+0000",
+    "updated_time": "2016-04-30T15:31:40+0000",
+    "from": {
+      "name": "楊雅晴",
+      "id": "1062487557144901"
+    },
+    "message": "的確是愈來愈常看到了~\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.inside.com.tw/2015/08/05/2015-web-design-trends",
+    "name": "2016 年已快過一半，你已經運用這 6 個最潮的網頁設計趨勢了嗎？",
+    "description": "2015 年已經過了一半，網頁設計趨勢來來去去，有些落伍的風格已被刨除，實驗性的做法不斷冒出。唯一可以肯定的，是返璞歸真，還原基本，割捨一切不必要的功能。過去資訊零星散落雜亂無章的頁面的時代已經逝去，簡約與使用者介面取而代之。The Next Web 作者 Anna-Feliza Sy 整理了六個今年截至目前，最受歡迎的六個網頁設計趨勢。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDyN0CPOMvN4DI0&w=130&h=130&url=http%3A%2F%2Fwww.inside.com.tw%2Fwp-content%2Fuploads%2F2015%2F08%2F001.png&cfs=1",
+    "id": "521085554595481_989445331092832",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 271
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      505,
+      271,
+      4,
+      114
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 81
+    },
+    "created_time": "2016-04-24T04:26:11+0000",
+    "updated_time": "2016-04-26T09:49:03+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "AirBnB的Mobile前端設計開發分享, AirBnB, 在內部還建立了自己的Design Language System , 這樣可以讓AirBnB內部跨團隊溝通時有一致的設計準則與樣式(patterns) \n\n=====================================================\n想看更多軟體開發相關資訊, 請用FB搜尋 軟體開發團隊工具心得分享\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://airbnb.design/the-way-we-build/",
+    "name": "The Way We Build : Airbnb Design",
+    "description": "Words and thoughts from the design team at Airbnb",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC-akpZiL51Oxcd&w=130&h=130&url=http%3A%2F%2Fairbnb.design%2Fwp-content%2Fuploads%2F2016%2F04%2Fwidescreen-V2-airbnb-dls-components-compressed.png&cfs=1",
+    "id": "521085554595481_986044131432952",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 301
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      470.5,
+      301,
+      5,
+      81
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 44
+    },
+    "created_time": "2016-04-24T10:40:58+0000",
+    "updated_time": "2016-04-24T11:46:45+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "網頁發展史最後一篇~~\n一樣輕鬆語調~~\n介紹AJAX、jQuery、CSS3、HTML5\n希望大家會喜歡~~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://wp.me/p6gwC3-Nv",
+    "name": "[前端連載] 了解網頁發展的脈絡(下)——什麼是AJAX，以及jQuery、CSS3、HTML5簡單介紹",
+    "description": "簡介 好不容易寫到了網頁脈絡的最後一篇了，可喜可賀！還記得上次我們提到了javascript的發展史，看他怎麼…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQClWyGDX6_8VM6T&w=130&h=130&url=https%3A%2F%2Fnoootown.files.wordpress.com%2F2016%2F04%2Fhtml5-youtube.png&cfs=1",
+    "id": "521085554595481_986160238088008",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 220
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      309.5,
+      220,
+      1,
+      44
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 40
+    },
+    "created_time": "2016-04-25T10:16:14+0000",
+    "updated_time": "2016-04-25T14:44:24+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "24 小時，React 快速入門\n在本系列教學中，你可以學習 React Flux Redux ImmutableJS ES6/ES7 語法\n\n=====================================================\n想看更多軟體開發相關資訊, 請用FB搜尋 軟體開發團隊工具心得分享\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/shiningjason1989/react-quick-tutorial",
+    "name": "shiningjason1989/react-quick-tutorial",
+    "description": "Contribute to react-quick-tutorial development by creating an account on GitHub.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAuNCsaMpCyB5v0&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F652135%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_986703674700331",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 199
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      283.5,
+      199,
+      3,
+      40
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 39
+    },
+    "created_time": "2016-04-27T02:34:06+0000",
+    "updated_time": "2016-04-28T03:43:09+0000",
+    "from": {
+      "name": "Jas Chen",
+      "id": "999962876680799"
+    },
+    "message": "Node.js v6 is released.\n- Four times faster than Node.js v4.\n- V8 JavaScript engine 5.0.\n- 93% of ES6 features are also now supported.\n- Math.random() is more secure.\n- In October 2016, Node.js v6 will become the LTS release. Users should begin transitioning from v4 to v6 in October when v6 goes into LTS.",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://nodejs.org/en/blog/announcements/v6-release/",
+    "name": "World’s Fastest Growing Open Source Platform Pushes Out New Release | Node.js",
+    "description": "World’s Fastest Growing Open Source Platform Pushes Out New Release 2016-04-26 New “Current” version line focuses on performance improvements, increased reliability and better security for its 3.5 million users SAN FRANCISCO, April, 26, 2016 — The Node.js Foundation, a community-led and industry-bac…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBVN-mWG6DMNRj7&w=130&h=130&url=https%3A%2F%2Fnodejs.org%2Fstatic%2Fimages%2Flogos%2Fnodejs-new-white-pantone.png&cfs=1",
+    "id": "521085554595481_987705904600108",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      165.5,
+      80,
+      5,
+      39
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-04-26T13:04:17+0000",
+    "updated_time": "2016-04-27T05:37:28+0000",
+    "from": {
+      "name": "Denny Ku",
+      "id": "841989239187866"
+    },
+    "message": "Hi 大家，\n大多數寫前端的人都有在用 Babel，\n但鮮少有人知道 Babel 是怎麼做到這些事情的，\n或是想動手改 Babel 卻覺得 Compiler 太可怕不敢動。\n基於 JavaScript 什麼工具都出太快的原因，\n（Everything's library）我們很少慢下來去掌握細節。\n但前幾天在 ember conf 影片看到介紹如何用 JavaScript 寫一個 從 Lisp 到 JavaScript 的小小compiler，\n跟著實作一遍，並且把筆記分享出來。\n（有看過 creative license 以及徵詢原作者同意）\n雖然為了簡潔選擇 Lisp ，造 compiler 的概念卻是共通的。\n而且相較於屠龍本而言，\n這應該算是一個相當友善的出發點XD\n至少對我這樣的新手來說，\n學習如何構造一個 Compiler 也對於我們瞭解一個程式語言有很多的幫助。\n也希望這一篇筆記能幫到有興趣的人！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://abalone0204.github.io/2016/04/25/Super-tiny-compiler/",
+    "name": "Super tiny compiler · De-bug: 一鍵跑版",
+    "description": "compiler, javascript",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDW79ZA0DgPk_1O&w=130&h=130&url=https%3A%2F%2Fcloud.githubusercontent.com%2Fassets%2F952783%2F14413766%2F134c4068-ff39-11e5-996e-9452973299c2.png&cfs=1",
+    "id": "521085554595481_987339457970086",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 130
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      158.5,
+      130,
+      3,
+      12
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-04-29T06:11:54+0000",
+    "updated_time": "2016-05-01T05:16:35+0000",
+    "from": {
+      "name": "Yeh Ryan",
+      "id": "934658959922273"
+    },
+    "message": "[徵才]切版人員(台中、台北)\n\n我們是達摩媒體\n\n經營平台包含\nBloggerAds部落格、品購比價平台及app、eagleeye數據平台、美妝教主網站及app、太肯運動科技\n\n...等。\n\n在這工作不同傳統公司，我們相信每一位夥伴都夠聰明,負責。因此我們打造一個充分信任環境，\n\n我們每一位成員為著共同信念一起邁進，期望今日都比昨日更好！\n\n我們福利有\n每年國外員工旅遊、每月電影日、不定期聚餐、每月生日慶生會、迎新會，不定期進期課程、年度\n\n自強活動、吃不完的零食\n\n薪資:約33,000~45,000\n\n你需要： \n- 至少兩年以上切版的工作經驗\n- 有HTML5+CSS3切版能力\n- 熟悉 RWD(Responsive Web Design) 切版\n- 略懂 jquery即可\n- 解決網頁在跨瀏覽器所產生的問題\n- 對細節要求\n- 願意和其它工作夥伴一起學習專業技能並充實新知\n- 略懂UX\n\n本公司平均年齡低，而且正妹挺多的\n我們不斷再創新，以小搏大，以有限創造無限，如果你也熱愛挑戰，歡迎你加入我們。\n\n感興趣的來投履歷吧!\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.104.com.tw/job/?jobno=4scs1&jobsource=n104bank1&hotjob_chr",
+    "name": "前端網頁工程師(台北)_達摩媒體股份有限公司 - 104人力銀行",
+    "description": "平台網站切版及維護 - 形象網站切版及維護 - 行銷活動頁切版 - 溝通、協調、與相關人員配合，協同執行專案 你需要： - 至少兩年以上切版的工作經驗 - 有HTML5+CSS3切版能力 - 熟悉 RWD(Responsive Web Design) 切版 - 處理前端網頁效果呈現(JavaScript） - 解決網頁在跨瀏覽器所產生的問題 - 對細節要求 - 願意和其它工作夥伴一起學習專業技能並充實新知 - 熟悉UI、UX",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAwrFFyA5SC9tUm&w=130&h=130&url=http%3A%2F%2Fwww.104.com.tw%2Fupload1%2Fen%2F28224038000_en2.jpg&cfs=1",
+    "id": "521085554595481_988843917819640",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 59
+      }
+    },
+    "power": [
+      142.5,
+      44,
+      59,
+      5
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-04-24T09:41:08+0000",
+    "updated_time": "2016-04-26T10:23:11+0000",
+    "from": {
+      "name": "Luke Chi",
+      "id": "10152978551554713"
+    },
+    "message": "下週要去 Guam 關島玩，發現 Google Map 沒有 bus 的資訊，就想用 Dart + Polymer 做一個關島 bus schedule & 動態的 app。\n\n過程中發現 Google 有出自己的 Web Components，而且有 Google Map。所以目前幾乎只用 html 就能做出能用的 Map，覺得很令人興奮！\n\nupdate: 剛才發現加在 map 中的 marker 在 street view 也會出現，太酷了。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://lukechi1219.github.io/DartDemo/d008",
+    "name": "Guam Map",
+    "description": "http://lukechi1219.github.io/DartDemo/d008",
+    "id": "521085554595481_986142711423094",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 108
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      135.5,
+      108,
+      9,
+      7
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-04-27T11:39:09+0000",
+    "updated_time": "2016-04-27T11:39:09+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "16個使用ReactJS開發的opensource, 裡面有github link \n\n=====================================================\n想看更多軟體開發相關資訊, 請用FB搜尋 軟體開發團隊工具心得分享\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from",
+    "name": "16 Opensource Reactjs Projects for Reference",
+    "description": "A set of open-source ReactJS projects for people who are in their initial stage of learning React & are in search for reference projects",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDi0BWeSrZmanEc&w=130&h=130&url=http%3A%2F%2Fcdn1.icicletech.com%2Fmedia%2Fl_react-opensource-logo.jpg&cfs=1",
+    "id": "521085554595481_987898547914177",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 89
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      131,
+      89,
+      0,
+      21
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-04-27T01:16:25+0000",
+    "updated_time": "2016-04-27T01:16:25+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "使用Reac JS開發前端如何讓UI測試自動化?\n\n=====================================================\n想看更多軟體開發相關資訊, 請用FB搜尋 軟體開發團隊工具心得分享\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b#.enpynl9dt",
+    "name": "UI Testing in React — KADIRA VOICE",
+    "description": "We always want to build great user interfaces. Usually, we spend most of our time on improving styles and the user exper…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDK5MEgRWbtgGV2&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2ASESrCE3HCriSWJ3Y4OXahA.png&cfs=1",
+    "id": "521085554595481_987683241269041",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      98,
+      60,
+      0,
+      19
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-04-25T22:51:01+0000",
+    "updated_time": "2016-04-26T03:54:10+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "message": "五月 #網頁設計沙龍  #雲端視訊\n\n大家好，小弟剛好趁著美國博班暑假剛開始，邀請幾位同事在五月份辦了一系列網頁設計沙龍，所有場次採雲端視訊進行，詳情請參考下方的主題介紹。同時我們也開了一場「網頁設計日本語」，希望和大家一同欣賞日本網站設計之美。另外也有其他豐富的主題，參加者不需有任何基礎，歡迎大家報名。\n\n====== 以下為主題 ======\n\n※陳聖博\n\n1. (免費) RWD 切版\n2. (免費) D3.js 資訊視覺化        \n\n※林艾瑩 \n\n1. SVG + CSS3 網頁動畫設計\n2. 非設計科系也能學會的網站配色法\n3. (免費) 網頁設計日本語 (ft. 陳聖博)\n\n※林靜君\n\n1. (免費) 網站 Logo 設計\n2. jQuery + HTML5 + Ajax + PHP Uploader\n3. HTML + CSS 入門 (形象網站設計)\n4. Laravel 商品管理系統建置\n5. CSS3 3D特效選單製作\n\nP.S. 這是由主講者示範如何整合各種網頁設計的知識，並在活動時間內內示範如何完成一個「主題 (專案、作品、任務或知識應用)」的活動。參加者不需要有基礎，在一、兩小時內能看到在實務上完成一個主題需要的所有知識全貌。活動過程中可以向講者提問。每場沙龍結束前，主講者都會建議練習作業，可自行練習。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.accupass.com/event/register/1604172213412016034270",
+    "name": "五月 #網頁設計沙龍-Accupass 活動通",
+    "description": "網頁設計沙龍是由主講者示範如何整合各種網頁設計的知識，並在活動時間內內示範如何完成一個「主題 (專案、作品、任務或知識應用)」的活動。參加者不需要有基礎，在一、兩小時內能看到在實務上完成一個主題需要的所有知識全貌。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCZomZWPvUmWTQR&w=130&h=130&url=http%3A%2F%2Fimg.accupass.com%2Fuserupload%2F7490fafe29be4f15947b6fc8a759d318.jpg&cfs=1",
+    "id": "521085554595481_987038461333519",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 65
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      91,
+      65,
+      4,
+      10
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-29T15:27:59+0000",
+    "updated_time": "2016-05-03T10:57:03+0000",
+    "from": {
+      "name": "YunLi Chiang",
+      "id": "1329696073713254"
+    },
+    "message": "想請問基於HTML的行動裝置App，目前會建議使用 jQuery mobile 嗎？還是有其他更佳的開發方式呢？\n\n目前HTML CSS JavaScript jQuery 皆已有一定水準，但不敢說很熟。\n\n後台預計是用Tomcat架設server，Java與JDBC蠻熟的，有在用javaBeans操作，但沒用Hibernate&Spring，不知是否有更佳的建議？",
+    "id": "521085554595481_989069951130370",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 21
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 45
+      }
+    },
+    "power": [
+      90.5,
+      21,
+      45,
+      1
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-04-26T03:19:44+0000",
+    "updated_time": "2016-04-26T03:19:44+0000",
+    "from": {
+      "name": "丁磊",
+      "id": "1013967215350244"
+    },
+    "message": "AirBnB的javascript和JSX编码规范。\nhttps://github.com/airbnb/javascript/blob/master/react/README.md\nhttps://github.com/airbnb/javascript/blob/master/README.md",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/airbnb/javascript/blob/master/react/README.md",
+    "name": "airbnb/javascript",
+    "description": "javascript - JavaScript Style Guide",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBlkPxwKur1Xrsu&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F698437%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_987134147990617",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      78,
+      54,
+      0,
+      12
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-04-28T19:06:58+0000",
+    "updated_time": "2016-04-28T23:16:29+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "message": "https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.xxaqq04w4\n這一篇從各種 CSS 的使用需求面比較 CSS-in-JS 與 CSS-modules 的差別並說明使用方式，作者特別推崇運用 JavaScript 補足 CSS 的不足，算是蠻完整的技術剖析。\n\n不用 React 的朋友則可以參考我之前的 Modular CSS:\nhttp://amobiz.github.io/2016/04/22/modular-css-notes/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.xxaqq04w4",
+    "name": "Modular CSS with React",
+    "description": "At Buffer, we love React and are incrementally moving a lot of our front-end codebase to it. With Flux on top of it, we …",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDLjF79xBAnXBWG&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2A8uNCdFu2OU90bOhtNj0N9Q.png&cfs=1",
+    "id": "521085554595481_988597277844304",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 46
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      58,
+      46,
+      0,
+      6
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-04-24T05:20:35+0000",
+    "updated_time": "2016-04-24T06:50:36+0000",
+    "from": {
+      "name": "莊為任",
+      "id": "821560307892406"
+    },
+    "message": "最近因為一篇f2e.tw的版務公告好像引來商業行為大家的思考，邏輯上的思辨，討論是好事情，我也想提供大家我的想法，避免開發者，企業跟社群三者間有所分歧",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/@kevinzhuang/%E9%96%8B%E7%99%BC%E8%80%85-%E7%A4%BE%E7%BE%A4%E8%B7%9F%E4%BC%81%E6%A5%AD%E4%B9%8B%E5%B1%95%E6%9C%9B-b912fd52d9e2#.ent5z6utw",
+    "name": "開發者、社群跟企業之展望。",
+    "description": "最近因為一篇f2e.tw的版務公告好像引來商業行為大家的思考，邏輯上的思辨，討論是好事情，我也想提供大家我的想法，避免開發者，企業跟社群三者間有所分歧，而漸漸地不信任彼此。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD6beISmE1dEkRq&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F24%2F24%2F0%2Af7UR4vJxfFqo-KF_.jpg&cfs=1",
+    "id": "521085554595481_986063411431024",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      47.5,
+      44,
+      1,
+      1
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-04-27T18:17:42+0000",
+    "updated_time": "2016-04-27T18:17:42+0000",
+    "from": {
+      "name": "Moshi Huang",
+      "id": "1072714999409439"
+    },
+    "message": "first public preview of Vue.js 2.0! \n也有 Virtual DOM 了\nJSX / hyperscript Templates\nStreaming Server-side Rendering",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/the-vue-point/announcing-vue-js-2-0-8af1bde7ab9#.j9opmbjaw",
+    "name": "Announcing Vue.js 2.0 — The Vue Point",
+    "description": "In case you’ve never heard of Vue.js before: Vue.js is a front-end framework that consists of a core view layer and acco…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAjYX8R63LSfXsV&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F24%2F24%2F0%2Ak6Vzz_7jU2jXNEXT.jpeg&cfs=1",
+    "id": "521085554595481_988064577897574",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 28
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      34,
+      28,
+      0,
+      3
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-04-29T00:29:28+0000",
+    "updated_time": "2016-04-30T18:32:19+0000",
+    "from": {
+      "name": "許益銘",
+      "id": "10206064113634359"
+    },
+    "message": "請問各位版大，有沒有可參考的  gulp  整合 javascript tools 最佳範例，謝謝。\n\n我已經參考此篇的作法，但想要找更多整合 前端 dom 整合的內容\nhttps://ericlbarnes.com/2014/08/22/building-jquery-plugin-gulp/",
+    "id": "521085554595481_988716187832413",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      31,
+      7,
+      16,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-04-27T04:21:44+0000",
+    "updated_time": "2016-05-03T00:24:41+0000",
+    "from": {
+      "name": "張仲樸",
+      "id": "1109642952389754"
+    },
+    "message": "各位大大好~\n\n我在寫一個網頁，想要嵌入自己(帳號)的Google Calendar，頁面上能夠瀏覽，並且控制點擊事件，和編輯(新增/刪除/修改)\n\n已參考過許多資料(PHP、JS)，尚未有解決方法\n\n請教開發過這方面功能的先進，能給我一些feedback和solution\n\n非常感謝",
+    "id": "521085554595481_987748364595862",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      30,
+      9,
+      14,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-04-27T07:20:24+0000",
+    "updated_time": "2016-05-01T13:31:14+0000",
+    "from": {
+      "name": "Evan December",
+      "id": "10153770696699125"
+    },
+    "message": "[徵才] Web Front-end Engineer 網頁前端工程師\n\n[需求]\nProven front-end commercial programming experience of at least 3 years.\n1. Familiarity with a broad range of programming paradigms.\n2. Expert skills in HTML5, CSS, and Javascript is a MUST.\n3. One of below proven framework experience is required: ExtJS, AngularJS.\n4. Experience with using JSON as well as with JSON APIs integration.\n5. Have good knowledge of site speed issues and web application performance.\n6. Good understanding of Object Oriented Design (OOD) techniques desirable. Experience with UML, requirements gathering, use case analysis and object modeling.\n7. Excellent communication skills. Fluent in written and spoken English is required.\n8. Basic networking concept is a plus.\nhttps://pro.104.com.tw/vip/job/jobmaster?jobno=7308916\n\n[職缺細節] http://www.104.com.tw/job/?jobno=4cnlg\n[工作地點] 台北汐止\n[總共年薪] 80w~120w / annum",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://pro.104.com.tw/vip/job/jobmaster?jobno=7308916",
+    "name": "pro.104.com.tw",
+    "id": "521085554595481_987802461257119",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 11
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      26,
+      11,
+      10,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-04-26T09:10:39+0000",
+    "updated_time": "2016-04-26T09:10:39+0000",
+    "from": {
+      "name": "Varya Stepanova",
+      "id": "10206209579631912"
+    },
+    "message": "Hei! Welcome my new translation about a clever way to load SVG sprite with proper caching, even in IE.\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://frontendbabel.info/articles/yet-another-way-to-load-svg-sprite/",
+    "name": "Yet another way to load SVG sprite — Frontend Babel",
+    "description": "Vladimir Kuznetsov suggests a clever way to link SVG sprite to HTML pages so that the sets can be cached as other static files. This technique also perfectly works for IE.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAZh6AsR3G8J52B&w=130&h=130&url=http%3A%2F%2Ffrontendbabel.info%2Farticles%2Fyet-another-way-to-load-svg-sprite%2Fthumb.png&cfs=1",
+    "id": "521085554595481_987257984644900",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      20,
+      16,
+      0,
+      2
+    ],
+    "order": 20
+  }
+]
