@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator>
   <link href="http://www.f2e.tw//weekly-collection/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://www.f2e.tw//weekly-collection/" rel="alternate" type="text/html" />
-  <updated>2016-05-03T01:41:52+08:00</updated>
+  <updated>2016-05-08T12:31:14+08:00</updated>
   <id>http://www.f2e.tw//weekly-collection/</id>
 
   
@@ -17,6 +17,452 @@
 
   
 
+  
+  
+    <entry>
+      <title>Collection #006</title>
+      <link href="http://www.f2e.tw//weekly-collection/collection/006/" rel="alternate" type="text/html" title="Collection #006" />
+      <published>2016-04-24T00:00:00+08:00</published>
+      
+        <updated>2016-04-24T00:00:00+08:00</updated>
+      
+
+      <id>http://www.f2e.tw//weekly-collection/collection/006</id>
+      <content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/006/">&lt;div class=&quot;Cards sm-flex flex-wrap pt2&quot;&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.inside.com.tw/2015/08/05/2015-web-design-trends&quot; style=&quot;background-image: url(&#39;http://www.inside.com.tw/wp-content/uploads/2015/08/001.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://www.inside.com.tw/wp-content/uploads/2015/08/001.png&quot; alt=&quot;2016 年已快過一半，你已經運用這 6 個最潮的網頁設計趨勢了嗎？&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.inside.com.tw/2015/08/05/2015-web-design-trends&quot;&gt;2016 年已快過一半，你已經運用這 6 個最潮的網頁設計趨勢了嗎？&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          一篇篡改年份的舊文新發。簡介 2015 網頁設計趨勢
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-30T13:19:48+08:00&quot; title=&quot;2016-04-30T13:19:48+08:00&quot;&gt;2016-04-30&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_989445331092832&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1062487557144901&quot;&gt;
+            楊雅晴
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1062487557144901/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;楊雅晴&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://airbnb.design/the-way-we-build/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://airbnb.design/wp-content/uploads/2016/04/widescreen-V2-airbnb-dls-components-compressed.png&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://airbnb.design/wp-content/uploads/2016/04/widescreen-V2-airbnb-dls-components-compressed.png&amp;amp;width=400&quot; alt=&quot;The Way We Build : Airbnb Design&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://airbnb.design/the-way-we-build/&quot;&gt;The Way We Build : Airbnb Design&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Airbnb 設計團對簡介團隊 Design Language System 建立的來由，藉共有 styleguide 以更利協作配合
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-24T12:26:11+08:00&quot; title=&quot;2016-04-24T12:26:11+08:00&quot;&gt;2016-04-24&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_986044131432952&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10153285570810982&quot;&gt;
+            MaoYang Chien
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10153285570810982/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;MaoYang Chien&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://wp.me/p6gwC3-Nv&quot; style=&quot;background-image: url(&#39;https://noootown.files.wordpress.com/2016/04/html5-youtube.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://noootown.files.wordpress.com/2016/04/html5-youtube.png&quot; alt=&quot;[前端連載] 了解網頁發展的脈絡(下)——什麼是AJAX，以及jQuery、CSS3、HTML5簡單介紹&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://wp.me/p6gwC3-Nv&quot;&gt;[前端連載] 了解網頁發展的脈絡(下)——什麼是AJAX，以及jQuery、CSS3、HTML5簡單介紹&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          生活化地簡介 Ajax 概念
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-24T18:40:58+08:00&quot; title=&quot;2016-04-24T18:40:58+08:00&quot;&gt;2016-04-24&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_986160238088008&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/824068551038406&quot;&gt;
+            邱弘毅
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/824068551038406/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;邱弘毅&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://github.com/shiningjason1989/react-quick-tutorial&quot; style=&quot;background-image: url(&#39;https://avatars3.githubusercontent.com/u/652135?v=3&amp;amp;s=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://avatars3.githubusercontent.com/u/652135?v=3&amp;amp;s=400&quot; alt=&quot;shiningjason1989&amp;#x2F;react-quick-tutorial&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://github.com/shiningjason1989/react-quick-tutorial&quot;&gt;shiningjason1989&amp;#x2F;react-quick-tutorial&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          由 shiningjason1989 建立的 React.js 快速入門教學 GitHub 專案
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-25T18:16:14+08:00&quot; title=&quot;2016-04-25T18:16:14+08:00&quot;&gt;2016-04-25&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_986703674700331&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10153285570810982&quot;&gt;
+            MaoYang Chien
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10153285570810982/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;MaoYang Chien&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://nodejs.org/en/blog/announcements/v6-release/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://nodejs.org/static/images/logos/nodejs-new-white-pantone.png&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://nodejs.org/static/images/logos/nodejs-new-white-pantone.png&amp;amp;width=400&quot; alt=&quot;World’s Fastest Growing Open Source Platform Pushes Out New Release | Node.js&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://nodejs.org/en/blog/announcements/v6-release/&quot;&gt;World’s Fastest Growing Open Source Platform Pushes Out New Release | Node.js&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Node.js 釋出了穩定版本第六版。在 module loading 方面有顯著效能提升，可望加速開發大型專案的啟動時間；其它細項可至官方 blog 瞭解
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-27T10:34:06+08:00&quot; title=&quot;2016-04-27T10:34:06+08:00&quot;&gt;2016-04-27&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_987705904600108&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/999962876680799&quot;&gt;
+            Jas Chen
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/999962876680799/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Jas Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://abalone0204.github.io/2016/04/25/Super-tiny-compiler/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://cloud.githubusercontent.com/assets/952783/14413766/134c4068-ff39-11e5-996e-9452973299c2.png&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://cloud.githubusercontent.com/assets/952783/14413766/134c4068-ff39-11e5-996e-9452973299c2.png&amp;amp;width=400&quot; alt=&quot;Super tiny compiler · De-bug: 一鍵跑版&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://abalone0204.github.io/2016/04/25/Super-tiny-compiler/&quot;&gt;Super tiny compiler · De-bug: 一鍵跑版&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          以 JS 撰寫一個 lisp compiler 的開發紀錄。由字串解析到 AST 轉換，最後再到生成程式碼，每個步驟都記錄了思考過程
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-26T21:04:17+08:00&quot; title=&quot;2016-04-26T21:04:17+08:00&quot;&gt;2016-04-26&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_987339457970086&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/841989239187866&quot;&gt;
+            Denny Ku
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/841989239187866/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Denny Ku&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://lukechi1219.github.io/DartDemo/d008&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://lukechi1219.github.io/DartDemo/d008&quot;&gt;Guam Map&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Luke Chi 分享他以 polymer webcomponent 自製的關島 bus 動態地圖
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-24T17:41:08+08:00&quot; title=&quot;2016-04-24T17:41:08+08:00&quot;&gt;2016-04-24&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_986142711423094&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10152978551554713&quot;&gt;
+            Luke Chi
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10152978551554713/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Luke Chi&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from&quot; style=&quot;background-image: url(&#39;http://cdn1.icicletech.com/media/l_react-opensource-logo.jpg&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://cdn1.icicletech.com/media/l_react-opensource-logo.jpg&quot; alt=&quot;16 Opensource Reactjs Projects for Reference&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from&quot;&gt;16 Opensource Reactjs Projects for Reference&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          這篇分享文裡有 16 個開源的 react 專案，若有興趣的可以參考各專案的原始碼學習
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-27T19:39:09+08:00&quot; title=&quot;2016-04-27T19:39:09+08:00&quot;&gt;2016-04-27&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_987898547914177&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10153285570810982&quot;&gt;
+            MaoYang Chien
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10153285570810982/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;MaoYang Chien&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b#.enpynl9dt&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/1200/1*SESrCE3HCriSWJ3Y4OXahA.png&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/1200/1*SESrCE3HCriSWJ3Y4OXahA.png&amp;amp;width=400&quot; alt=&quot;UI Testing in React — KADIRA VOICE&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b#.enpynl9dt&quot;&gt;UI Testing in React — KADIRA VOICE&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          文中分別介紹 UI 測試中的兩類: Functional Testing &amp;amp; Visual Testing，並以實際的小範例來解釋如何以 React 實作自動化測試
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-27T09:16:25+08:00&quot; title=&quot;2016-04-27T09:16:25+08:00&quot;&gt;2016-04-27&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_987683241269041&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10153285570810982&quot;&gt;
+            MaoYang Chien
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10153285570810982/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;MaoYang Chien&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.accupass.com/event/register/1604172213412016034270&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://img.accupass.com/userupload/7490fafe29be4f15947b6fc8a759d318.jpg&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://img.accupass.com/userupload/7490fafe29be4f15947b6fc8a759d318.jpg&amp;amp;width=400&quot; alt=&quot;五月 #網頁設計沙龍-Accupass 活動通&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.accupass.com/event/register/1604172213412016034270&quot;&gt;五月 #網頁設計沙龍-Accupass 活動通&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          由 MacroViz 主辦的線上網頁設計課程套裝
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-26T06:51:01+08:00&quot; title=&quot;2016-04-26T06:51:01+08:00&quot;&gt;2016-04-25&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_987038461333519&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10206381218146197&quot;&gt;
+            陳聖博
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10206381218146197/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;陳聖博&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+      &lt;input class=&quot;Card__notice__switcher hide&quot; type=&quot;checkbox&quot; id=&quot;article-10&quot; checked=&quot;&quot; /&gt;
+      &lt;label class=&quot;Card__notice__overlay&quot; for=&quot;article-10&quot; title=&quot;click to show&quot; data-notice=&quot;我知道這是篇廣宣文&quot;&gt;&lt;/label&gt;
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;今期熱門文章有一篇是舊文新發，&lt;br /&gt;
+還希望版眾們在看文章時，能夠依然保持神智清醒；&lt;br /&gt;
+並加入更多的好奇心來參與分享討論。&lt;/p&gt;
+
+&lt;p&gt;共勉之 ：)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;※ Node.js v6 將在 2016 十月加入 LTS，詳情可見 &lt;a href=&quot;https://nodejs.org/en/blog/release/v6.0.0/&quot;&gt;Node v6.0.0 釋出公告&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+
+      
+
+      
+        <category term="weekly-popular" />
+      
+
+      
+        <summary>2016 年已快過一半，你已經運用這 6 個最潮的網頁設計趨勢了嗎？ 一篇篡改年份的舊文新發。簡介 2015 網頁設計趨勢 2016-04-30 楊雅晴 The Way We Build : Airbnb Design Airbnb 設計團對簡介團隊 Design Language System 建立的來由，藉共有 styleguide 以更利協作配合 2016-04-24 MaoYang Chien [前端連載] 了解網頁發展的脈絡(下)——什麼是AJAX，以及jQuery、CSS3、HTML5簡單介紹 生活化地簡介 Ajax 概念 2016-04-24 邱弘毅 shiningjason1989&amp;#x2F;react-quick-tutorial 由 shiningjason1989 建立的 React.js 快速入門教學 GitHub 專案 2016-04-25 MaoYang Chien World’s Fastest Growing Open Source Platform Pushes Out New Release | Node.js Node.js 釋出了穩定版本第六版。在 module loading 方面有顯著效能提升，可望加速開發大型專案的啟動時間；其它細項可至官方 blog 瞭解 2016-04-27 Jas Chen Super tiny compiler · De-bug: 一鍵跑版 以 JS 撰寫一個 lisp compiler 的開發紀錄。由字串解析到 AST 轉換，最後再到生成程式碼，每個步驟都記錄了思考過程 2016-04-26 Denny Ku Guam Map Luke Chi 分享他以 polymer webcomponent 自製的關島 bus 動態地圖 2016-04-24 Luke Chi 16 Opensource Reactjs Projects for Reference 這篇分享文裡有 16 個開源的 react 專案，若有興趣的可以參考各專案的原始碼學習 2016-04-27 MaoYang Chien UI Testing in React — KADIRA VOICE 文中分別介紹 UI 測試中的兩類: Functional Testing &amp;amp; Visual Testing，並以實際的小範例來解釋如何以 React 實作自動化測試 2016-04-27 MaoYang Chien 五月 #網頁設計沙龍-Accupass 活動通 由 MacroViz 主辦的線上網頁設計課程套裝 2016-04-25 陳聖博</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -43,8 +489,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://flight-manual.atom.io/&quot;&gt;《Atom 编辑器使用者手册》&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://flight-manual.atom.io/&quot;&gt;《Atom 编辑器使用者手册》&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -83,8 +529,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://github.com/transcranial/atom/commit/bd8b597d17711489ea519642df7b0fc6d1c91ffc&quot;&gt;frameless window for transparency&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://github.com/transcranial/atom/commit/bd8b597d17711489ea519642df7b0fc6d1c91ffc&quot;&gt;frameless window for transparency&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -123,8 +569,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://jobspace.kktix.cc/events/2016-create-vectors&quot;&gt;Jobspace Meetup: 前端向量技術 -- Create Vectors in JavaScript&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://jobspace.kktix.cc/events/2016-create-vectors&quot;&gt;Jobspace Meetup: 前端向量技術 -- Create Vectors in JavaScript&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -160,8 +606,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://momentjs.com/&quot;&gt;Moment.js | Home&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://momentjs.com/&quot;&gt;Moment.js | Home&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -200,8 +646,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://noootown.wordpress.com/2016/04/17/javascript-framework-explain-2/&quot;&gt;[前端連載] 了解網頁發展的脈絡(中)——JavaScript 歷史 和 Framework 是什麼？&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://noootown.wordpress.com/2016/04/17/javascript-framework-explain-2/&quot;&gt;[前端連載] 了解網頁發展的脈絡(中)——JavaScript 歷史 和 Framework 是什麼？&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -240,8 +686,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://ithometw.kktix.cc/events/modernweb2016cfs&quot;&gt;Modern Web 2016::Call for Speakers&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://ithometw.kktix.cc/events/modernweb2016cfs&quot;&gt;Modern Web 2016::Call for Speakers&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -280,8 +726,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.everyonecanwebsite.com/&quot;&gt;網頁基礎15天&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.everyonecanwebsite.com/&quot;&gt;網頁基礎15天&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -323,8 +769,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://bm.straightline.jp/&quot;&gt;straightline bookmark&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://bm.straightline.jp/&quot;&gt;straightline bookmark&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -360,8 +806,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://fb.com/521085554595481_984560011581364&quot;&gt;&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://fb.com/521085554595481_984560011581364&quot;&gt;&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -400,8 +846,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://codepen.io/lichin-lin/full/KzeLMb/&quot;&gt;animation button#2&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://codepen.io/lichin-lin/full/KzeLMb/&quot;&gt;animation button#2&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -478,8 +924,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://mazu.ioa.tw/maps/dintao&quot;&gt;農曆三月十九下午 陣頭遶境 Google Maps 路線地圖 - 北港迎媽祖&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://mazu.ioa.tw/maps/dintao&quot;&gt;農曆三月十九下午 陣頭遶境 Google Maps 路線地圖 - 北港迎媽祖&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -518,8 +964,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://tw.twincl.com/career/*6425&quot;&gt;面試求生指南：一位面試官的心得分享&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://tw.twincl.com/career/*6425&quot;&gt;面試求生指南：一位面試官的心得分享&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -558,8 +1004,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://bit.ly/vscode1rtm&quot;&gt;Visual Studio Code 1.0!&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://bit.ly/vscode1rtm&quot;&gt;Visual Studio Code 1.0!&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -598,8 +1044,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://blog.turn.tw/?p=2948&quot;&gt;簡單聊一下 One-way data flow、Two-way data binding 與前端框架 | 轉個彎日誌&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://blog.turn.tw/?p=2948&quot;&gt;簡單聊一下 One-way data flow、Two-way data binding 與前端框架 | 轉個彎日誌&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -638,8 +1084,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://matsu.simpleinfo.cc/&quot;&gt;媽祖進香去-陣頭怎麼看 | 圖文不符&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://matsu.simpleinfo.cc/&quot;&gt;媽祖進香去-陣頭怎麼看 | 圖文不符&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -678,8 +1124,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6&quot;&gt;[Javascript] Promise, generator, async與ES6 « Huli&amp;#39;s Blog&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6&quot;&gt;[Javascript] Promise, generator, async與ES6 « Huli&amp;#39;s Blog&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -718,8 +1164,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://t.co/aVKid292kG&quot;&gt;CSS @apply rule (native CSS mixins)&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://t.co/aVKid292kG&quot;&gt;CSS @apply rule (native CSS mixins)&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -758,8 +1204,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://amobiz.github.io/2016/04/15/angularjs-1.5-best-practices/&quot;&gt;AngularJS 1.5 最佳實務&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://amobiz.github.io/2016/04/15/angularjs-1.5-best-practices/&quot;&gt;AngularJS 1.5 最佳實務&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -798,8 +1244,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://framerco.de/&quot;&gt;Framer Code&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://framerco.de/&quot;&gt;Framer Code&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -838,8 +1284,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://www.facebook.com/photo.php?fbid=1099690636765385&amp;amp;set=gm.980452781992087&amp;amp;type=3&quot;&gt;#F2ETW hashtag&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://www.facebook.com/photo.php?fbid=1099690636765385&amp;amp;set=gm.980452781992087&amp;amp;type=3&quot;&gt;#F2ETW hashtag&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -920,8 +1366,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://noootown.wordpress.com/2016/04/08/web-development-history-1/&quot;&gt;[前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://noootown.wordpress.com/2016/04/08/web-development-history-1/&quot;&gt;[前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -960,8 +1406,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://tw.twincl.com/javascript/reactjs/*631q&quot;&gt;ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://tw.twincl.com/javascript/reactjs/*631q&quot;&gt;ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1000,8 +1446,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://seo.dns.com.tw/?p=11862&quot;&gt;數據驅動的網站優化 Data Driven Website Optimization&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://seo.dns.com.tw/?p=11862&quot;&gt;數據驅動的網站優化 Data Driven Website Optimization&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1040,8 +1486,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://t.co/4rqfdWaYzd&quot;&gt;A couple of alternatives to the hamburger menu&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://t.co/4rqfdWaYzd&quot;&gt;A couple of alternatives to the hamburger menu&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1080,8 +1526,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://csscollege.hackpad.com/CSS-3-CSS-fkE5HXwHeID&quot;&gt;高雄前端社群直播活動: CSS 架構&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://csscollege.hackpad.com/CSS-3-CSS-fkE5HXwHeID&quot;&gt;高雄前端社群直播活動: CSS 架構&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1120,8 +1566,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://bubkoo.com/2016/03/18/how-to-use-npm-as-a-build-tool/&quot;&gt;如何将 npm 作为构建工具使用&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://bubkoo.com/2016/03/18/how-to-use-npm-as-a-build-tool/&quot;&gt;如何将 npm 作为构建工具使用&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1160,8 +1606,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.inside.com.tw/2015/04/17/a-cautionary-tale-of-learning-to-code-quincy-larson&quot;&gt;想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.inside.com.tw/2015/04/17/a-cautionary-tale-of-learning-to-code-quincy-larson&quot;&gt;想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1200,8 +1646,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/001/&quot;&gt;Collection #001&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/001/&quot;&gt;Collection #001&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1240,8 +1686,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://julian.io/tomorrows-css-syntax-with-cssnext&quot;&gt;Tomorrow’s CSS syntax with cssnext&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://julian.io/tomorrows-css-syntax-with-cssnext&quot;&gt;Tomorrow’s CSS syntax with cssnext&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1277,8 +1723,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://fb.com/521085554595481_977272872310078&quot;&gt;【問】網站弱點掃瞄的工具？&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://fb.com/521085554595481_977272872310078&quot;&gt;【問】網站弱點掃瞄的工具？&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1360,8 +1806,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://hk.thenewslens.com/post/305094/&quot;&gt;程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://hk.thenewslens.com/post/305094/&quot;&gt;程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1400,8 +1846,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.hexschool.com/&quot;&gt;首波主打課程 基礎 HTML + CSS - 六角學院&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.hexschool.com/&quot;&gt;首波主打課程 基礎 HTML + CSS - 六角學院&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1443,8 +1889,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/000/&quot;&gt;Colection #000&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/000/&quot;&gt;Colection #000&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1483,8 +1929,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://noootown.github.io/FireWork/&quot;&gt;Firework&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://noootown.github.io/FireWork/&quot;&gt;Firework&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1523,8 +1969,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.ogdesign.tw/resources&quot;&gt;設計資源總匯 - 奧革設計&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.ogdesign.tw/resources&quot;&gt;設計資源總匯 - 奧革設計&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1563,8 +2009,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://lichin.me/Davidmenu/&quot;&gt;DavidMenu&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://lichin.me/Davidmenu/&quot;&gt;DavidMenu&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1603,8 +2049,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi&quot;&gt;好的使用者經驗設計，絕對不是從使用者開始&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi&quot;&gt;好的使用者經驗設計，絕對不是從使用者開始&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1643,8 +2089,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://css-tricks.com/whats-deal-declaring-font-properties-font-face&quot;&gt;What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://css-tricks.com/whats-deal-declaring-font-properties-font-face&quot;&gt;What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1653,7 +2099,7 @@
 
         &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
           &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-28T01:06:01+08:00&quot; title=&quot;2016-03-28T01:06:01+08:00&quot;&gt;2016-03-28&lt;/time&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-28T01:06:01+08:00&quot; title=&quot;2016-03-28T01:06:01+08:00&quot;&gt;2016-03-27&lt;/time&gt;
             &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_970141973023168&quot;&gt;
               &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
             &lt;/a&gt;
@@ -1683,8 +2129,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://manu.ninja/dominant-colors-for-lazy-loading-images&quot;&gt;Dominant Colors for Lazy-Loading Images&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://manu.ninja/dominant-colors-for-lazy-loading-images&quot;&gt;Dominant Colors for Lazy-Loading Images&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1723,8 +2169,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end&quot;&gt;Dirty Tricks From The Dark Corners Of Front-End&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end&quot;&gt;Dirty Tricks From The Dark Corners Of Front-End&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1733,7 +2179,7 @@
 
         &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
           &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-02T02:23:44+08:00&quot; title=&quot;2016-04-02T02:23:44+08:00&quot;&gt;2016-04-02&lt;/time&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-02T02:23:44+08:00&quot; title=&quot;2016-04-02T02:23:44+08:00&quot;&gt;2016-04-01&lt;/time&gt;
             &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_974420155928683&quot;&gt;
               &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
             &lt;/a&gt;
@@ -1764,7 +2210,7 @@
       
 
       
-        <summary>程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網 由 left-pad 撤架事件衍生之 npm 環境影響的後續報導 2016-03-31 楊雅晴 首波主打課程 基礎 HTML + CSS - 六角學院 由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程 2016-03-31 王志誠 Colection #000 本週刊試刊號於前端社團的宣傳貼文，也順便徵人 2016-03-29 Rplus Chen Firework 邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library 2016-04-01 邱弘毅 設計資源總匯 - 奧革設計 由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了 2016-03-30 莊為任 DavidMenu 林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式 2016-03-27 林立秦 好的使用者經驗設計，絕對不是從使用者開始 一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應 2016-04-02 陳聖博 What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言 2016-03-28 Clement Tang Dominant Colors for Lazy-Loading Images 一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度 2016-03-30 Rplus Chen Dirty Tricks From The Dark Corners Of Front-End 知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧 2016-04-02 Rplus Chen</summary>
+        <summary>程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網 由 left-pad 撤架事件衍生之 npm 環境影響的後續報導 2016-03-31 楊雅晴 首波主打課程 基礎 HTML + CSS - 六角學院 由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程 2016-03-31 王志誠 Colection #000 本週刊試刊號於前端社團的宣傳貼文，也順便徵人 2016-03-29 Rplus Chen Firework 邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library 2016-04-01 邱弘毅 設計資源總匯 - 奧革設計 由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了 2016-03-30 莊為任 DavidMenu 林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式 2016-03-27 林立秦 好的使用者經驗設計，絕對不是從使用者開始 一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應 2016-04-02 陳聖博 What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言 2016-03-27 Clement Tang Dominant Colors for Lazy-Loading Images 一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度 2016-03-30 Rplus Chen Dirty Tricks From The Dark Corners Of Front-End 知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧 2016-04-01 Rplus Chen</summary>
       
 
       
@@ -1797,8 +2243,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://tenten.co/blog/how-to-use-ngrok-to-connect-your-localhost/&quot;&gt;怎麼將內網的 localhost 讓外面的人都看得到呢？用用 ngrok 吧！ - 転転 |&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://tenten.co/blog/how-to-use-ngrok-to-connect-your-localhost/&quot;&gt;怎麼將內網的 localhost 讓外面的人都看得到呢？用用 ngrok 吧！ - 転転 |&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1837,8 +2283,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://zeplin.io/features.html#developer&quot;&gt;Zeplin&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://zeplin.io/features.html#developer&quot;&gt;Zeplin&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1877,8 +2323,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://jimmysu.logdown.com/posts/290026-inapp-browser-webview-problem&quot;&gt;你知道你的網站可能在 InAppBrowser/webview 無法使用嗎? « 要改的地方太多了，那就改天吧&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://jimmysu.logdown.com/posts/290026-inapp-browser-webview-problem&quot;&gt;你知道你的網站可能在 InAppBrowser/webview 無法使用嗎? « 要改的地方太多了，那就改天吧&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1917,8 +2363,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://www.creativebloq.com/css3/animation-with-css3-712437&quot;&gt;22 stunning examples of CSS3 animation | CSS3 | Creative Bloq&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://www.creativebloq.com/css3/animation-with-css3-712437&quot;&gt;22 stunning examples of CSS3 animation | CSS3 | Creative Bloq&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1957,8 +2403,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://species-in-pieces.com/#&quot;&gt;In Pieces - 30 Endangered Species&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://species-in-pieces.com/#&quot;&gt;In Pieces - 30 Endangered Species&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -1997,8 +2443,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;&quot;&gt;臺北市社會局x數位災民證APP&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;&quot;&gt;臺北市社會局x數位災民證APP&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2037,8 +2483,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://bit.ly/25dhr1u&quot;&gt;Remote Code Execution in all git versions (client + server) &amp;lt; 2.7.4: CVE-2016-2324, CVE-2016‑2315&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://bit.ly/25dhr1u&quot;&gt;Remote Code Execution in all git versions (client + server) &amp;lt; 2.7.4: CVE-2016-2324, CVE-2016‑2315&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2077,8 +2523,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://rscss.io/&quot;&gt;rscss&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://rscss.io/&quot;&gt;rscss&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2117,8 +2563,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://noootown.wordpress.com/2016/03/23/frontend-backend-breakfast/&quot;&gt;[前端連載] 買早餐也能了解前端 vs 後端？&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://noootown.wordpress.com/2016/03/23/frontend-backend-breakfast/&quot;&gt;[前端連載] 買早餐也能了解前端 vs 後端？&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2154,8 +2600,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;&quot;&gt;2016-03-26 第五屆HTML5峰會@台灣台北&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;&quot;&gt;2016-03-26 第五屆HTML5峰會@台灣台北&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2237,8 +2683,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-grid/&quot;&gt;完全學習Bootstrap 4 - Grid – INDER&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-grid/&quot;&gt;完全學習Bootstrap 4 - Grid – INDER&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2277,8 +2723,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://codepen.io/collection/nMgKxJ/&quot;&gt;Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://codepen.io/collection/nMgKxJ/&quot;&gt;Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2317,8 +2763,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419&quot;&gt;[前端連載] 前端工程師該懂的基本東西——網路架構篇&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419&quot;&gt;[前端連載] 前端工程師該懂的基本東西——網路架構篇&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2357,8 +2803,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-media-object/&quot;&gt;完全學習Bootstrap 4 – Media object – INDER&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-media-object/&quot;&gt;完全學習Bootstrap 4 – Media object – INDER&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2397,8 +2843,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://buzzorange.com/techorange/2016/03/15/google-resizer/&quot;&gt;網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://buzzorange.com/techorange/2016/03/15/google-resizer/&quot;&gt;網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2434,8 +2880,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/&quot;&gt;Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/&quot;&gt;Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2444,7 +2890,7 @@
 
         &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
           &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-18T00:01:27+08:00&quot; title=&quot;2016-03-18T00:01:27+08:00&quot;&gt;2016-03-18&lt;/time&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-18T00:01:27+08:00&quot; title=&quot;2016-03-18T00:01:27+08:00&quot;&gt;2016-03-17&lt;/time&gt;
             &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_962606900443342&quot;&gt;
               &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
             &lt;/a&gt;
@@ -2474,8 +2920,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://lichin.me/Juliealert/&quot;&gt;JulieAlert&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://lichin.me/Juliealert/&quot;&gt;JulieAlert&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2514,8 +2960,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2554,8 +3000,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://softnshare.wordpress.com/portfolio/driving-technical-change-why-people-on-your-team-dont-act-on-good-ideas-and-how-to-convince-them-they-should/&quot;&gt;Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://softnshare.wordpress.com/portfolio/driving-technical-change-why-people-on-your-team-dont-act-on-good-ideas-and-how-to-convince-them-they-should/&quot;&gt;Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2591,8 +3037,8 @@
 
       &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
 
-        &lt;h3 class=&quot;line-height-3&quot;&gt;
-          &lt;a class=&quot;td-dash history-link&quot; href=&quot;https://fb.com/521085554595481_960187820685250&quot;&gt;&lt;/a&gt;
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;td-dash&quot; href=&quot;https://fb.com/521085554595481_960187820685250&quot;&gt;&lt;/a&gt;
         &lt;/h3&gt;
 
         &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
@@ -2632,7 +3078,7 @@
       
 
       
-        <summary>完全學習Bootstrap 4 - Grid – INDER Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理 2016-03-17 Kim Wong Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen 保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。 2016-03-15 黃保翕 [前端連載] 前端工程師該懂的基本東西——網路架構篇 邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。 2016-03-18 邱弘毅 完全學習Bootstrap 4 – Media object – INDER Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。 2016-03-19 Kim Wong 網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer 2016-03-15 Bram Yeh Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS 由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。 2016-03-18 Clement Tang JulieAlert 林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert 2016-03-18 林立秦 Flexbox Froggy 鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站 2016-03-15 鄒適齊 Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince... MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍 2016-03-13 MaoYang Chien 關於 Adblock 隱藏非預期元素、以及雷區的討論 2016-03-13 Veck Hsiao</summary>
+        <summary>完全學習Bootstrap 4 - Grid – INDER Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理 2016-03-17 Kim Wong Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen 保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。 2016-03-15 黃保翕 [前端連載] 前端工程師該懂的基本東西——網路架構篇 邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。 2016-03-18 邱弘毅 完全學習Bootstrap 4 – Media object – INDER Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。 2016-03-19 Kim Wong 網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer 2016-03-15 Bram Yeh Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS 由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。 2016-03-17 Clement Tang JulieAlert 林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert 2016-03-18 林立秦 Flexbox Froggy 鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站 2016-03-15 鄒適齊 Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince... MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍 2016-03-13 MaoYang Chien 關於 Adblock 隱藏非預期元素、以及雷區的討論 2016-03-13 Veck Hsiao</summary>
       
 
       

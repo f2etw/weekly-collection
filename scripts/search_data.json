@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-04-24",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/006/",
+    "title": "Collection #006",
+    "items": [
+      
+        {
+          "title": "2016 年已快過一半，你已經運用這 6 個最潮的網頁設計趨勢了嗎？",
+          "url": "http://www.inside.com.tw/2015/08/05/2015-web-design-trends",
+          "sharer": "楊雅晴",
+          "sharer-id": "1062487557144901",
+          "permalink": "https://fb.com/521085554595481_989445331092832",
+          "time": "2016-04-30T05:19:48+0000",
+          "intro": "一篇篡改年份的舊文新發。簡介 2015 網頁設計趨勢"
+        }
+        ,
+        
+        {
+          "title": "The Way We Build : Airbnb Design",
+          "url": "http://airbnb.design/the-way-we-build/",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_986044131432952",
+          "time": "2016-04-24T04:26:11+0000",
+          "intro": "Airbnb 設計團對簡介團隊 Design Language System 建立的來由，藉共有 styleguide 以更利協作配合"
+        }
+        ,
+        
+        {
+          "title": "[前端連載] 了解網頁發展的脈絡(下)——什麼是AJAX，以及jQuery、CSS3、HTML5簡單介紹",
+          "url": "http://wp.me/p6gwC3-Nv",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_986160238088008",
+          "time": "2016-04-24T10:40:58+0000",
+          "intro": "生活化地簡介 Ajax 概念"
+        }
+        ,
+        
+        {
+          "title": "shiningjason1989&amp;#x2F;react-quick-tutorial",
+          "url": "https://github.com/shiningjason1989/react-quick-tutorial",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_986703674700331",
+          "time": "2016-04-25T10:16:14+0000",
+          "intro": "由 shiningjason1989 建立的 React.js 快速入門教學 GitHub 專案"
+        }
+        ,
+        
+        {
+          "title": "World’s Fastest Growing Open Source Platform Pushes Out New Release | Node.js",
+          "url": "https://nodejs.org/en/blog/announcements/v6-release/",
+          "sharer": "Jas Chen",
+          "sharer-id": "999962876680799",
+          "permalink": "https://fb.com/521085554595481_987705904600108",
+          "time": "2016-04-27T02:34:06+0000",
+          "intro": "Node.js 釋出了穩定版本第六版。在 module loading 方面有顯著效能提升，可望加速開發大型專案的啟動時間；其它細項可至官方 blog 瞭解"
+        }
+        ,
+        
+        {
+          "title": "Super tiny compiler · De-bug: 一鍵跑版",
+          "url": "http://abalone0204.github.io/2016/04/25/Super-tiny-compiler/",
+          "sharer": "Denny Ku",
+          "sharer-id": "841989239187866",
+          "permalink": "https://fb.com/521085554595481_987339457970086",
+          "time": "2016-04-26T13:04:17+0000",
+          "intro": "以 JS 撰寫一個 lisp compiler 的開發紀錄。由字串解析到 AST 轉換，最後再到生成程式碼，每個步驟都記錄了思考過程"
+        }
+        ,
+        
+        {
+          "title": "Guam Map",
+          "url": "http://lukechi1219.github.io/DartDemo/d008",
+          "sharer": "Luke Chi",
+          "sharer-id": "10152978551554713",
+          "permalink": "https://fb.com/521085554595481_986142711423094",
+          "time": "2016-04-24T09:41:08+0000",
+          "intro": "Luke Chi 分享他以 polymer webcomponent 自製的關島 bus 動態地圖"
+        }
+        ,
+        
+        {
+          "title": "16 Opensource Reactjs Projects for Reference",
+          "url": "https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_987898547914177",
+          "time": "2016-04-27T11:39:09+0000",
+          "intro": "這篇分享文裡有 16 個開源的 react 專案，若有興趣的可以參考各專案的原始碼學習"
+        }
+        ,
+        
+        {
+          "title": "UI Testing in React — KADIRA VOICE",
+          "url": "https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b#.enpynl9dt",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_987683241269041",
+          "time": "2016-04-27T01:16:25+0000",
+          "intro": "文中分別介紹 UI 測試中的兩類: Functional Testing &amp; Visual Testing，並以實際的小範例來解釋如何以 React 實作自動化測試"
+        }
+        ,
+        
+        {
+          "title": "五月 #網頁設計沙龍-Accupass 活動通",
+          "url": "http://www.accupass.com/event/register/1604172213412016034270",
+          "sharer": "陳聖博",
+          "sharer-id": "10206381218146197",
+          "permalink": "https://fb.com/521085554595481_987038461333519",
+          "time": "2016-04-25T22:51:01+0000",
+          "intro": "由 MacroViz 主辦的線上網頁設計課程套裝"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-04-17",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/005/",
