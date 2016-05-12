@@ -1,0 +1,685 @@
+[
+  {
+    "shares": {
+      "count": 76
+    },
+    "created_time": "2016-05-02T03:54:29+0000",
+    "updated_time": "2016-05-05T08:38:27+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "996025350417110"
+    },
+    "message": "最近常遇到求職者想找前端工作但被徵才內容嚇到不敢應徵，\n或是徵才廠商不曉得要如何寫職缺需求才不會引起誤會，\n所以分享一下個人的經驗：\n　\n【熟悉 JS Framework，jQuery、Vue、Angular、React尤佳】\n有些廠商可能剛接觸前端職業，\n不了解目前 JavaScript 趨勢，\n所以就熱門的全寫上，\n這樣很容易造成求職者的惶恐，\n就連我自己也只能說對 JQ、NG 算稍微精通，\n其他也頂多算是玩到建立個 todolist、寫些玩具的程度，\n根本還沒成熟到敢用在專案上。\n　\nweb 廠商要前端會 JavaScript Framework，\n主要也是希望會下面兩項技能：\n1.設計網頁互動性動畫效果\n2.串接 Ajax、Restful API，具系統性地規劃前端架構\n　\n那就建議廠商寫明工作任務，\n再從履歷、面試來去評斷他是否勝任就好，\n現在前端框架多到爆炸，\n我也認識不少純用 Native、冷門框架但強到爆炸，\n要記住框架只是工具，你就算有關刀，但不會耍也是白搭\n　\n【工程師、設計師職稱傻傻分不清楚】\n我在輔導學生就業前端的時候，\n常常遇到職稱寫「前端工程師」，\n但去面試時卻要求需設計畫面(Mockup)，\n這真的是比 HR 要找 JAVA 但卻找 JavaScript 工程師還要更雷！\n所以每次高雄前端社群聚會要結束時，\n我都會不厭其煩播這個影片：https://goo.gl/dnh1S5\n主要希望讓會眾了解前端設計師、前端工程師的差異。\n　\n所以這裡建議廠商，\n如果工作項目需要設計畫面，\n我自己是建議職稱加上「設計」，\n例如「網頁設計師」、「前端設計師」。\n　\n如果完全不用設計畫面，那就加個「工程」，\n例如「網頁工程師」、「前端工程師」。\n至少能讓求職者有個基本判斷，點閱轉換率也比較高。\n　\n至於有些朋友提說如果只單純切版，\n不會接 Ajax、SPA 的職稱要叫什麼，\n我個人覺得叫「前端工程師」也沒什麼不妥，\n也有在104看過「網頁切版工程師」、「切版工程師」也OK的。\n　\n【懂後端 Framework 尤佳】\n有幾次幫前端朋友討論職缺的時候，\n常發現對方濾掉些我認為他們可以勝任且薪水也給到位的公司，\n細問後才得知他們會對工作項目裡面有寫到「懂某某後端語言尤佳」的條件而卻步，\n儘管那是加分條件而不是必備條件。\n我問了幾次徵才廠商，實際狀況只是：\n(1)擔心與公司後端工程師合作不順 (佔80%)\n(2)只是現階段大案需要，未來「有可能」需要負責後端(佔20%)\n　\n老實講如果你是一個：\n1.已經會 Template Language(jade、slim、ejs)，了解 partial、Layout的觀念\n2.曾經有跟後端工程師合作經驗\n　\n那其實就已經可以跟全部的後端工程師合作了，\n很多都是大同小異的，\n每次我跟不同後端工程師合作，\n只要了解 View 放在哪裡，\nCSS、JS 的路徑在哪就直接上工改 Code了。\n　\n不過會建議徵才廠商要和面試者主動表達要找的對象是哪種，\n有些廠商會希望先騙進來，等前端需求沒那麼高再誘導轉後端，\n不過為了建立長久關係，建議還是事先說清楚會比較好。\n　\n【懂 UI/UX 尤佳】\n老實說除非是 UI Designer轉前端，\n或者本身對這塊領域有興趣，\n否則真的是有點強人所難。\n　\n但經由我和許多徵才廠商詢問過後，\n他們要的大多是「能夠與美術、後端合作，提出可操作性的前端介面建議」，\n其實這才是徵才廠商為什麼要找前端工程師的最主要原因。\n　\n每當 UI Designer設計 Mockup 出來後，\n我都會提出四、五種可行性操作流程，\n同時瀏覽器兼容性也相當成熟的建議，\n彼此再激盪出更佳的使用者介面，\n所以 UI/UX 並非是 UI Designer的工作，\n我個人認為是全部團隊都該參與的事項，包含PM與後端，\n　\n如果你看到徵才內容條件有「懂 UI/UX 尤佳」，\n我建議就自己腦補成「能夠與美術、後端合作，提出可操作性的前端介面建議」就好了哈哈。\n　\n--\n　\n其實還有相當多可以寫，\n但把大問題寫出來後面其實問題就比較小了，\n歡迎大家一起補充",
+    "id": "521085554595481_990614534309245",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 505
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 35
+      }
+    },
+    "power": [
+      709.5,
+      505,
+      35,
+      76
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-05-07T10:20:16+0000",
+    "updated_time": "2016-05-10T14:33:34+0000",
+    "from": {
+      "name": "Frances Cheng",
+      "id": "1271430766204244"
+    },
+    "message": "已額滿～\n\n大家好～我想挑戰 100days UI/UX project\n大家有誰有興趣一起挑戰呢～也可以增進一些前端網頁技術ＸＤＤ\n或者創一個ＬＩＮＥ群組 可以討論前端方面的知識：）\n\n網路上有很多人做好的ＵＩ跟ＵＸ 我希望是可以從他們的專案去模仿(或者有任何的idea可自由發揮) ，但專案希望不要一模一樣ＸＤ 之後互相交流做了哪些ＵＩ/ＵＸ並發表在\"LINE\"上or \"codepen\"，目標就是寧願做一些東西出來也不要什麼都沒做 ～coding過程中如果有問題也可以發表出來 ～ 或者有什麼ＩＤＥＡ可以提出～～",
+    "id": "521085554595481_993295614041137",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 128
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 59
+      }
+    },
+    "power": [
+      220.5,
+      128,
+      59,
+      2
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 18
+    },
+    "created_time": "2016-05-04T04:41:39+0000",
+    "updated_time": "2016-05-04T15:51:30+0000",
+    "from": {
+      "name": "Moshi Huang",
+      "id": "1072714999409439"
+    },
+    "message": "Framework 只是工具，適不適合才是重點。jQuery 表示...",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://cepave.com/do-not-choose-react-just-for-performance/",
+    "name": "不要只因為性能考量而選擇 React.js",
+    "description": "React 的軟肋：大量的 Real DOM 操作。 TL;DR 先說結論：如果大量的 Real DOM 操作無法避免，那麼 React 效能可能會令你非常失望。 為什麼會有 React.js 很快的錯覺？ 原因是因為在現今複雜的網路環境底下，我們很少有完全用純 Javascript 寫的 Web App，而既然用了框架，難免會引入額外的 Overhead，而跟其他的框架比起來，在 DOM 的數量不多、改動又少的情況下，React.js 勝出的可能性極高；加上官網上不斷地強調了 Virtual DOM...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD-sOGQYvIx5fhF&w=130&h=130&url=https%3A%2F%2Ffacebook.github.io%2Freact%2Fimg%2Fdocs%2Fshould-component-update.png&cfs=1",
+    "id": "521085554595481_991629544207744",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 111
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      153,
+      111,
+      4,
+      18
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 20
+    },
+    "created_time": "2016-05-02T18:31:47+0000",
+    "updated_time": "2016-05-04T02:03:28+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "這篇 CSS 工具文主要介紹的是\n如何搭配 PostCSS 來提高 CSS 的品質\n\n文中列舉了五款作者推薦的 PostCSS plugin\n* Stylelint\n* Do I Use\n* Immutable CSS\n* CSS stats\n* list-selectors\n各 plugin 都有簡介效果與目的\n\n對於 CSS 自動化的開發流程及分析非常有幫助\n\n(( 大家可以多討論一下目前團隊所採用的 CSS 管理有哪些唷~ \n\nImproving the Quality of Your CSS with PostCSS\nby Pavels Jelisejevs 2016-04-26\nhttp://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/NU9Q2dERG7",
+    "name": "Improving the Quality of Your CSS with PostCSS",
+    "description": "Pavels explores how PostCSS can help improve and maintain your CSS quality with code linting and analysis.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAAtBBSGdNrnfz-&w=130&h=130&url=http%3A%2F%2Fwww.sitepoint.com%2Fwp-content%2Fthemes%2Fsitepoint%2Fassets%2Fimages%2Ficon.html-css.png&cfs=1",
+    "id": "521085554595481_990931000944265",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 97
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      138.5,
+      97,
+      1,
+      20
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 20
+    },
+    "created_time": "2016-05-01T02:06:17+0000",
+    "updated_time": "2016-05-01T08:00:21+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "理解css3中的matrix",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.zhangxinxu.com/wordpress/2012/06/css3-transform-matrix-矩阵/",
+    "name": "理解CSS3 transform中的Matrix(矩阵) « 张鑫旭-鑫空间-鑫生活",
+    "description": "张鑫旭的个人博客_web前端技术文章_理解CSS3 transform中的Matrix(矩阵)",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBHKcu3pg288pcm&w=130&h=130&url=http%3A%2F%2Fww3.sinaimg.cn%2Fbmiddle%2F4b4d632fjw1dtq2jrsr1jj.jpg&cfs=1",
+    "id": "521085554595481_990002294370469",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      117,
+      71,
+      4,
+      20
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-05-01T06:21:01+0000",
+    "updated_time": "2016-05-01T15:47:50+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "https://codepen.io/lichin-lin/full/QNZegb/\n\n這是我這個禮拜做的一個post-list小練習\nheader的地方放上Skew的效果\n不知道大家是用哪種方式\n去做出這個效果\n\ncontent裡頭我用了flex來呈獻\ndesktop、mobile兩種排版\n\n另外也加入一些animation讓資訊\n可以用不一樣的方式呈現\n--\n希望大家給我一些排版上\n以及整體架構上的建議",
+    "id": "521085554595481_990090434361655",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 74
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      95,
+      74,
+      14,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-05-05T09:22:30+0000",
+    "updated_time": "2016-05-06T03:35:11+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Smashing Magazine 上的這篇文章\n羅列了各種 CSS Pseudo-Class(:) 跟 Pseudo-Element(::)\n\n作者 Ricardo Zea 很用心地為較特別的選擇器都寫了一個 codepen 範例\n裡頭當然有些是還未確立規格的選擇器\n不過也可以趁機看看有什麽有趣的 selector~\n\n((( 裡面有好多奇妙的 selector~ 大家用過哪些呢~\n\nAn Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements\nby Ricardo Zea 2016-05-03\nhttps://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/\n\n#F2ETW",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/n030lGBeVD",
+    "name": "An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements – Smashing Magazine",
+    "description": "Hola a todos! (Hello, everyone!) In my early days of web design, I had to learn things the hard way: trial and error. There was no Smashing Magazine, Can I Use, CodePen or any of the other amazing tools at our disposal today. Having someone show me the ropes of web design, especially on the CSS fron...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAbg9SeOqK-7DdZ&w=130&h=130&url=https%3A%2F%2Fmedia-mediatemple.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fpseudo-classes-pseudo-elements-opt.jpg&cfs=1",
+    "id": "521085554595481_992190390818326",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 42
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      68,
+      42,
+      4,
+      10
+    ],
+    "order": 7
+  },
+  {
+    "created_time": "2016-05-05T15:48:05+0000",
+    "updated_time": "2016-05-05T16:35:59+0000",
+    "from": {
+      "name": "Caesar Chi",
+      "id": "10153794877219838"
+    },
+    "message": "「討論」重新檢視目前課程內容資料，正在調整大綱，將會把此次課程內容作為之後訓練新進人員必讀科目，題目為『對於前端測試』。\n.\n前提：開發人員必須先具備基本 JavaScript 概念，同時也瞭解 jQuery 特性，瞭解 DOM 的概念。\n.\n首先會採用 jQuery ，並非採用其他 framework ，主要是直覺上透過 jQuery 會比直接導入任何一套 front end framework 還要單純直接，才能夠專注於在解釋『測試』的精神上，甚至後續可以延伸到許多不同框架的測試概念。\n.\n對於前端測試先行，對於初階入門者首先提到的範圍有，\n.\n1. 前端開發的思維概論\n2. 舊有程式進行整合前端測試\n3. 如何透過瀏覽器進行前端單元測試 - chai test flow\n4. 產生測試結果報表\n5. 執行測試先行流程 - 以 jQuery 實做為例\n6. 測試先行元件化流程 - 以 jQuery plugin 為例\n.\n以上為個人覺得如果要導入前端測試，至少要先瞭解的部分。但不一定正確，還希望提出來跟各位進行討論，覺得有哪些項目是可以加入，或者對於『前端測試』是希望瞭解的，也歡迎提出",
+    "id": "521085554595481_992324757471556",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 48
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      55.5,
+      48,
+      5,
+      0
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-05-03T07:43:21+0000",
+    "updated_time": "2016-05-03T13:30:33+0000",
+    "from": {
+      "name": "Watson Chen",
+      "id": "1019839761384620"
+    },
+    "message": "https://github.com/babydragoner/SimpleRWD/blob/master/README.zh-tw.md\n\n原本是想我個人網站是用 wordpress 來做的，後來網站掛了，免費的就是這樣，也沒幫忙備份，就整各不見了。\n只好要重建網站，當下，我也想說來練習一下，來寫 RWD 的網站，於是就有了這個，在花點時間，把我個人網站在用的碼，整理一下分享出來給大家，歡迎使用\n\n老實說 我個人是覺得 練習 就是要 重無到有 你才會比較能清楚認知原理，使用一堆框架，也許是很好用，但是這樣，感覺也只是用的好而已，還是不知道原理。所以 就花點時間來自己寫自己的網站。\n\n時間不多，所以寫得很簡單，不過我想 麻雀雖小還是該有都有了，想擴充也是很容易。\n\n其中 最麻煩的還是 CSS 了，大家如果有應用本專案，產生了一些不錯的 CSS 也歡迎跟我說，我在把它放上去。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/babydragoner/SimpleRWD/blob/master/README.zh-tw.md",
+    "name": "babydragoner/SimpleRWD",
+    "description": "Contribute to SimpleRWD development by creating an account on GitHub.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAPtU9iqGWT2r39&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4746053%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_991210127583019",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 36
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      53,
+      36,
+      6,
+      4
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-05-06T16:46:34+0000",
+    "updated_time": "2016-05-06T16:46:34+0000",
+    "from": {
+      "name": "林楊興",
+      "id": "10205947936271938"
+    },
+    "message": "嗨大家，小弟最近用 React+Redux 做了一些專案。對於 Redux 的 middleware 覺得優雅又有趣。所以寫了一篇文章從 source code 切入來討論它，和大家分享 :D\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://mz026.logdown.com/posts/702274-redux-middleware-functional-programming",
+    "name": "Redux middleware Functional Programming « mz026's Blog",
+    "description": "前言 最近做了一些跟 React Redux 有關的 projects。Redux 的設計有加入了很多 functional programming 的概念在裡面，其中我覺得最優雅的是 midd...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRKzdQnwJjpsQK&w=130&h=130&url=http%3A%2F%2Flogdown.com%2Fimages%2Fog_plain.jpg&cfs=1",
+    "id": "521085554595481_992948830742482",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      40,
+      34,
+      0,
+      3
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-05-04T02:57:32+0000",
+    "updated_time": "2016-05-04T04:23:42+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "在看 plugin 的時後通常都會建議有一個獨立的 function scope 去實做，請問一下我的觀念是正確的嘛??\n\n若是錯誤，希望能說明這兩種的差異與需注意的地方，謝謝各位^^",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1184818831536692&set=gm.991603397543692&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q83/s130x130/13102759_1184818831536692_863637026887382692_n.jpg?oh=ccdaa5e0359e452a6427cc32684084bf&oe=57AE9D46",
+    "id": "521085554595481_991603397543692",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      39,
+      15,
+      12,
+      3
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-05-03T10:11:15+0000",
+    "updated_time": "2016-05-04T02:56:02+0000",
+    "from": {
+      "name": "Derek Wang",
+      "id": "920437281311659"
+    },
+    "message": "來請問一下,紅牛的這個網站,中央那個可以隨著視窗大小縮放的格狀區塊,是用什麼套件作的??\n印象中在gogoro 的網站好像也有看過,但偷看source code 一輪沒找到特定的套件名稱...Orz",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.redbull.com/tw/zh",
+    "name": "Red Bull Gives You Wings 給你一對翅膀 - RedBull.tw",
+    "description": "來自Red Bull世界及其他豐富的媒體資訊中，搜尋最新要聞報導，盛事、實況轉播、影片及照片集等，內容包括賽車運動、單車運動、衝浪、文化創意及更多",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB3Ac9nW0wg8nDr&w=130&h=130&url=http%3A%2F%2Fimage3.redbull.com%2Frbcom%2F010%2F2016-05-01%2F1331792207789_12%2F0012%2F0%2F100%2F1%2F395%2F593%2F1500%2F12%2Fthe-start-of-the-russian-grand-prix-ended-in-tears.jpg&cfs=1",
+    "id": "521085554595481_991258944244804",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      15.5,
+      6,
+      5,
+      1
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-05-04T04:28:14+0000",
+    "updated_time": "2016-05-04T04:42:09+0000",
+    "from": {
+      "name": "Jin Hsueh",
+      "id": "10153764326177527"
+    },
+    "message": "請問一下 如果有一個串金流的問題想要問 不知道哪個版是比較適合發問的? \n\n目前遇到的的問題是我們金流使用stripe Stripe有支援alipay 但是實際上測試起來我的支付寶還是不能使用\n\n已經看了documentation 跟詢問過stripe的人 但是都沒得到很好的解答 想要問看看有沒人有類似經驗的? 感恩",
+    "id": "521085554595481_991625964208102",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      15,
+      6,
+      6,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "created_time": "2016-05-03T14:17:43+0000",
+    "updated_time": "2016-05-03T16:27:33+0000",
+    "from": {
+      "name": "呂耶書",
+      "id": "10204008574682345"
+    },
+    "message": "請問使用 compass watch 來編譯 .scss 能否排除某些檔案不要編譯？目前我一啟動 watch，目錄內未加底線的 .scss 都會被編譯。",
+    "id": "521085554595481_991339674236731",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      11.5,
+      1,
+      7,
+      0
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-05-03T01:20:33+0000",
+    "updated_time": "2016-05-03T04:05:08+0000",
+    "from": {
+      "name": "Yung-Yu Chen",
+      "id": "10153739931529842"
+    },
+    "message": "幾乎沒有軟體系統不追求模組化的。模組化地好，各模組間的定義有清楚的介面。一個模組內的改變只影響到它下游的模組；下游模組的改變不會回過頭來影響上游底層模組的實作。\n\n有些系統容易作到模組化，但使用者介面的模組化卻不容易。為了讓使用者享用精巧的操作介面，系統常常會出現複雜的資訊流。如果為了模組化的結構，造出了過多的中介層，系統的反應速度可能會大打折扣。但中介層不足的話，又作不到模組化，使系統很難維護。\n\nJenny Liang 會在 5/20 的 Jobspace 分享她使用 React 模組化開發的經驗。React 是一個相對新的前端程式庫。雖然不是說用了就會模組化，但它的運作模式挺有意思的，也得到許多好評。歡迎同好報名聚會，參與討論： http://jobspace.kktix.cc/events/2016-frontend-react 。",
+    "icon": "https://www.facebook.com/images/icons/event.gif",
+    "link": "https://www.facebook.com/events/479794782211811/",
+    "name": "Jobspace Meetup: 前端模組化開發 - React",
+    "description": "注意，請務必至 KKTIX 系統繳費，方可完成報名： http://jobspace.kktix.cc/events/2016-frontend-react\n\n主題：前端模組化開發 -- React\n\n模組化 (modularization) 向來是軟體系統成熟度的指標。不同的系統對模組 (module) 有不同的定義。但總的來說，愈模組化的設計，愈容易讓系統的部件重複被使用。模組化不單透過重用性 (reusability) 影響生產力，也為系統的複雜度設立屏障。缺乏模組化設計，不能限制複雜度蔓延的系統，都會遭遇可維護性 (maintainability) 降低的難題。\n\n網頁前端設計也追求模組化。但作為使用者介面 (UI)，網頁前端一般不會單獨存在，而必然有一個非同步、分散式的後端系統互相配合。相對於一般的使用者介面軟體，網頁前端的模組化是更加大的題目。React 是 Facebook 所開發的 JavaScript 前端使用者介面程式庫，引起了許多人的注意。它雖不是萬靈丹，但對前端開發的模組化確有獨到之處。歡迎大家一起來了解、討論。\n\n講員：@[1116802743:2048:Jenny Liang]\n\nJenny 是一位鍾情於網頁與前端技術的工程師，目前任職於 Appier。除了寫程式之外，她也熱心於技術社群活動；不但參加聚會，也投入研討會籌備，包括 COSCUP 和 PyConTW。基於工作和興趣，Jenny 緊緊跟隨著最新技術的發展。除了花時間整理所學，報告給同好之外，也希望大家給予指教、互相研討。",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/13087569_1724513107829309_6262072071637676295_n.jpg?oh=895a405f2369a85b7825bf4fc1752528&oe=57A672D3",
+    "id": "521085554595481_991086154262083",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      11,
+      8,
+      2,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-05-05T13:20:31+0000",
+    "updated_time": "2016-05-06T12:14:22+0000",
+    "from": {
+      "name": "SH Shiao",
+      "id": "1064881210192124"
+    },
+    "message": "請問在rails可以讓haml指定layout樣板，那麼轉到gulp有類似的方法嗎？感謝",
+    "id": "521085554595481_992269594143739",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      10.5,
+      0,
+      7,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-05-03T01:55:05+0000",
+    "updated_time": "2016-05-03T01:55:05+0000",
+    "from": {
+      "name": "Jenny Wilkins",
+      "id": "10153717909603666"
+    },
+    "message": "這裡有人用Drupal嗎?  資深前端開發工程師@John Albin Wilkins 終於將  Drupal 8, Zen 8.x-7.0-alpha2 版型開發出來囉! \n\nhttps://t.co/9RV3xqs9Vd #drupal #drupal8 #zentheme #theming #front-enddevelopment",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/9RV3xqs9Vd",
+    "name": "Zen | Drupal.org",
+    "description": "Zen is a powerful, yet simple, HTML5 starting theme with a responsive, mobile-first grid design. If you are building your own standards-compliant theme, you will find it much easier to start with Zen than to start with Garland or Stark. This theme has fantastic online documentation and tons of helpf…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDfEr87w83Grqvl&w=130&h=130&url=https%3A%2F%2Fwww.drupal.org%2Fmisc%2Fdruplicon.png&cfs=1",
+    "id": "521085554595481_991098544260844",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      9,
+      9,
+      0,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-05-04T15:37:41+0000",
+    "updated_time": "2016-05-05T16:14:40+0000",
+    "from": {
+      "name": "柳君翰",
+      "id": "942423002443312"
+    },
+    "message": "Hi 大家好 :D\n　\n想請教大家react fetch 的 polyfill相關問題..\n　\n最近的進度開始了解react 在 ajax上的方法\n除了query 可以很方便的使用promise, async等方法\n但是想要學習官方提到的『Fetch』\n但我應該怎麼做才能讓android瀏覽器能夠支援呢??\n　\n目前我嘗試使用的Polyfill有以下：\nes6-promise,\nisomorphic-fetch,\nnode-fetch,\nwhatwg-fetch\n　\n以下版本的瀏覽器好像不理會我的 Fetch\n(可是react render出來的view是沒問題的)\n　\n不知道有沒有版友之前有處理過類似的情況",
+    "id": "521085554595481_991840694186629",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      4,
+      1,
+      2,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-05-04T11:50:56+0000",
+    "updated_time": "2016-05-05T05:56:26+0000",
+    "from": {
+      "name": "Ricky Huang",
+      "id": "1210650022283124"
+    },
+    "message": "分享一個DI的元件\n專案中參考DICF.dll後\n\n。在Global內\n---------C#--------------\nusing static DICF.DIControllerFactory;\n--------------------------\n\n。然後將MVC的ControllFactory指向元件中Factory(參數分別是AssemblyName,controller的namespace)\n\n---------C#--------------\n ControllerBuilder.Current.SetControllerFactory(new ControllerFactory(\"MVC_DI\", \"MVC_DI.Controllers\"));\n--------------------------\n\n。接著註冊interface及implement的對應\n---------C#--------------\n    DIContainer.RegistType<IProfile, RickyProfile>();\n    DIContainer.RegistType<IDAOProfile, DAOTimmyProfile>();\n--------------------------\n\n最後在開發過程中，只要將interface宣告為public\n就會自動IoC上面有註冊過的Implement\n\n這一個元件有設計遞迴\n會多層的IoC下去..\n\n例：\nController 使用 InterfaceA IoC ImplementA\nImplementA 內使用InterfaceB IoC ImplementB\nImxxxxxx.......\n\n不好意思，沒有backend的社團，所以分享在這...",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/Ricky0708/MVC_DI",
+    "name": "Ricky0708/MVC_DI",
+    "description": "MVC_DI - DIControllerFactory",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDyN0FcVIbk1lSz&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F15306635%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_991756537528378",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      3.5,
+      2,
+      1,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-05-03T02:15:38+0000",
+    "updated_time": "2016-05-03T02:15:38+0000",
+    "from": {
+      "name": "凱暐",
+      "id": "10206021607489812"
+    },
+    "message": "[物聯網相關應用案例分享]\n物聯網時代的來臨，改變了傳統建築、工廠以及零售業的生產流程，而物聯網技術又是如何大幅提升產業的效能呢? 快來看看吧! \n\nP.S. 每週三下午兩點物聯網開發者論壇線上問答活動，立即註冊留言即有機會獲得價值約五百美金的WISE-PaaS軟體授權碼喔! \n立即登入: http://goo.gl/gmzieR",
+    "id": "521085554595481_991105077593524",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      3,
+      3,
+      0,
+      0
+    ],
+    "order": 20
+  }
+]
