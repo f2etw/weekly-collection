@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-05-01",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/007/",
+    "title": "Collection #007",
+    "items": [
+      
+        {
+          "title": "",
+          "url": "",
+          "sharer": "廖洧杰",
+          "sharer-id": "996025350417110",
+          "permalink": "https://fb.com/521085554595481_990614534309245",
+          "time": "2016-05-02T03:54:29+0000",
+          "intro": "面對愈來愈包山包海的前端業務，廖洧杰以自身經驗分享自己對前端徵才職缺介紹的建議。聊聊 Framework、職稱、後端技術、UI/UX 各項技能對前端的必需程度"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Frances Cheng",
+          "sharer-id": "1271430766204244",
+          "permalink": "https://fb.com/521085554595481_993295614041137",
+          "time": "2016-05-07T10:20:16+0000",
+          "intro": "Frances Cheng 個人發起了一個 100days UI/UX project，報名非常踴躍；但限量是殘酷的，再加上其活動是在 LINE 群組上討論的，小編也沒加到，沒法繼續瞭解活動狀況"
+        }
+        ,
+        
+        {
+          "title": "不要只因為性能考量而選擇 React.js",
+          "url": "http://cepave.com/do-not-choose-react-just-for-performance/",
+          "sharer": "Moshi Huang",
+          "sharer-id": "1072714999409439",
+          "permalink": "https://fb.com/521085554595481_991629544207744",
+          "time": "2016-05-04T04:41:39+0000",
+          "intro": "一篇 React.js 的反思文：Framework 非全能。文中結論部份亦指出 React.js 實際更值得關注的是其它諸如組件化之類的優點，而非「Virtual DOM 就是快」的誤解"
+        }
+        ,
+        
+        {
+          "title": "Improving the Quality of Your CSS with PostCSS",
+          "url": "https://t.co/NU9Q2dERG7",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_990931000944265",
+          "time": "2016-05-02T18:31:47+0000",
+          "intro": "文中介紹了五款能輔助提升 CSS 品質的 PostCSS plugin，對於 CSS 自動化開發流程 &amp; 分析應能有所助益"
+        }
+        ,
+        
+        {
+          "title": "理解CSS3 transform中的Matrix(矩阵) « 张鑫旭-鑫空间-鑫生活",
+          "url": "http://www.zhangxinxu.com/wordpress/2012/06/css3-transform-matrix-矩阵/",
+          "sharer": "林靜君",
+          "sharer-id": "1123047127708817",
+          "permalink": "https://fb.com/521085554595481_990002294370469",
+          "time": "2016-05-01T02:06:17+0000",
+          "intro": "以二維矩陣介紹 CSS transform 中各類圖像轉換的原理"
+        }
+        ,
+        
+        {
+          "title": "Skew-List #animation-tag",
+          "url": "https://codepen.io/lichin-lin/full/QNZegb/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_990090434361655",
+          "time": "2016-05-01T06:21:01+0000",
+          "intro": "林立秦分享其在 codepen 上對於雙重 skew transform 的練習作品"
+        }
+        ,
+        
+        {
+          "title": "An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements – Smashing Magazine",
+          "url": "https://t.co/n030lGBeVD",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_992190390818326",
+          "time": "2016-05-05T09:22:30+0000",
+          "intro": "各種 CSS Pseudo-Class(:) 跟 Pseudo-Element(::) 的詳細介紹文"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Caesar Chi",
+          "sharer-id": "10153794877219838",
+          "permalink": "https://fb.com/521085554595481_992324757471556",
+          "time": "2016-05-05T15:48:05+0000",
+          "intro": "Caesar Chi 針對前端測試領域，提出入門應具有的知識基礎為何，並分享傳承經驗的鋼要順序"
+        }
+        ,
+        
+        {
+          "title": "babydragoner&amp;#x2F;SimpleRWD",
+          "url": "https://github.com/babydragoner/SimpleRWD/blob/master/README.zh-tw.md",
+          "sharer": "Watson Chen",
+          "sharer-id": "1019839761384620",
+          "permalink": "https://fb.com/521085554595481_991210127583019",
+          "time": "2016-05-03T07:43:21+0000",
+          "intro": "Watson Chen 分享他製作的簡易 WordPress RWD 頁面"
+        }
+        ,
+        
+        {
+          "title": "Redux middleware Functional Programming « mz026&amp;#39;s Blog",
+          "url": "http://mz026.logdown.com/posts/702274-redux-middleware-functional-programming",
+          "sharer": "林楊興",
+          "sharer-id": "10205947936271938",
+          "permalink": "https://fb.com/521085554595481_992948830742482",
+          "time": "2016-05-06T16:46:34+0000",
+          "intro": "林楊興以 Redux source code 作為切入點，來介紹其中優雅的 middleware 設計與作法"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-04-24",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/006/",
