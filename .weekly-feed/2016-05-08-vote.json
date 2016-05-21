@@ -1,0 +1,203 @@
+[
+  {
+    "order": "# 1",
+    "likes": "77",
+    "comments": "165",
+    "shares": "8",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1159.5,
+    "postId": "521085554595481_996492133721485"
+  },
+  {
+    "order": "# 2",
+    "likes": "175",
+    "comments": "7",
+    "shares": "37",
+    "vote": 2,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "calcSum": 265.5,
+    "postId": "521085554595481_997109490326416"
+  },
+  {
+    "order": "# 3",
+    "likes": "136",
+    "comments": "16",
+    "shares": "29",
+    "vote": 1,
+    "ryrocks": "+1",
+    "calcSum": 221,
+    "postId": "521085554595481_995387467165285"
+  },
+  {
+    "order": "# 4",
+    "likes": "140",
+    "comments": "13",
+    "shares": "29",
+    "vote": 0,
+    "calcSum": 217.5,
+    "postId": "521085554595481_993855083985190"
+  },
+  {
+    "order": "# 5",
+    "likes": "175",
+    "comments": "1",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 176.5,
+    "postId": "521085554595481_994975523873146"
+  },
+  {
+    "order": "# 6",
+    "likes": "117",
+    "comments": "10",
+    "shares": "8",
+    "vote": 2,
+    "ryrocks": "+1",
+    "Rplus": "+1",
+    "calcSum": 154,
+    "postId": "521085554595481_996926040344761"
+  },
+  {
+    "order": "# 7",
+    "likes": "79",
+    "comments": "10",
+    "shares": "14",
+    "vote": 1,
+    "ryrocks": "+1",
+    "calcSum": 125,
+    "postId": "521085554595481_995498217154210"
+  },
+  {
+    "order": "# 8",
+    "likes": "116",
+    "comments": "2",
+    "shares": "0",
+    "vote": 2,
+    "ryrocks": "+1",
+    "Rplus": "+1",
+    "calcSum": 125,
+    "postId": "521085554595481_994915363879162"
+  },
+  {
+    "order": "# 9",
+    "likes": "112",
+    "comments": "0",
+    "shares": "1",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1386,
+    "postId": "521085554595481_994980430539322"
+  },
+  {
+    "order": "# 10",
+    "likes": "72",
+    "comments": "7",
+    "shares": "13",
+    "vote": 2,
+    "ryrocks": "+1",
+    "Rplus": "+1",
+    "abalone0204": "+1",
+    "calcSum": 114.5,
+    "postId": "521085554595481_994004003970298"
+  },
+  {
+    "order": "# 11",
+    "likes": "48",
+    "comments": "9",
+    "shares": "19",
+    "vote": -1,
+    "Rplus": "thinking_face",
+    "calcSum": 96.5,
+    "postId": "521085554595481_996636337040398"
+  },
+  {
+    "order": "# 12",
+    "likes": "59",
+    "comments": "25",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 96.5,
+    "postId": "521085554595481_995413627162669"
+  },
+  {
+    "order": "# 13",
+    "likes": "39",
+    "comments": "2",
+    "shares": "10",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 65,
+    "postId": "521085554595481_994268493943849"
+  },
+  {
+    "order": "# 14",
+    "likes": "27",
+    "comments": "23",
+    "shares": "0",
+    "vote": 1,
+    "ryrocks": "+1",
+    "calcSum": 64.5,
+    "postId": "521085554595481_993800987323933"
+  },
+  {
+    "order": "# 15",
+    "likes": "33",
+    "comments": "11",
+    "shares": "6",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 64.5,
+    "postId": "521085554595481_995969593773739"
+  },
+  {
+    "order": "# 16",
+    "likes": "45",
+    "comments": "4",
+    "shares": "5",
+    "vote": 2,
+    "ryrocks": "+1",
+    "Rplus": "+1",
+    "calcSum": 67,
+    "postId": "521085554595481_993709137333118"
+  },
+  {
+    "order": "# 17",
+    "likes": "14",
+    "comments": "26",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 55,
+    "postId": "521085554595481_995988390438526"
+  },
+  {
+    "order": "# 18",
+    "likes": "16",
+    "comments": "25",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 53.5,
+    "postId": "521085554595481_994264920610873"
+  },
+  {
+    "order": "# 19",
+    "likes": "35",
+    "comments": "6",
+    "shares": "1",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 49,
+    "postId": "521085554595481_996957360341629"
+  },
+  {
+    "order": "# 20",
+    "likes": "30",
+    "comments": "9",
+    "shares": "0",
+    "vote": -1,
+    "Rplus": "thinking_face",
+    "calcSum": 40.5,
+    "postId": "521085554595481_995902560447109"
+  }
+]
