@@ -1,4 +1,4 @@
-/* global fetch, history */
+/* global fetch, history, location */
 
 var search = {
   form: document.querySelector('.Search'),

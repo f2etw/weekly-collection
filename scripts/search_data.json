@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-05-08",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/008/",
+    "title": "Collection #008",
+    "items": [
+      
+        {
+          "title": "Animated Transition Effects in CSS and jQuery | CodyHouse",
+          "url": "https://codyhouse.co/gem/animated-transition-effects/?utm_source=designernews",
+          "sharer": "陳奕豪",
+          "sharer-id": "917675588255712",
+          "permalink": "https://fb.com/521085554595481_997109490326416",
+          "time": "2016-05-14T12:19:23+0000",
+          "intro": "CodyHouse 過渡效果又一力作，這次使用的是 image sprites + animation steps 各種創意十足的呈現"
+        }
+        ,
+        
+        {
+          "title": "高雄前端社群#24 - 好的瀏覽器開發工具帶你上天堂",
+          "url": "http://goo.gl/dGy3hk",
+          "sharer": "王志誠",
+          "sharer-id": "1120548697961771",
+          "permalink": "https://fb.com/521085554595481_995387467165285",
+          "time": "2016-05-11T02:23:58+0000",
+          "intro": "來自高雄前端社群的免費活動，這次的主題將會是針對 Chrome devtools 的操作"
+        }
+        ,
+        
+        {
+          "title": "[前端連載] 開發環境IDE和初探html",
+          "url": "https://noootown.wordpress.com/2016/05/08/ide-html1/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_993855083985190",
+          "time": "2016-05-08T10:33:33+0000",
+          "intro": "簡介一些常見的文字編輯器與 HTML 結構"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Jovi Tsai",
+          "sharer-id": "10200621292611341",
+          "permalink": "https://fb.com/521085554595481_994975523873146",
+          "time": "2016-05-10T09:29:23+0000",
+          "intro": "Jovi Tsai 用影片介紹了 Emmet 在 Sublime Text rename_tag 的快速鍵"
+        }
+        ,
+        
+        {
+          "title": "Introduction to Material-UI",
+          "url": "https://monotonique.github.io/introduction_to_material_ui/#/",
+          "sharer": "揪吉林",
+          "sharer-id": "10152786331572483",
+          "permalink": "https://fb.com/521085554595481_996926040344761",
+          "time": "2016-05-14T02:17:14+0000",
+          "intro": "George Lin 分享他以 React 套用 Material-UI 的心得簡報"
+        }
+        ,
+        
+        {
+          "title": "Soft &amp;amp; Share 站友好文分享-從前端到全端之路",
+          "url": "https://softnshare.wordpress.com/2016/05/11/soft-share-站友好文分享-從前端到全端之路/",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_995498217154210",
+          "time": "2016-05-11T08:12:32+0000",
+          "intro": "文中介紹以一非資工背景的前端工程師如何跨足全端，並選用 serverless 的開發環境"
+        }
+        ,
+        
+        {
+          "title": "使用 TypeScript 駕馭 Web 世界的脫韁野馬：以 Angular 2 開發框架為例",
+          "url": "http://bit.ly/ng2usingts",
+          "sharer": "黃保翕",
+          "sharer-id": "10206611907686693",
+          "permalink": "https://fb.com/521085554595481_994915363879162",
+          "time": "2016-05-10T05:35:17+0000",
+          "intro": "保哥分享他於創新應用開發大會的 Angular 2 演講簡報。裡頭介紹 Angular 2 之外，也簡介了 TypeScript 的部份用法"
+        }
+        ,
+        
+        {
+          "title": "淺入淺出 Generator Function · De-bug: 一鍵跑版",
+          "url": "http://abalone0204.github.io/2016/05/08/es6-generator-func/",
+          "sharer": "Denny Ku",
+          "sharer-id": "841989239187866",
+          "permalink": "https://fb.com/521085554595481_994004003970298",
+          "time": "2016-05-08T15:47:45+0000",
+          "intro": "Denny Ku 介紹如何利用 ES2015 新增的 generator function 來撰寫更直觀的非同步程式碼"
+        }
+        ,
+        
+        {
+          "title": "現代網頁設計趨勢觀察",
+          "url": "https://channel9.msdn.com/events/Modern-Web-TW/mwebday/06/player",
+          "sharer": "郭孝直",
+          "sharer-id": "10203537517513403",
+          "permalink": "https://fb.com/521085554595481_996636337040398",
+          "time": "2016-05-13T14:09:35+0000",
+          "intro": "2015 年台灣微軟舉辦現代化網站技術分享日中的「現代網頁設計趨勢觀察」議程錄影"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Jovi Tsai",
+          "sharer-id": "10200621292611341",
+          "permalink": "https://fb.com/521085554595481_995413627162669",
+          "time": "2016-05-11T03:44:20+0000",
+          "intro": "Jovi Tsai 以錄影方式分享他 Sass 的開發環境"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-05-01",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/007/",
