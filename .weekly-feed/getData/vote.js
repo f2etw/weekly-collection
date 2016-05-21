@@ -1,6 +1,6 @@
 /* global */
 javascript: (function () {
-  var member = ['Rplus', 'whalesingswee', 'amazingandyyy', 'Clementtang', 'erwaiyang', 'noootown'];
+  var member = ['Rplus', 'whalesingswee', 'amazingandyyy', 'Clementtang', 'erwaiyang', 'noootown', 'ryrocks'];
 
   var weight = {
     likes: 1,      /* 互動基數 */
