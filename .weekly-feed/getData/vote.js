@@ -1,6 +1,6 @@
-/* global */
 javascript: (function () {
   var member = ['Rplus', 'whalesingswee', 'amazingandyyy', 'Clementtang', 'erwaiyang', 'noootown', 'ryrocks'];
+  var allowedReactions = ['+1', 'thinking_face', 'tada'];
 
   var weight = {
     likes: 1,      /* 互動基數 */
@@ -58,6 +58,8 @@ javascript: (function () {
     voteData.vote = 0;
 
     emojis.forEach((emoji) => {
+      if (allowedReactions.indexOf(emoji.reaction) === -1) { return; }
+
       var reaction = emoji.reaction;
       var people = emoji.who;
 
@@ -97,4 +99,5 @@ javascript: (function () {
   window.sumTable = sumTable;
 
   console.table(sumTable);
+  console.log('copy(sumTable)');
 })();
