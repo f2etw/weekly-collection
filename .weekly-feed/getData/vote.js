@@ -1,4 +1,3 @@
-/* global */
 javascript: (function () {
   var member = ['Rplus', 'whalesingswee', 'amazingandyyy', 'Clementtang', 'erwaiyang', 'noootown', 'ryrocks'];
   var allowedReactions = ['+1', 'thinking_face', 'tada'];
@@ -100,4 +99,5 @@ javascript: (function () {
   window.sumTable = sumTable;
 
   console.table(sumTable);
+  console.log('copy(sumTable)');
 })();
