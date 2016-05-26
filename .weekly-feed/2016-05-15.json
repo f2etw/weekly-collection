@@ -1,0 +1,725 @@
+[
+  {
+    "shares": {
+      "count": 59
+    },
+    "created_time": "2016-05-20T08:40:42+0000",
+    "updated_time": "2016-05-22T13:11:14+0000",
+    "from": {
+      "name": "陳柏融",
+      "id": "966822483415769"
+    },
+    "message": "大家好，我把之前在Udemy（ JavaScript: Understanding the Weird Part ）上課的筆記整理了一下。\n\n目前上到課堂約一半的地方，陸續還會再繼續和大家分享。覺得這門課不只是教程式怎麼寫，還說明了很多背後的原理和概念！分享給大家參考！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://pjchender.blogspot.tw/p/blog-page_70.html",
+    "name": "[學習筆記目錄] JavaScript: Understanding the Weird Part",
+    "description": "[學習筆記目錄] JavaScript: Understanding the Weird Part 這是我在Udemy上修的一門課，當初想增進自己JavaScript的能力，這門課在特價，同時老師的評價也相當的好，所以就想說學學看。這門課和其他一般線上免費的JavaScript教程很不一樣，不只是教程式怎麼寫，而是進一步說明背後的原理和邏輯，學到的很多之前不清楚的概念，同時又有搭配英文字幕，歡迎大家參考！ [筆記] 談談Javascript 中的 Hoisting [筆記] JavaScript: undefined不是真的undefined !![筆記] 不同execution contex...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB9pkTyueYrzSNw&w=130&h=130&url=https%3A%2F%2F4.bp.blogspot.com%2F-55L9K66LDJo%2FVz7KeUPo_GI%2FAAAAAAAAlwg%2FGuQHxl6-0TEJ-q7x3sGVpyzJx3JPVy6jgCLcB%2Fw1200-h630-p-nu%2F672274_cd11_2.jpg&cfs=1",
+    "id": "521085554595481_1000054673365231",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 330
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      464.5,
+      330,
+      11,
+      59
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 49
+    },
+    "created_time": "2016-05-16T01:55:34+0000",
+    "updated_time": "2016-05-16T08:35:06+0000",
+    "from": {
+      "name": "林罡北",
+      "id": "850954238315251"
+    },
+    "message": "一種語言統一天下啊",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.techbang.com/posts/43421-javascript-to-conquer-the-web-page-the-next-step-will-be-open-to-take-over-your-computer-desktop",
+    "name": "JavaScript 征服了網頁，下一步是要接管電腦桌面的程式語言 | T客邦 - 我只推薦好東西",
+    "description": "JavaScript 誕生於 1995 年，主要是為了彌補<blink>標籤不能給網頁帶來更多的動態操作。如今，它有了更強大的用途。例如Google和 Faceboo...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCN4kMFpfR50Oc9&w=130&h=130&url=http%3A%2F%2Fcdn0.techbang.com.tw%2Fsystem%2Fexcerpt_images%2F43421%2Foriginal%2F89af50b17eb4f9ac7a825bb39418a1c5.png%3F1463225000&cfs=1",
+    "id": "521085554595481_997919270245438",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 301
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 26
+      }
+    },
+    "power": [
+      438,
+      301,
+      26,
+      49
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 52
+    },
+    "created_time": "2016-05-20T03:15:20+0000",
+    "updated_time": "2016-05-21T02:25:15+0000",
+    "from": {
+      "name": "Bo-Yi Wu",
+      "id": "10153204750654250"
+    },
+    "message": "大家可以下載 javascript es6 和 css cheat sheet pdf 檔案\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://blog.wu-boy.com/2016/05/javascript-es6-css-cheat-sheet-pdf/",
+    "name": "基礎 JavaScript ES6 和 CSS cheat sheet PDF 下載",
+    "description": "在 Toptal Blog 看到 JavaScript Cheat Sheet: ES6 And Beyond 及另外一篇 A Practical CSS Cheat Sheet by Toptal Developers，這兩篇提供了一些 JavaScript ES6 及 CSS 的基礎寫法及教學，蠻適合前端工程師將 PDF 印出來貼在座位前面，cheat sheet 內提供的語法幾乎都是天天在用，像是在 ES2015 內 let vs var 語法差別，什麼時候要用 const 或 let，或 Template String，預設參數 .. 等功能，其實非常不賴。CSS 則是介紹基本的",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBhjT4ujuocKUYp&w=130&h=130&url=https%3A%2F%2Ffarm8.staticflickr.com%2F7306%2F16407404782_1be42bc8f8_o.png&cfs=1",
+    "id": "521085554595481_999944280042937",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 212
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      323.5,
+      212,
+      5,
+      52
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 43
+    },
+    "created_time": "2016-05-20T14:30:29+0000",
+    "updated_time": "2016-05-20T14:30:29+0000",
+    "from": {
+      "name": "DV Vartan",
+      "id": "10101944717407522"
+    },
+    "message": "Mozilla工程師分享CSS的一些提示，好用",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://hacks.mozilla.org/2016/05/css-coding-techniques/",
+    "name": "CSS coding techniques ★ Mozilla Hacks – the Web developer blog",
+    "description": "Lately, we have seen a lot of people struggling with CSS, from beginners to seasoned developers. Some of them don’t like the way it works, and wonder if replacing CSS with a different language would be better—CSS processors emerged from this thinking. Some use CSS frameworks in the hopes that they w...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDSkc73P0oHMWJh&w=130&h=130&url=https%3A%2F%2F2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com%2Ffiles%2F2016%2F05%2Fimage00.png&cfs=1",
+    "id": "521085554595481_1000212953349403",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 161
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      247,
+      161,
+      0,
+      43
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 18
+    },
+    "created_time": "2016-05-15T14:55:32+0000",
+    "updated_time": "2016-05-16T05:55:40+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "996025350417110"
+    },
+    "message": "每週三晚上我都會開 ZOOM 讓學生們問前端問題，\n有些問題重複發問的頻率很高，\n表示大部分的學生都有這類困擾\n\n經學生同意後已整理好問答會的影片並全數上傳到 Youtube，\n除此之外也釋出許多前端小技巧，\n提供給各位參考與學習 :D\n\nPS：也歡迎各位訂閱頻道，\n我們會將影片陸續放上去~\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
+    "name": "六角 學院",
+    "description": "你好，我們是六角學院 以下的影片是我們與學員的交流影片 如果你對程式課程有興趣 可以參考我們的官網 官網：http://www.hexschool.com/",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCwrcaozKfQCRzu&w=130&h=130&url=https%3A%2F%2Fyt3.ggpht.com%2F-HxdAXDevCOM%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2Fcbt3vRJ_Bzc%2Fs900-c-k-no-rj-c0xffffff%2Fphoto.jpg&cfs=1",
+    "id": "521085554595481_997650710272294",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 187
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      227.5,
+      187,
+      3,
+      18
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 43
+    },
+    "created_time": "2016-05-17T06:55:31+0000",
+    "updated_time": "2016-05-17T06:55:31+0000",
+    "from": {
+      "name": "鄒適齊",
+      "id": "1137308042954007"
+    },
+    "message": "2016 網頁設計趨勢分析",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.uxpin.com/web-design-trends-2016-definitive-guide",
+    "name": "Web Design Trends 2016: The Definitive Guide",
+    "description": "All the hottest web design trends of 2016 explained. See dozens of visual case studies that reveal the methods behind the eye candy.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDxHAhWEjgPlWND&w=130&h=130&url=https%3A%2F%2Fwww.uxpin.com%2Fimages%2Fhomepage%2Febooks%2Fweb-design-trends-2016%2Fcover.jpg&cfs=1",
+    "id": "521085554595481_998484373522261",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 119
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      205,
+      119,
+      0,
+      43
+    ],
+    "order": 6
+  },
+  {
+    "created_time": "2016-05-17T04:01:14+0000",
+    "updated_time": "2016-05-17T15:47:32+0000",
+    "from": {
+      "name": "王志誠",
+      "id": "1120548697961771"
+    },
+    "message": "Sass 基礎入門\n\n高雄前端社群的 CSS 讀書會 Part 4\n\n這次要介紹的是 Sass 基礎入門\n會從完全沒有接觸過 Sass 的開始\n而 Sass 開發環境主要有三種\n\n1. command line (Ruby)\n2. GUI (Fireapp, Prepros)\n3. Gulp or Grunt ...\n\n先前我們介紹過使用 Gulp (真的是很複雜@_@)\n所以這次會介紹如何使用 GUI 工具學習 Sass\n主要的內容如下：\n\n- 瞭解 Sass 編譯原理\n- 透過 GUI 工具編譯\n- Sass @import \n- Sass Variable\n\n實體活動：\n我把票都放到 KKtix 上，自己想辦法搶吧\n時間：2016/05/19 19:30 (四)\n地點：高雄醫學大學 - 多功能會議室 (國際學術研究大樓 地下二樓)\n\n線上直播：\n實體活動超過 20 人將會開啟直播任務\n時間：2016/05/19 19:30 (四)\n筆記：https://goo.gl/qosN5X (直播連結也會在此公佈)\n----\n題外話\n由於個人的 Facebook 頁面有很多非工程師背景的\n寫太技術的文章不太適合\n所以另外開了粉絲專頁\n如果對於我的技術文有興趣\n可以對我的粉絲頁點 Like",
+    "link": "https://www.facebook.com/168472513548980/photos/a.169768526752712.1073741828.168472513548980/179708842425347/?type=3",
+    "name": "卡斯伯",
+    "description": "大家好,\n本週是高雄前端社群的 CSS 讀書會 Part 4\n\n這次要介紹的是 Sass 基礎入門\n會從完全沒有接觸過 Sass 的開始\n而 Sass 開發環境主要有三種\n\n1. command line (Ruby)\n2. GUI (Fireapp, Prepros)\n3. Gulp or Grunt ...\n\n先前我們介紹過使用 Gulp (真的是很複雜@_@)\n所以這次會介紹如何使用 GUI 工具學習 Sass\n主要的內容如下：\n\n- 瞭解 Sass 編譯原理\n- 透過 GUI 工具編譯\n- Sass @import \n- Sass Variable\n\n時間：5/19 晚上七點\n地點：洽談中\n直播：Youtube",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13151656_179708842425347_6862227968224096974_n.png?oh=89c3bb50e0ef4d6bba1b7682b4e71dd8&oe=57D8F056",
+    "id": "521085554595481_998437110193654",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 178
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      200.5,
+      178,
+      15,
+      0
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 13
+    },
+    "created_time": "2016-05-18T15:33:12+0000",
+    "updated_time": "2016-05-22T05:14:34+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "分享一下近期作品。\n下週二晚間有css3 3D特效選單沙龍課程，\n本次課程將會在2個小時內完整呈現此範例的製作過程與講解製作原理，包含transition跟transform屬性的應用。\n\n課程採Youtube線上直播，並可在上完課後一週內觀看上課影片。\n有興趣的可以報名來聽聽看。\n活動網址：\nhttp://www.accupass.com/event/register/1604172213412016034270",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://hci.macroviz.com/demo/css3D/menu.html",
+    "name": "CSS3 3D Menu",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCfQxFGHsaJrtAe&w=130&h=130&url=http%3A%2F%2Fhci.macroviz.com%2Fdemo%2Fcss3D%2Fimg%2Fbanner.jpg&cfs=1",
+    "id": "521085554595481_999163706787661",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 123
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      177.5,
+      123,
+      19,
+      13
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 26
+    },
+    "created_time": "2016-05-16T04:53:17+0000",
+    "updated_time": "2016-05-16T11:33:38+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "http://retire.insecurity.today\n檢測前端框架已知漏洞\n\n可以透過網頁介面輸入網址\n來檢測網站所採用的 js framework 有哪些已知漏洞需要留意的~\n\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/Bxn5vbxabg",
+    "name": "t.co",
+    "id": "521085554595481_997979130239452",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 101
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      159,
+      101,
+      4,
+      26
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 25
+    },
+    "created_time": "2016-05-17T02:52:10+0000",
+    "updated_time": "2016-05-17T02:52:10+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "Flux 是一種單向資料流的設計模式，幫助你撰寫有條理的前端架構\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/4cats-io/深入淺出-flux-44a48c320e11#.8bxsessir",
+    "name": "深入淺出 Flux — 4cats io",
+    "description": "“Flux 是一種單向資料流的設計模式，幫助你撰寫有條理的前端架構。”",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB4gqfj00xcl-db&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2A1eN9vpOkkGRy2U_RmqyM8Q.png&cfs=1",
+    "id": "521085554595481_998419833528715",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 94
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      144,
+      94,
+      0,
+      25
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-05-17T12:54:28+0000",
+    "updated_time": "2016-05-17T15:01:42+0000",
+    "from": {
+      "name": "謝宜峯",
+      "id": "975394922472142"
+    },
+    "message": "最近學用 Vue.js，把兩年前用Angular寫的小遊戲改用 Vue 寫當作練習\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tap-game.json.tw/",
+    "name": "香蕉與太陽花的測驗 - 是香蕉還是太陽花?",
+    "description": "您能夠分辨一大堆的香蕉和一大堆的太陽花嗎？玩個遊戲就能知道你的識別能力。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBM69CSQo6D_Ae2&w=130&h=130&url=https%3A%2F%2Ftap-game.json.tw%2Fstatic%2Fimg%2Fog.jpg&cfs=1",
+    "id": "521085554595481_998587826845249",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 100
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      113.5,
+      100,
+      5,
+      3
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-05-16T14:13:45+0000",
+    "updated_time": "2016-05-17T01:08:27+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "圖示置中了，卻還是覺得歪歪的嗎？\n\n這支 visual-center 的 JS library 可以幫助你抓出圖片的視覺中心唷！\n　\n它的中心算法在 github 裡有提到：\n「It calculates a visual weight value for every pixel on the image: the square root of the difference between that pixel and the background color. And then the algorithm tries to balance that weight in all directions.」\n( 好吧，我也是有看沒有懂… 好用就好 XD\n\nVisual Center\nby javierbyte 2016-05-13\nhttp://javier.xyz/visual-center/\n\n#f2etw",
+    "link": "http://javier.xyz/visual-center/",
+    "name": "設計大舌頭",
+    "description": "大家知道 \"元件中心\" 與 \"視覺中心\" 的差異嗎？\n-\n我們放置 #icon 會用對齊中心的工具輔助，但有時看起來並不那麼平衡，主要就是人們的眼睛對某些構成的認知不同，所以反而微調到人眼認定的中心後，視覺上比較平衡。\n-\n過去大多由設計師的 #奈米眼 進行判斷，無法知道確切的位置。\n-\n今天介紹的這個工具，就是協助判斷 \"#元件中心\" 與 \"#視覺中心\" 的精準位置 ，大家可以試看看喔！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCiSxC-xXbN-7hu&w=130&h=130&url=http%3A%2F%2Fjavier.xyz%2Fvisual-center%2Fdocs-assets%2Fscreenshot.jpg&cfs=1",
+    "id": "521085554595481_998156770221688",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 103
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      112,
+      103,
+      6,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-05-16T07:51:50+0000",
+    "updated_time": "2016-05-16T07:51:50+0000",
+    "from": {
+      "name": "Denny Ku",
+      "id": "841989239187866"
+    },
+    "message": "Hi 大家，redux-saga 最近很紅。\n因為它能幫我們把非同步的資料流變得好測試以及維護。\n其實 Saga 不是太複雜的概念，沒必要被這個單字嚇到了，\n簡單的說：一個好的 UX 流程應該是一個 transaction，\n同時這個資料流也必須有辦法被中斷及重來。\n（舉例：登入 => 登入中 => 登入完成，中間要可以取消登入）\n乍看之下有點矛盾，但這就是 saga 要解決的問題 XD\n我認為這對前端開發者來說，帶來了很不同的思考角度。\npromise 不能 abort 的特性其實為我們的測試和開發彈性都帶來一些問題。\nSaga 是我目前看到覺得最合理的解決方式，\n不過只講述工具怎麼使用不是一件健康的事情，\n尤其是在工具動不動就 deprecated 的前端生態圈，\n所以我想分享一下 saga 這個 pattern的概念以及如何應用。\n裡面除了講述概念以外，\n還包含一個如何從 redux-thunk 重構到 redux-saga ，\n最後再加入取消功能的實際案例：",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://abalone0204.github.io/2016/05/14/redux-saga/",
+    "name": "Saga Pattern 在前端的應用 · De-bug: 一鍵跑版",
+    "description": "Saga Pattern 在前端的應用 - Tsung-Chen Ku",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAg54hCpB1WGyKR&w=130&h=130&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fzh%2F3%2F37%2FAdventure_Time_-_Title_card.png&cfs=1",
+    "id": "521085554595481_998027116901320",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      88,
+      80,
+      0,
+      4
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-05-17T09:43:49+0000",
+    "updated_time": "2016-05-17T09:58:49+0000",
+    "from": {
+      "name": "Chander Shiu",
+      "id": "690282577784734"
+    },
+    "message": "小細節",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://swordair.com/html5-input-type-search/",
+    "name": "HTML5搜索框input type=\"search\"",
+    "description": "众所周知，HTML5为input定义了更多的输入框类型，比如date，number等。input type=\"search\"也是其中之一，但其定义里并没有过多描述这个类型的功能，反而是同type=text在外观和功能上都没有多大区别，那么要其何用？当前，各浏览器对新特性的实现都还是部分支持，即便全部支持，差异也还是免不了的。这里仅以Chrome，Firefox以及Edge为参考。 用惯Edge的人可能对Edge默认为input text添加清空按钮(输入框有内容时尾部会出现“x”，点击后会清空输入框内容)并不陌生，其添加的清空记号同样适用于input search。换言之search和text...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDuejLv5FEndIDG&w=130&h=130&url=http%3A%2F%2Fswordair.com%2Fcontent%2Fimages%2F2014%2F11%2Fswordair-wing-logo-avator-without-underline.png&cfs=1",
+    "id": "521085554595481_998524790184886",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 59
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      82,
+      59,
+      2,
+      10
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-05-18T13:15:25+0000",
+    "updated_time": "2016-05-22T14:35:34+0000",
+    "from": {
+      "name": "陳詳衡",
+      "id": "1324003900958842"
+    },
+    "message": "（徵才）Frontend Engineer - React JS 月薪50K~80K保障13個月外加其他福利\n\n公司名稱：集界科技股份有限公司\n公司地點：台北市大安區羅斯福路三段283巷21弄3號1樓\n主要產品：\n。SAAS - marketing platform\n。QR code service\n\n必備條件：\n2年以上軟體工程師經驗\n1年以上前端開發經驗\n熟悉javascript (ES6)\n熟悉HTML、CSS\n熟悉HTTP\n具備ReactJS開發經驗\n熟悉git\n\n加分\n具備jquery開發經驗\n熟悉Babel、redux、webpack等技術\n熟悉CI、CD觀念\n曾接觸Java、Ruby、Python等任一物件導向語言\n\n責任：\n使用React或jquery相關技術開發公司Web產品\n與團隊其他成員協同合作開發公司產品\n對技術有熱情，肯接觸新觀念，喜歡分享技術心得\n\n薪資與福利：\n1. 月薪NT$50,000~80,000，保障13個月，依能力經驗面議\n2. 員工認股權與年度績效獎金(依整體團隊實際績效由董事會核定)\n3. 提供工作用mac筆電，按月補貼\n\n聯絡人：陳詳衡\n電話：02-23623969 手機：0939594177\nE-mail：mike_chen@tmotx.com\n地址：台北市大安區羅斯福路三段283巷21弄3號1樓",
+    "id": "521085554595481_999112770126088",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 47
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      80.5,
+      47,
+      21,
+      1
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-05-15T03:42:25+0000",
+    "updated_time": "2016-05-15T03:42:25+0000",
+    "from": {
+      "name": "Caesar Chi",
+      "id": "10153794877219838"
+    },
+    "message": "蠻值得一讀的觀念性文章",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzA4NjE3MDg4OQ%3D%3D&mid=2650963313&idx=1&sn=8c1fd3e026f94f15adb1997bf37b04f1#rd",
+    "name": "Coding BEAR 摳北熊",
+    "description": "希望加入前端的新鮮人，還在茫然的網站開發者，值得一讀的好文章",
+    "id": "521085554595481_997428503627848",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 77
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      77,
+      77,
+      0,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-05-16T14:28:26+0000",
+    "updated_time": "2016-05-18T07:11:16+0000",
+    "from": {
+      "name": "許益銘",
+      "id": "10206064113634359"
+    },
+    "message": "在看車時看到一個特效，想請教作法\n\nhttps://www.mazda.com.tw/cars/all-new-mazda3/\n\n（我沒有廣告車子喔 XDDD",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=10208078037981209&set=gm.998161693554529&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13179429_10208078037981209_3957368457752404480_n.jpg?oh=f01e463046a43b842573f2a16a3bb0dc&oe=57C40E06",
+    "id": "521085554595481_998161693554529",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 35
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      69.5,
+      35,
+      15,
+      6
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-05-18T05:08:20+0000",
+    "updated_time": "2016-05-24T05:55:29+0000",
+    "from": {
+      "name": "Miso Hong",
+      "id": "230100797378664"
+    },
+    "message": "大家好，不好意思想請問ㄧ下大大們，目前在台北有什麼前端工程師會固定聚會的實體活動？或是小型交流社群之類的",
+    "id": "521085554595481_998958153474883",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      66,
+      27,
+      22,
+      3
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-05-15T17:01:35+0000",
+    "updated_time": "2016-05-16T10:26:27+0000",
+    "from": {
+      "name": "郭丞哲",
+      "id": "986931667991374"
+    },
+    "message": "前幾天看到工程師跟設計師的工作行為ＸＤ這裡只好推坑各位大大加入Front-End Designer的行列～～\n\n向原設計 http://galshir.com/ 致敬",
+    "id": "521085554595481_997697903600908",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 57
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      58.5,
+      57,
+      1,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-05-18T18:18:28+0000",
+    "updated_time": "2016-05-18T18:18:28+0000",
+    "from": {
+      "name": "Isaiah Grey",
+      "id": "10204168254646213"
+    },
+    "message": "Hey guys,\n\nl've built a React Native tutorial showing how you can build a Store Locator app using geolocation.\nIn the app we will use Stamplay as our backend, which allows for rapid development and easy setup.\nHope you all enjoy!\n\nhttps://blog.stamplay.com/building-a-store-locator-with-react-native/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://blog.stamplay.com/wp-content/uploads/2016/05/iphone_preview.png",
+    "name": "blog.stamplay.com",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDtoQ8QqDECIrKu&w=130&h=130&url=https%3A%2F%2Fblog.stamplay.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fiphone_preview.png&cfs=1",
+    "id": "521085554595481_999236893447009",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 47
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      57,
+      47,
+      0,
+      5
+    ],
+    "order": 20
+  }
+]
