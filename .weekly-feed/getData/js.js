@@ -44,6 +44,8 @@ WC.sortData = function (_feeds) {
 };
 
 WC.genarateMD = (data) => {
+  WC.bindDownload(JSON.stringify(data, null, 2), `${WC.queryURL.since}.json`);
+
   var tpl = document.getElementById('template').innerHTML.trim();
   var html = [];
 
