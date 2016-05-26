@@ -44,11 +44,16 @@ WC.sortData = function (_feeds) {
 };
 
 WC.genarateMD = (data) => {
+  WC.bindDownload(JSON.stringify(data, null, 2), `${WC.queryURL.since}.json`);
+
   var tpl = document.getElementById('template').innerHTML.trim();
   var html = [];
 
   data.forEach(function (feed, index) {
-    // console.log(feed);
+    if (feed.description) {
+      feed.description = feed.description.replace(/\n/gm, '\n> ');
+    }
+
     feed.order = index + 1;
     html.push(Mustache.render(tpl, feed));
   });
@@ -243,7 +248,6 @@ WC.init = () => {
         } else {
           WC.renderTop10();
         }
-
       } else {
         WC.calcVotedResult();
       }
