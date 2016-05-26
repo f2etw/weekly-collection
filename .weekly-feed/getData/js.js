@@ -50,7 +50,10 @@ WC.genarateMD = (data) => {
   var html = [];
 
   data.forEach(function (feed, index) {
-    // console.log(feed);
+    if (feed.description) {
+      feed.description = feed.description.replace(/\n/gm, '\n> ');
+    }
+
     feed.order = index + 1;
     html.push(Mustache.render(tpl, feed));
   });
