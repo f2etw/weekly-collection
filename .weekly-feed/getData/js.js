@@ -243,7 +243,6 @@ WC.init = () => {
         } else {
           WC.renderTop10();
         }
-
       } else {
         WC.calcVotedResult();
       }
