@@ -1,0 +1,207 @@
+[
+  {
+    "order": "# 1",
+    "likes": "330",
+    "comments": "11",
+    "shares": "59",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 473.5,
+    "postId": "521085554595481_1000054673365231"
+  },
+  {
+    "order": "# 2",
+    "likes": "301",
+    "comments": "26",
+    "shares": "49",
+    "vote": 0,
+    "calcSum": 438,
+    "postId": "521085554595481_997919270245438"
+  },
+  {
+    "order": "# 3",
+    "likes": "212",
+    "comments": "5",
+    "shares": "52",
+    "vote": 0,
+    "calcSum": 323.5,
+    "postId": "521085554595481_999944280042937"
+  },
+  {
+    "order": "# 4",
+    "likes": "161",
+    "comments": "0",
+    "shares": "43",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 256,
+    "postId": "521085554595481_1000212953349403"
+  },
+  {
+    "order": "# 5",
+    "likes": "187",
+    "comments": "3",
+    "shares": "18",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 230.5,
+    "postId": "521085554595481_997650710272294"
+  },
+  {
+    "order": "# 6",
+    "likes": "119",
+    "comments": "0",
+    "shares": "43",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 214,
+    "postId": "521085554595481_998484373522261"
+  },
+  {
+    "order": "# 7",
+    "likes": "178",
+    "comments": "15",
+    "shares": "0",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 203.5,
+    "postId": "521085554595481_998437110193654"
+  },
+  {
+    "order": "# 8",
+    "likes": "123",
+    "comments": "19",
+    "shares": "13",
+    "vote": 0,
+    "calcSum": 177.5,
+    "postId": "521085554595481_999163706787661"
+  },
+  {
+    "order": "# 9",
+    "likes": "101",
+    "comments": "4",
+    "shares": "26",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 168,
+    "postId": "521085554595481_997979130239452"
+  },
+  {
+    "order": "# 10",
+    "likes": "94",
+    "comments": "0",
+    "shares": "25",
+    "vote": 1,
+    "erwaiyang": "+1",
+    "calcSum": 147,
+    "postId": "521085554595481_998419833528715"
+  },
+  {
+    "order": "# 11",
+    "likes": "100",
+    "comments": "5",
+    "shares": "3",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 122.5,
+    "postId": "521085554595481_998587826845249"
+  },
+  {
+    "order": "# 12",
+    "likes": "103",
+    "comments": "6",
+    "shares": "0",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 121,
+    "postId": "521085554595481_998156770221688"
+  },
+  {
+    "order": "# 13",
+    "likes": "80",
+    "comments": "0",
+    "shares": "4",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 97,
+    "postId": "521085554595481_998027116901320"
+  },
+  {
+    "order": "# 14",
+    "likes": "59",
+    "comments": "2",
+    "shares": "10",
+    "vote": 0,
+    "calcSum": 82,
+    "postId": "521085554595481_998524790184886"
+  },
+  {
+    "order": "# 15",
+    "likes": "47",
+    "comments": "21",
+    "shares": "1",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1419.5,
+    "postId": "521085554595481_999112770126088"
+  },
+  {
+    "order": "# 16",
+    "likes": "77",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 77,
+    "postId": "521085554595481_997428503627848"
+  },
+  {
+    "order": "# 17",
+    "likes": "35",
+    "comments": "15",
+    "shares": "6",
+    "vote": 0,
+    "calcSum": 69.5,
+    "postId": "521085554595481_998161693554529"
+  },
+  {
+    "order": "# 18",
+    "likes": "27",
+    "comments": "22",
+    "shares": "3",
+    "vote": 0,
+    "calcSum": 66,
+    "postId": "521085554595481_998958153474883"
+  },
+  {
+    "order": "# 19",
+    "likes": "57",
+    "comments": "1",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 58.5,
+    "postId": "521085554595481_997697903600908"
+  },
+  {
+    "order": "# 20",
+    "likes": "47",
+    "comments": "0",
+    "shares": "5",
+    "vote": 0,
+    "calcSum": 57,
+    "postId": "521085554595481_999236893447009"
+  }
+]
