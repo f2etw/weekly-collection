@@ -38,12 +38,20 @@
 
   &:visited {
     background-color: mix($c-white, $c-black, 50%);
+
+    .Card:hover & {
+      background-color: #000;
+    }
   }
 }
 
 .Card__titleLink {
   &:visited {
     color: lighten(desaturate($c-link, 20%), 10%);
+
+    .Card:hover & {
+      color: $c-link;
+    }
   }
 }
 
