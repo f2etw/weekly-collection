@@ -1,0 +1,686 @@
+[
+  {
+    "shares": {
+      "count": 49
+    },
+    "created_time": "2016-05-24T09:51:18+0000",
+    "updated_time": "2016-05-24T18:44:33+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "這是我兩星期前寫的一篇文章，跟大家分享。\n\n說真的，我覺得 front-end code 要寫得好，比 backend code 更困難。語言的異質性（JavaScript、CSS、HTML、server 端的語言...）加上有很多層 layer，一不小心就變成 spaghetti code 了。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/programming/*652e",
+    "name": "程式員求生指南：關於寫程式的二三事",
+    "description": "我是一個熱愛寫程式的傢伙。我的第一台電腦，是13歲時買的Apple II，在那之前，我已經開始到同學家用「小教授二號」學寫程式了。高中時我當電腦社社長...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAJPMI5HswCsaUp&w=130&h=130&url=https%3A%2F%2Ffarm8.staticflickr.com%2F7421%2F16492775452_c746f30578_z_d.jpg&cfs=1",
+    "id": "521085554595481_1002178373152861",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 248
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      356.5,
+      248,
+      7,
+      49
+    ]
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-05-24T18:43:15+0000",
+    "updated_time": "2016-06-01T03:47:03+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "以下回應比較長，所以我重新貼一段文。\n\n前端的code不會比較難寫，但是經常比後端的code難維護。我舉一個幾年前在Yahoo工作時碰到的維護CSS的例子。當時Yahoo網站的前端程式架構，為了讓各個國家及property（property指的是新聞、運動、娛樂等不同網站）可以有自己的版面風格，所以各國家及property都可以有自己的CSS overwrite，這些CSS overwrite再按照一定的順序載入。你知道CSS長到幾千行的時候，就會變得很難讀懂，而不同國家及property的工程師為了達成PM/designer的要求，有時會為達目的不擇手段，所以經常可以看到「!important」出現在CSS原始碼裡，因為第一次用「!important」的人可以不用管整團CSS是怎麼攪和在一起的。如果你是在下游，用這種X招是可以work，但在中上游的人就慘了。我發現只要我動一下CSS，下游property的網頁就壞了，要改就必須把那一堆「!important」和各種奇奇怪怪的CSS overwrite rule都理順修好。有些我勉強改完了，有些實在沒辦法，只能跟PM和designer說抱歉。\n\n前端開發是個叢林世界，光是一個CSS的coding style就很難統一，何況還有前端的各種不同framework、design pattern（或no pattern）及開發風格。不同的工程師有不同做法，簡直是八仙過海，各顯神通。我覺得前端的code要寫到可讀、易維護，比起後端更難。前端的工程師們，大家辛苦了！（此時腦海浮現「啊，福氣啦！」及周潤發廣告的畫面）",
+    "id": "521085554595481_1002379173132781",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 239
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 25
+      }
+    },
+    "power": [
+      298.5,
+      239,
+      25,
+      11
+    ]
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-05-26T09:22:35+0000",
+    "updated_time": "2016-05-27T23:00:30+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "大家好，我在7月會開一門「JavaScript程式設計進階」課程，講授JavaScript的進階技巧。我只開自己有把握的課，相信不會讓來上課的人失望！以下是課程大綱：\n\n- JavaScript caveats (var scope/hoisting, closure, this, strict mode, ===/!==, etc.)\n- Functional programming in JavaScript\n- Object-oriented programming in JavaScript (ES6)\n- Promises\n- Generators (ES6)\n- Important ES6 features (const/let, string interpolation, module import/export, etc.)\n- Server-side JavaScript: Node.js\n- JavaScript development: npm, unit test, Babel, ESLint, Flow\n（本課程包含許多程式實作及演練，學員可自行攜帶Windows或Mac筆記電腦，亦可使用電腦教室提供的Windows電腦）\n\n#f2etw 社團團友專屬優惠折扣碼：67GP3Q\n說明：\n1. 請於報名表「備註」欄註明此優惠折扣碼，可折抵報名費用1000元。\n2. 此優惠折扣碼限單獨使用，不得與其它折扣、優惠並用。\n3. 此優惠折扣碼僅適用於2016年7月課程，其它課程無效。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/~acw/*g652",
+    "name": "[ACW 2016-07] JavaScript程式設計進階",
+    "description": "課程名稱：JavaScript程式設計進階 / 適合對象：具備基礎至中等JavaScript能力，欲學習進階JavaScript技巧的開發人員（本課程不適合JavaScript初學者）...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDRr68S3hBvNuJo&w=130&h=130&url=https%3A%2F%2Fdl.dropboxusercontent.com%2Fu%2F228423461%2Fimages%2Facw-201607-835b70224f5d.jpg&cfs=1",
+    "id": "521085554595481_1003128689724496",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 157
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      197,
+      157,
+      8,
+      14
+    ]
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-05-22T08:01:19+0000",
+    "updated_time": "2016-05-22T12:59:05+0000",
+    "from": {
+      "name": "莊景隆",
+      "id": "10206419614477533"
+    },
+    "message": "忘了多久之前有人分享這本書似乎是已經開發一段時間的設計師可以參考的書籍，因為買其他書的時候剛好有看到特價，到6/1 前79折後還可以再88折，分享給各位。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://24h.pchome.com.tw/books/prod/DJAA2V-A9006QFQV?q=%2FA%2F50528",
+    "name": "忍者：JavaScript開發技巧探秘",
+    "description": "忍者：JavaScript開發技巧探秘 - JAVA, John Resig、Bear Bibeault, 9789864340767",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDyt1hfdLbrB4z5&w=130&h=130&url=http%3A%2F%2Fec1img.pchome.com.tw%2Fpic%2Fv1%2Fdata%2Fitem%2F201512%2FD%2FJ%2FA%2FA%2F2%2FV%2FDJAA2V-A9006QFQV000_567a6449a6962.gif&cfs=1",
+    "id": "521085554595481_1001124846591547",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 122
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      139.5,
+      122,
+      1,
+      8
+    ]
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-05-24T06:34:26+0000",
+    "updated_time": "2016-05-24T11:45:21+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "你是不是也常在 CSS 除錯中搞得一頭霧水呢？\n作者 Ben Frain 在文章中分享了他除錯的各個階段以及過程中的思路\n\n* Evaluation & quick fixes\n* Reduction & replication\n* Cause & fix\n\n這三個主要步驟中\n第一項主要看的是經驗\n第二項「replication」必須學著自己先將問題範圍縮小，\n尤其適合應用在提問技巧上\n\n話說… 大家平時都怎麼 debug 的呢？\n\nDebugging CSS\nby Ben Frain 2016-05-17\nhttps://benfrain.com/debugging-css/\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/gLZSRpvEDe",
+    "name": "Debugging CSS – Ben Frain",
+    "description": "Debugging CSS Published: May 17, 2016(Last updated: May 21, 2016) 2 comments 0Days 0 days since this post was last revised. All content should be accurate. I’ve done a lot of CSS debugging. Others code and my own. Mobile platforms and standard desktop browsers. Everything from old versions of Intern...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCJ5j_iG1dDwDFk&w=100&h=100&url=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F08382dba09a1b945d96656df5e1725f7%3Fs%3D100%26d%3Dretro%26r%3Dpg&cfs=1&sx=0&sy=0&sw=100&sh=100",
+    "id": "521085554595481_1002109983159700",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 51
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 20
+      }
+    },
+    "power": [
+      109,
+      51,
+      20,
+      14
+    ]
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-05-28T16:05:25+0000",
+    "updated_time": "2016-05-29T12:12:14+0000",
+    "from": {
+      "name": "Yang Li-Yi",
+      "id": "1172583412774235"
+    },
+    "message": "幫分享\n\njavascript 談論它、使用它的人多，但真正了解它的人少\n長年待在英國的開發者兼 BLOC.io 前端課程 mentor - Jeff Lau \n希望針對這個議題來與業界朋友們相互交流認識\n特別找來：ALPHA Camp、台灣大學資訊系統訓練班、飛肯.... 等(持續增加中)，有在教授該主題之業界大大\n藉由導師的交流與分享，更進一步知道 javascript 的趨勢與現況\n時間為：6/4 下午14:00 \n名額有限，有興趣參加的朋友，請趁早報名！\nhttps://dojo.alphacamp.co/events/front-end-meeting\n\n個人和 Jeff 聊過幾次，從平面設計師轉為前端開發者，他除了熟悉 ReactJS、AngularJS 等框架，最近也在嘗試 React Native，是個喜歡鑽研技術也樂於分享的人，有興趣開始深入接觸 Javascript 或想分享交流的業界朋友，都歡迎參加！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://dojo.alphacamp.co/events/front-end-meeting",
+    "name": "新創產業導師聚會 | ALPHA Camp",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAHXMcxsVle5CMI&w=130&h=130&url=https%3A%2F%2Fassets.alphacamp.co%2Fevents%2Flogos%2F000%2F000%2F057%2Foriginal%2F%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7_2016-05-28_10.15.03_PM.png%3F1464444936&cfs=1",
+    "id": "521085554595481_1004230506280981",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 68
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      80,
+      68,
+      0,
+      6
+    ]
+  },
+  {
+    "created_time": "2016-05-26T10:48:07+0000",
+    "updated_time": "2016-05-27T13:24:36+0000",
+    "from": {
+      "name": "吳逸文",
+      "id": "10152724942760718"
+    },
+    "message": "推薦大家一個... 無限期支持 IE8 的反諷角色扮演粉絲頁 XD\nhttps://www.facebook.com/ie8forever/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.facebook.com/ie8forever/",
+    "name": "無限期支持 IE8",
+    "description": "台灣政府機關、懷舊企業主最愛瀏覽器。",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/c2.0.200.200/p200x200/1514624_215965351948138_1297602762357139040_n.jpg?oh=1ef1d000814b5c49e5fc26c088e2368b&oe=57D40518",
+    "id": "521085554595481_1003151273055571",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 43
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      55,
+      43,
+      8,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-25T06:26:42+0000",
+    "updated_time": "2016-05-25T07:43:39+0000",
+    "from": {
+      "name": "林佑安",
+      "id": "10152988954056715"
+    },
+    "link": "https://medium.com/@c9s/小編幫你踩地雷系列-typescript-適合我嗎-e15b5a0607d7#.u4ua8x5v6",
+    "name": "C9S 開源電台",
+    "description": "燒燙燙深入精神時光屋報導 XD\n\nhttps://medium.com/@c9s/%E5%B0%8F%E7%B7%A8%E5%B9%AB%E4%BD%A0%E8%B8%A9%E5%9C%B0%E9%9B%B7%E7%B3%BB%E5%88%97-typescript-%E9%81%A9%E5%90%88%E6%88%91%E5%97%8E-e15b5a0607d7",
+    "id": "521085554595481_1002608616443170",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 42
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      43.5,
+      42,
+      1,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-05-26T09:32:58+0000",
+    "updated_time": "2016-05-27T11:39:58+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "http://s.codepen.io/flymaple/debug/rLBJrR\n\n打擾了，想問一下在手機 Chrome 上檢視時，按鈕沒辦法垂直置中，但是 chrome dev tools 模擬是有置中的，使用的方法是 :before + inline-block + middle，請問各位是用什麼方式處理垂直置中呢??\n\n參考的 UI Design: https://dribbble.com/shots/2626003-Daily-Ui-004-Calculator",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://s.codepen.io/flymaple/debug/rLBJrR",
+    "name": "CodePen - Daily UI #004 - Calculator",
+    "id": "521085554595481_1003131183057580",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      34.5,
+      4,
+      19,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-05-24T06:52:48+0000",
+    "updated_time": "2016-05-25T01:32:27+0000",
+    "from": {
+      "name": "Chander Shiu",
+      "id": "690282577784734"
+    },
+    "message": "img 的 object-fit 不支援 IE\n所以可用 background-size 達到這效果(支持 IE 9+)\n這小小的 function 可以處理動態要出圖片時有像 object-fit 的效果, 純 js",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/tedshd/img_object_fit",
+    "name": "tedshd/img_object_fit",
+    "description": "img_object_fit - Use background size handle img object-fit to support IE9+",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCBqW2fSDX2jepT&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2949145%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=240&sh=240",
+    "id": "521085554595481_1002118709825494",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      34.5,
+      9,
+      17,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-26T12:38:31+0000",
+    "updated_time": "2016-05-26T12:38:31+0000",
+    "from": {
+      "name": "Kaiching Chang",
+      "id": "10209493882128013"
+    },
+    "message": "新書上架 Google Play ，有關 CSS 的基礎教學，最後有 CSS 3 動畫的簡單範例。",
+    "link": "https://play.google.com/store/books/details?id=I0c8DAAAQBAJ",
+    "name": "PYDOING",
+    "description": "My Chinese new e-book is on Google Play now. Please visit the following link to see the detail.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBYRqc8SrmiBqev&w=130&h=130&url=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%2Fimages%2Ffrontcover%2FI0c8DAAAQBAJ%3Ffife%3Dw300&cfs=1",
+    "id": "521085554595481_1003203873050311",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 30
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      30,
+      30,
+      0,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-24T14:35:08+0000",
+    "updated_time": "2016-05-24T15:21:39+0000",
+    "from": {
+      "name": "林佑安",
+      "id": "10152988954056715"
+    },
+    "link": "https://github.com/c9s/ts-webpack",
+    "name": "C9S 開源電台",
+    "description": "#TypeScript + #Webpack + #Babel ...\n\nhttps://github.com/c9s/ts-webpack \n\n克隆下來就可以直接用了.. 好了明天要換話題了 XD\n\n#電台友收割系列 #退出前線報導",
+    "id": "521085554595481_1002283573142341",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 21
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      24,
+      21,
+      2,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-05-26T11:20:24+0000",
+    "updated_time": "2016-05-26T11:22:17+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Addy Osmani 在上週 Google I/O 裡分享 Progressive Web Apps 的議程錄影\n裡頭有提到一些使用 service worker 的技術\n讓部份資源可以有更易管理的 cache\n在某些情況也能完成部份的 offline mode 需求\n對於在製作快速反應的 web app 是蠻值得嘗試的方案\n\nProgressive Web Apps across all frameworks - Google I/O 2016\nby Addy Osmani\nhttps://www.youtube.com/watch?v=srdKq0DckXQ\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/FrGgX0Oe2o",
+    "name": "Progressive Web Apps across all frameworks - Google I/O 2016",
+    "description": "Addy Osmani on Progressive Web Apps across all frameworks. Progressive Web Apps can be built using any JavaScript library or framework, whether it's React, A...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDcwYreNP5G_Gfx&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsrdKq0DckXQ%2Fmaxresdefault.jpg&cfs=1&sx=294&sy=0&sw=720&sh=720",
+    "id": "521085554595481_1003162736387758",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 13
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      24,
+      13,
+      2,
+      4
+    ]
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-05-22T11:37:48+0000",
+    "updated_time": "2016-05-22T11:37:48+0000",
+    "from": {
+      "name": "Amobiz Chen",
+      "id": "521238804693443"
+    },
+    "message": "http://martinfowler.com/articles/refactoring-video-store-js/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://martinfowler.com/articles/refactoring-video-store-js/",
+    "name": "Refactoring a javascript video store",
+    "description": "Implementing my 1999 video store refactoring example in Javascript, with four different ways to compose the small functions.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDOLGkYICsXYqpH&w=130&h=130&url=http%3A%2F%2Fmartinfowler.com%2Farticles%2Frefactoring-video-store-js%2Fvideo-js_card.png&cfs=1",
+    "id": "521085554595481_1001190853251613",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      22,
+      16,
+      0,
+      3
+    ]
+  },
+  {
+    "created_time": "2016-05-22T01:21:00+0000",
+    "updated_time": "2016-05-25T13:35:05+0000",
+    "from": {
+      "name": "Jimmy Chang",
+      "id": "989602024457651"
+    },
+    "message": "想請問一下，CodePen上有沒有什麼方法搜尋到很多follower的作者呢?\n 找了一下在介面上似乎沒看到這個功能\n\n目前瀏覽方式\n如果沒有特定需求\n都是從首頁的Picked Pens隨意瀏覽\n\n想找一些被許多人loved, forked or followed的好像就比較隨機\n(或是它的設計就是希望能讓每個作品\n都有更平均的機會被瀏覽到XD)",
+    "id": "521085554595481_1001003936603638",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      12.5,
+      2,
+      7,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-23T22:49:52+0000",
+    "updated_time": "2016-05-23T22:49:52+0000",
+    "from": {
+      "name": "Jane S.",
+      "id": "10100851001617895"
+    },
+    "message": "2016年AngelHack 終於要在台北舉辦囉！\n這次我們不但找到Women Who Code的CEO Alaina Percival 到現場擔任開幕嘉賓及評審，國際知名的dating app-Coffee Meets Bagel也會贊助賽後的Happy Hour. \n\n帶著你的駭客DNA 6月11-12日，跟一群有創意、熱血、瘋狂、愛挑戰的開發者、設計師、創業家參加全球性的駭客松！ 一起駭點子，駭團隊，駭態度，駭瘋狂的24小時馬拉松式把想法變真實，在台北把你的點子在24小時內跨領域的討論、嘗試、調整、精進、發表出來！\n\n最後替自己贏得代表台灣的機會，讓IDEA駭到世界去！\n\n無論你/妳是哪個領域，趕快報名，一起參與這場駭客盛宴！\n\n在現場，我們會根據每個人的角色組隊，讓你擁有跨界的資源，互相激盪與討論想法。\n之後每個團隊需要一起完成雛形，將想法利用程式 (無限制任何形式)呈現。最後站上舞台，與所有人分享。\n我們也將在AngelHack台北場選出一個團隊，代表台灣與其他城市至美國舊金山接受全球Demo Day!\n\n————\nAngelHack是目前全球最大的黑客松非營利組織。今年在六十個城市舉辦，各城市的第一名可以進入他們12周的加速計劃(Hackaccelerator)，與其他城市在計畫結束前遴選15隊到舊金山接受訓練參加全球Demo Day與天使投資人，創投公司見面募資。除此之外也有很多其他的獎項，一般報名及詳細內容請洽官網 (內容更新中) http://angelhack.com/angelhack-taipei-2016/\n\nGirls in Tech members can join the hackathon for FREE!\nGirls in Tech 與 AngelHack因為在四月底成為全球夥伴，Girls in Tech的會員 (女生限定)，可以免費入場 (現省參賽費每人$325)。\n\n請在以下網址註冊加入活動，我們會在活動開始前寄發確認信讓妳免費入場。http://www.wetogether.co/#/activity/1463017500956\n\nFacebook event page:\nhttps://m.facebook.com/events/800646443400149?acontext=%7B%22ref%22%3A5%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22main_list%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%7D&aref=5",
+    "icon": "https://www.facebook.com/images/icons/event.gif",
+    "link": "https://www.facebook.com/events/800646443400149/",
+    "name": "AngelHack Taipei 2016",
+    "description": "AngelHack is coming to Taipei!  \n\nAngelHack is the world's largest developer ecosystem, spanning over 60+ cities running hackathons and connecting communities of over 90,000+ developers & hackers. This year, we are bringing it to Taipei with supports from our sponsors- @[730189497078671:274:Taiwan Startup Stadium 台灣新創競技場]; @[1652919208291234:274:三創育成 - 新星火箭 Star Rocket]; @[760549017302070:274:Grycan Taiwan] and @[189485787800916:274:Coffee Meets Bagel]\n\nThe Grand Prize is an exclusive invite to AngelHack's HACKcelerator-\n*A 12-week Curriculum to turn your hackathon idea into a startup reality\n*A diverse network of both local and global mentors\n*Weekly guest speakers\n*A chance to fly to Silicon Valley for our Annual Global Demo Day and participate in a week of extensive pitch training!\n\nRegister Now: \nhttp://angelhack.com/angelhack-taipei-2016/\n\n\nAngelHack是目前全球最大的黑客松非營利組織。今年在六十個城市舉辦，各城市的第一名可以進入他們12周的加速計畫（Hackaccelerator)，與其他城市在計畫結束前遴選15隊到舊金山接受訓練參加全球Demo Day與天使投資人，創投公司見面募資。除此之外也有很多其他的獎項，詳細內容請洽官網（內容不斷更新中）http://angelhack.com/angelhack-taipei-2016/\n\nGirls in Tech members can join the hackathon for  FREE!\nGirls in Tech 與 AngelHack因為在四月底成為全球夥伴，Girls in Tech的會員（女生限定），可以免費入場（現省比賽參加費每人$325)。請在以下網址註冊加入活動，我們會在活動開始前寄發確認信讓妳免費入場。http://www.wetogether.co/#/activity/1463017500956\n\n\nRegister for your Free Pass:\nhttp://www.wetogether.co/#/activity/1463017500956\nThis is a registration link for Girls in Tech members to get free pass to attend AngelHack Taipei 2016. Once you are registered/joined, we'll send out an invitation email a few days before the hackathon. \n\nIf you have any questions, please contact taiwanchapter@girlsintech.org",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/c108.0.130.130/p130x130/13221097_480603555472041_5475111671337153131_n.jpg?oh=b446d8698720584380b761c5f9757066&oe=57D2CD77",
+    "id": "521085554595481_1001964689840896",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      12,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-23T02:40:05+0000",
+    "updated_time": "2016-05-23T02:40:05+0000",
+    "from": {
+      "name": "王宥傑",
+      "id": "1018817211464265"
+    },
+    "message": "由台灣joomla名師 Aj Lin 在騰訊總部進行演講 ，請各位前端人多多支持\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.huodongxing.com/event/9334500980800?from=timeline&isappinstalled=0",
+    "name": "国际开源社区带着世界来见你-Joomla Day China 2016",
+    "description": "\"IT,互联网,分享会,交流,社交\"活动\"国际开源社区带着世界来见你-Joomla Day China 2016\"开始结束时间、地址、活动地图、票价、票务说明、报名参加、主办方、照片、讨论、活动海报等",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDCfilDXtUdU8Bg&w=130&h=130&url=http%3A%2F%2Fwimg.huodongxing.com%2Flogo%2F201605%2F9334500980800%2F632332658961415_v2.jpg%40%21wmlogo&cfs=1",
+    "id": "521085554595481_1001521906551841",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      12,
+      12,
+      0,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-05-26T04:37:32+0000",
+    "updated_time": "2016-05-26T04:37:32+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "A robot have 160 followers, this is a fun human-computer interaction, and it is so cute.",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/facebook-github-bot",
+    "name": "facebook-github-bot (Facebook Community Bot)",
+    "description": "Follow facebook-github-bot on GitHub and watch them build beautiful projects.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDx187hj1CEqjoB&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F6422482%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1003062823064416",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      11,
+      9,
+      0,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-05-27T08:28:33+0000",
+    "updated_time": "2016-05-27T12:19:32+0000",
+    "from": {
+      "name": "Chino Lin",
+      "id": "259544791101837"
+    },
+    "message": "遇到一個問題 不知道有沒有人遇過\nRWD要搬移位置使用append及detach處理\n$(\".aaa\").append($(\".bbb\").detach());\n但是搬過去的資料裡面的有表單 \n在android手機測試時\n點輸入框input後馬上又離焦跳開(虛擬鍵盤立即消失)\n變成無法輸入的情況\nselect下拉選單倒是正常",
+    "id": "521085554595481_1003586276345404",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      7.5,
+      0,
+      5,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-05-27T01:58:37+0000",
+    "updated_time": "2016-05-27T13:34:44+0000",
+    "from": {
+      "name": "Healworld Wang",
+      "id": "1021548064571686"
+    },
+    "message": "大家好，小弟最近被這問題困擾好幾天都想不出解法，想請教各位大大~\n是這樣的，我想要串FB的信用卡付費，於是透過FB的https://developers.facebook.com/docs/games_payments/takingpayments這份文件串接，但每次我執行時總是出現應用程式無回應，錯誤代碼1383008的訊息，不過當我修改FBui.({ method: 'pay',  action: 'purchaseitem', product: 'url'})中product的網址(B產品的meta)卻可以順利執行，就算我的meta data改的跟B產品一樣也都沒有用，一旦用我的網址就會出現上面的失敗訊息，已確定我的網址是可以正常顯現的，且所有meta都跟B產品一樣，不知道各位覺得這可能會是甚麼原因呢?",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://developers.facebook.com/docs/games_payments/takingpayments這份文件串接，但每次我執行時總是出現應用程式無回應，錯誤代碼1383008的訊息，不過當我修改FBui.(%7B%20method:%20'pay',%20%20action:%20'purchaseitem',%20product:%20'url'%7D)中product的網址(B產品的meta)卻可以順利執行，就算我的meta",
+    "name": "Page Not Found - Facebook for Developers",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCP40LuCMs-6g3r&w=130&h=130&url=https%3A%2F%2Ffbstatic-a.akamaihd.net%2Frsrc.php%2Fv2%2Fyb%2Fr%2FnrpLiSINthw.png&cfs=1",
+    "id": "521085554595481_1003484199688945",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      7.5,
+      0,
+      5,
+      0
+    ]
+  }
+]
