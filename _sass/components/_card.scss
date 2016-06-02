@@ -28,11 +28,30 @@
 
 .Card__cover--link {
   overflow: hidden;
-  background: no-repeat 50% / cover;
+  background: #000 no-repeat 50% / cover;
+  background-blend-mode: screen;
 
   &:empty {
     padding-bottom: 40%;
     background: rgba(#efe, .5) url("https://avatars2.githubusercontent.com/u/8252114?s=240") no-repeat 50% / contain;
+  }
+
+  &:visited {
+    background-color: mix($c-white, $c-black, 50%);
+
+    .Card:hover & {
+      background-color: #000;
+    }
+  }
+}
+
+.Card__titleLink {
+  &:visited {
+    color: lighten(desaturate($c-link, 20%), 10%);
+
+    .Card:hover & {
+      color: $c-link;
+    }
   }
 }
 
