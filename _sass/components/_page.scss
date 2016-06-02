@@ -5,9 +5,5 @@
 
   a {
     @extend .td-dash;
-
-    &:visited {
-      color: mix($c-white, $c-black, 50%);
-    }
   }
 }
