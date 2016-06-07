@@ -1,0 +1,191 @@
+[
+  {
+    "order": "# 1",
+    "likes": "248",
+    "comments": "7",
+    "shares": "49",
+    "vote": 2,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "calcSum": 362.5,
+    "postId": "521085554595481_1002178373152861"
+  },
+  {
+    "order": "# 2",
+    "likes": "239",
+    "comments": "25",
+    "shares": "11",
+    "vote": 0,
+    "calcSum": 298.5,
+    "postId": "521085554595481_1002379173132781"
+  },
+  {
+    "order": "# 3",
+    "likes": "157",
+    "comments": "8",
+    "shares": "14",
+    "vote": 0,
+    "calcSum": 197,
+    "postId": "521085554595481_1003128689724496"
+  },
+  {
+    "order": "# 4",
+    "likes": "122",
+    "comments": "1",
+    "shares": "8",
+    "vote": 0,
+    "calcSum": 139.5,
+    "postId": "521085554595481_1001124846591547"
+  },
+  {
+    "order": "# 5",
+    "likes": "51",
+    "comments": "20",
+    "shares": "14",
+    "vote": 2,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "calcSum": 115,
+    "postId": "521085554595481_1002109983159700"
+  },
+  {
+    "order": "# 6",
+    "likes": "68",
+    "comments": "0",
+    "shares": "6",
+    "vote": 0,
+    "calcSum": 80,
+    "postId": "521085554595481_1004230506280981"
+  },
+  {
+    "order": "# 7",
+    "likes": "43",
+    "comments": "8",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 55,
+    "postId": "521085554595481_1003151273055571"
+  },
+  {
+    "order": "# 8",
+    "likes": "42",
+    "comments": "1",
+    "shares": "0",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 46.5,
+    "postId": "521085554595481_1002608616443170"
+  },
+  {
+    "order": "# 9",
+    "likes": "4",
+    "comments": "19",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 34.5,
+    "postId": "521085554595481_1003131183057580"
+  },
+  {
+    "order": "# 10",
+    "likes": "9",
+    "comments": "17",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 34.5,
+    "postId": "521085554595481_1002118709825494"
+  },
+  {
+    "order": "# 11",
+    "likes": "30",
+    "comments": "0",
+    "shares": "0",
+    "vote": -1,
+    "Rplus": "thinking_face",
+    "calcSum": 27,
+    "postId": "521085554595481_1003203873050311"
+  },
+  {
+    "order": "# 12",
+    "likes": "21",
+    "comments": "2",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 24,
+    "postId": "521085554595481_1002283573142341"
+  },
+  {
+    "order": "# 13",
+    "likes": "13",
+    "comments": "2",
+    "shares": "4",
+    "vote": 2,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "calcSum": 30,
+    "postId": "521085554595481_1003162736387758"
+  },
+  {
+    "order": "# 14",
+    "likes": "16",
+    "comments": "0",
+    "shares": "3",
+    "vote": 1,
+    "ryrocks": "+1",
+    "calcSum": 25,
+    "postId": "521085554595481_1001190853251613"
+  },
+  {
+    "order": "# 15",
+    "likes": "2",
+    "comments": "7",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 12.5,
+    "postId": "521085554595481_1001003936603638"
+  },
+  {
+    "order": "# 16",
+    "likes": "12",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 12,
+    "postId": "521085554595481_1001964689840896"
+  },
+  {
+    "order": "# 17",
+    "likes": "12",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 12,
+    "postId": "521085554595481_1001521906551841"
+  },
+  {
+    "order": "# 18",
+    "likes": "9",
+    "comments": "0",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 11,
+    "postId": "521085554595481_1003062823064416"
+  },
+  {
+    "order": "# 19",
+    "likes": "0",
+    "comments": "5",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 7.5,
+    "postId": "521085554595481_1003586276345404"
+  },
+  {
+    "order": "# 20",
+    "likes": "0",
+    "comments": "5",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 7.5,
+    "postId": "521085554595481_1003484199688945"
+  }
+]
