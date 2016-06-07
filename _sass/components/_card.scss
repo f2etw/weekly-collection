@@ -40,7 +40,7 @@
     background-color: mix($c-white, $c-black, 30%);
 
     .Card:hover & {
-      background-color: #000;
+      background-color: $c-black;
     }
   }
 }
