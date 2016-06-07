@@ -48,3 +48,9 @@ a {
 .ff-ss {
   font-family: sans-serif;
 }
+
+hr {
+  height: 1px;
+  border: none;
+  background-image: linear-gradient(to right, transparent, rgba($c-black, .3), transparent);
+}
