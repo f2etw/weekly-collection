@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-05-22",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/010/",
+    "title": "Collection #010",
+    "items": [
+      
+        {
+          "title": "程式員求生指南：關於寫程式的二三事",
+          "url": "https://tw.twincl.com/programming/*652e",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_1002178373152861",
+          "time": "2016-05-24T09:51:18+0000",
+          "intro": "Arthur Liao 再次分享個人軟體設計生涯的經驗，並列舉了程式開發者的職業特質與能力演進階段"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_1002379173132781",
+          "time": "2016-05-24T18:43:15+0000",
+          "intro": "Arthur Liao 承續前一篇的分享，接著談到前端程式碼在於後續維護與擴充開發上的困難與複雜"
+        }
+        ,
+        
+        {
+          "title": "[ACW 2016-07] JavaScript程式設計進階",
+          "url": "https://tw.twincl.com/~acw/*g652",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_1003128689724496",
+          "time": "2016-05-26T09:22:35+0000",
+          "intro": "由 Arthur Liao 開設的進階 JS 課程"
+        }
+        ,
+        
+        {
+          "title": "忍者：JavaScript開發技巧探秘",
+          "url": "http://24h.pchome.com.tw/books/prod/DJAA2V-A9006QFQV?q=%2FA%2F50528",
+          "sharer": "莊景隆",
+          "sharer-id": "10206419614477533",
+          "permalink": "https://fb.com/521085554595481_1001124846591547",
+          "time": "2016-05-22T08:01:19+0000",
+          "intro": "一本由 jQuery 作者 John Resig 所撰寫的《Secrets of the JavaScript Ninja 》中譯書輯 "
+        }
+        ,
+        
+        {
+          "title": "Debugging CSS – Ben Frain",
+          "url": "https://t.co/gLZSRpvEDe",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1002109983159700",
+          "time": "2016-05-24T06:34:26+0000",
+          "intro": "該文分享了作者本身 CSS 除錯的各階段思路，整個過程會涉及到經驗、試誤，以及搜尋等各種技巧，對於 CSS 維護者是篇值得瞭解的好文章"
+        }
+        ,
+        
+        {
+          "title": "新創產業導師聚會 | ALPHA Camp",
+          "url": "https://dojo.alphacamp.co/events/front-end-meeting",
+          "sharer": "Yang Li-Yi",
+          "sharer-id": "1172583412774235",
+          "permalink": "https://fb.com/521085554595481_1004230506280981",
+          "time": "2016-05-28T16:05:25+0000",
+          "intro": "一場在 ALPHA Camp 舉辦的 JS 交流分享會"
+        }
+        ,
+        
+        {
+          "title": "無限期支持 IE8",
+          "url": "https://www.facebook.com/ie8forever/",
+          "sharer": "吳逸文",
+          "sharer-id": "10152724942760718",
+          "permalink": "https://fb.com/521085554595481_1003151273055571",
+          "time": "2016-05-26T10:48:07+0000",
+          "intro": "一個 IE8 的嘲諷式粉絲專頁…"
+        }
+        ,
+        
+        {
+          "title": "小編幫你踩地雷系列: TypeScript 適合我嗎 | C9S 開源電台",
+          "url": "https://medium.com/@c9s/小編幫你踩地雷系列-typescript-適合我嗎-e15b5a0607d7#.u4ua8x5v6",
+          "sharer": "林佑安",
+          "sharer-id": "10152988954056715",
+          "permalink": "https://fb.com/521085554595481_1002608616443170",
+          "time": "2016-05-25T06:26:42+0000",
+          "intro": "c9s 分享 TypeScript 的使用經驗，文中除了有詳細的試驗步驟還有很多提醒，最後更佛心地分享專案模版 ts-webpack"
+        }
+        ,
+        
+        {
+          "title": "CodePen - Daily UI #004 - Calculator",
+          "url": "http://s.codepen.io/flymaple/debug/rLBJrR",
+          "sharer": "吳智楷",
+          "sharer-id": "1120326234652619",
+          "permalink": "https://fb.com/521085554595481_1003131183057580",
+          "time": "2016-05-26T09:32:58+0000",
+          "intro": "一篇 CSS 垂直置中的討論"
+        }
+        ,
+        
+        {
+          "title": "tedshd&amp;#x2F;img_object_fit",
+          "url": "https://github.com/tedshd/img_object_fit",
+          "sharer": "Chander Shiu",
+          "sharer-id": "690282577784734",
+          "permalink": "https://fb.com/521085554595481_1002118709825494",
+          "time": "2016-05-24T06:52:48+0000",
+          "intro": "Chander Shiu 以 CSS background-size 寫了支針對 img object-fit 需求的客製型 polyfill"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-05-15",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/009/",
