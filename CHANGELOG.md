@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.0] 2016-06-07
+### Added
+- Visited link(s) color / style
+
 ## [1.1.0] 2016-04-21
 ### Added
 - Search in-site
