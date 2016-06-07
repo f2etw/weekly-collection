@@ -36,8 +36,8 @@
     background: rgba(#efe, .5) url("https://avatars2.githubusercontent.com/u/8252114?s=240") no-repeat 50% / contain;
   }
 
-  &:visited {
     background-color: mix($c-white, $c-black, 50%);
+  &:not(:empty):visited {
 
     .Card:hover & {
       background-color: #000;
