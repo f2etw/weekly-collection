@@ -1,0 +1,716 @@
+[
+  {
+    "shares": {
+      "count": 72
+    },
+    "created_time": "2016-06-03T13:52:27+0000",
+    "updated_time": "2016-06-04T04:28:10+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "Real-time網站的新選擇～\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ithome.com.tw/news/95216",
+    "name": "顛覆傳統資料庫，強打主動推送更新的資料庫RethinkDB正式登場",
+    "description": "RethinkDB內建主動推送資料更新功能，給予多人協作或是串流等前後端資料更新密集的應用更好的支援。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC_BBntNJ4g6HLE&w=130&h=130&url=http%3A%2F%2Fstatic4.ithome.com.tw%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2F2015-04-14-2.0-release-banner.jpg&cfs=1",
+    "id": "521085554595481_1007199795984052",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 258
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      411,
+      258,
+      6,
+      72
+    ]
+  },
+  {
+    "shares": {
+      "count": 24
+    },
+    "created_time": "2016-05-31T09:18:16+0000",
+    "updated_time": "2016-06-03T03:18:11+0000",
+    "from": {
+      "name": "Derek Wang",
+      "id": "920437281311659"
+    },
+    "message": "如果你跟我一樣（倒楣）要用HTML5 CANVAS API跟AUDIO API開發一些在Android 與iOS 上執行的網頁遊戲／互動，我這正好有批好便宜（爆肝）的牛肉（地雷）...懇求您別來跟我聯絡 XD\nps.文略長，慢看，若有寫錯的也請指教。我的專案是用CreateJS 系列作為底層的Lib，若你用的是不同的就請自己想像，有些東西應該只有語法不同，但底層實作應該不會差太多。\n.\n觀念釐清：\n手持裝置上的瀏覽器，算是有三種，一種是出廠內建的Native Browser （幾乎等於另一種 - UIWebView），一種是使用者自行安裝的任意瀏覽器。\n在Android 上除非原廠支援作業系統版本升級，否則Native Browser （UIWebView）的核心不會更新。\n而在iOS 上由於偉大的蘋果公司仍提供各類產品持續的系統更新，因此一些上古等級的裝置到今日仍能支援（有地雷）各種新鮮的玩意兒。\n至於所謂的Native Browser （UIWebView）之於這兩大作業系統，iOS 上就是Safari，Android 則是所謂的Mobile Safari（有的也是寫Chrome）。\n在你碰到地雷要除錯前，請先搞清楚你的網頁遊戲是跑在前述的三個瀏覽器的哪一個上面，尤其你要知道若你的網頁遊戲是在APP 內被開啟時，它其實是用UIWebView 開啟，而且當下所持有的系統資源，可能低於Native Browser 直接開啟的狀態。\n.\n若是Android；\n1.在5.0 以下音效的API 請用Javascript New Audio。\n2.反之則請用Audio Tag 或document.createElement('AUDIO'); 搭配Ajax 預載聲音檔案。\n3.在5.0 以下＂可能會＂不允許複數音軌同時播放，音軌的管理切換請注意。（註1）\n4.在5.0 以下＂可能會＂只允許由使用者［直接觸發］的事件進行音軌播放。（註2）\n5.在5.0 以下呼叫Audio API 的函數請盡量放在Event Handler 內呼叫，且避免寫在任何setTimeout/setInterval 內或之後。\n.\n若是在iOS；\n1.建議檢查裝置是否有retina disply，沒有的或許需要降低畫面更新率（FPS/Interval），否則閃退機會不低。\n2.在9.0以下，8.0 以上，處理2208*1536 以上圖檔時請多檢查，CreateJS-EaselJS 的cache() 可能會導致影像遺失。\n.\nAndroid與iOS 兩者；\n1.建議偵測一下作業系統去微調一些FPS/Interval 的參數，原則上若是iOS 9.0 （有retina disply）以上Android 5.0 以上的兩台機器相比，前者效能較好。\n2.請善用Event Broadcasting 管理流程，除錯會簡單一點。\n3.避免開發在兩個系統平台上的載入後自動撥放音軌的效果，可能會做不到。\n4.與其追求記憶體釋放，不如謹慎的考慮如何讓CPU 每個瞬間能少作多少事情。\n5.當下用不到的東西，避免draw 到Canvas 內。無法避免的時候，在該物進入可視範圍前，可將alpha 設為0 或visible 設為false（以CreateJS 而言）。\n6.如果希望開發的痛苦不要太多，建議跟客戶切豬肉；設定版本相容條件為iOS 9.0 與Android 5.0 以上。\n.\n備註；\n註1：Asus PadFone Infinity / Android 4.1.2 允許間接觸發事件播放聲音，但一次只能撥一軌，預設狀態中後播的會讓前一個強制進入暫停狀態。\n註2：Acer Iconia One 8 / Android 4.4.2 只允許直接觸發事件播放聲音，但一次可撥複數個音軌。\n直接觸發事件 / 使用者直接碰觸畫面時產生的事件及其監聽（Click/Touch...）\n間接觸發事件 / 例如透過setInterval 移動的物件，在達成某個目標座標時if 內的陳述式\n.\n附錄；\n我專案的環境與條件：\n條件：iOS 8.0 以上，Android 4.3 以上。\n環境：網頁遊戲於APP 內的UIWebView開啟。\n.\n寫在最後，這些地雷只是我從四個月前到今天碰到的，不保證只有這些 Orz...",
+    "id": "521085554595481_1005575742813124",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 161
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      242,
+      161,
+      22,
+      24
+    ]
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-06-04T09:53:32+0000",
+    "updated_time": "2016-06-05T03:15:00+0000",
+    "from": {
+      "name": "羅拉拉",
+      "id": "971614109523530"
+    },
+    "message": "http://lauraluo.github.io/particleDemo/dist/\n看完three.js cookbook 之後，組合學到的東西\n順便確認自已真的有搞懂\n程式碼沒整理請無視\n向量的算法還不夠自然\n離操作流暢且美觀的動畫還有段距離\n如果有誰有興趣可以一起研究\n我本身沒有3D繪圖跟物理數學的背景\n所以光啃基本知識就佔了大部份的時間\n如果有組織肯收留就更好了",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://lauraluo.github.io/particleDemo/dist/",
+    "name": "WebGL 2D圖片轉粒子",
+    "description": "desc",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCwkL8_t3Q5EJh8&w=130&h=130&url=http%3A%2F%2Flauraluo.github.io%2FparticleDemo%2Fdist%2Fimages%2F2016-06-02_202130.jpg&cfs=1",
+    "id": "521085554595481_1007584999278865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 121
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      181.5,
+      121,
+      15,
+      19
+    ]
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-06-04T05:41:21+0000",
+    "updated_time": "2016-06-04T05:41:21+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "React 的 ajax 選擇～\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://andrewhfarmer.com/react-ajax-best-practices/",
+    "name": "React AJAX Best Practices",
+    "description": "Four good ways to use AJAX with React.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAV86GSVo0JvuhT&w=130&h=130&url=http%3A%2F%2Fandrewhfarmer.com%2Fimg%2F2016%2F02%2Fcontainer-components.png&cfs=1",
+    "id": "521085554595481_1007506492620049",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 135
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      177,
+      135,
+      0,
+      21
+    ]
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-05-31T13:59:23+0000",
+    "updated_time": "2016-06-02T04:31:49+0000",
+    "from": {
+      "name": "謝松庭",
+      "id": "1333075733373987"
+    },
+    "message": "求戰....不對  是求各位大大給小弟一點意見!!\n\n最近我工作經驗不是很好 我知道這八成是台灣的常態\n但是我想確認這是不是正常人可能達成的-.-\n甚至認為長期處在這種環境底下我會變成四不象..一事無成\n\n主要問題是在我的職責\n現在我要會 切圖 排版 瀏覽器相容 js動畫 跟\n串接自家人用php寫的 api 接金流等..相關的第三方 處理暫存 log紀錄 寫sql開發個小系統諸如 代辦清單 聊天室(web socket or long polling )\n甚至是解分散運算 多執行緒 演算法 手機原生瀏覽器...等的問題\n\n我覺得 是個 「正常」 的網頁開發人員\n都不太可能同時掌握上面這些東西吧?????????\n\n我指的掌握是 可以持續接受該領域的新資訊 並且從中過濾挑出\n對現在系統有用可以改進的東西 並帶回公司\n\n如同 本來可能是用 mvc + smarty 去處理每一個案件\n然後因為某個專案性質不同 如類似fb的聊天\n可以替公司引入改用 redis,nodejs 等...不同技術去因應需求\n\n或是 出現一個多國語系x多國版面的網站可以有相對應的解決方是 而不是把 一個語系對上一個版面 當成一個網站在維護\n\n我可以認同每一個網頁開發者都應該大致知道每一層架構的溝通方式 或是 大概原理...(不然你改的css 可能因為快取永遠都不會生效 然後我還不知道為什麼 甚至覺得只是ftp壞了?\n\n所以我想徵求各位大大跟我說 是不是我真的太廢材了???????\n\n我覺得我光追怎麼把css寫好 寫出架構 sass less scss..等然後挑一個該用的框架 ng,react,backbone...然後追追各種新的思想 跟ps出個首頁logo 配個色系 ..我就沒什麼時間睡覺了\n\n甚至我覺得 排切板 跟 美術設計本來就不太有辦法是同一個人\n\n怎麼有美國時間去看哪一種DB在斷電的時候 資料會損毀救不回\n哪些比較適合存放不重要的資料 寫入根讀取速度比較 之類的....-.-\n\n求大力的鞭....我是不是不適合當程序猿-.-\n\n另外非常感謝版上各位在我有發問時都很熱心回答!!\n我也從這邊吸收很多新知 雖然大多時候都還來不太及消化...",
+    "id": "521085554595481_1005688569468508",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 74
+      }
+    },
+    "power": [
+      175,
+      50,
+      74,
+      7
+    ]
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-05-30T15:15:02+0000",
+    "updated_time": "2016-05-31T08:06:54+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "嗨嗨~ 大家好，\n很高興今天終於能分享篇自己寫的文章 XD\n\n主題是網路檔案傳輸的耗時優化手法的理解方式\n文裡試著用「吃披薩」的行為來介紹「網站傳輸檔案的時間優化方式」~\n希望大家能多多指教與補充\n甘溫~ <( _ _ )>\n\n[POST] 生活化 response time\nhttps://github.com/Rplus/rplus.github.io/issues/34\nby Rplus 2016-05-30\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/WZidYIvi87",
+    "name": "[POST] 生活化 response time · Issue #34 · Rplus/rplus.github.io",
+    "description": "這篇要聊的主題是網路檔案傳輸的耗時， 以及如何用較生活化的方式來理解/記憶 通常， 網頁中傳輸檔案(assets) 若能讓使用者愈快拿到是愈好 就像肚子餓訂披薩當然會希望愈早吃到愈好 === 所以，接下來會用外送披薩來作比喻 === 披薩店：server 顧客：client 披薩：assets 使用者希望的是「等著吃披薩的時間要短」 那就得先來看看有哪些變因會影響「時間」...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBtbW9Mv5noXuwH&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1808835%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1005198792850819",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 122
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      156.5,
+      122,
+      7,
+      12
+    ]
+  },
+  {
+    "shares": {
+      "count": 26
+    },
+    "created_time": "2016-05-29T16:54:53+0000",
+    "updated_time": "2016-05-30T13:10:58+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "分享兩篇 free codecamp 上的前端導讀文章\n作者 Jonathan Z. White 在文中分享\n學習過程中覺得不錯的資源以及感想\n\n如果在初學階段有些迷茫，\n不妨好好閱讀一下這兩篇入門文章\n也跟著裡頭的 Experiment 實作加強認知~\n\n文章分兩部份\n[HTML & CSS] 介面 以及\n[Javascript] & frameworks\n\nFrom Zero to Front-end Hero (Part 1) — Free Code Camp\nby Jonathan Z. White 2016-05-17\nhttps://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02\n\nFrom Zero to Front-end Hero (Part 2) — Free Code Camp\nby Jonathan Z. White 2016-05-24\nhttps://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b\n\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/3xzIQ36NCo",
+    "name": "From Zero to Front-end Hero (Part 1) — Free Code Camp",
+    "description": "A complete guide to learning front-end developmentI remember when I first started learning front-end development. I encountered so many articles, and was s…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBKdkrUJ64ncuYj&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AvcUBRwST9B4bJcVCbailhw.png&cfs=1",
+    "id": "521085554595481_1004749552895743",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      138,
+      80,
+      4,
+      26
+    ]
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-06-02T12:19:47+0000",
+    "updated_time": "2016-06-02T14:07:11+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "這本書對Web前端測試自動化應該有幫助, 作者是Spotify軟體開發顧問\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/portfolio/the-way-of-the-web-tester/",
+    "name": "The Way of the Web Tester",
+    "description": "Automate Your Tests, Reduce Bugs, Increase Quality 本書為需…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBMe3aC-ETpM5qX&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F05%2Fjrtest.jpg%3Fw%3D1000&cfs=1",
+    "id": "521085554595481_1006661569371208",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      84,
+      60,
+      0,
+      12
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-02T05:48:32+0000",
+    "updated_time": "2016-06-03T00:46:34+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "大家好，來詢問一個問題，想知道做法有哪幾種^^\n\n現在有一個 DOM 加上 .anim 的時候會進行向右滑動的動畫，\n\n第二步驟想要他向左滑回去，我會加上 .anim-reverse，讓他在跑一次反向的動畫，\n\n但是這樣我要寫兩個 @keyframes，並且用到兩個 class，\n\n請問有其他的作法嗎? 因為我的 animition 沒有很熟練，但是覺得應該有其他方法。\n\n第二個 class 加上去以後，我還要用到 setTimeout 把兩個 class remove 掉，感覺很蠢。\n\n附上 codepen.io 範例~\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/flymaple/pen/zBxMXx",
+    "name": "Daily UI #011 - Flash Message",
+    "description": "...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAHvZ1T9JLHJbJD&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fflymaple%2Fpen%2FzBxMXx%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1006537706050261",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 45
+      }
+    },
+    "power": [
+      77.5,
+      6,
+      45,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-01T03:14:53+0000",
+    "updated_time": "2016-06-01T17:35:37+0000",
+    "from": {
+      "name": "連韋翔",
+      "id": "10204602425940798"
+    },
+    "message": "大家好，小弟的朋友最近在工作上遇到瓶頸，有一些問題想要請教大家，但又不想被老闆看到，所以請我代 PO 文。希望能夠得到大家的建議，謝謝。\n\n最近在工作上遇到一些覺得不合邏輯，但又好像正常的事情，想請教一下版上大大。\n我認為接案流程應該為 業務跟客戶討論需求 -> 業務討論完後跟ＲＤ討論wireframe -> 設計根據wireframe設計版面 -> 跟客戶確認設計以及流程 -> 執行程式。\n中間流程可能可以稍微變動。\n但是現在公司流程是，業務接了案子，需求不明，要求設計出圖，設計憑空出圖後，接著同時進入 程式以及客戶確認，客戶要求修改畫面，功能，變更需求，回來重出設計，程式修改（這修改常常做白工，或是為了保留某部分功能，反而比砍掉重練還麻煩）然後一直loop ， 而且不會限制客戶修改次數以及內容。  目前覺得這樣的流程有點問題，去跟上面的人反應討論。 卻只表示「這時程很趕，只好如此。 你去別間公司也都是這樣。」\n\n業界公司真的都是這樣嗎？我自己私下跟別人接案，都會把需求確認完，訂契約限制修改次數...等等\n而且我認為因為很趕的專案，才需要確認完在執行啊...\n還是該逃了？",
+    "id": "521085554595481_1005977119439653",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 34
+      }
+    },
+    "power": [
+      75,
+      16,
+      34,
+      4
+    ]
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-06-01T04:36:09+0000",
+    "updated_time": "2016-06-01T04:36:09+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "工作用到的程式，整裡了一下和大家分享。 之後會再分享如何canvg用render png、用jspdf輸出pdf，以及如何用jszip包成zip，並用FileSaver.js將zip存下來的一些程式範例。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://jsgao0.wordpress.com/2016/06/01/export-svg-file-using-xmlserializer/",
+    "name": "Export SVG file using XMLSerializer",
+    "description": "Scenario I was considering how I can export SVG as a file using client JavaScript. The way I found on the Internet uses XMLSerializer and create a element for download. Let’s see how it goes.…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC1joXCJuS-0SlN&w=130&h=130&url=https%3A%2F%2Fjsgao0.files.wordpress.com%2F2016%2F06%2F2016-06-01_095625.png&cfs=1",
+    "id": "521085554595481_1005995236104508",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 48
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      54,
+      48,
+      0,
+      3
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-03T07:17:47+0000",
+    "updated_time": "2016-06-04T10:01:18+0000",
+    "from": {
+      "name": "黃昭儒",
+      "id": "10208031209446646"
+    },
+    "message": "[bug report] 出貨訊息 modal z-index\n\n之前有反應給客服，但卻收到罐頭回覆\n希望社團內的博客來FE可以領一下這張 ticket\n\nhttp://i.giphy.com/3oEjI6EniuL18Nvq36.gif\n\n*罐頭回覆*\n> 感謝您的來函，很抱歉由於您提供的資料不足，故無法為您查詢，還煩請您再進一步詳述您欲反映的事宜，以利博客來為您服務，對此造成您的不便及困擾，尚請您海涵見諒。並期盼您未來能繼續支持我們，謝謝您。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://i.giphy.com/3oEjI6EniuL18Nvq36.gif",
+    "name": "i.giphy.com",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCTX3mcijH_-LF3&url=http%3A%2F%2Fi.giphy.com%2F3oEjI6EniuL18Nvq36.gif",
+    "id": "521085554595481_1007051955998836",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 33
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      50,
+      33,
+      10,
+      1
+    ]
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-06-03T05:38:11+0000",
+    "updated_time": "2016-06-03T05:38:11+0000",
+    "from": {
+      "name": "Kay Lin",
+      "id": "10200592026559687"
+    },
+    "message": "google新出針對手機網站為主的測試站。不過有不少人批評還不是很準確就是了。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://testmysite.thinkwithgoogle.com/",
+    "name": "Mobile Website Speed Testing Tool - Google",
+    "description": "I just got my website’s mobile-friendliness score. #TestYourSite to see how mobile visitors experience your website.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBclA8CcaY-xqYL&w=130&h=130&url=https%3A%2F%2Ftestmysite.thinkwithgoogle.com%2Fstatic%2Fassets%2Ftestmysite.jpg&cfs=1",
+    "id": "521085554595481_1007019946002037",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 36
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      50,
+      36,
+      0,
+      7
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-02T12:40:08+0000",
+    "updated_time": "2016-06-03T03:50:33+0000",
+    "from": {
+      "name": "BoHan Chen",
+      "id": "985307838149083"
+    },
+    "message": "不好意思想請問這個網頁的呈現該如何實現，記得之前有高手們分享過但是沒有筆記下來，很不好意思，還請指點\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.serioverify.com/",
+    "name": "Serio Verify",
+    "description": "Integrate traffic sources, apply state of the art data cleansing algorithms, and automate manual processes. Serio Verify creates measurable and improved ROI on all your lead-to-call center activities.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD4eJBirV9W_snJ&w=130&h=130&url=http%3A%2F%2Fwww.serioverify.com%2Fimages%2Fshare.jpg&cfs=1",
+    "id": "521085554595481_1006669389370426",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      49.5,
+      16,
+      9,
+      10
+    ]
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-06-03T05:00:17+0000",
+    "updated_time": "2016-06-03T05:00:17+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "關於React生態圈\nhttp://airjd.com/view/iow64jnc000zrpj\n\n演講影片：\nhttp://www.infoq.com/cn/presentations/explore-react-ecosystem\n\n大家有人使用過GraphQL了嗎？跟PHP的結合如何？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://airjd.com/view/iow64jnc000zrpj#1",
+    "name": "探索React生态圈 by 郭达峰@Strikingly - AirJD 焦点",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDi_RWsAwJTW25B&w=130&h=130&url=http%3A%2F%2Fsc1.airjd.com%2Fupload%2Fthumb%2Fbu%2F31%2Finv11d4i000bu31.jpg&cfs=1",
+    "id": "521085554595481_1007010549336310",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      48,
+      34,
+      0,
+      7
+    ]
+  },
+  {
+    "created_time": "2016-06-01T16:23:31+0000",
+    "updated_time": "2016-06-02T12:20:43+0000",
+    "from": {
+      "name": "吳逸文",
+      "id": "10152724942760718"
+    },
+    "message": "請教一個 sublime text 3 theme 的改造問題...\n我要如何把這個 tab_label 跟右邊的叉叉對齊呢？",
+    "id": "521085554595481_1006246452746053",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      40.5,
+      15,
+      17,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-04T08:29:09+0000",
+    "updated_time": "2016-06-04T09:14:51+0000",
+    "from": {
+      "name": "Mickey Chen",
+      "id": "129663824037099"
+    },
+    "message": "使用Blender + SpriteSpin\n簡單的互動，感覺舒服就好~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://i.imgur.com/iRwwPw6.gifv",
+    "name": "i.imgur.com",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQChdAtFBp_s3Fom&url=https%3A%2F%2Fi.imgur.com%2FiRwwPw6.gif%3Fnoredirect",
+    "id": "521085554595481_1007554745948557",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      33,
+      22,
+      2,
+      4
+    ]
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-05-31T10:59:42+0000",
+    "updated_time": "2016-05-31T10:59:42+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "一位印鈔機品質顧問朋友，想要用d3.js做一個類似heat map的圖，用來做品質觀測。 因此做了一個template給這位朋友參考用法，分享給大家。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://jsgao0.wordpress.com/2016/05/31/quality-map-using-d3-js/",
+    "name": "Quality Map using D3.js",
+    "description": "Scenario Draw a heat-map-like graphic using D3.js and bind click-event on radios using jQuery. This followings are the features. A dropdown list to switch in several years (2014, 2015, 2016). Each …",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBBXkDoiaxiY_Yp&w=130&h=130&url=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2Ff69527529f32ea25b1ba2b9354323236%3Fs%3D200%26ts%3D1464683827&cfs=1",
+    "id": "521085554595481_1005608332809865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 21
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      31,
+      21,
+      0,
+      5
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-01T13:41:02+0000",
+    "updated_time": "2016-06-02T03:57:19+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "剛才看到一篇Mashable報導，Facebook的產品設計主管宣稱「打造網站」這門生意已經開始走下坡路了。這件事情若成真，對前端開發者可不是個好消息呀...",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/internet/*662t",
+    "name": "Facebook's director of product design on why websites may be a dying business",
+    "description": "Facebook的產品設計主管在接受Mashable記者採訪時，大膽宣稱「打造網站」這門生意已經開始走下坡路了。他說平台才是未來的主流，例如Facebook這樣的平台。Mashable記者問...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBBA7gGvhgnuZoB&w=130&h=130&url=https%3A%2F%2Ftw.twincl.com%2Fassets%2Fimg%2Flogo-s.631.png&cfs=1",
+    "id": "521085554595481_1006186072752091",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      27,
+      20,
+      2,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-06-03T06:41:55+0000",
+    "updated_time": "2016-06-03T06:41:55+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "倒數第二彈，昨天分享export PNG，今天來分享如何利用jspdf來export PDF。 明天再來分享如何使用jszip。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://jsgao0.wordpress.com/2016/06/03/export-svg-as-pdf-using-canvg-js-canvas-and-jspdf/",
+    "name": "Export SVG as PDF using canvg.js, Canvas, and jspdf",
+    "description": "Scenario Why I have to export as PDF is that the laser printer is used by the factory doesn’t support PNG and SVG. We just need to import  jspdf  after we’ve done exporting SVG as PNG. …",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBIe7HY8rItUgJR&w=130&h=130&url=https%3A%2F%2Fjsgao0.files.wordpress.com%2F2016%2F06%2F2016-06-03_114927.png&cfs=1",
+    "id": "521085554595481_1007042865999745",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      23,
+      17,
+      0,
+      3
+    ]
+  }
+]
