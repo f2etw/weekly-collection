@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-05-29",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/011/",
+    "title": "Collection #011",
+    "items": [
+      
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Derek Wang",
+          "sharer-id": "920437281311659",
+          "permalink": "https://fb.com/521085554595481_1005575742813124",
+          "time": "2016-05-31T09:18:16+0000",
+          "intro": "Derek Wang 分享他在開發 mobile Canvas, Audio API 上遇到的各種坑"
+        }
+        ,
+        
+        {
+          "title": "WebGL 2D圖片轉粒子",
+          "url": "http://lauraluo.github.io/particleDemo/dist/",
+          "sharer": "羅拉拉",
+          "sharer-id": "971614109523530",
+          "permalink": "https://fb.com/521085554595481_1007584999278865",
+          "time": "2016-06-04T09:53:32+0000",
+          "intro": "羅拉拉分享學習 three.js 的 3D 練習作品"
+        }
+        ,
+        
+        {
+          "title": "React AJAX Best Practices",
+          "url": "http://andrewhfarmer.com/react-ajax-best-practices/",
+          "sharer": "Ruby Chen",
+          "sharer-id": "1156602471017725",
+          "permalink": "https://fb.com/521085554595481_1007506492620049",
+          "time": "2016-06-04T05:41:21+0000",
+          "intro": "一篇關於 React AJAX 的推薦作法。文中介紹了四種方式，各自對應到不同的適用情境"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "謝松庭",
+          "sharer-id": "1333075733373987",
+          "permalink": "https://fb.com/521085554595481_1005688569468508",
+          "time": "2016-05-31T13:59:23+0000",
+          "intro": "一則關於前端工作職責範圍的熱烈討論串"
+        }
+        ,
+        
+        {
+          "title": "[POST] 生活化 response time · Issue #34 · Rplus&amp;#x2F;rplus.github.io",
+          "url": "https://t.co/WZidYIvi87",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1005198792850819",
+          "time": "2016-05-30T15:15:02+0000",
+          "intro": "Rplus Chen 以「吃披薩」的比喻，來簡介網路中檔案傳輸速度的基本優化方針。以生活化的聯想法來加強理解"
+        }
+        ,
+        
+        {
+          "title": "From Zero to Front-end Hero (Part 1) — Free Code Camp",
+          "url": "https://t.co/3xzIQ36NCo",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1004749552895743",
+          "time": "2016-05-29T16:54:53+0000",
+          "intro": "兩篇導讀文章中分別針對 HTML/CSS、JS 兩部份來分享作者學習過程中的摘錄，並且附有實作步驟來加強學習吸收。(中譯文在推文裡)"
+        }
+        ,
+        
+        {
+          "title": "The Way of the Web Tester",
+          "url": "https://softnshare.wordpress.com/portfolio/the-way-of-the-web-tester/",
+          "sharer": "MaoYang Chien",
+          "sharer-id": "10153285570810982",
+          "permalink": "https://fb.com/521085554595481_1006661569371208",
+          "time": "2016-06-02T12:19:47+0000",
+          "intro": "Spotify 開發團隊成員針對前端測試所撰寫的書籍"
+        }
+        ,
+        
+        {
+          "title": "Daily UI #011 - Flash Message",
+          "url": "http://codepen.io/flymaple/pen/zBxMXx",
+          "sharer": "吳智楷",
+          "sharer-id": "1120326234652619",
+          "permalink": "https://fb.com/521085554595481_1006537706050261",
+          "time": "2016-06-02T05:48:32+0000",
+          "intro": "一則關於 CSS animation 位置寫法的討論串，"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "連韋翔",
+          "sharer-id": "10204602425940798",
+          "permalink": "https://fb.com/521085554595481_1005977119439653",
+          "time": "2016-06-01T03:14:53+0000",
+          "intro": "一則關於網站開發工作流程的討論串。主要在於需求未明、做白工的問題"
+        }
+        ,
+        
+        {
+          "title": "Mobile Website Speed Testing Tool - Google",
+          "url": "https://testmysite.thinkwithgoogle.com/",
+          "sharer": "Kay Lin",
+          "sharer-id": "10200592026559687",
+          "permalink": "https://fb.com/521085554595481_1007019946002037",
+          "time": "2016-06-03T05:38:11+0000",
+          "intro": "Think with Google 新推出的一款 mobile-friendly 測試頁。可測試後將報表 email 留存"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-05-22",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/010/",
