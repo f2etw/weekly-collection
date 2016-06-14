@@ -98,6 +98,10 @@ javascript: (function () {
 
   window.sumTable = sumTable;
 
-  console.table(sumTable);
-  console.log('copy(sumTable)');
+  window.top10 = sumTable.sort((a, b) => {
+    return b.calcSum - a.calcSum;
+  });
+
+  console.table(window.top10);
+  console.log('copy(top10)');
 })();
