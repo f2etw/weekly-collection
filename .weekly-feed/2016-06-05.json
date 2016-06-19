@@ -1,0 +1,649 @@
+[
+  {
+    "shares": {
+      "count": 36
+    },
+    "created_time": "2016-06-06T01:51:43+0000",
+    "updated_time": "2016-06-07T03:51:03+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "分享一個無聊靈機一動的小作！\n大家應該都有打開 Facebook 網頁的 Console 介面吧，記得以前有討論過，不過這個是我自己實作的，所以分享一下！\n\n沒錯，就是來畫 Console，利用 console.log 印出字串，再利用 css 修飾一下，QR Code 的黑、白點則是使用 JavaScript 二維陣列來表示！\n\n有興趣的話可以參考一下喲！要用的話，幫我按個 GitHub 星星後就拿去用吧！哈哈哈哈哈\n\nhttp://works.ioa.tw/browser_console_qrcode/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://comdan66.github.io/browser_console_qrcode/",
+    "name": "在 Console 畫 QR Code！",
+    "description": "來用瀏覽器除錯器畫一個屬於個人的彩蛋吧！使用瀏覽器Console.log的功能，再利用CSS語法調整樣式，製作有趣的個人彩蛋，本次使用QRCode當作實作範例，大家也可以改成自己的喲！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA4kIHbh4Tcrapk&w=130&h=130&url=http%3A%2F%2Fcomdan66.github.io%2Fbrowser_console_qrcode%2Fimg%2Fog.jpg&cfs=1",
+    "id": "521085554595481_1008440282526670",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 242
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      324.5,
+      242,
+      7,
+      36
+    ]
+  },
+  {
+    "shares": {
+      "count": 12
+    },
+    "created_time": "2016-06-06T23:19:32+0000",
+    "updated_time": "2016-06-10T07:17:01+0000",
+    "from": {
+      "name": "Jasper Sky",
+      "id": "1538047563103756"
+    },
+    "message": "Enjoy good ☕ and your work in Taipei!  Version 2 is coming soon! \nPlease share it",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://voice.focusasia.xyz/best-coffee-shops-to-work-from-in-taipei-a6fa8ab76096",
+    "name": "Best cafés to work from in Taipei ☕ +  — Focus Asia",
+    "description": "Through my search to find the best places to work remotely, I have visited over 120+ cafés in Taipei alone. Reason? I am software engineer…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBqH7KqJBWPLRLX&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AwmxILNWqnXY0gH20IIHCJg.jpeg&cfs=1",
+    "id": "521085554595481_1008874929149872",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 174
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 20
+      }
+    },
+    "power": [
+      228,
+      174,
+      20,
+      12
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-08T14:59:31+0000",
+    "updated_time": "2016-06-11T13:29:03+0000",
+    "from": {
+      "name": "Chihkai Jan",
+      "id": "10205439277633788"
+    },
+    "message": "大家好～～\n剛剛朋友來問我說\n他想挑一本javascript的書給他家教的國一學生\n這位學生陸陸續續有再往程式方面發展\n但是因為自己沒電腦\n所以平常都是自己跟朋友借電腦寫一寫存下來\n所以雖然學了一年\n但是感覺應該還是一知半解\n問他學什麼語言也不知道\n所以我們決定買本javascript的書給他好好學\n選javascript的原因是\n我認為寫起來比較容易有成就感\n不像java c++剛開始都在醜醜的printout\n學一學就可以在網頁上呈現\n應該讓學生更有動力\n但是又牽扯到會不會html 和 css的問題\n所以想問一下各位高手～\n\n1. 單學javascript會不會有什麼能力養成不連貫的問題\n2. 想各位可以推薦一下適合國一生的javascript的書\n\n謝謝大家～～",
+    "id": "521085554595481_1009783135725718",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 73
+      }
+    },
+    "power": [
+      128.5,
+      15,
+      73,
+      2
+    ]
+  },
+  {
+    "created_time": "2016-06-09T08:59:48+0000",
+    "updated_time": "2016-06-10T11:07:13+0000",
+    "from": {
+      "name": "黃保翕",
+      "id": "10206611907686693"
+    },
+    "message": "好玩的 HTML5 遊戲，老少皆宜喔！ :)",
+    "link": "http://bit.ly/1U8zct9",
+    "name": "Will 保哥的技術交流中心",
+    "description": "這裡有 10 個有趣的瀏覽器遊戲，可以讓大家透過遊戲闖關的過程學習 Web 開發與程式設計，從簡單到困難都有，有些也很適合給小朋友玩喔，可以訓練邏輯思考能力，還蠻不賴的喔！ (y)",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQACdB_rgXdfGIfC&w=130&h=130&url=http%3A%2F%2Fcdn.tutorialzine.com%2Fwp-content%2Fuploads%2F2016%2F05%2F10-fun-browser-games.jpg&cfs=1",
+    "id": "521085554595481_1010191232351575",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 106
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      107.5,
+      106,
+      1,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-06-07T13:53:09+0000",
+    "updated_time": "2016-06-08T17:01:40+0000",
+    "from": {
+      "name": "Chien Jung Li",
+      "id": "740132742773496"
+    },
+    "message": "Hi，大家好～  小弟內心有個疑問，不解開的話，內心就一直被困擾著。\n\n這個問題就是：「大部分的人寫 JavaScript 是不是都改用 ES6 了？」\n　\n不知道怎麼一回事，我一直覺得我很難從 ES5 的習慣跨過去啊!!!! (心理素質太差了....)",
+    "id": "521085554595481_1009163959120969",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 33
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 41
+      }
+    },
+    "power": [
+      100.5,
+      33,
+      41,
+      3
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-10T15:45:45+0000",
+    "updated_time": "2016-06-11T02:30:43+0000",
+    "from": {
+      "name": "王瑀軒",
+      "id": "1073516712723254"
+    },
+    "message": "學習新技能的時候，常會有鬼打牆的狀況，摸了半天還是上不了手。\n\n如果你也被這個問題困擾著，推薦一個6/15晚上的好活動給你。這次的活動不是技術課程、也不是軟體操作，是由資深前端工程師Amos大大分享個人的前端自學經驗，特別適合正在學習新技能碰到瓶頸的朋友。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://hyperurl.co/club2",
+    "name": "如何建構前端工程師技能樹",
+    "description": "做為一個前端工程師，你是不是經常也有以下困擾.. 到底有哪些技能是必學的？ 這麼多技能我又該從哪何開始學起？ 又有哪些管道可以讓我學習各類技能？",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCEIX_6f5aVTNpR&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F51256%2Fkktix__original.jpg&cfs=1",
+    "id": "521085554595481_1010947825609249",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 75
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      98,
+      75,
+      2,
+      10
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-07T01:59:10+0000",
+    "updated_time": "2016-06-07T10:01:31+0000",
+    "from": {
+      "name": "江啾啾",
+      "id": "10153272635483540"
+    },
+    "message": "[分享]Can I use 出了slack版，查詢上感覺更方便了~~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.caniuse-bot.com/",
+    "name": "Can I use? bot",
+    "description": "You can check browser support on your slack without visiting caniuse website.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA9-_HLW2t3R0FY&w=130&h=130&url=http%3A%2F%2Fwww.caniuse-bot.com%2Fassets%2Fimages%2FIcon.png&cfs=1",
+    "id": "521085554595481_1008931832477515",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 65
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      89.5,
+      65,
+      3,
+      10
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-05T13:49:44+0000",
+    "updated_time": "2016-06-06T18:31:12+0000",
+    "from": {
+      "name": "林建良",
+      "id": "829622337134938"
+    },
+    "message": "想請教各位前輩們要如何才能看的懂寫的很長很複雜的JS呢?",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=982330045197499&set=gm.1008133382557360&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13315465_982330045197499_8550483442446601927_n.jpg?oh=3577cca27b2a7552f7ddd5afff48fc16&oe=57CF21B0",
+    "id": "521085554595481_1008133382557360",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 25
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 33
+      }
+    },
+    "power": [
+      78.5,
+      25,
+      33,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-06-08T06:45:53+0000",
+    "updated_time": "2016-06-09T04:35:06+0000",
+    "from": {
+      "name": "Wesley Hwang",
+      "id": "10200245721942111"
+    },
+    "message": "最近發現一個css的屬性，不曉得版上的大大有沒有使用過。\n\nhttps://css-tricks.com/almanac/properties/t/text-rendering/\n\n我發現使用 text-rendering: geometricPrecision ，在retina畫面的中文的微軟正黑體會變的清淅許多?\n\n有大大研究嗎?",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://css-tricks.com/almanac/properties/t/text-rendering/",
+    "name": "text-rendering | CSS-Tricks",
+    "description": "The text-rendering property in CSS allows you to choose quality of text over speed (or vice versa) allowing you to fine tune optimization by suggesting to",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBwzEsYiOViaXKY&w=130&h=130&url=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fbetter-kern.png&cfs=1",
+    "id": "521085554595481_1009619755742056",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      72,
+      54,
+      4,
+      6
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-11T10:59:26+0000",
+    "updated_time": "2016-06-13T03:29:42+0000",
+    "from": {
+      "name": "Ruby Chen",
+      "id": "1156602471017725"
+    },
+    "message": "目前Unit Test Tool最普遍的應該是mocha 和 jasmine, 但assertion library和 task runner 要另外掛載總是多出很多不必要的麻煩～\nTape是個不錯的新選擇喔 :)\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.wmze604w0",
+    "name": "Why I use Tape Instead of Mocha & So Should You — JavaScript Scene",
+    "description": "Measuring Software Quality",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTvNJLMwOw1uYF&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2Ad7mHlwL1eQ4n9ZZJzlF0HA.jpeg&cfs=1",
+    "id": "521085554595481_1011379835566048",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 38
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      50.5,
+      38,
+      3,
+      4
+    ]
+  },
+  {
+    "created_time": "2016-06-07T04:55:50+0000",
+    "updated_time": "2016-06-07T14:03:06+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "寫網頁寫這麼久了，應該有遇過需要上下邊界條件選擇範圍的表單需求吧？\n正在跑跑跑的新 HTML 標準(WHATWG Living Standard, W3C HTML 5.1)奇妙新世界裡就有個 multiple 屬性想要規劃這一個有趣的功能\n\nLea Verou 女神實作出了有上下邊界兩值 input:range 的 polyfill\n她在目前瀏覽器上使用了非常新潮的 CSS variables 的 CSS 漸層背景圖來製作出 slider 樣式\n( 兩個 input 的定位方式是感覺有點奇妙吧 XD\n\n而 JS 處理了 cloneNode (因為要兩個可拖拉的 bar & 上下限)\ndefineProperty 部份我就看得不是很懂了\n再請哪位熱心朋友來解惑好了 XDD\n\n---\n\nIntroducing Multirange: A tiny polyfill for HTML5.1 two-handle sliders\nhttp://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/\nby Lea Verou 2016-05-31\n#f2etw",
+    "id": "521085554595481_1008984802472218",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      50.5,
+      34,
+      11,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-07T03:09:05+0000",
+    "updated_time": "2016-06-07T08:35:09+0000",
+    "from": {
+      "name": "Calvin Da",
+      "id": "10205932226278835"
+    },
+    "message": "有個問題我一直Google不到答案，想請教各位前輩\n原生CSS的 @import url 跟 SCSS 的@import 主要的差別在那兒？\n\n之前想跟同事提倡SCSS的優勢，我提出了@import的好處\n結果他說原生的CSS也可以做到阿！\n哈哈.... 所以想了解一下其中有沒有差異。",
+    "id": "521085554595481_1008955182475180",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 26
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      42,
+      26,
+      8,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-09T04:19:00+0000",
+    "updated_time": "2016-06-09T04:19:00+0000",
+    "from": {
+      "name": "劉晏成",
+      "id": "1048709845148008"
+    },
+    "message": "最近把前幾個月幫公司簡單做的「向上跑的跑馬燈」(Marquee)作成React Component\n基本上沒太複雜的技術成分，現代網頁好像也不太常出現跑馬燈了XD\n不過總之有需要的可以瞧瞧\n\ngithub repository:\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/WendellLiu/react-upward-marquee",
+    "name": "WendellLiu/react-upward-marquee",
+    "description": "Contribute to react-upward-marquee development by creating an account on GitHub.",
+    "id": "521085554595481_1010089319028433",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 29
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      33,
+      29,
+      0,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-08T06:50:40+0000",
+    "updated_time": "2016-06-08T13:21:56+0000",
+    "from": {
+      "name": "Derek Wang",
+      "id": "920437281311659"
+    },
+    "message": "來請問一個關於JS 中Object 的問題,是否寫法會影響到效能?\n假設我有個函數需要一個Object 當作設定檔,A與B 哪個的效能會比較好?\n我自己稍微偏好A的寫法,有時候要編一些資料進去,這個寫法會單純一點.\nA.寫法\nvar ok = {};\nok.title = {};\nok.title.text = 'AAA';\nok.runs = [];\nok.runs.push(1200);\n...以此類推,能多複雜有多複雜...\nB.寫法\nvar ok = {\ntitle:{text:'AAA'},\nruns:[1200]\n};\n...以此類推,能多複雜有多複雜...\nfinal(ok);//完成",
+    "id": "521085554595481_1009620892408609",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      19.5,
+      4,
+      9,
+      1
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-06T09:51:26+0000",
+    "updated_time": "2016-06-07T03:53:09+0000",
+    "from": {
+      "name": "陳宇銘",
+      "id": "10153248775628684"
+    },
+    "message": "來問問，如果我想找前端幫忙，用丟案或是兼職的方式合作，要去哪邊找人呢???",
+    "id": "521085554595481_1008608842509814",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      18.5,
+      15,
+      1,
+      1
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-05T12:00:01+0000",
+    "updated_time": "2016-06-05T14:34:51+0000",
+    "from": {
+      "name": "林建良",
+      "id": "829622337134938"
+    },
+    "message": "前輩們請教一下若是把A網站的內容複製直接貼到自己的文本輸入框(textarea)裡要如何可以像他一樣直接顯示出圖片??",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=982272161869954&set=gm.1008091462561552&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13327586_982272161869954_7800856337580350716_n.jpg?oh=161f5cc6e168931e2acadc4558fa62f2&oe=57E7EAC2",
+    "id": "521085554595481_1008091462561552",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      11.5,
+      2,
+      5,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-06-10T12:37:42+0000",
+    "updated_time": "2016-06-11T11:02:11+0000",
+    "from": {
+      "name": "Ray Chang",
+      "id": "10153319896354427"
+    },
+    "message": "各位好！\n\n想請教各位有關 gulp-inject 的問題\n目前 gulp-inject 會自動將我的 bower 內的相依套件自動注入到我的 html 裡\n有沒有辦法可以設定可以個別注入？\n\n例如 有兩個 html 檔案，分別是 A.html 與 B.html\n然後 bower_components 內有兩個套件，假設分別是 A.css & B.css\n\n而我希望 A.css 自動注入到 A.html，B.css 則注入到 B.html 裡去\n\n謝謝",
+    "id": "521085554595481_1010879165616115",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      10,
+      4,
+      4,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-09T23:51:50+0000",
+    "updated_time": "2016-06-09T23:51:50+0000",
+    "from": {
+      "name": "Jane S.",
+      "id": "10100851001617895"
+    },
+    "message": "Final counting for AngelHack Tomorrow!\n\nAfter circling in Asia for 4 years, AngelHack finally made it to Taipei! We’re not just excited about the street food but can’t wait to have the Taiwanese hospitality join our AngelHack family! AngelHack is the world's largest developer ecosystem and is PSYCHED to be in Taipei on the 11 & 12 June for AngelHack Taipei 2016! \n\nThe grand winner will be invited to join us in our HACKcelerator programme having a chance to grow & pitch their ideas to hundreds of investors in San Francisco! \n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://angelhack.com/angelhack-taipei-2016/",
+    "name": "http://angelhack.com/angelhack-taipei-2016/",
+    "description": "11F, No. 2, Section 3, Civic Blvd, Zhongzheng District, Taipei City, 100 (台北市中正區市民大道三段2號11樓 )",
+    "id": "521085554595481_1010593028978062",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      5,
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-06-06T09:38:38+0000",
+    "updated_time": "2016-06-06T09:38:38+0000",
+    "from": {
+      "name": "Mickey Chen",
+      "id": "129663824037099"
+    },
+    "message": "今天嘗試了X3dom+Blender\n\n感覺效能相當不錯，同時也支援模型貼圖~\n\nhttp://labo.tripviewpost.com/3D.html",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=295843534085793&set=gm.1008603395843692&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13407274_295843534085793_2102746176902304070_n.jpg?oh=4e7e765a942a478b4b096bc48f64842d&oe=57C2B827",
+    "id": "521085554595481_1008603395843692",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      2,
+      2,
+      0,
+      0
+    ]
+  }
+]
