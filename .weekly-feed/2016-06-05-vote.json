@@ -1,0 +1,192 @@
+[
+  {
+    "order": "# 1",
+    "likes": "242",
+    "comments": "7",
+    "shares": "36",
+    "vote": 2,
+    "Rplus": "+1",
+    "jsgao0": "+1",
+    "Clementtang": "+1",
+    "calcSum": 330.5,
+    "postId": "521085554595481_1008440282526670"
+  },
+  {
+    "order": "# 3",
+    "likes": "15",
+    "comments": "73",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 128.5,
+    "postId": "521085554595481_1009783135725718"
+  },
+  {
+    "order": "# 4",
+    "likes": "106",
+    "comments": "1",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "jsgao0": "+1",
+    "Clementtang": "+1",
+    "calcSum": 113.5,
+    "postId": "521085554595481_1010191232351575"
+  },
+  {
+    "order": "# 6",
+    "likes": "75",
+    "comments": "2",
+    "shares": "10",
+    "vote": 2,
+    "Rplus": "+1",
+    "jsgao0": "+1",
+    "Clementtang": "+1",
+    "calcSum": 104,
+    "postId": "521085554595481_1010947825609249"
+  },
+  {
+    "order": "# 5",
+    "likes": "33",
+    "comments": "41",
+    "shares": "3",
+    "vote": 0,
+    "calcSum": 100.5,
+    "postId": "521085554595481_1009163959120969"
+  },
+  {
+    "order": "# 7",
+    "likes": "65",
+    "comments": "3",
+    "shares": "10",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 95.5,
+    "postId": "521085554595481_1008931832477515"
+  },
+  {
+    "order": "# 8",
+    "likes": "25",
+    "comments": "33",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 78.5,
+    "postId": "521085554595481_1008133382557360"
+  },
+  {
+    "order": "# 9",
+    "likes": "54",
+    "comments": "4",
+    "shares": "6",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 75,
+    "postId": "521085554595481_1009619755742056"
+  },
+  {
+    "order": "# 11",
+    "likes": "34",
+    "comments": "11",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 56.5,
+    "postId": "521085554595481_1008984802472218"
+  },
+  {
+    "order": "# 10",
+    "likes": "38",
+    "comments": "3",
+    "shares": "4",
+    "vote": 0,
+    "calcSum": 50.5,
+    "postId": "521085554595481_1011379835566048"
+  },
+  {
+    "order": "# 12",
+    "likes": "26",
+    "comments": "8",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 42,
+    "postId": "521085554595481_1008955182475180"
+  },
+  {
+    "order": "# 13",
+    "likes": "29",
+    "comments": "0",
+    "shares": "2",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 39,
+    "postId": "521085554595481_1010089319028433"
+  },
+  {
+    "order": "# 14",
+    "likes": "4",
+    "comments": "9",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 19.5,
+    "postId": "521085554595481_1009620892408609"
+  },
+  {
+    "order": "# 15",
+    "likes": "15",
+    "comments": "1",
+    "shares": "1",
+    "vote": -1,
+    "Clementtang": "thinking_face",
+    "calcSum": 15.5,
+    "postId": "521085554595481_1008608842509814"
+  },
+  {
+    "order": "# 16",
+    "likes": "2",
+    "comments": "5",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 11.5,
+    "postId": "521085554595481_1008091462561552"
+  },
+  {
+    "order": "# 17",
+    "likes": "4",
+    "comments": "4",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 10,
+    "postId": "521085554595481_1010879165616115"
+  },
+  {
+    "order": "# 18",
+    "likes": "3",
+    "comments": "0",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 5,
+    "postId": "521085554595481_1010593028978062"
+  },
+  {
+    "order": "# 19",
+    "likes": "2",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 2,
+    "postId": "521085554595481_1008603395843692"
+  },
+  {
+    "order": "# 2",
+    "likes": "174",
+    "comments": "20",
+    "shares": "12",
+    "vote": -499,
+    "Rplus": "tada",
+    "Clementtang": "+1",
+    "calcSum": -1269,
+    "postId": "521085554595481_1008874929149872"
+  }
+]
