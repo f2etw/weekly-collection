@@ -4,7 +4,7 @@
   <generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator>
   <link href="http://www.f2e.tw//weekly-collection/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://www.f2e.tw//weekly-collection/" rel="alternate" type="text/html" />
-  <updated>2016-06-14T11:34:24+08:00</updated>
+  <updated>2016-06-20T15:41:37+08:00</updated>
   <id>http://www.f2e.tw//weekly-collection/</id>
 
   
@@ -17,6 +17,448 @@
 
   
 
+  
+  
+    <entry>
+      <title>Collection #012</title>
+      <link href="http://www.f2e.tw//weekly-collection/collection/012/" rel="alternate" type="text/html" title="Collection #012" />
+      <published>2016-06-05T00:00:00+08:00</published>
+      
+        <updated>2016-06-05T00:00:00+08:00</updated>
+      
+
+      <id>http://www.f2e.tw//weekly-collection/collection/012</id>
+      <content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/012/">&lt;div class=&quot;Cards sm-flex flex-wrap pt2&quot;&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://comdan66.github.io/browser_console_qrcode/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://comdan66.github.io/browser_console_qrcode/img/og.jpg&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://comdan66.github.io/browser_console_qrcode/img/og.jpg&amp;amp;width=400&quot; alt=&quot;在 Console 畫 QR Code！&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://comdan66.github.io/browser_console_qrcode/&quot;&gt;在 Console 畫 QR Code！&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          吳政賢利用 text-shadow 在 console panel 裡做一個 QR Code 的圖樣，這或許是個在網頁藏彩蛋的好地方唷~
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-06T09:51:43+08:00&quot; title=&quot;2016-06-06T09:51:43+08:00&quot;&gt;2016-06-06&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1008440282526670&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1066773103336031&quot;&gt;
+            吳政賢
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1066773103336031/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;吳政賢&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://fb.com/521085554595481_1009783135725718&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://fb.com/521085554595481_1009783135725718&quot;&gt;&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          對 javascript 初心者推薦書籍的討論串
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-08T22:59:31+08:00&quot; title=&quot;2016-06-08T22:59:31+08:00&quot;&gt;2016-06-08&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1009783135725718&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10205439277633788&quot;&gt;
+            Chihkai Jan
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10205439277633788/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Chihkai Jan&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://bit.ly/1U8zct9&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://cdn.tutorialzine.com/wp-content/uploads/2016/05/10-fun-browser-games.jpg&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://cdn.tutorialzine.com/wp-content/uploads/2016/05/10-fun-browser-games.jpg&amp;amp;width=400&quot; alt=&quot;10 Fun Browser Games For Learning Web Development&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://bit.ly/1U8zct9&quot;&gt;10 Fun Browser Games For Learning Web Development&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          這文章裡收集了十款簡單的網頁遊戲，可透過寓教於樂的方式來學習前端相關知識
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-09T16:59:48+08:00&quot; title=&quot;2016-06-09T16:59:48+08:00&quot;&gt;2016-06-09&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1010191232351575&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10206611907686693&quot;&gt;
+            黃保翕
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10206611907686693/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;黃保翕&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://hyperurl.co/club2&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://t.kfs.io/upload_images/51256/kktix__original.jpg&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://t.kfs.io/upload_images/51256/kktix__original.jpg&amp;amp;width=400&quot; alt=&quot;如何建構前端工程師技能樹&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://hyperurl.co/club2&quot;&gt;如何建構前端工程師技能樹&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          由慕課網舉辦的一堂關於前端技能開發經驗分享課程
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-10T23:45:45+08:00&quot; title=&quot;2016-06-10T23:45:45+08:00&quot;&gt;2016-06-10&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1010947825609249&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1073516712723254&quot;&gt;
+            王瑀軒
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1073516712723254/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;王瑀軒&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+      &lt;input class=&quot;Card__notice__switcher hide&quot; type=&quot;checkbox&quot; id=&quot;article-4&quot; checked=&quot;&quot; /&gt;
+      &lt;label class=&quot;Card__notice__overlay&quot; for=&quot;article-4&quot; title=&quot;click to show&quot; data-notice=&quot;我知道這是篇廣宣文&quot;&gt;&lt;/label&gt;
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://fb.com/521085554595481_1009163959120969&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://fb.com/521085554595481_1009163959120969&quot;&gt;&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          一則關於 ES2015 學習的心得分享討論串
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-07T21:53:09+08:00&quot; title=&quot;2016-06-07T21:53:09+08:00&quot;&gt;2016-06-07&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1009163959120969&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/740132742773496&quot;&gt;
+            Chien Jung Li
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/740132742773496/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Chien Jung Li&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.caniuse-bot.com/&quot; style=&quot;background-image: url(&#39;http://www.caniuse-bot.com/assets/images/Icon.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://www.caniuse-bot.com/assets/images/Icon.png&quot; alt=&quot;Can I use? bot&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.caniuse-bot.com/&quot;&gt;Can I use? bot&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          一個參照 caniuse 資料，而可透過 slack 對話式指令來查找瀏覽器支援度的非官方 slack bot
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-07T09:59:10+08:00&quot; title=&quot;2016-06-07T09:59:10+08:00&quot;&gt;2016-06-07&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1008931832477515&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10153272635483540&quot;&gt;
+            江啾啾
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10153272635483540/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;江啾啾&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://www.facebook.com/photo.php?fbid=982330045197499&amp;amp;set=gm.1008133382557360&amp;amp;type=3&quot; style=&quot;background-image: url(&#39;https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/fr/cp0/e15/q65/13329592_982330045197499_8550483442446601927_o.jpg?efg=eyJpIjoiYiJ9&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/fr/cp0/e15/q65/13329592_982330045197499_8550483442446601927_o.jpg?efg=eyJpIjoiYiJ9&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://www.facebook.com/photo.php?fbid=982330045197499&amp;amp;set=gm.1008133382557360&amp;amp;type=3&quot;&gt;&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          由一個簡單詢問如何解析 minified JS 的問題，逐漸修正為如何找尋開發用的原始檔
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-05T21:49:44+08:00&quot; title=&quot;2016-06-05T21:49:44+08:00&quot;&gt;2016-06-05&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1008133382557360&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/829622337134938&quot;&gt;
+            林建良
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/829622337134938/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;林建良&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://css-tricks.com/almanac/properties/t/text-rendering/&quot; style=&quot;background-image: url(&#39;https://css-tricks.com/wp-content/uploads/2014/03/better-kern.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://css-tricks.com/wp-content/uploads/2014/03/better-kern.png&quot; alt=&quot;text-rendering | CSS-Tricks&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://css-tricks.com/almanac/properties/t/text-rendering/&quot;&gt;text-rendering | CSS-Tricks&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          關於 text-rendering 的討論串，需在視覺與效能上做好平衡
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-08T14:45:53+08:00&quot; title=&quot;2016-06-08T14:45:53+08:00&quot;&gt;2016-06-08&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1009619755742056&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10200245721942111&quot;&gt;
+            Wesley Hwang
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10200245721942111/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Wesley Hwang&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/&quot;&gt;Introducing Multirange: A tiny polyfill for HTML5.1 two-handle sliders&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Lea Verou 以精巧的 CSS 搭配簡單的 JS 實作出具雙重拉霸的 input slider，樣式的可調整性非常高；原始碼非常有趣~
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-07T12:55:50+08:00&quot; title=&quot;2016-06-07T12:55:50+08:00&quot;&gt;2016-06-07&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1008984802472218&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
+            Rplus Chen
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.wmze604w0&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/1200/1*d7mHlwL1eQ4n9ZZJzlF0HA.jpeg&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/1200/1*d7mHlwL1eQ4n9ZZJzlF0HA.jpeg&amp;amp;width=400&quot; alt=&quot;Why I use Tape Instead of Mocha &amp;amp; So Should You — JavaScript Scene&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.wmze604w0&quot;&gt;Why I use Tape Instead of Mocha &amp;amp; So Should You — JavaScript Scene&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          文中提到 Mocha, Jasmine 等 unit test tool 有著較多的設定(&amp;amp; 其它我看了也沒懂的缺點)，而選用 Tape 可有更好的可讀性、較少程式碼 &amp;amp; 維護成本
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-11T18:59:26+08:00&quot; title=&quot;2016-06-11T18:59:26+08:00&quot;&gt;2016-06-11&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1011379835566048&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1156602471017725&quot;&gt;
+            Ruby Chen
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1156602471017725/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Ruby Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;※ 編按:&lt;br /&gt;
+近來提問的討論串有較熱絡的跡象，&lt;br /&gt;
+我也覺得有個平台能討論很棒~&lt;br /&gt;
+不過不難發現部份提問在範圍較廣、或是需求未釐清的狀況下，&lt;br /&gt;
+討論串偶有偏題的情形，&lt;/p&gt;
+
+&lt;p&gt;覺得在瀏覽這類貼文時，&lt;br /&gt;
+反過來想想「若由自己提問，會如何調整問題呢？」&lt;br /&gt;
+或許也能稍微訓練自己的提問技巧哩！&lt;/p&gt;
+
+&lt;p&gt;：)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+
+      
+
+      
+        <category term="weekly-popular" />
+      
+
+      
+        <summary>在 Console 畫 QR Code！ 吳政賢利用 text-shadow 在 console panel 裡做一個 QR Code 的圖樣，這或許是個在網頁藏彩蛋的好地方唷~ 2016-06-06 吳政賢 對 javascript 初心者推薦書籍的討論串 2016-06-08 Chihkai Jan 10 Fun Browser Games For Learning Web Development 這文章裡收集了十款簡單的網頁遊戲，可透過寓教於樂的方式來學習前端相關知識 2016-06-09 黃保翕 如何建構前端工程師技能樹 由慕課網舉辦的一堂關於前端技能開發經驗分享課程 2016-06-10 王瑀軒 一則關於 ES2015 學習的心得分享討論串 2016-06-07 Chien Jung Li Can I use? bot 一個參照 caniuse 資料，而可透過 slack 對話式指令來查找瀏覽器支援度的非官方 slack bot 2016-06-07 江啾啾 由一個簡單詢問如何解析 minified JS 的問題，逐漸修正為如何找尋開發用的原始檔 2016-06-05 林建良 text-rendering | CSS-Tricks 關於 text-rendering 的討論串，需在視覺與效能上做好平衡 2016-06-08 Wesley Hwang Introducing Multirange: A tiny polyfill for HTML5.1 two-handle sliders Lea Verou 以精巧的 CSS 搭配簡單的 JS 實作出具雙重拉霸的 input slider，樣式的可調整性非常高；原始碼非常有趣~ 2016-06-07 Rplus Chen Why I use Tape Instead of Mocha &amp;amp; So Should You — JavaScript Scene 文中提到 Mocha, Jasmine 等 unit test tool 有著較多的設定(&amp;amp; 其它我看了也沒懂的缺點)，而選用 Tape 可有更好的可讀性、較少程式碼 &amp;amp; 維護成本 2016-06-11 Ruby Chen</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -3933,443 +4375,6 @@ Weekly Collection 還缺熱血的小編志工唷！&lt;br /&gt;
 
       
         <summary>[前端連載] 了解網頁發展的脈絡(上)——從靜態網頁到動態網頁到REST api 邱弘毅用生活化口吻簡介了前後端部份的網路基礎概念 2016-04-08 邱弘毅 ReactJS與Immediate-mode GUI: 為何ReactJS是開發複雜UI的首選 文中以 Casey Muratori 欣賞的 immediate mode 概念為軸，介紹 GUI 管理控制的方式，並推薦利用 ReactJS 的 virtual DOM 來處理 UI render 效能的問題 2016-04-04 Arthur Liao 數據驅動的網站優化 Data Driven Website Optimization 這篇分析網站數據的文章先簡介了網路行銷分類，再逐一介紹網站各種優化方式的目的；最後介紹了可能發生的數據差異的原因，並建議在實行網站優化時，也更應該注重精確資料的獲取 2016-04-07 林靜君 A couple of alternatives to the hamburger menu 針對漢堡選單圖示，Kenan Yusuf 在文介紹了兩種有趣的替代方案。或許可以討論哪個較有認知落差 2016-04-09 Rplus Chen 高雄前端社群直播活動: CSS 架構 王志誠宣傳這次在高雄以 CSS 架構為主題的聚會，將會有線上直播，有興趣的可以多加關注 2016-04-07 王志誠 如何将 npm 作为构建工具使用 介紹 npm script 的知名文章被翻譯成中文了。若對原文有些吸收不良者，不妨比對一下譯文來瞭解如何使用 npm script 取代常見的 gulp, webpack 環境 2016-04-08 呂耶書 想「轉行」靠寫程式吃飯嗎？一個自學程式語言幾乎將自己逼瘋的親身經歷 – 軟體工程師 Quincy Larson Quincy Larson 以自身經歷建議初學者更加注重一心一意、專精技能。對比那些「每六周重寫一次」的揶揄或許會有不同的感觸 2016-04-07 陳聖博 Collection #001 週刊刊號一的宣傳文章。感謝各位的協助與支持 &amp;lt;(_ _)&amp;gt; 2016-04-05 Rplus Chen Tomorrow’s CSS syntax with cssnext 這篇文章介紹新穎的 CSS syntax 以及如何使用 PostCSS &amp;amp; cssnext 來輔助生成現行支援的語法 2016-04-04 Clement Tang 【問】網站弱點掃瞄的工具？ 討論串裡大家分享了很多掃描網站弱點的工具 2016-04-07 蔡宥鋐</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      <title>Collection #002</title>
-      <link href="http://www.f2e.tw//weekly-collection/collection/002/" rel="alternate" type="text/html" title="Collection #002" />
-      <published>2016-03-27T00:00:00+08:00</published>
-      
-        <updated>2016-03-27T00:00:00+08:00</updated>
-      
-
-      <id>http://www.f2e.tw//weekly-collection/collection/002</id>
-      <content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/002/">&lt;div class=&quot;Cards sm-flex flex-wrap pt2&quot;&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://hk.thenewslens.com/post/305094/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://image.thenewslens.com/wp-content/uploads/2016/03/42-76427003.jpg&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://image.thenewslens.com/wp-content/uploads/2016/03/42-76427003.jpg&amp;amp;width=400&quot; alt=&quot;程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://hk.thenewslens.com/post/305094/&quot;&gt;程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          由 left-pad 撤架事件衍生之 npm 環境影響的後續報導
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-31T12:35:28+08:00&quot; title=&quot;2016-03-31T12:35:28+08:00&quot;&gt;2016-03-31&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_973094689394563&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1062487557144901&quot;&gt;
-            楊雅晴
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1062487557144901/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;楊雅晴&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.hexschool.com/&quot; style=&quot;background-image: url(&#39;http://www.hexschool.com/images/logo_for_fb.png&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://www.hexschool.com/images/logo_for_fb.png&quot; alt=&quot;首波主打課程 基礎 HTML + CSS - 六角學院&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.hexschool.com/&quot;&gt;首波主打課程 基礎 HTML + CSS - 六角學院&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-31T11:02:49+08:00&quot; title=&quot;2016-03-31T11:02:49+08:00&quot;&gt;2016-03-31&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_973051156065583&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1120548697961771&quot;&gt;
-            王志誠
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1120548697961771/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;王志誠&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-      &lt;input class=&quot;Card__notice__switcher hide&quot; type=&quot;checkbox&quot; id=&quot;article-2&quot; checked=&quot;&quot; /&gt;
-      &lt;label class=&quot;Card__notice__overlay&quot; for=&quot;article-2&quot; title=&quot;click to show&quot; data-notice=&quot;我知道這是篇廣宣文&quot;&gt;&lt;/label&gt;
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/000/&quot; style=&quot;background-image: url(&#39;https://avatars2.githubusercontent.com/u/8252114?s&amp;#x3D;300&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://avatars2.githubusercontent.com/u/8252114?s&amp;#x3D;300&quot; alt=&quot;Colection #000&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.f2e.tw/weekly-collection/collection/000/&quot;&gt;Colection #000&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          本週刊試刊號於前端社團的宣傳貼文，也順便徵人
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-29T22:06:19+08:00&quot; title=&quot;2016-03-29T22:06:19+08:00&quot;&gt;2016-03-29&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_971724509531581&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://noootown.github.io/FireWork/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/12916114_480948858763464_8978374017135795755_o.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/12916114_480948858763464_8978374017135795755_o.png&amp;amp;width=400&quot; alt=&quot;Firework&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://noootown.github.io/FireWork/&quot;&gt;Firework&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-01T19:13:53+08:00&quot; title=&quot;2016-04-01T19:13:53+08:00&quot;&gt;2016-04-01&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_974204135950285&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/824068551038406&quot;&gt;
-            邱弘毅
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/824068551038406/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;邱弘毅&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.ogdesign.tw/resources&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://www.ogdesign.tw/images/cover.jpg&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://www.ogdesign.tw/images/cover.jpg&amp;amp;width=400&quot; alt=&quot;設計資源總匯 - 奧革設計&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.ogdesign.tw/resources&quot;&gt;設計資源總匯 - 奧革設計&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-30T14:33:27+08:00&quot; title=&quot;2016-03-30T14:33:27+08:00&quot;&gt;2016-03-30&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_972314856139213&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/821560307892406&quot;&gt;
-            莊為任
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/821560307892406/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;莊為任&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://lichin.me/Davidmenu/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://lichin.me/Davidmenu/image.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://lichin.me/Davidmenu/image.png&amp;amp;width=400&quot; alt=&quot;DavidMenu&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://lichin.me/Davidmenu/&quot;&gt;DavidMenu&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-27T18:49:42+08:00&quot; title=&quot;2016-03-27T18:49:42+08:00&quot;&gt;2016-03-27&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_969926576378041&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/952773934745171&quot;&gt;
-            林立秦
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/952773934745171/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;林立秦&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/800/0*C97OAg84NHnqWk3a.&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://cdn-images-1.medium.com/max/800/0*C97OAg84NHnqWk3a.&amp;amp;width=400&quot; alt=&quot;好的使用者經驗設計，絕對不是從使用者開始&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://medium.com/@lejacp/%E5%A5%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E8%A8%AD%E8%A8%88-%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%98%AF%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E9%96%8B%E5%A7%8B-e09bc34b3a28#.3c0ahpezi&quot;&gt;好的使用者經驗設計，絕對不是從使用者開始&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-02T12:34:54+08:00&quot; title=&quot;2016-04-02T12:34:54+08:00&quot;&gt;2016-04-02&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_974666092570756&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10206381218146197&quot;&gt;
-            陳聖博
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10206381218146197/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;陳聖博&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://css-tricks.com/whats-deal-declaring-font-properties-font-face&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://css-tricks.com/wp-content/uploads/2016/03/font-face-usage.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://css-tricks.com/wp-content/uploads/2016/03/font-face-usage.png&amp;amp;width=400&quot; alt=&quot;What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://css-tricks.com/whats-deal-declaring-font-properties-font-face&quot;&gt;What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-28T01:06:01+08:00&quot; title=&quot;2016-03-28T01:06:01+08:00&quot;&gt;2016-03-27&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_970141973023168&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10205598652859379&quot;&gt;
-            Clement Tang
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10205598652859379/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Clement Tang&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://manu.ninja/dominant-colors-for-lazy-loading-images&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://manu.ninja/images/tiny-thumbnails.jpg&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://manu.ninja/images/tiny-thumbnails.jpg&amp;amp;width=400&quot; alt=&quot;Dominant Colors for Lazy-Loading Images&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://manu.ninja/dominant-colors-for-lazy-loading-images&quot;&gt;Dominant Colors for Lazy-Loading Images&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-03-30T23:56:32+08:00&quot; title=&quot;2016-03-30T23:56:32+08:00&quot;&gt;2016-03-30&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_972663459437686&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://speakerd.s3.amazonaws.com/presentations/7635baba682f45a7a4d6d5f49a70223f/slide_0.jpg&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://speakerd.s3.amazonaws.com/presentations/7635baba682f45a7a4d6d5f49a70223f/slide_0.jpg&amp;amp;width=400&quot; alt=&quot;Dirty Tricks From The Dark Corners Of Front-End&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end&quot;&gt;Dirty Tricks From The Dark Corners Of Front-End&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-04-02T02:23:44+08:00&quot; title=&quot;2016-04-02T02:23:44+08:00&quot;&gt;2016-04-01&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_974420155928683&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-&lt;/div&gt;</content>
-
-      
-      
-      
-      
-
-      
-
-      
-        <category term="weekly-popular" />
-      
-
-      
-        <summary>程式員一怒之下刪除11行程式碼 互聯網遭殃 - The News Lens 關鍵評論網 由 left-pad 撤架事件衍生之 npm 環境影響的後續報導 2016-03-31 楊雅晴 首波主打課程 基礎 HTML + CSS - 六角學院 由廖洧杰於 ‎Udemy 平台開設的線上程式教學課程 2016-03-31 王志誠 Colection #000 本週刊試刊號於前端社團的宣傳貼文，也順便徵人 2016-03-29 Rplus Chen Firework 邱弘毅利用 canvas api 撰寫了一個煙火效果的 jQuery library 2016-04-01 邱弘毅 設計資源總匯 - 奧革設計 由「奧革設計」整理的各式設計資源，內容從靈感啟發到輔助工具非常豐富；介面改版後的查找動線更加方便了 2016-03-30 莊為任 DavidMenu 林立秦藉由個人的 fullscreen menu 練習作品，與版友討論相關調整方式 2016-03-27 林立秦 好的使用者經驗設計，絕對不是從使用者開始 一篇探討「Define Challenge」的文章。文中分析了設計團隊中可能遇到的挑戰類型，並介紹了六個步驟來因應 2016-04-02 陳聖博 What&amp;#39;s the deal with declaring font properties on @font-face? | CSS-Tricks Clement Tang 分享了一篇簡介 CSS @font-face 字型套用關係鏈的文章 #一圖千言 2016-03-27 Clement Tang Dominant Colors for Lazy-Loading Images 一篇以多圖網站為例，示範如何處理 lazy-loading 預設圖以增加識別度的文章。其中一部份在介紹如何壓縮 data-uri 長度 2016-03-30 Rplus Chen Dirty Tricks From The Dark Corners Of Front-End 知名網頁技術網站 Smashing Magazine 主編 Vitaly Friedman 的演講投影片，裡面分享了各種前端神秘技巧 2016-04-01 Rplus Chen</summary>
       
 
       
