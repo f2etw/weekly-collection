@@ -1,0 +1,702 @@
+[
+  {
+    "shares": {
+      "count": 56
+    },
+    "created_time": "2016-06-15T18:23:50+0000",
+    "updated_time": "2016-06-17T14:22:59+0000",
+    "from": {
+      "name": "Denny Ku",
+      "id": "841989239187866"
+    },
+    "message": "Hi 大家，\n前幾天寫了一個插件能在人力銀行下方留言，\n這裡是一篇記錄一下到現在為止的心得。\n主要是以一個 web前端工程師的角度看待怎樣去學到足夠的資源，\n然後開發一個應用出來 XD\n雖然是個看起來蠻簡單的東西，\n不過中間其實遇到蠻多要思考的地方，\n把這心得分享出來給大家，希望幫助到需要的人。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://abalone0204.github.io/2016/06/16/clv-beta-version/",
+    "name": "寫在 Clairvoyance 發布之後：軟體開發者的社會責任 · De-bug: 一鍵跑版",
+    "description": "寫在 Clairvoyance 發布之後：軟體開發者的社會責任 - Tsung-Chen Ku",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDYUPhfXCaMst3G&w=130&h=130&url=http%3A%2F%2Fi.imgur.com%2FlwFbW4l.jpg&cfs=1",
+    "id": "521085554595481_1013570142013684",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 482
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      613.5,
+      482,
+      13,
+      56
+    ]
+  },
+  {
+    "shares": {
+      "count": 89
+    },
+    "created_time": "2016-06-13T04:48:04+0000",
+    "updated_time": "2016-06-14T03:08:36+0000",
+    "from": {
+      "name": "Ott Ben",
+      "id": "999629473381396"
+    },
+    "message": "很有心的作品\n一個在人力銀行下留言討論的 Chrome 插件\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1465759641.A.E57.html",
+    "name": "[心得] 寫了一個在人力銀行職缺下留言的插件",
+    "description": "Hi，大家。 我寫了一個 Chrome 的插件，",
+    "id": "521085554595481_1012284625475569",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 266
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      475.5,
+      266,
+      21,
+      89
+    ]
+  },
+  {
+    "shares": {
+      "count": 40
+    },
+    "created_time": "2016-06-14T05:44:01+0000",
+    "updated_time": "2016-06-15T16:02:04+0000",
+    "from": {
+      "name": "Ming Ching Chen",
+      "id": "10203804822641050"
+    },
+    "message": "常常網站做得很有質感可是客戶改東改西就整個大崩壞，又要便宜又要快一直壓低價格，以後有客戶要跟我壓價格一定給他看這網站，只要2000元而且還爆紅!! 雖然滿有創意可是不是所有客戶都可接受。(這應該也算前端相關吧~)\nhttp://udn.com/news/story/9/1760088  新聞連結\nhttp://www.carce.cc/goodcar#img3   叫我2000元",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.wetalk.tw/thread-49616-1-1.html",
+    "name": "2000元做出來的網站，結果反而紅到大家點到網站爆流量...",
+    "description": "超越 - 流行 - 2000元做出來的網站，結果反而紅到大家點到網站爆流量...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD0HM4rF3C4Nawe&w=130&h=130&url=http%3A%2F%2Fwww.wetalk.tw%2Fdata%2Fattachment%2Fforum%2F201606%2F14%2F124002v48zl80le6lhxdle.jpg&cfs=1",
+    "id": "521085554595481_1012818395422192",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 286
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 31
+      }
+    },
+    "power": [
+      412.5,
+      286,
+      31,
+      40
+    ]
+  },
+  {
+    "created_time": "2016-06-17T04:13:17+0000",
+    "updated_time": "2016-06-17T16:21:42+0000",
+    "from": {
+      "name": "林宛諭",
+      "id": "1165621783458119"
+    },
+    "message": "身為 Web 開發者應該擁有的 HTTP 狀態碼速查表",
+    "link": "https://goo.gl/XrwyOc",
+    "name": "Innovation Chat",
+    "description": "相信 HTTP 狀態碼 是許多網頁開發者的夢魘\n\n別擔心，精美的懶人包在這，讓你一目了然~~\nhttps://goo.gl/XrwyOc",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCbLYs9wKiHYfh1&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKut1Yy_Xu22gm5kigXvx8JseobDEtzf5jSDzBXGcOdElDXzBeijbES-dTQ0f8HSRIMUWmlHfvgMozWFW1_2h66gsfRBQUov-QaYJCcSyxBJWhBO1BnCnQhIoKTS6LxxtHGRs6FVAkOnwQjTNXEaA-h&cfs=1",
+    "id": "521085554595481_1014290711941627",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 286
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      290.5,
+      286,
+      3,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-06-14T18:16:58+0000",
+    "updated_time": "2016-06-15T14:53:15+0000",
+    "from": {
+      "name": "王得安",
+      "id": "10205683953072216"
+    },
+    "message": "個人作品集網頁，希望大家給點建議~請鞭小力點嘿\n\nupdate:\n一覺醒來沒想到已經得到不少前輩的專業建議，給了小弟明確的優化方向，在此跟各位說聲謝謝~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://odeeew.github.io/portfolio/",
+    "name": "Gary Wang's Portfolio",
+    "description": "我熱愛學習新事物，同時也追求產品完善度與市場需求的平衡。熟悉模組化設計方法，以期縮短開發時程並提昇使用者體驗。擅長扮演介於設計師與工程師之間的角色。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAEsWTMgkx5qvHW&w=130&h=130&url=http%3A%2F%2Fodeeew.github.io%2Fportfolio%2Fimg%2Fthumb-fb.png&cfs=1",
+    "id": "521085554595481_1013067788730586",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 181
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 36
+      }
+    },
+    "power": [
+      263,
+      181,
+      36,
+      14
+    ]
+  },
+  {
+    "shares": {
+      "count": 15
+    },
+    "created_time": "2016-06-13T00:56:01+0000",
+    "updated_time": "2016-06-13T17:40:07+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "Hi 各位早，上班第一天分享個小小作品輕鬆一下ＸＤ\n\n基本上就是..嗯，就是一個數字翻轉計數器！其實主要使用簡單的 JavaScript 與 SCSS 實作數字翻轉計數器，藉由設定每個計數器元素的 class 來達成不同數字的顯示，分別以 n0~n9 的 class 來設定子元素 top 的位置。\n\n在 GitHub 的 Readme 上有詳細解說作法，因為剛收完假，心還沒收，所以可能寫得有些零亂，請各位大大見諒..如果各位喜歡的話，歡迎按星星喔！\n\nDemo: http://works.ioa.tw/number_flipping_counter/index.html\n\nGitHub:\nhttps://github.com/comdan66/number_flipping_counter/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://works.ioa.tw/number_flipping_counter/index.html",
+    "name": "OA's 數字翻轉計數器",
+    "description": "簡單的JavaScript與SCSS實作數字翻轉計數器，藉由設定每個計數器元素的class來達成不同數字的顯示，分別以n0~n9的class來設定子元素top的位置。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAbL5OqE8V1qeRg&w=130&h=130&url=http%3A%2F%2Fworks.ioa.tw%2Fnumber_flipping_counter%2Fimg%2Fog%2Fog.jpg&cfs=1",
+    "id": "521085554595481_1012215045482527",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 129
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      190.5,
+      129,
+      21,
+      15
+    ]
+  },
+  {
+    "shares": {
+      "count": 13
+    },
+    "created_time": "2016-06-16T02:47:44+0000",
+    "updated_time": "2016-06-17T06:51:35+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "常逛 Google Fonts 的人應該有發現，\n網站看起來非常不一樣了！\n\n除了排版上全調整為卡片式的呈現方式外\n現在也能夠直接針對特定字型調整預覽文字 & 樣式、字級\n整體的挑選及瀏覽的操作應該是更加直覺的~\n\n大家有沒發現其它有趣的新玩意呢？\n\n***\n\n特別轉來社團是發現\nGoogle Fonts 針對 SPA 的無限捲動，有特別調整頁面「體重」來提高效能\nscript 會預算好所有數量所需的高度，並直接寫入 DOM 的 height 來固定\n\n在捲動時，\n只畫出「兩倍可視範圍內」的卡片\n其它的卡片不注入到 DOM 裡\n而捲軸位置則是動態調整內部 container 的 padding-top 來達成\n\n非常有趣的作法~\nvia: https://twitter.com/arenasmario/status/743079494668419072\n\n***\n\nGoogle Fonts has a new look!\nhttps://fonts.google.com/\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/E83JbVEvTp",
+    "name": "Google Fonts",
+    "description": "Making the web more beautiful, fast, and open through great typography",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC6z5MesAT60TxA&w=130&h=130&url=https%3A%2F%2Fwww.gstatic.com%2Fimages%2Ficons%2Fmaterial%2Fapps%2Ffonts%2F1x%2Fopengraph_color_1200dp.png&cfs=1",
+    "id": "521085554595481_1013754088661956",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 112
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      166.5,
+      112,
+      19,
+      13
+    ]
+  },
+  {
+    "created_time": "2016-06-12T09:36:11+0000",
+    "updated_time": "2016-06-12T09:36:11+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "好久沒出文章了><\n這次寫一篇 div 和 span 的 display 屬性\n飯後輕鬆看\n希望大家會喜歡",
+    "link": "https://noootown.wordpress.com/2016/06/11/div-span/",
+    "name": "沒一村前端筆記",
+    "description": "[#前端連載]\n好久沒出文章了\n這次來講一下css div 和 span 還有各個 tag 預設的 display 屬性\n是個很重要的觀念\n希望大家會喜歡\n\nhttps://noootown.wordpress.com/2016/06/11/div-span/",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDckhtijNVCexf5&w=130&h=130&url=https%3A%2F%2Fnoootown.files.wordpress.com%2F2016%2F06%2Fdivstructure.png&cfs=1",
+    "id": "521085554595481_1011857492184949",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 116
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      116,
+      116,
+      0,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-17T03:05:46+0000",
+    "updated_time": "2016-06-17T16:30:05+0000",
+    "from": {
+      "name": "吳明憲",
+      "id": "10153117088408051"
+    },
+    "message": "Hi, 不知道有沒有人用過 Atomic CSS，我寫了篇文章來介紹這個工具。Atomic CSS 一開始接觸會覺得它很怪，但上手後卻意外地平易近人，歡迎大家討論～",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://tom76kimo-blog.logdown.com/posts/737611-atomic-css-introduction",
+    "name": "Atomic CSS 介紹 « 湯姆餡",
+    "description": "簡介 這篇文章想介紹一下 Atomic CSS，這是 Yahoo 開發的一個開源工具，讓使用者用一個比較不同的觀點來撰寫 CSS。 Atomic CSS 主要是想要解決目前在大型的 (larg...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRKzdQnwJjpsQK&w=130&h=130&url=http%3A%2F%2Flogdown.com%2Fimages%2Fog_plain.jpg&cfs=1",
+    "id": "521085554595481_1014271155276916",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 26
+      }
+    },
+    "power": [
+      109,
+      50,
+      26,
+      10
+    ]
+  },
+  {
+    "created_time": "2016-06-17T10:51:57+0000",
+    "updated_time": "2016-06-17T10:51:57+0000",
+    "from": {
+      "name": "郭孝直",
+      "id": "10203537517513403"
+    },
+    "message": "前端網頁設計規格書大集合！",
+    "link": "https://www.facebook.com/teacherchi/photos/a.297326326955296.69251.133665993321331/1140999302587990/?type=3",
+    "name": "紀老師電腦教學網",
+    "description": "[有用網站] 前端網頁設計規格書大集合！\n\nhttps://platform.html5.org/\n#WebProgramming #FrontEndWebTechnologies #UsefulSite #WebProgrammingSpec\n\n做「前端網頁程式設計」的工程師一定都遇過這種頭痛的問題：「前端網頁牽涉的規格太多，我要去哪裡找類似『字典』可以查語法的網站啊？」或者是：「前端網頁語法在所有瀏覽器上並非 100% 相容，我要去哪裡測試看看某語法在我的瀏覽器上是否相容呢？」\n\n今天這個網站就可以幫您！它收集了 HTML, CSS, JavaScript...各種規格的規格書連結，讓您想查某個語法細節時，可以查得到。每條規格的後方，若有個小小的 (u) 記號，點擊後就能幫您查某個語法是否相容於特定的瀏覽器。作為「字典」，算是相當好的功能！\n\n如果您開發前端網頁，也有「規格書不知哪裡找」，「這個語法到底可不可以用在 XX 瀏覽器」，不妨試試看這個網站喔！\n\n喜歡的話，歡迎按讚鼓勵，或者轉發分享。如果有任何疑問，歡迎留言在下方討論喔！",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13450154_1140999302587990_2362832709243801087_n.png?oh=74d04d7285f3a5ad62572de106a23b11&oe=57EE8D31",
+    "id": "521085554595481_1014423671928331",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 109
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      109,
+      109,
+      0,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-06-13T08:52:39+0000",
+    "updated_time": "2016-06-13T08:52:39+0000",
+    "from": {
+      "name": "楊宗穎",
+      "id": "10208527300355353"
+    },
+    "message": "今天寫了一個圓型進度條的plugin\n應該是還滿平易近人的\nhttp://www.ryanyang0818.com/demo/RUI/docs/r_roundProgressbar_example/demo.html\n之前沒分享過這種東西\n怕DEMO畫面太lousy...",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ryanyang0818.com/demo/RUI/docs/r_roundProgressbar_example/demo.html",
+    "name": "www.ryanyang0818.com",
+    "description": "r_roundProgressBar是一個圓形的進度條，只是因為抓來的套件不合用。希望寫出一個合理好用的套件，分享出來希望可以有一點幫助。",
+    "id": "521085554595481_1012367095467322",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 93
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      105,
+      93,
+      0,
+      6
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-14T05:36:43+0000",
+    "updated_time": "2016-06-15T01:58:12+0000",
+    "from": {
+      "name": "Amos Lee",
+      "id": "10153203944282889"
+    },
+    "message": "a[#]\na[# target]\n不知道有多少人知道這emmet的寫法～不過還是分享一下\nemmet的屬性寫法會有預設值，像是a標籤來說的話，預設屬性會是href，所以我只要輸入 a[#] 的話，emmet就會幫我把方括號內的值解讀成我是要用在href屬性中\n\n通常大家如果單純只是鍵入一個超連結的話\n你可能會用先鍵入a ＋ tab 之後再去輸入#\n這樣會比你去輸入中括號更快\n但如果你想一次產出一份清單或是原始碼的話\n你可以這樣用\nnav>ul>li*30>a[#]\n這樣就會比你用先鍵入a再鍵入#來得快的多\n\n小發現～分享給大家\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://csscoke.com/test/gif/aaa.gif",
+    "name": "csscoke.com",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA1JQvsZfPrWYht&url=http%3A%2F%2Fcsscoke.com%2Ftest%2Fgif%2Faaa.gif",
+    "id": "521085554595481_1012816935422338",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 82
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      97.5,
+      82,
+      5,
+      4
+    ]
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-06-12T09:23:22+0000",
+    "updated_time": "2016-06-12T13:57:12+0000",
+    "from": {
+      "name": "Chander Shiu",
+      "id": "690282577784734"
+    },
+    "message": "我都不知我在寫啥了...\n請大家多多的鞭一下\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.tedshd.io/posts/736758-javascript-the-abstract-an-action-instance",
+    "name": "JavaScript - 動作行為抽象化實例 « tedshd's DevNote",
+    "description": "JavaScript - 動作行為抽象化實例 其實標題真的不知道要怎麼定 因為只是要說明一個實例, 但又不想扯到其他太制式的東西(設計模式), 但這範例又可用於其他地方, 所以到最後就用了個似...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRKzdQnwJjpsQK&w=130&h=130&url=http%3A%2F%2Flogdown.com%2Fimages%2Fog_plain.jpg&cfs=1",
+    "id": "521085554595481_1011853902185308",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      89.5,
+      60,
+      13,
+      5
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-17T08:03:50+0000",
+    "updated_time": "2016-06-18T15:45:13+0000",
+    "from": {
+      "name": "魏敏",
+      "id": "10205547567904241"
+    },
+    "message": "#想上視差滾動 \n推廣一門目前半價佛心的好課\n是設計師兼工程師開的 東西看起來都潮潮der\n現在祭出募資目標，很多好玩的加課\n重點是可以終身觀賞，\n跟code school, tree house 月費都不一樣> <\n\n#就是想上視差滾動QQ \n#集氣",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://hahow.in/courses/56189df9df7b3d0b005c6639",
+    "name": "動畫互動網頁程式入門 - Hahow 好學校",
+    "description": "想用Illstrator的思維學習網頁前端程式設計嗎？看完一般網路教學總是離想像有一大段距離嗎？",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBouRzdSDYbfv15&w=130&h=130&url=https%3A%2F%2Fhahow.in%2Fimages%2F574fab4f206cd60900c52a67%3Fwidth%3D1000&cfs=1",
+    "id": "521085554595481_1014375721933126",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      84.5,
+      60,
+      3,
+      10
+    ]
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-06-15T17:55:28+0000",
+    "updated_time": "2016-06-16T13:34:34+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "週四晚上八點一起來學學 GreenSock 吧~\n\n好久沒弄 TubeTogether 的活動了 Orz\n歡迎一起來邊學邊聊天~ XDDD\n\n***\n\n看了下時間，大概一個小時半以內就可以聽完了~\n\nTubeTogether： GreenSock For Beginners\n連結： http://www.f2e.tw/TubeTogether",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1138509542883494&set=gm.1013560308681334&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13406902_1138509542883494_7205303711818439284_n.jpg?oh=d40651b458057664c504381fa0068100&oe=5805F16B",
+    "id": "521085554595481_1013560308681334",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 38
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      59,
+      38,
+      6,
+      6
+    ]
+  },
+  {
+    "created_time": "2016-06-14T06:02:44+0000",
+    "updated_time": "2016-06-14T09:05:40+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Chrome 52 新的 CSS 屬性：contain\nGoogle 開發者 Paul Lewis 特別寫了一篇文章來介紹這個新東西\n\n文中裡提到，雖然現代瀏覽器會盡可能地自動限縮異動的影響範圍，\n但「把能自訂的權力掌握在手中」會是某些效能狂人的祈願\n\n新的 contain 會有四個關鍵字的屬性值：layout、paint、size、style\n分別對應各種限制的需求\n能夠限制異動影響的範圍(scope)\n(尚未看到太多例子，個別適用狀況也還不是很清楚 XD)\n\n它的 syntax 為：\n\n```\n<strict> = layout style paint size\n<content> = layout style paint\n\ncontain: none | strict | content | [ size || layout || style || paint ]\n```\n\n有興趣的可以繼續關注~\n\n*****\n\nCSS Containment in Chrome 52\nby Paul Lewis 2016-06-10\nhttps://developers.google.com/…/upd…/2016/06/css-containment\n#f2etw",
+    "id": "521085554595481_1012822668755098",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 49
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      56.5,
+      49,
+      5,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-06-15T05:54:58+0000",
+    "updated_time": "2016-06-15T19:37:13+0000",
+    "from": {
+      "name": "Ya Jing",
+      "id": "1024191214301340"
+    },
+    "message": "大家有使用過Sketch這個程式嗎？\n如果遇到這種問題該怎麼解決？",
+    "link": "https://goo.gl/Cclu5O",
+    "name": "Innovation Chat",
+    "description": "網頁前端與設計師的合作簡直就是一場災難？\n\n設計師缺少元件化的概念，而工程師感受不出色碼與間距的細微差異，來來往往的溝通不僅曠日廢時又無趣，追著設計問規格，追著PM問文案，在各種腦補的情況下又是一場場的會議。\n\n不如利用「Sketch」這個好用的應用程式吧！讓工程師與設計師合作時遇到的許多痛點都能獲得大幅改善！\n\nhttps://goo.gl/Cclu5O",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBski1zvfUHnlzM&w=130&h=130&url=fbstaging%3A%2F%2Fgraph.facebook.com%2Fstaging_resources%2FMDExNzEyOTY4NjcyMjkyMTAxOjMxNjIxNzQxNw%3D%3D&cfs=1",
+    "id": "521085554595481_1013325852038113",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      56,
+      50,
+      4,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-06-17T06:10:45+0000",
+    "updated_time": "2016-06-17T06:10:45+0000",
+    "from": {
+      "name": "卓士傑",
+      "id": "1079630725417350"
+    },
+    "message": "想分享一個 jQuery Plugin：jQuery.qrcode\n（不知道有沒有人分享過\n\n好用的地方：\n＊支援即時更新圖片\n＊有 canvas、image、div 可以選\n＊不支援 canvas 或 base 64 時會自動轉成 HTML（支援 ie7\n＊可插圖片或純文字（可調大小，圖例最大比例為 40%\n\nhttps://larsjung.de/jquery-qrcode/latest/demo",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1081583491888740&set=gm.1014331865270845&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13428452_1081583491888740_6014324409264791678_n.jpg?oh=f1292e8e000b8679923aee1bd35ad1bd&oe=57F1CA24",
+    "id": "521085554595481_1014331865270845",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 40
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      52,
+      40,
+      0,
+      6
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-17T01:24:36+0000",
+    "updated_time": "2016-06-18T17:13:08+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "請教一個前後端的問題:\n\n若是後端給的 json data 像是這樣:\n{ data: { id:1, list:['A', 'B'] } }\n\n在前端會去拿 data.list 去做運算，若是 list 沒有值，後端會連 list 這個屬性都不會傳出，\n像是這樣:\n{ data: { id:1 } }\n\n因為會有這種狀況，所以大家會在所有要讀取 data 屬性時加上 if (data.list != undefined)，來做防呆嗎?\n\n因為我都假設會有 [] 這種的空集合XD，所以用上了 if (data.list.length > 0) 來判斷，就發生undefined error。\n\n還是就前後端講好就好= =|||",
+    "id": "521085554595481_1014241291946569",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      42.5,
+      7,
+      21,
+      2
+    ]
+  },
+  {
+    "created_time": "2016-06-17T15:27:25+0000",
+    "updated_time": "2016-06-17T15:28:38+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "瀏覽器預處理方法有哪些呢？\nAddy Osmani 特別整理了這幾個相關的語法及簡介~ ✌\n\nA new cheat-sheet for Resource Hints\nby Addy Osmani 2016-06-17\n\nhttps://storage.googleapis.com/resource-hints/resource-hints-cheatsheet.pdf\n\n* preconnect\n* preload\n* prefetch\n* prerender\n* dns-prefetch\n\n#f2etw",
+    "link": "https://www.facebook.com/articlesfordevelopers/photos/a.10151435123819601.1073741825.129712729600/10153845235729601/?type=3",
+    "name": "Addy Osmani",
+    "description": "A new cheat-sheet for Resource Hints: preconnect, preload, prefetch, prerender & dns-prefetch - what do they do? 🔥\n\nPDF if you need it: https://storage.googleapis.com/resource-hints/resource-hints-cheatsheet.pdf",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13427971_10153845235729601_2338574905430590016_n.png?oh=201bbc20527bd21f81c78c27b902d877&oe=5807118C",
+    "id": "521085554595481_1014555428581822",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 36
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      37.5,
+      36,
+      1,
+      0
+    ]
+  }
+]

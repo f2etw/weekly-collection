@@ -1,0 +1,205 @@
+[
+  {
+    "order": "# 1",
+    "likes": "482",
+    "comments": "13",
+    "shares": "56",
+    "vote": 3,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 622.5,
+    "postId": "521085554595481_1013570142013684"
+  },
+  {
+    "order": "# 2",
+    "likes": "266",
+    "comments": "21",
+    "shares": "89",
+    "vote": 3,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 484.5,
+    "postId": "521085554595481_1012284625475569"
+  },
+  {
+    "order": "# 4",
+    "likes": "286",
+    "comments": "3",
+    "shares": "0",
+    "vote": 2,
+    "Clementtang": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 296.5,
+    "postId": "521085554595481_1014290711941627"
+  },
+  {
+    "order": "# 6",
+    "likes": "129",
+    "comments": "21",
+    "shares": "15",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 196.5,
+    "postId": "521085554595481_1012215045482527"
+  },
+  {
+    "order": "# 7",
+    "likes": "112",
+    "comments": "19",
+    "shares": "13",
+    "vote": 3,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "erwaiyang": "+1",
+    "calcSum": 175.5,
+    "postId": "521085554595481_1013754088661956"
+  },
+  {
+    "order": "# 8",
+    "likes": "116",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 116,
+    "postId": "521085554595481_1011857492184949"
+  },
+  {
+    "order": "# 9",
+    "likes": "50",
+    "comments": "26",
+    "shares": "10",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 115,
+    "postId": "521085554595481_1014271155276916"
+  },
+  {
+    "order": "# 10",
+    "likes": "109",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 109,
+    "postId": "521085554595481_1014423671928331"
+  },
+  {
+    "order": "# 11",
+    "likes": "93",
+    "comments": "0",
+    "shares": "6",
+    "vote": 0,
+    "calcSum": 105,
+    "postId": "521085554595481_1012367095467322"
+  },
+  {
+    "order": "# 12",
+    "likes": "82",
+    "comments": "5",
+    "shares": "4",
+    "vote": 0,
+    "calcSum": 97.5,
+    "postId": "521085554595481_1012816935422338"
+  },
+  {
+    "order": "# 13",
+    "likes": "60",
+    "comments": "13",
+    "shares": "5",
+    "vote": 0,
+    "calcSum": 89.5,
+    "postId": "521085554595481_1011853902185308"
+  },
+  {
+    "order": "# 14",
+    "likes": "60",
+    "comments": "3",
+    "shares": "10",
+    "vote": 0,
+    "calcSum": 84.5,
+    "postId": "521085554595481_1014375721933126"
+  },
+  {
+    "order": "# 16",
+    "likes": "49",
+    "comments": "5",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 62.5,
+    "postId": "521085554595481_1012822668755098"
+  },
+  {
+    "order": "# 15",
+    "likes": "38",
+    "comments": "6",
+    "shares": "6",
+    "vote": 0,
+    "calcSum": 59,
+    "postId": "521085554595481_1013560308681334"
+  },
+  {
+    "order": "# 17",
+    "likes": "50",
+    "comments": "4",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 56,
+    "postId": "521085554595481_1013325852038113"
+  },
+  {
+    "order": "# 18",
+    "likes": "40",
+    "comments": "0",
+    "shares": "6",
+    "vote": 0,
+    "calcSum": 52,
+    "postId": "521085554595481_1014331865270845"
+  },
+  {
+    "order": "# 20",
+    "likes": "36",
+    "comments": "1",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 43.5,
+    "postId": "521085554595481_1014555428581822"
+  },
+  {
+    "order": "# 19",
+    "likes": "7",
+    "comments": "21",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 42.5,
+    "postId": "521085554595481_1014241291946569"
+  },
+  {
+    "order": "# 3",
+    "likes": "286",
+    "comments": "31",
+    "shares": "40",
+    "vote": -500,
+    "Rplus": "tada",
+    "Clementtang": "tada",
+    "calcSum": -1087.5,
+    "postId": "521085554595481_1012818395422192"
+  },
+  {
+    "order": "# 5",
+    "likes": "181",
+    "comments": "36",
+    "shares": "14",
+    "vote": -500,
+    "Clementtang": "tada",
+    "Rplus": "tada",
+    "calcSum": -1237,
+    "postId": "521085554595481_1013067788730586"
+  }
+]
