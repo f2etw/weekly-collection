@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-06-12",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/013/",
+    "title": "Collection #013",
+    "items": [
+      
+        {
+          "title": "寫在 Clairvoyance 發布之後：軟體開發者的社會責任 · De-bug: 一鍵跑版",
+          "url": "http://abalone0204.github.io/2016/06/16/clv-beta-version/",
+          "sharer": "Denny Ku",
+          "sharer-id": "841989239187866",
+          "permalink": "https://fb.com/521085554595481_1013570142013684",
+          "time": "2016-06-15T18:23:50+0000",
+          "intro": "Denny Ku 將他製作 Clairvoyance extension 的想法與心得記錄下來，包括後續功能開發的抉擇、是否進行商業化，及職責的反思"
+        }
+        ,
+        
+        {
+          "title": "[心得] 寫了一個在人力銀行職缺下留言的插件",
+          "url": "https://www.ptt.cc/bbs/Soft_Job/M.1465759641.A.E57.html",
+          "sharer": "Ott Ben",
+          "sharer-id": "999629473381396",
+          "permalink": "https://fb.com/521085554595481_1012284625475569",
+          "time": "2016-06-13T04:48:04+0000",
+          "intro": "Clairvoyance ─ 求職天眼通，是一款可以在各大人力銀行頁面中留言及討論的開源 Chrome extension，開發者 Denny Ku 在這篇文章也提及了對職缺環境的一些想法及可嘗試的作為"
+        }
+        ,
+        
+        {
+          "title": "Innovation Chat",
+          "url": "https://goo.gl/XrwyOc",
+          "sharer": "林宛諭",
+          "sharer-id": "1165621783458119",
+          "permalink": "https://fb.com/521085554595481_1014290711941627",
+          "time": "2016-06-17T04:13:17+0000",
+          "intro": "可作為開發時備忘的一份精巧 HTTP Response Code Cheatsheet"
+        }
+        ,
+        
+        {
+          "title": "OA&amp;#39;s 數字翻轉計數器",
+          "url": "http://works.ioa.tw/number_flipping_counter/index.html",
+          "sharer": "吳政賢",
+          "sharer-id": "1066773103336031",
+          "permalink": "https://fb.com/521085554595481_1012215045482527",
+          "time": "2016-06-13T00:56:01+0000",
+          "intro": "吳政賢分享個人撰寫的翻轉式計數器。使用不同 class 來為數字轉盤定位，而達成轉動動畫效果"
+        }
+        ,
+        
+        {
+          "title": "Google Fonts",
+          "url": "https://t.co/E83JbVEvTp",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1013754088661956",
+          "time": "2016-06-16T02:47:44+0000",
+          "intro": "Google Fonts 網站改版，在功能選取上更加簡便，並使用動態調整 DOM 的 node 數量來提高效能"
+        }
+        ,
+        
+        {
+          "title": "沒一村前端筆記",
+          "url": "https://noootown.wordpress.com/2016/06/11/div-span/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_1011857492184949",
+          "time": "2016-06-12T09:36:11+0000",
+          "intro": "簡介 CSS inline &amp; block 差異"
+        }
+        ,
+        
+        {
+          "title": "Atomic CSS 介紹 « 湯姆餡",
+          "url": "http://tom76kimo-blog.logdown.com/posts/737611-atomic-css-introduction",
+          "sharer": "吳明憲",
+          "sharer-id": "10153117088408051",
+          "permalink": "https://fb.com/521085554595481_1014271155276916",
+          "time": "2016-06-17T03:05:46+0000",
+          "intro": "吳明憲簡介了 Atomic CSS 的使用方式；Atomic CSS 為 Yahoo! 開發的，是種在應用 OOCSS 的理念下，又能自動生成對應 class ，適合應對大型專案的奇妙開發方式"
+        }
+        ,
+        
+        {
+          "title": "The Web Platform: Browser technologies",
+          "url": "https://platform.html5.org/",
+          "sharer": "郭孝直",
+          "sharer-id": "10203537517513403",
+          "permalink": "https://fb.com/521085554595481_1014423671928331",
+          "time": "2016-06-17T10:51:57+0000",
+          "intro": "羅列了各種瀏覽器可用技術，附有 spec、MDN、Can I use &amp; 相關測試方法"
+        }
+        ,
+        
+        {
+          "title": "www.ryanyang0818.com",
+          "url": "http://www.ryanyang0818.com/demo/RUI/docs/r_roundProgressbar_example/demo.html",
+          "sharer": "楊宗穎",
+          "sharer-id": "10208527300355353",
+          "permalink": "https://fb.com/521085554595481_1012367095467322",
+          "time": "2016-06-13T08:52:39+0000",
+          "intro": "楊宗穎分享個人參考 jquery-circle-progress，用 canvas 撰寫的圓形 progress bar"
+        }
+        ,
+        
+        {
+          "title": "csscoke.com",
+          "url": "http://csscoke.com/test/gif/aaa.gif",
+          "sharer": "Amos Lee",
+          "sharer-id": "10153203944282889",
+          "permalink": "https://fb.com/521085554595481_1012816935422338",
+          "time": "2016-06-14T05:36:43+0000",
+          "intro": "Amos Lee 分享一個 Emmet 的快捷操作方式(custom attribute operators)"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-06-05",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/012/",
