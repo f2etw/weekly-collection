@@ -46,6 +46,9 @@ Promise.all([top20, top20Voted]).then(v => {
   var top20 = v[0];
   var top20Voted = v[1];
 
+  // get the original picture from fb cdn
+  top20.forEach(i => i.cover = i.picture ? decodeURIComponent(i.picture.split(/&url=([^&]+)/)[1]) : '');
+
   var top10Voted = top20Voted.slice(0, 10);
 
   var top10yaml = top10Voted.map(i => {
