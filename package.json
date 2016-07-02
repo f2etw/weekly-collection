@@ -8,6 +8,7 @@
     "jekyllServe": "jekyll serve --port 9527",
     "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open",
     "getFeeds": "browser-sync start --server '.weekly-feed/' --startPath './getData/?since=2016-03-13&top10=&yaml' --files '.weekly-feed/**/*'",
+    "pullFeeds": "node .weekly-feed/getData/pullFeeds.js",
     "css": "postcss --no-map -c postcssconfig.json",
     "build": "JEKYLL_ENV=production jekyll b && npm run css",
     "deploy": "npm run build && gh-pages -d _site",
@@ -30,6 +31,7 @@
     "gh-pages": "^0.11.0",
     "gulp": "^3.9.1",
     "postcss-cli": "^2.5.1",
-    "postcss-csso": "^1.0.1"
+    "postcss-csso": "^1.0.1",
+    "yargs": "^4.7.1"
   }
 }
