@@ -7,7 +7,9 @@
     "dev": "npm run jekyllServe & npm run browserSync & wait",
     "jekyllServe": "jekyll serve --port 9527",
     "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open",
-    "getFeeds": "browser-sync start --server '.weekly-feed/' --startPath './getData/?since=2016-03-13&top10=&yaml' --files '.weekly-feed/**/*'",
+    "pullFeeds": "node .weekly-feed/getData/pullFeeds.js",
+    "calcTop10": "node .weekly-feed/getData/calcTop10.js",
+    "queryVote": "node .weekly-feed/getData/queryVote.js",
     "css": "postcss --no-map -c postcssconfig.json",
     "build": "JEKYLL_ENV=production jekyll b && npm run css",
     "deploy": "npm run build && gh-pages -d _site",
@@ -29,7 +31,12 @@
     "css-mqpacker": "^4.0.1",
     "gh-pages": "^0.11.0",
     "gulp": "^3.9.1",
+    "jsdom": "^9.3.0",
+    "mustache": "^2.2.1",
+    "mz": "^2.4.0",
     "postcss-cli": "^2.5.1",
-    "postcss-csso": "^1.0.1"
+    "postcss-csso": "^1.0.1",
+    "request": "^2.72.0",
+    "yargs": "^4.7.1"
   }
 }
