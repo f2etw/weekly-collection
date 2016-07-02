@@ -8,3 +8,5 @@ _site
 Gemfile
 Gemfile.lock
 node_modules
+.weekly-feed/getData/FBToken.js
+.weekly-feed/issue-*.json
