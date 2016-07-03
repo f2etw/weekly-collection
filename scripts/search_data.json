@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-06-19",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/014/",
+    "title": "Collection #014",
+    "items": [
+      
+        {
+          "title": "HTML Secrets: HTML can do whaaat?!",
+          "url": "https://t.co/XX1XHi9J6D",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1018337444870287",
+          "time": "2016-06-24T14:55:18+0000",
+          "intro": "Lea Verou 在 CSS Day 2016 的演講中分享了諸多 HTML 相關神妙技巧 ㊙ 非常推薦一讀 ✨"
+        }
+        ,
+        
+        {
+          "title": "Web Accessibility | Udacity",
+          "url": "https://t.co/64hJnqkhyv",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1017282864975745",
+          "time": "2016-06-22T15:33:06+0000",
+          "intro": "Google 跟 Udacity 合作開了一門免費的 Web Accessibility 線上課程，透過課程可學習到扎實的 a11y 基本功！💪"
+        }
+        ,
+        
+        {
+          "title": "練習以 ReactJS 實作 POS 點單介面",
+          "url": "https://rz12345.github.io/react-demo/wPOS/",
+          "sharer": "Rz Chen",
+          "sharer-id": "1055611534453228",
+          "permalink": "https://fb.com/521085554595481_1015450715158960",
+          "time": "2016-06-19T08:00:30+0000",
+          "intro": "Rz Chen 在看了「24 小時，React 快速入門」後，以點菜系統做為 React 的練習作品 👏"
+        }
+        ,
+        
+        {
+          "title": "Monaco Editor",
+          "url": "https://microsoft.github.io/monaco-editor/index.html",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1016680755035956",
+          "time": "2016-06-21T15:20:08+0000",
+          "intro": "Monaco Editor 是微軟基於自家的 VS Code 而製作的一款開源網頁文字編輯器，除了一般常見的編輯器功能外，還有不少趣味且實用的功能等你探索唷 ☕"
+        }
+        ,
+        
+        {
+          "title": "105高雄大學資管系 web 前端開發專題",
+          "url": "https://hackpad.com/105-web--1rkiGxwMT3A",
+          "sharer": "廖洧杰",
+          "sharer-id": "996025350417110",
+          "permalink": "https://fb.com/521085554595481_1016422958395069",
+          "time": "2016-06-21T04:15:55+0000",
+          "intro": "廖洧杰利用高雄 open data 資料讓高雄大學學生實作各種主題的專題，並將各專題整理在 hackpad 上，以作為期末專題成果展示 🌱"
+        }
+        ,
+        
+        {
+          "title": "Web Design Clip | Webデザインクリップ",
+          "url": "http://www.webdesignclip.com/",
+          "sharer": "Ya Jing",
+          "sharer-id": "1024191214301340",
+          "permalink": "https://fb.com/521085554595481_1016424988394866",
+          "time": "2016-06-21T04:26:16+0000",
+          "intro": "Ya Jing 分享了這個收集了許多日系設計風格的網站列表，可作為靈感啟發或是技術研究的對象 ♨"
+        }
+        ,
+        
+        {
+          "title": "www.ryanyang0818.com",
+          "url": "http://www.ryanyang0818.com/demo/RUI/docs/r_slidepanel_example/demo2.html",
+          "sharer": "楊宗穎",
+          "sharer-id": "10208527300355353",
+          "permalink": "https://fb.com/521085554595481_1016534471717251",
+          "time": "2016-06-21T09:07:59+0000",
+          "intro": "楊宗穎了自己撰寫的 off-Canvas 風格並帶有模糊 overlay 的側欄佈局 plugin 🐬"
+        }
+        ,
+        
+        {
+          "title": "OldNews design",
+          "url": "https://lichin.me/blog/2016/06/25/oldnews-design",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_1018775261493172",
+          "time": "2016-06-25T09:54:43+0000",
+          "intro": "林立秦引用 Codrops 設計風格實作 SoftBank 報紙風格的個人動態牆 📮"
+        }
+        ,
+        
+        {
+          "title": "EU referendum results – live tracker",
+          "url": "http://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis",
+          "sharer": "Moshi Huang",
+          "sharer-id": "1072714999409439",
+          "permalink": "https://fb.com/521085554595481_1018127881557910",
+          "time": "2016-06-24T04:17:34+0000",
+          "intro": "由英國衛報所製，以資料視覺化呈現脫歐公投各種投票資訊與比例，包括主訴求、區域性、年齡分佈與教育程度等等 🔎"
+        }
+        ,
+        
+        {
+          "title": "commitizen&amp;#x2F;cz-cli",
+          "url": "https://github.com/commitizen/cz-cli",
+          "sharer": "YuTin Liu",
+          "sharer-id": "10203040395925690",
+          "permalink": "https://fb.com/521085554595481_1016532881717410",
+          "time": "2016-06-21T09:05:11+0000",
+          "intro": "主要是希望幫忙 contributors 能更便利地輸入正確的 commit message；透過以 `git cz` 來 commit，可自動選擇訊息類型，還可驗證正確性。是款方便的開源協作輔助工具 🍺"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-06-12",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/013/",
