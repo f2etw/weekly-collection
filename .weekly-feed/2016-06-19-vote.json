@@ -1,0 +1,201 @@
+[
+  {
+    "order": "# 1",
+    "likes": "151",
+    "comments": "13",
+    "shares": "45",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 266.5,
+    "postId": "521085554595481_1018337444870287"
+  },
+  {
+    "order": "# 2",
+    "likes": "151",
+    "comments": "0",
+    "shares": "31",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 219,
+    "postId": "521085554595481_1017282864975745"
+  },
+  {
+    "order": "# 3",
+    "likes": "127",
+    "comments": "17",
+    "shares": "9",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "Clementtang": "+1",
+    "calcSum": 179.5,
+    "postId": "521085554595481_1015450715158960"
+  },
+  {
+    "order": "# 4",
+    "likes": "93",
+    "comments": "7",
+    "shares": "27",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "Clementtang": "+1",
+    "calcSum": 166.5,
+    "postId": "521085554595481_1016680755035956"
+  },
+  {
+    "order": "# 6",
+    "likes": "114",
+    "comments": "1",
+    "shares": "0",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 118.5,
+    "postId": "521085554595481_1016422958395069"
+  },
+  {
+    "order": "# 7",
+    "likes": "97",
+    "comments": "5",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 104.5,
+    "postId": "521085554595481_1016424988394866"
+  },
+  {
+    "order": "# 8",
+    "likes": "64",
+    "comments": "0",
+    "shares": "7",
+    "vote": 1,
+    "ryrocks": "+1",
+    "calcSum": 81,
+    "postId": "521085554595481_1016534471717251"
+  },
+  {
+    "order": "# 9",
+    "likes": "50",
+    "comments": "4",
+    "shares": "4",
+    "vote": 3,
+    "Rplus": "+1",
+    "ryrocks": "+1",
+    "Clementtang": "+1",
+    "calcSum": 73,
+    "postId": "521085554595481_1018775261493172"
+  },
+  {
+    "order": "# 10",
+    "likes": "40",
+    "comments": "2",
+    "shares": "10",
+    "vote": 0,
+    "Clementtang": "tada",
+    "calcSum": 63,
+    "postId": "521085554595481_1018127881557910"
+  },
+  {
+    "order": "# 11",
+    "likes": "30",
+    "comments": "10",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 49,
+    "postId": "521085554595481_1016532881717410"
+  },
+  {
+    "order": "# 12",
+    "likes": "3",
+    "comments": "21",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 36.5,
+    "postId": "521085554595481_1016686295035402"
+  },
+  {
+    "order": "# 13",
+    "likes": "11",
+    "comments": "16",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 35,
+    "postId": "521085554595481_1017128494991182"
+  },
+  {
+    "order": "# 14",
+    "likes": "6",
+    "comments": "11",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 22.5,
+    "postId": "521085554595481_1018112138226151"
+  },
+  {
+    "order": "# 15",
+    "likes": "15",
+    "comments": "2",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 20,
+    "postId": "521085554595481_1018115428225822"
+  },
+  {
+    "order": "# 16",
+    "likes": "6",
+    "comments": "7",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 18.5,
+    "postId": "521085554595481_1016002691770429"
+  },
+  {
+    "order": "# 18",
+    "likes": "17",
+    "comments": "0",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 17,
+    "postId": "521085554595481_1017200971650601"
+  },
+  {
+    "order": "# 19",
+    "likes": "1",
+    "comments": "9",
+    "shares": "0",
+    "vote": 0,
+    "calcSum": 14.5,
+    "postId": "521085554595481_1018365081534190"
+  },
+  {
+    "order": "# 20",
+    "likes": "5",
+    "comments": "3",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 11.5,
+    "postId": "521085554595481_1019019194802112"
+  },
+  {
+    "order": "# 5",
+    "likes": "115",
+    "comments": "18",
+    "shares": "4",
+    "vote": -500,
+    "Rplus": "tada",
+    "Clementtang": "tada",
+    "calcSum": -1350,
+    "postId": "521085554595481_1017561634947868"
+  },
+  {
+    "order": "# 17",
+    "likes": "18",
+    "comments": "0",
+    "shares": "0",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1482,
+    "postId": "521085554595481_1015846088452756"
+  }
+]
