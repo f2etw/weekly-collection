@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npm run jekyllServe & npm run browserSync & wait",
     "jekyllServe": "jekyll serve --port 9527",
-    "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open",
+    "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open --reload-delay=1000",
     "pullFeeds": "node .weekly-feed/getData/pullFeeds.js",
     "calcTop10": "node .weekly-feed/getData/calcTop10.js",
     "queryVote": "node .weekly-feed/getData/queryVote.js",
