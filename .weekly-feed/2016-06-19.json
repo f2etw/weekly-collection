@@ -1,0 +1,680 @@
+[
+  {
+    "shares": {
+      "count": 45
+    },
+    "created_time": "2016-06-24T14:55:18+0000",
+    "updated_time": "2016-06-25T12:02:06+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "上週在荷蘭阿姆斯特丹舉辦的 CSS Day 2016\n已經有許多精采的簡報可以瞧瞧囉~ 👀✨\n\nCSS 女神 Lea Verou 這次有點特別的是在第一天的 HTML Special Day 裡\n講的主題是圍繞在 HTML 各種新奇的小秘密 ㊙\n\n推薦好奇寶寶們可以瞭解一下新世界~ 🚀\n\nHTML Secrets\nby Lea Verou 2016-06-16\nhttp://leaverou.github.io/html-secrets/\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/XX1XHi9J6D",
+    "name": "HTML Secrets: HTML can do whaaat?!",
+    "description": "if (!(\"srcdoc\" in document.createElement(\"iframe\"))) { $$(\"iframe[srcdoc]\").forEach(iframe => { var srcdoc = iframe.getAttribute(\"srcdoc\"); iframe.src = \"data:text/html,\" + srcdoc; }); }",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTEuF6vK01AHGS&w=130&h=130&url=http%3A%2F%2Fleaverou.github.io%2Fhtml-secrets%2Fimg%2Fme-pirate.png&cfs=1",
+    "id": "521085554595481_1018337444870287",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 151
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      260.5,
+      151,
+      13,
+      45
+    ]
+  },
+  {
+    "shares": {
+      "count": 31
+    },
+    "created_time": "2016-06-22T15:33:06+0000",
+    "updated_time": "2016-06-22T15:33:06+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "你也希望做出來的網頁有著滿滿的愛嗎？ <3\n\n針對 Web Accessibility，\nGoogle 跟 Udacity 合作開了一門免費的線上課程\n\n專門指導實作 a11y 網站的細節：\n語義、ARIA、foucs w/ input & 相關的 CSS 選擇器…\n\n非常推薦來學學唷~  <3 <3 <3 ~\n\nWeb Accessibility [course]\nby Google + Udacity\nhttps://www.udacity.com/course/web-accessibility--ud891\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/64hJnqkhyv",
+    "name": "Web Accessibility | Udacity",
+    "description": "In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the “how”",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDSOi59-oeXQfCY&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FmmFuCgIZGljp-Auc8mj_G7eig-0Ui5vtIQ0UTRg6zZvZGKNdgX4x6-2_mnY-vd9IMR_bDQkGglYem33jzeM%3Ds0%23w%3D925%26h%3D470&cfs=1&sx=200&sy=0&sw=470&sh=470",
+    "id": "521085554595481_1017282864975745",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 151
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      213,
+      151,
+      0,
+      31
+    ]
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-06-19T08:00:30+0000",
+    "updated_time": "2016-06-21T23:46:41+0000",
+    "from": {
+      "name": "Rz Chen",
+      "id": "1055611534453228"
+    },
+    "message": "大家好，小弟前一陣子參考 \"24 小時，React 快速入門\" 學習了 ReactJS 一陣子後\n試做了一個網頁版的 POS 模擬點單的介面，放上 github 與前輩們交流，作為學習 ReactJS 的紀錄\ndemo: https://rz12345.github.io/react-demo/wPOS/\nsource: https://github.com/rz12345/react-demo/tree/master/wPOS\n後端部分，在原始環境我用 laravel 作為後台。前端部分，用 ReactJS + bootstrap。\n* 原始環境中，在[點單]介面送單後，後台會紀錄點單紀錄, demo 部分拔掉 POST, DELETE 動作\n* 順便借問有沒有推薦學習介面設計的線上資源， 這一塊很苦手只能先用 bootstarp 先拉一拉 QQ",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://rz12345.github.io/react-demo/wPOS/",
+    "name": "POS",
+    "id": "521085554595481_1015450715158960",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 127
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      170.5,
+      127,
+      17,
+      9
+    ]
+  },
+  {
+    "shares": {
+      "count": 27
+    },
+    "created_time": "2016-06-21T15:20:08+0000",
+    "updated_time": "2016-06-21T15:30:38+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "微軟基於它家的 VS Code\n做了一款開源的網頁文字編輯器：Monaco Editor\n\n除了標配的各種程式 highlight、theme 以外\n裡頭也有一些 VS Code 的基本功能\n( 這一頁裡有小地圖、自動完成、tooltip\n\n比較特別的還有 diff 編輯模式、Go to Definition、多重輸入…\n有興趣的可以好好探索一番~ \n\nMonaco Editor\nby Microsoft\nhttps://microsoft.github.io/monaco-editor/\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://microsoft.github.io/monaco-editor/index.html",
+    "name": "Monaco Editor",
+    "description": "HTML, XML, PHP, C#, C++, Razor, Markdown, Diff, Java, VB, CoffeeScript, Handlebars, Batch, Jade, F#, Lua, Powershell, Python, SASS, R, Objective-C",
+    "id": "521085554595481_1016680755035956",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 93
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      157.5,
+      93,
+      7,
+      27
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-23T03:02:18+0000",
+    "updated_time": "2016-06-23T16:13:38+0000",
+    "from": {
+      "name": "陳威庭",
+      "id": "862617323818878"
+    },
+    "message": "各位前輩好\n敝公司 VMFive 正在大舉徵才，有以下職缺，歡迎大家參考看看 :)\n\n1) Senior Front-End Web Engineer \n2) Visual Designer\n3) Android engineer\n4) Software Engineer in Test\n5) QA Engineer\n\n更多職缺請查看：http://bit.ly/vm5f2etw\n\n【 關於 VMFive 】\n第五代虛擬科技股份有限公司 (VMFive) 是一間致力於服務全球性市場的雲端新創公司，結合了雲端化、虛擬化、App 串流、大數據等技術，打造全球最創新的行動廣告體驗技術，率先推出 AdPlay — 遊戲 App 下載前的試玩服務。\n2015 年 12 月獲得趨勢科技、開發國際、通用移動、心元資本 投資 600 萬美元( 約 1.8 億新台幣 )，並在今年年初設立日本辦公室。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://bit.ly/vm5f2etw",
+    "name": "VMFive",
+    "description": "VMFive  是一個致力於服務全球性市場的雲端新創公司，結合了雲端化、虛擬化、App 串流、大數據等技術，打造全球最創新的行動 廣告體驗技術...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyazhIcM-EB9yX&w=130&h=130&url=http%3A%2F%2Fjoin-vm5.weebly.com%2Fuploads%2F3%2F2%2F2%2F6%2F32260447%2F3754719_orig.jpg&cfs=1&sx=165&sy=0&sw=800&sh=800",
+    "id": "521085554595481_1017561634947868",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 115
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 18
+      }
+    },
+    "power": [
+      150,
+      115,
+      18,
+      4
+    ]
+  },
+  {
+    "created_time": "2016-06-21T04:15:55+0000",
+    "updated_time": "2016-06-21T04:57:54+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "996025350417110"
+    },
+    "message": "這裡分享我在高雄大學教大二、大三的學生前端期末專題，\n平常都會有學生詢問說該如何累積前端作品，\n我會建議拿政府 OPEN DATA 來去思考 user story(使用者故事)後，\n並試著設計出 prototype 也是不錯的選擇，\n\n學生的期末專題也用到不少 framework 與 介接第三方 API 的服務，\n像是 jQuery、D3.JS、Google Map API，\n也提供給各位參考 :D\n\n東西都是放在 Github pages 上，\n如果有發現 BUG 也可以丟 issue、pr 給他們　XD",
+    "id": "521085554595481_1016422958395069",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 114
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      115.5,
+      114,
+      1,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-06-21T04:26:16+0000",
+    "updated_time": "2016-06-21T08:30:00+0000",
+    "from": {
+      "name": "Ya Jing",
+      "id": "1024191214301340"
+    },
+    "message": "日系網站懶人包🙌",
+    "link": "http://goo.gl/bgpMW7",
+    "name": "Innovation Chat",
+    "description": "喜歡日系網站設計風格的粉絲們有福啦～\n\n這個網站蒐羅了許多好特色好美麗的網站，網站還提供瀏覽者切換web/mobile哦！逛逛這個濃濃日系的網站設計，也許更美好的靈感就降臨啦～",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDuOdM1wXniUlNz&w=130&h=130&url=http%3A%2F%2Fwww.webdesignclip.com%2Fimg%2Fogp.png&cfs=1",
+    "id": "521085554595481_1016424988394866",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 97
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      104.5,
+      97,
+      5,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-06-21T09:07:59+0000",
+    "updated_time": "2016-06-21T09:07:59+0000",
+    "from": {
+      "name": "楊宗穎",
+      "id": "10208527300355353"
+    },
+    "message": "今天又整理了一個以前寫的套件\n是作手機網站常常會遇到的slidepanel的功能\n加上了背景模糊的功能，希望大家喜歡。\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ryanyang0818.com/demo/RUI/docs/r_slidepanel_example/demo2.html",
+    "name": "www.ryanyang0818.com",
+    "description": "r_slidepanel是一個非常輕量化的jQuery slide panel套件。 支援上下左右四個方向。 並且針對手機，會變成全螢幕的選單。",
+    "id": "521085554595481_1016534471717251",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 64
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      78,
+      64,
+      0,
+      7
+    ]
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-25T09:54:43+0000",
+    "updated_time": "2016-06-26T14:17:36+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "嗨大家好～期末考結束後\n我剛好看到一段SoftBank放的影片:\nhttps://www.youtube.com/watch?feature=youtu.be&v=yY12m7tjghI&app=desktop\n對於裡頭為老年人設計的報紙頗感興趣\n於是試著做一下FB連結新聞的練習\n--\n這是Demo頁面:\nhttps://lichin.me/OldNews/\n以及我的一些想法:\nhttps://lichin.me/blog/2016/06/25/oldnews-design\n要是覺得不錯的話 也可以多多分享讓大家看到><\n--\n大家有任何的問題都可以提出討論(版型跑掉，寫壞了...)\n或是對於我使用FB API上有任何錯誤也可以指導我:D\n(這是我第一次使用graph API)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://lichin.me/blog/2016/06/25/oldnews-design",
+    "name": "OldNews design",
+    "description": "connect your FB post with latest news!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDCudUmBkf71jqk&w=130&h=130&url=https%3A%2F%2Flichin.me%2Fimg%2FOldNews%2FOldNews-desktop.png&cfs=1",
+    "id": "521085554595481_1018775261493172",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      64,
+      50,
+      4,
+      4
+    ]
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-06-24T04:17:34+0000",
+    "updated_time": "2016-06-24T13:29:14+0000",
+    "from": {
+      "name": "Moshi Huang",
+      "id": "1072714999409439"
+    },
+    "message": "英國脫歐公投搭配資料視覺化",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis",
+    "name": "EU referendum results – live tracker",
+    "description": "Will it be a leave or a remain vote? Whether it’s Brexit or the status quo, follow our live results tracker for the results of polling as they come in",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBfMYjDOjZy7juL&w=130&h=130&url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F7e2c81412e4ee5172d316c7b792f111a464332ce%2F0_0_800_480%2F800.jpg%3Fw%3D1200%26h%3D632%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D2d11b28579182495c3b084592f4dbccb&cfs=1",
+    "id": "521085554595481_1018127881557910",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 40
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      63,
+      40,
+      2,
+      10
+    ]
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-21T09:05:11+0000",
+    "updated_time": "2016-06-21T10:16:09+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "這個 commit 工具好像蠻好用der.\n規則幾乎跟 http://karma-runner.github.io/0.13/dev/git-commit-msg.html 一樣!!",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/commitizen/cz-cli",
+    "name": "commitizen/cz-cli",
+    "description": "cz-cli - The commitizen command line utility.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBCCY4qwWhiX092&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F11980392%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1016532881717410",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 30
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      49,
+      30,
+      10,
+      2
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-21T15:35:59+0000",
+    "updated_time": "2016-06-27T10:37:17+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "大家好，又來問大家的做法了XD\n\n想問一下 RWD 的觀念與想法:\n\n如果現在大畫面上有個導覽列 HOME/SHOP/ABOUT....\n\n在行動裝置上檢視時，希望點選選單按鈕以後會從頂部\n\n滑出垂直的:\nHOME\nSHOP\nABOUT\n\n以這個例子，各位是將原先的導覽列完全用 media query 改成垂直式的樣式，還是會將原本的導覽列隱藏，重新做一個屬於行動裝置的style，並顯示出來呢??",
+    "id": "521085554595481_1016686295035402",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      36.5,
+      3,
+      21,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-06-22T10:31:52+0000",
+    "updated_time": "2016-06-23T18:15:06+0000",
+    "from": {
+      "name": "Derek Wang",
+      "id": "920437281311659"
+    },
+    "message": "來請問一個RWD CSS 的問題，\n在iphone 上我常碰到同樣是1em 的字，直向載入後轉橫向字會變大是？？\n感謝！！",
+    "id": "521085554595481_1017128494991182",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 11
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      35,
+      11,
+      16,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-06-24T03:31:32+0000",
+    "updated_time": "2016-06-24T08:05:57+0000",
+    "from": {
+      "name": "Gias Kay Lee",
+      "id": "10152992729393175"
+    },
+    "message": "差不多要開始搶票了... 大概統計一下 今年有誰會去😂",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://2016.jsconf.asia/",
+    "name": "JSConf.Asia - 25+26 Nov 2016, Singapore",
+    "description": "5 years of Southeast Asia's largest web developer conference. Spread the word. Follow us on Twitter @jsconfasia",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDAacDk894DuB09&w=130&h=130&url=https%3A%2F%2F2016.jsconf.asia%2Fassets%2Fog_jsconfasia.png&cfs=1",
+    "id": "521085554595481_1018112138226151",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      22.5,
+      6,
+      11,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-24T03:41:30+0000",
+    "updated_time": "2016-06-24T14:08:33+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "剛剛在 WWDC 頁面上看到有網頁版的 Apple Maps，想請問各位大大，知道 Apple Maps 有釋出網頁版 API 嗎！？\n\n還是說這只有他們自家用的而已XD\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://developer.apple.com/wwdc/attending/",
+    "name": "Attending - WWDC 2016 - Apple Developer",
+    "description": "Learn about WWDC 2016 locations and attendance information.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDkwN0aTTqEKZ8M&w=130&h=130&url=https%3A%2F%2Fdeveloper.apple.com%2Fwwdc%2Fimages%2Fwwdc16-og.jpg&cfs=1",
+    "id": "521085554595481_1018115428225822",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      20,
+      15,
+      2,
+      1
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-20T09:29:00+0000",
+    "updated_time": "2016-06-20T13:40:42+0000",
+    "from": {
+      "name": "Td Liao",
+      "id": "1345770958775140"
+    },
+    "message": "我這邊有碰到一個奇怪的問題 情境是這樣的\n\n開發一個SPA的web，點選某個連結，會用window.open一個新視窗，連到不同domain的網站\n然後再到原本的page點一個連結(自己的domain)，會ajax抓回一些資料顯示出來\n\n這在firefox都很正常，但是在chrome就會發生某些字無法顯示，但是html上的確是有這些dom element\n出現的條件就是window.open一個不同domain的網站就會這樣，有些字不見，但是ajax都有正常跑到\n如果window.open的是自己domain的網站，就不會出現這個問題\n我有看過正常顯示時候的html跟字消失時候的html完全一樣\n\n然後當在chrome，字消失的時候，如果自己去調整瀏覽器大小，字就會出現\n但是在code裡面強制window resize不會出現\n或是自己開F12 ，隨便uncheck那個區域的某個css，字也會正常出現\n\n最後是把該區域使用到的字型 `futura_mdcn_btmedium` 改掉  就都可以正常顯示\n有人遇過這種奇怪的問題嗎?",
+    "id": "521085554595481_1016002691770429",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      18.5,
+      6,
+      7,
+      1
+    ]
+  },
+  {
+    "created_time": "2016-06-20T01:02:43+0000",
+    "updated_time": "2016-06-20T01:02:43+0000",
+    "from": {
+      "name": "王志誠",
+      "id": "1120548697961771"
+    },
+    "message": "哈囉，各位好\n\n我們的六角學院持續推出新課程\n「使用 jQuery 打造互動性網頁動畫效果」！\n儘管你沒有 JavaScript 基礎，\n也能夠輕易使用 jQuery 設計你要的動畫效果，\n\n在這裡也特別感謝具豐富教學經驗的 Muki wu，\n來擔任 jQuery 課程顧問，\n她也從中提出許多寶貴建議讓此課程更臻完善。\n\n為慶祝新課程上線與學院學生數即將破千，\n我們首度推出課程限時優惠，\n6/20（一）～6/26（日）全面線上影音課程只要 49 折！\n讓大家用相同的價格就能一次買齊 HTML+CSS+jQ 完整教學 ^_^\n\nPS：另外我們粉絲頁有分享抽贈品活動，\n獎項有 Sublime Text 3、jQuery書與馬克杯\n也歡迎大家來參加 :D",
+    "link": "http://www.hexschool.com/",
+    "name": "六角學院",
+    "description": "✨分享留言抽獎活動✨\n六角學院推出新課程「使用 jQuery 打造互動性網頁動畫效果」\n🎉6/20（一）～6/26（日）全面線上影音課程 49 折！🎉\n快分享給想學網頁的朋友順便抽獎品啦~\n　\n🎁 抽獎贈品：\n✨頭獎(1組)：「Sublime Text 3」正式版序號\n✨貳獎(3組)： 書籍：邁向 jQuery 達人的階梯\n✨參獎(3組)： 六角學院馬克杯\n　\n🚻 抽獎方式：\n1. 加入【六角學院】粉絲團\n2. 分享此篇並在底下留言，「已分享，大家試試看 HTML+CSS+jQuery 線上影音課程吧！」\n\n\n\nhttp://www.hexschool.com/",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD7ktYEtaj7Mw8v&w=130&h=130&url=http%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJkCL2zSaf986gS449T1QKuKcY2hsbX0-4MwBfpyP9ccALzAmd9o3OCJzwlmNTW3v-lNYhf6QuxjyHB4jMTBBd_-qotkl4bwwkACytxUgFJH6rL_acLR9Iu9_bOhG8iGmFtnBOF4IaTmaYGGeOA06jO&cfs=1",
+    "id": "521085554595481_1015846088452756",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 18
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      18,
+      18,
+      0,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-06-22T13:05:55+0000",
+    "updated_time": "2016-06-22T13:05:55+0000",
+    "from": {
+      "name": "Keynes Cheng",
+      "id": "10156012291300293"
+    },
+    "message": "各位開發者大家好 ：）\n\n我們目前為 Google Cloud Platform 全球 Premier Partner 頂級合作夥伴, 有在用、有想用 Google Cloud Platform 的朋友, 可以來找我們聊聊, 我們願意用 LIVEhouse.in deploy 的經驗來為大家提供協助：）\n\n#我們可以開發票",
+    "id": "521085554595481_1017200971650601",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      17,
+      17,
+      0,
+      0
+    ]
+  },
+  {
+    "created_time": "2016-06-24T15:58:17+0000",
+    "updated_time": "2016-06-24T17:28:36+0000",
+    "from": {
+      "name": "周庭鈺",
+      "id": "651697484978033"
+    },
+    "message": "不曉得這樣的了解有沒有誤\npolling 是 客戶端對伺服器，每一時間間距執行一次 request 詢問新資料\n\nlong-polling 是客戶端對伺服器發送一次 request 伺服器會進入檢查迴圈，一有新data就輸出並關閉連線，使用者收到後再重複一次request\n只是聽說WAF設定沒設好，如果強制在30秒內中斷http連線，long-polling會悲劇(這是真的嗎?)\n偷偷看了一下fb的messger，似乎是long-polling的方式?\n\nsse感覺比較像是polling，我看到F12一直長出新的連線\n老實說還不是很了解sse\n\nwebsocket感覺就是真的不間斷保持連線，因為他已經不是http協定了\n可是人數多的時候，過多連線數會不會造成伺服器問題?\n\n有人有對這幾項方法有什麼看法嗎？\n或是什麼經驗之類的\n(我會不會跑錯棚…？)",
+    "id": "521085554595481_1018365081534190",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      14.5,
+      1,
+      9,
+      0
+    ]
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-25T19:47:12+0000",
+    "updated_time": "2016-06-26T01:49:08+0000",
+    "from": {
+      "name": "柳君翰",
+      "id": "942423002443312"
+    },
+    "message": "最近在練習FB SDK的login功能\n想請教一下關於performance 相關問題..\n\n是這樣的，\nheader中，我的引入順序分別是\n1. facebookAPI ()\n2. sassLoader.js (裡面引入業面相關sass)\n3. 在body結尾引入index.bundle.js (將相關react bundle 載入 )\n\n這時候我的console順序是正常執行的\n但是facebook API載入的 sdk.js 實在是太慢了\n慢到整個react bundle都載玩了才開始跑\n\n如果未來要等到判斷fb是否登入\n還得等待載入以後才能依照權限和登入狀況給予適當畫面\n這樣的執行效能怕使用者會等待太久...\n\n目前我的解法是：\n透過sdk.js載入後被動執行checkLoginState()\n並在裡面給callback...\n\n目前希望練習優化的部分是：\n\n1. 除了透過callback require sassloader & index以外，\n有沒有辦法讓執行的順序是 facebook > sdk > sassloader > index...\n\n還請各位先進給與建議 QAQ\n\n= = = = = = = = =\nServer & client 開發環境是：nodejs  /  EXRESS\njs lib 是： native react",
+    "id": "521085554595481_1019019194802112",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 5
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      11.5,
+      5,
+      3,
+      1
+    ]
+  }
+]
