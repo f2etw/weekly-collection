@@ -1,0 +1,677 @@
+[
+  {
+    "shares": {
+      "count": 23
+    },
+    "created_time": "2016-06-27T09:20:16+0000",
+    "updated_time": "2016-06-28T05:52:13+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "這是我自己研究的純CSS點擊下拉式選單、以及如何用CSS解決過程中遇到的一些問題，大家可以參考看看。（有放一個範例在CodePen上面: http://codepen.io/arthurtw/pen/KMarNG ）\n\n國外有人嘗試解決這個問題，但iOS Safari的部份沒有解決。我有找出iOS Safari的解法，請參考文章內容。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/css-html/*6630",
+    "name": "純CSS點擊下拉式選單",
+    "description": "純CSS可以很容易做到hover下拉式選單，但要做到clickable下拉式選單，通常都必須配合JavaScript。在此跟大家分享我自己研究出來的純CSS點擊下拉式選單，範例放在CodePen...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBBA7gGvhgnuZoB&w=130&h=130&url=https%3A%2F%2Ftw.twincl.com%2Fassets%2Fimg%2Flogo-s.631.png&cfs=1",
+    "id": "521085554595481_1019798034724228",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 128
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 27
+      }
+    },
+    "power": [
+      214.5,
+      128,
+      27,
+      23
+    ],
+    "order": 1
+  },
+  {
+    "created_time": "2016-06-28T04:42:36+0000",
+    "updated_time": "2016-06-29T15:25:44+0000",
+    "from": {
+      "name": "Ya Jing",
+      "id": "1024191214301340"
+    },
+    "message": "「你要自己思考，你要做自己的設計，你要做自己的研究。」\n\n「測量、測試、檢驗。而且，當你發現你的想法有道理的話，也不需要畏懼違反既有的準則。」",
+    "link": "https://goo.gl/JTpsQH",
+    "name": "Innovation Chat",
+    "description": "有經驗的設計師幾乎都會認同，在 UI 設計的領域中，受到他人的啟發並不能與竊取創意畫上等號，有時候讓使用者掌握整個使用流程其實更為重要！\n> \n> 因此我們常常跟隨主流的腳步，但這篇文章列出了一些你可能會覺得是最佳的設計模式，而其實並沒有你所想得那麼好。\n> \n> https://goo.gl/JTpsQH",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBkgUzItbe8huI_&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLzG1-b4DOz6zMb70VskQpTrC16MW8U4jMlIr2TGmvWwGN2v1DHgq2oS8ZG0od-IbaJki_Ez8LGrtrOZnrU9aaRwFkLoyk9y4OMtdCifzdRD2y_x-P-IG7d9bHBTucOXEx1oNLaA5wCniu6B4wREsVr&cfs=1&sx=272&sy=0&sw=449&sh=449",
+    "id": "521085554595481_1020210754682956",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 116
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      122,
+      116,
+      4,
+      0
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-06-29T05:18:58+0000",
+    "updated_time": "2016-07-05T18:03:41+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "大家好，因為上次開JavaScript進階課的時候，有些人對入門課程有需求，所以我決定再開一個「JavaScript與前端程式設計入門」的課程。\n\n這個入門課程與一般課程不同的地方，是它還涵蓋了資料結構、演算法、網路協定等程式設計基本功，有興趣的人可以參考看看！（如果你有看過我之前寫的一篇「程式員求生指南：關於寫程式的二三事」，就會知道我為甚麼認為這些基本功很重要。）\n\n以下是課程大綱：\n- JavaScript\n- Data structure and algorithm\n- Network protocols\n- HTML\n- CSS\n- DOM API\n- Responsive web design\n\n詳細內容請參考課程說明。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/~acw/*g664",
+    "name": "[ACW 2016-08] JavaScript與前端程式設計入門",
+    "description": "課程特色：除了前端入門技術，本課程亦涵蓋資料結構、演算法、網路協定等程式設計基本功，幫助學習者奠定紮實的程式基礎 適合對象：具備程式基本概念的開發人員或初學者（至少懂變數、迴圈、陣列這三項）...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDFXSxwwS1EDci9&w=130&h=130&url=https%3A%2F%2Fdl.dropboxusercontent.com%2Fu%2F228423461%2Fimages%2Facw-201608-917ea9fe76be.jpg&cfs=1",
+    "id": "521085554595481_1020804427956922",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 76
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      110,
+      76,
+      8,
+      11
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-06-29T00:26:07+0000",
+    "updated_time": "2016-06-29T05:24:51+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "Hi 各位大大們早！來分享最近的作品！\n\n最近因為參加黑客松比賽，所以摸了一下新北政府的資料開放平台，其中找到了一個有趣的 API 於是就簡單的實作了這個簡單的網頁！\n\nhttp://works.ioa.tw/taipei_activities/\n\n這是項利用 新北市政府文化局藝文活動 API 所製作的台北 • 藝文活動。並且使用 php 將 API 資料取下來後編輯成 HTML 頁面，然後放置到 Amazon S3。\n\n網頁排版的話就盡量參照 Material Design，並且做成 響應式網頁設計(RWD) 的版型，讓手機用戶也可以方便瀏覽與輕鬆操作。\n\n切版是使用 compass 編譯 scss，頁面上的功能則是使用 JavaScript 完成互動功能，例如快速搜尋就是利用 jQuery 的 selector [name*=”value”] 模糊搜尋實作，再利用網址的 Hash 來做分類查詢。\n\n系統排程會在每日上午 6 時去取得最新的活動資訊，而目前只爬取新北市政府的開放資料，未來會補上台北市的部分，若是有發現其他縣市的活動 API，也會一併整理起來！\n\n以上若是覺得不錯，可以幫我在 GitHub 按個星星，鼓勵一下我吧：）\n\nGitHub：https://github.com/comdan66/taipei_activities/\n相關細項說明：http://www.ioa.tw/taipei-activities.html\n更多作品：http://www.ioa.tw/\n\n#藝文活動 #Material #RWD #Amazon",
+    "id": "521085554595481_1020671314636900",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 87
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      105,
+      87,
+      4,
+      6
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-06-29T08:38:54+0000",
+    "updated_time": "2016-06-30T13:41:00+0000",
+    "from": {
+      "name": "乃綠茶",
+      "id": "10206605802809705"
+    },
+    "message": "各位大家好\n米蘭營銷策劃正在徵\" NodeJS 工程師 \", 歡迎參考看看\n40K - 65K\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.104.com.tw/job/?jobno=4yho2&jobsource=n104bank1&hotjob_chr",
+    "name": "NodeJS 工程師_米蘭營銷策劃股份有限公司 - 104人力銀行",
+    "description": "迎接數位的時代。我們徵求對於 Web 有高度熱忱的夥伴一起創造新的互動感受。 在這裡，我們擁有一群強力的前端互動設計師，除了 HTML/Javascript 以外，也一直持續對其它的互動裝置/介面有高度的關注及瞭解。 在這裡，我們有一群天馬行空的創意團隊，常常會丟出充滿挑戰性的點子，讓工程師與創意能夠發揮出意想不到的成果。 在這裡，人都瘋瘋的，所以你也不用太正經。 工作內容： 1. 熟悉 NodeJS , MongoDB 等 NoSQL Database 2. 熟悉 Express 或其他 Web 開發框架 3. 熟悉 Git 開發流程，Bug issue tracking 4. 撰寫單元測試...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD-Fc1JYi3c4A5Q&w=130&h=130&url=http%3A%2F%2Fwww.104.com.tw%2Fimg%2Ffb_155x155_jb.gif&cfs=1",
+    "id": "521085554595481_1020854617951903",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 45
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 23
+      }
+    },
+    "power": [
+      83.5,
+      45,
+      23,
+      2
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-06-29T08:19:49+0000",
+    "updated_time": "2016-06-30T08:36:39+0000",
+    "from": {
+      "name": "陳柏融",
+      "id": "966822483415769"
+    },
+    "message": "之前在網頁中內嵌程式碼時，都是使用css和Google prettify來幫程式碼上色，最近發現prism這個外掛還蠻好用的！可以選擇不同的風格，提供css和js檔可以直接套用在網站上，而且還可以加上行號或highlight某幾行程式碼，重點是還蠻好看的！\n\n分享給有需要的人參考看看喔！",
+    "link": "https://pjchender.blogspot.tw/2016/06/prism-syntax-highlighting.html",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "【資源分享 - 給會在部落格撰寫程式碼的你】\n> \n> 最近逛MDN的時候發現它網站內嵌程式碼的樣式很好看，搜尋了一下發現幾個有名的網站CSS-Tricks和sitepoints都是使用Prism這個外掛幫程式碼上色的。\n> \n> 這篇文章和大家分享Prism使用的方法，讓大家在網頁中內嵌的程式碼更好看舒適！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA3ovcvqNo-kQI4&w=130&h=130&url=https%3A%2F%2F2.bp.blogspot.com%2F-Ea1MoqdgfgE%2FV2EUO5r1EsI%2FAAAAAAAAmqQ%2F6Mj-A85vl_4EKqfTmNzsyIpm5vBCMvmxwCLcB%2Fw1200-h630-p-nu%2Ftechnology-1283624_1920-min.jpg&cfs=1",
+    "id": "521085554595481_1020850974618934",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      74,
+      71,
+      2,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-06-29T10:43:41+0000",
+    "updated_time": "2016-06-29T12:08:06+0000",
+    "from": {
+      "name": "乃綠茶",
+      "id": "10206605802809705"
+    },
+    "message": "HTML5 Canvas Filters, 是對每個點純數學計算的\n執行速度還滿快的\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://joelb.me/jsmanipulate/",
+    "name": "JSManipulate - Javascript Image Filters & Effects",
+    "description": "JSManipulate - An open source library of image filters and effects and a premium jQuery plugin.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDoGvvs5MkJs2LZ&w=130&h=130&url=http%3A%2F%2Fjoelb.me%2Fjsmanipulate%2Fassets%2Fflower.jpg&cfs=1",
+    "id": "521085554595481_1020890697948295",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 48
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      61,
+      48,
+      2,
+      5
+    ],
+    "order": 7
+  },
+  {
+    "created_time": "2016-06-27T09:22:44+0000",
+    "updated_time": "2016-06-27T09:22:44+0000",
+    "from": {
+      "name": "陳柏融",
+      "id": "966822483415769"
+    },
+    "message": "【免費學習資源 ─ Adobe】\n　　\n如果你知道更多與Adobe相關的優質免費學習資源，歡迎不吝與我們分享，我們會持續更新這個清單！",
+    "link": "https://www.facebook.com/pjchender/photos/a.1057140301038072.1073741830.768320183253420/1057140371038065/?type=3",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "如果你知道更多與Adobe相關的優質免費學習資源，歡迎不吝與我們分享，我們會持續更新這個清單！",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13533325_1057140371038065_8773593329995942518_n.png?oh=b7ea52914d406c5120e249f6c3371dd1&oe=57EA8DCE",
+    "id": "521085554595481_1019798478057517",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      54,
+      54,
+      0,
+      0
+    ],
+    "order": 8
+  },
+  {
+    "created_time": "2016-06-27T06:34:04+0000",
+    "updated_time": "2016-06-27T07:58:07+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "這一份網頁排版指南主要分三大部份及其下各小分節\n介紹詳細，部份還會附上 CSS 範例\n且參考資源、輔助工具眾多\n對於提高網頁排版技巧非常棒 💪\n\n* Typographic Design\n* Fonts\n* Web Style Guide\n\nTypography Handbook\nby Kenneth Wang\nhttp://typographyhandbook.com/\n#f2etw",
+    "id": "521085554595481_1019754194728612",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 53
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      53,
+      53,
+      0,
+      0
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-01T08:03:42+0000",
+    "updated_time": "2016-07-01T14:33:17+0000",
+    "from": {
+      "name": "廖子勳",
+      "id": "1383498238332410"
+    },
+    "message": "請問\n<input type=\"button\" value=\"AA\" onclick=\"AA()\">\n\nvar AA = function(){\nvar a = $(this).val();\nalert(a);\n}\n我使用$(this).val(); 他是會錯誤的 \n使用$(this).text();會顯示空白\n$(this).attr(\"value\");會undefined\n想請問\n我如果要點擊button之後 button名稱會改成BB\n該如何做會比較好?",
+    "id": "521085554595481_1021845897852775",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 20
+      }
+    },
+    "power": [
+      38,
+      6,
+      20,
+      1
+    ],
+    "order": 10
+  },
+  {
+    "created_time": "2016-06-26T07:47:53+0000",
+    "updated_time": "2016-06-26T08:38:40+0000",
+    "from": {
+      "name": "江紹平",
+      "id": "10152886247276766"
+    },
+    "message": "Hi 各位好，\n\n請問大家在寫 javascript 時有遇過這類錯誤嗎？這樣實在看不出來問題出在哪裡，有解法嗎？謝謝！",
+    "id": "521085554595481_1019259154778116",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      25.5,
+      3,
+      15,
+      0
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-06-29T06:20:00+0000",
+    "updated_time": "2016-06-29T06:59:36+0000",
+    "from": {
+      "name": "劉晏成",
+      "id": "1048709845148008"
+    },
+    "message": "星期一從碼天狗看到這篇好文\nhttps://blog.getify.com/promises-wrong-ways/\n\n因為想趁機更了解promise就決定閱讀並且整理\n讓自己從中可以往外延伸去研究\n\n這篇文章主要是作者在常常使用promise後\n把他覺得可能不大好的promise使用方式整理出來\n不過可能還沒有太多我自己的實踐\n所以有些地方也不完全能理解他怎麼認為會這樣發生？\n\n總之大家可以參考一下這邊的整理，再去看原文吧（？\n如果有明顯的邏輯錯誤也歡迎告訴我以便修正\n\n謝謝",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/@WendellLiu/別這樣使用promise-d4f5a731adb4#.rqo6yaz66",
+    "name": "別這樣使用Promise",
+    "description": "聲明：本篇文章摘要自Promises: All The Wrong Ways",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBkRAGHvS2RGpgd&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F24%2F24%2F1%2A8naJs0jc_94fnN4CEgR6zg.jpeg&cfs=1",
+    "id": "521085554595481_1020819514622080",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      25,
+      17,
+      0,
+      4
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-06-26T13:13:16+0000",
+    "updated_time": "2016-06-27T15:47:50+0000",
+    "from": {
+      "name": "宋慶龍",
+      "id": "1119733064708141"
+    },
+    "message": "想請問前輩們\n為什麼這段程式 Blob 存進去的值，會跟讀取出來的值不同呢\n\nBlob 內的值：[ 1, 2, 3 ]\nFileReader 取出值：[ 49, 50, 51 ] \n\n是有漏掉什麼細節沒注意到嘛 ?\n如果用 Ajax 將此 Blob 送出，資料也會變成字串\n但我希望在後端是收到原始的 binary value  \n\n( 附上 jsFiddle: https://jsfiddle.net/cvgjdn4b/  )\n\n先感謝各位大大解惑囉 :D",
+    "id": "521085554595481_1019359838101381",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      23,
+      8,
+      10,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-06-27T07:40:07+0000",
+    "updated_time": "2016-06-27T08:00:19+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "[Eslint for React Native]\n前些日子在設定 eslint 時遇到了不少卡關, 不知道有沒有人跟我一樣撞牆過.\n在此跟大家分享我的config.",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://gist.github.com/yutin1987/5857f0ef654192a698164988098f195b",
+    "name": "eslint for react native",
+    "description": "eslint for react native",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAzqxNVb-Xs3Soz&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2505934%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_1019771544726877",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 14
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      22,
+      14,
+      4,
+      1
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-06-27T15:56:18+0000",
+    "updated_time": "2016-06-28T00:34:54+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "請問各位大大，如果要幫別人做一個網站，先不說對方有準備後台和前台環境的機器(server)，要在外面找個可以放置DB & WEB SITE 等等的網站環境，有什麼推薦的網站或文章可以爬一下嗎??\n\n像是我 前台angular + jsp，後台 tomcat or nodejs 之類的，還有 DB支援程度都要考慮進去，這樣提供這些service 的網站會不會很找到呢?\n\n說了這麼多就是...，各位是用去哪裡買空間可以把前後的環境都架好XD",
+    "id": "521085554595481_1019926318044733",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      21,
+      3,
+      12,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-06-28T02:49:03+0000",
+    "updated_time": "2016-06-28T02:49:03+0000",
+    "from": {
+      "name": "Ray Shih",
+      "id": "980320618652837"
+    },
+    "id": "521085554595481_1020176528019712",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      20,
+      20,
+      0,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-06-29T09:52:40+0000",
+    "updated_time": "2016-06-29T10:06:40+0000",
+    "from": {
+      "name": "翟昕",
+      "id": "10210136096186719"
+    },
+    "message": "【徵才文】\n\n各位前輩好，我們是FinTech相關的新創公司WageCan，主要在做區塊鏈資產服務，希望打造跨國界的金融服務。\n\n目前正在積極尋找網頁工程師，詳情請見：http://wagecan.weebly.com/\n\n我們已經有明確的目標與產品，希望能找到更多強者加入，歡迎對數位貨幣或是區塊鏈技術有興趣的人來聊聊！\n\n公司官網一併附上 https://wagecan.com/\n\n有任何問題都能直接私訊我！也歡迎推薦人選或分享本篇貼文，謝謝：）",
+    "id": "521085554595481_1020871874616844",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      18,
+      15,
+      2,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-07-01T13:47:38+0000",
+    "updated_time": "2016-07-04T13:28:10+0000",
+    "from": {
+      "name": "Simon Chuang",
+      "id": "10206525109385949"
+    },
+    "message": "請問這個網頁，在載入後每一個 grid 是以 masonry (瀑布流) 排版，但是他還加上一些動態效果(由下往上排好)，請問這是哪一類的動態效果呢？該用哪些關鍵字去找？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.victad.com.tw/page/3/",
+    "name": "Victor Branding Design Corp | 美可特品牌設計",
+    "description": "依循產品的訴求，選用適當的犬類品種詮釋， 繽紛耀眼的色彩搭配惹人喜愛的俏皮動作，清楚點綴出品牌氛圍裡的寵物用品。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCL-EX9FGr8DEVR&w=130&h=130&url=http%3A%2F%2Fwww.victad.com.tw%2Fwp-content%2Fuploads%2F2015%2F10%2Fcover.jpg&cfs=1",
+    "id": "521085554595481_1021974941173204",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 5
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      15.5,
+      5,
+      7,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-06-27T06:25:07+0000",
+    "updated_time": "2016-06-27T14:53:49+0000",
+    "from": {
+      "name": "Jackson Kuo",
+      "id": "10206354978298569"
+    },
+    "message": "請問要開發微信社交登入，成為微信開發者，有特別的資格限制嗎？",
+    "id": "521085554595481_1019749904729041",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      12,
+      0,
+      8,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-06-28T18:23:26+0000",
+    "updated_time": "2016-06-29T03:21:43+0000",
+    "from": {
+      "name": "Joanne Peng",
+      "id": "10209090949648650"
+    },
+    "message": "can someone help me to check, I got blocked. Thanx\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://stackoverflow.com/questions/38062185/the-layout-is-displayed-incomplete-when-using-thymelaf",
+    "name": "The layout is displayed incomplete when using thymelaf",
+    "description": "I'm trying to create a typical user panel with thymeleaf layouts. As you can see on the expected result picture below, the layout is composed by a header and left menu. The contents chosen from th...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA4atFBdowvWO-S&w=130&h=130&url=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402.png%3Fv%3D73d79a89bded%26a&cfs=1&sx=0&sy=0&sw=316&sh=316",
+    "id": "521085554595481_1020510627986302",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      10.5,
+      0,
+      7,
+      0
+    ],
+    "order": 20
+  }
+]
