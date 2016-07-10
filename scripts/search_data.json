@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-06-26",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/015/",
+    "title": "Collection #015",
+    "items": [
+      
+        {
+          "title": "純CSS點擊下拉式選單",
+          "url": "https://tw.twincl.com/css-html/*6630",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_1019798034724228",
+          "time": "2016-06-27T09:20:16+0000",
+          "intro": "Arthur Liao 以 CSS `:active` 作為下拉式選單的觸發事件，並用在 parent 層的 JS 事件輔助處理額外的點擊"
+        }
+        ,
+        
+        {
+          "title": "[翻譯] 常被誤用的行動裝置 UX 設計模式",
+          "url": "https://medium.com/@zonble/b4a8fc41c6d6",
+          "sharer": "Ya Jing",
+          "sharer-id": "1024191214301340",
+          "permalink": "https://fb.com/521085554595481_1020210754682956",
+          "time": "2016-06-28T04:42:36+0000",
+          "intro": "這篇分享譯文中提及了五種曾風靡一時的設計模式，並點出在部份情況下的盲點，進而提醒設計要確實做好研究功課及檢驗方法"
+        }
+        ,
+        
+        {
+          "title": "台北 • 藝文活動",
+          "url": "http://works.ioa.tw/taipei_activities/",
+          "sharer": "吳政賢",
+          "sharer-id": "1066773103336031",
+          "permalink": "https://fb.com/521085554595481_1020671314636900",
+          "time": "2016-06-29T00:26:07+0000",
+          "intro": "吳政賢利用新北市開放資料製作出了新北市藝文活動搜尋頁面，非常便利！"
+        }
+        ,
+        
+        {
+          "title": "[教學] 寫給會在部落格中撰寫程式碼的你 ─ 在網頁中嵌入高亮程式碼上色 (syntax highlighting)",
+          "url": "https://pjchender.blogspot.tw/2016/06/prism-syntax-highlighting.html",
+          "sharer": "陳柏融",
+          "sharer-id": "966822483415769",
+          "permalink": "https://fb.com/521085554595481_1020850974618934",
+          "time": "2016-06-29T08:19:49+0000",
+          "intro": "陳柏融參考部份知名網站，分享如何使用 Prism plugin 為網頁的程式碼區塊著色，以增加可讀性"
+        }
+        ,
+        
+        {
+          "title": "JSManipulate - Javascript Image Filters &amp;amp; Effects",
+          "url": "http://joelb.me/jsmanipulate/",
+          "sharer": "乃綠茶",
+          "sharer-id": "10206605802809705",
+          "permalink": "https://fb.com/521085554595481_1020890697948295",
+          "time": "2016-06-29T10:43:41+0000",
+          "intro": "這一 Canvas plugin 可幫忙處理非常多種圖片濾鏡效果的轉換，還能有動態變化"
+        }
+        ,
+        
+        {
+          "title": "Typography Handbook",
+          "url": "http://typographyhandbook.com/",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1019754194728612",
+          "time": "2016-06-27T06:34:04+0000",
+          "intro": "這篇網頁排版指南中主要分為排版設計、文字設定、style guide三大部份，參考資源充足、輔助工具眾多"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "廖子勳",
+          "sharer-id": "1383498238332410",
+          "permalink": "https://fb.com/521085554595481_1021845897852775",
+          "time": "2016-07-01T08:03:42+0000",
+          "intro": "一篇關於 JS `this` 的請教文"
+        }
+        ,
+        
+        {
+          "title": "別這樣使用Promise",
+          "url": "https://medium.com/@WendellLiu/別這樣使用promise-d4f5a731adb4#.rqo6yaz66",
+          "sharer": "劉晏成",
+          "sharer-id": "1048709845148008",
+          "permalink": "https://fb.com/521085554595481_1020819514622080",
+          "time": "2016-06-29T06:20:00+0000",
+          "intro": "這篇分享文中提到了 JS 裡各式不妙的 Promise 寫法，及較佳的作法，最後也推薦考慮直接使用 synchronous-async pattern"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "江紹平",
+          "sharer-id": "10152886247276766",
+          "permalink": "https://fb.com/521085554595481_1019259154778116",
+          "time": "2016-06-26T07:47:53+0000",
+          "intro": "一篇 JS 糾錯的通靈文。【請益文的錯誤示範】"
+        }
+        ,
+        
+        {
+          "title": "eslint for react native",
+          "url": "https://gist.github.com/yutin1987/5857f0ef654192a698164988098f195b",
+          "sharer": "YuTin Liu",
+          "sharer-id": "10203040395925690",
+          "permalink": "https://fb.com/521085554595481_1019771544726877",
+          "time": "2016-06-27T07:40:07+0000",
+          "intro": "YuTin Liu 分享個人的 ESLint config，希望可以讓討論不同的操作設定"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-06-19",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/014/",
