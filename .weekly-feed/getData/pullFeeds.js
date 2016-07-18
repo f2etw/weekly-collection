@@ -2,6 +2,7 @@ var fs = require('mz/fs');
 var argv = require('yargs').argv;
 var mustache = require('mustache');
 var request = require('request');
+var prompt = require('prompt');
 var FBTOKEN = require('./token.json').facebook;
 
 var date = argv.date;
@@ -31,6 +32,16 @@ var issueTpl = `| power# | likes | comments | shares |
 {{#picture}}
 > ![]({{{ picture }}})
 {{/picture}}`;
+
+console.log(`請確認開始日期: ${date} ?`);
+
+prompt.get([{
+  name: 'startDate',
+  pattern: /^\d{4}(-\d{2}){2}$/,
+  default: date
+}], (err, result) => {
+  if (err) { console.log(err); }
+  date = result.startDate;
 
 console.log('Start date: ', date);
 
@@ -79,4 +90,6 @@ request({
   // fs.writeFile(`.weekly-feed/${date}-f.json`, JSON.stringify(filteredData, null, 2));
   fs.writeFile(`.weekly-feed/${date}.json`, JSON.stringify(top20, null, 2));
   fs.writeFile(`.weekly-feed/issue-${date}.json`, JSON.stringify(issue20, null, 2).replace(/\#x2F\;/gm, '/'));
+});
+
 });
