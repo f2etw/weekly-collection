@@ -1,11 +1,20 @@
 var fs = require('mz/fs');
 var argv = require('yargs').argv;
 var mustache = require('mustache');
+var prompt = require('prompt');
 var lastSunday = require('./lastSunday').date;
 
 var date = argv.date || lastSunday;
 
-console.log('Start date: ', date);
+console.log(`請確認開始日期: ${date} ?`);
+
+prompt.get([{
+  name: 'startDate',
+  pattern: /^\d{4}(-\d{2}){2}$/,
+  default: date
+}], (err, result) => {
+  if (err) { console.log(err); }
+  date = result.startDate;
 
 var fetchJSONFile = ($path) => {
   return fs.readFile($path, 'utf8').then(data => JSON.parse(data)).catch(err => {
@@ -68,4 +77,5 @@ Promise.all([top20, top20Voted]).then(v => {
 
   fs.writeFile(`_data/${date}.yml`, top10yaml.join('\n'));
   fs.writeFile(`_posts/${date}-0${frontMatter.week}.md`, mustache.render(mdTpl, frontMatter));
+});
 });
