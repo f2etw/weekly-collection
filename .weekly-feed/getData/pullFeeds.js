@@ -2,7 +2,7 @@ var fs = require('mz/fs');
 var argv = require('yargs').argv;
 var mustache = require('mustache');
 var request = require('request');
-var FBTOKEN = require('./FBToken').token;
+var FBTOKEN = require('./token.json').facebook;
 
 var date = argv.date;
 

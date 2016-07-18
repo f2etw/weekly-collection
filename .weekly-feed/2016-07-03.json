@@ -1,0 +1,731 @@
+[
+  {
+    "shares": {
+      "count": 85
+    },
+    "created_time": "2016-07-08T12:27:28+0000",
+    "updated_time": "2016-07-08T18:39:31+0000",
+    "from": {
+      "name": "Arthur Liao",
+      "id": "1023782794358947"
+    },
+    "message": "我整理了一篇關於JavaScript與前端的自學參考，如果大家有甚麼建議，歡迎提出來。謝謝！\n\n（寫這篇文章，是因為我決定取消「JavaScript與前端程式設計入門」這門課，取消的原因，是我發現自己原先的估計太樂觀了，原本課程涵蓋的內容與練習很難在3天內讓初學者完全消化吸收。因為陸陸續續還有人報名，想來想去還是趕緊公告取消為好。）",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://tw.twincl.com/javascript/*6731",
+    "name": "JavaScript與前端程式設計入門自學參考",
+    "description": "想要自學JavaScript與前端程式設計，網路上有很多資源，應該先學哪些，也是見人見智。要做好前端程式設計的工作，我認為至少應該瞭解JavaScript、資料結構與演算法、網路協定、HTML...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB7gjazAeV0HocH&w=130&h=130&url=https%3A%2F%2Ffarm8.staticflickr.com%2F7564%2F16003638861_218931090d_z_d.jpg&cfs=1",
+    "id": "521085554595481_1026248187412546",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 380
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      557.5,
+      380,
+      5,
+      85
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-04T15:12:48+0000",
+    "updated_time": "2016-07-06T17:12:13+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "#前端許願池\n\n對於台灣前端這一池，\n你是否覺得缺了什麼？\n或是總覺得有哪些地方是可以改善的呢？\n\n不論有什麼想法或點子，\n都可以在下面聊聊唷~\n歡迎許願！！ ✨\n\n　⭐\n♨️",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1150236475044134&set=gm.1023630681007630&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q88/s130x130/13612190_1150236475044134_9141223504206415339_n.jpg?oh=8f09a0d0da4ccd6b24e6cdc6047d9360&oe=57F7ADF7",
+    "id": "521085554595481_1023630681007630",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 64
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 145
+      }
+    },
+    "power": [
+      283.5,
+      64,
+      145,
+      1
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 42
+    },
+    "created_time": "2016-07-04T04:22:02+0000",
+    "updated_time": "2016-07-05T03:07:30+0000",
+    "from": {
+      "name": "曾英綺",
+      "id": "1264586313559379"
+    },
+    "message": "【小妹學習分享】Sublime超強外掛應用教學\n \n小妹剛踏進前端領域時，本來是用dreamweaver去做開發，但是每次寫好的網頁在瀏覽器預覽時都會有誤差.....\n在想換開發工具之時爬文看大家現在都使用sublime進行開發，但苦無對sublime不是了解的情況下，看到前端大大AMOS老師有免費的教學分享！ \n小妹看完後對開發網頁這塊更快速的codeing了，想分享給各位正在和我一樣學習前端者！\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://course.cool3c.com/courses/sublime",
+    "name": "Sublime超強外掛應用",
+    "description": "從安裝到應用，從觀念到實做，快速學會 sublime 應用的絕佳指南。利用各項實用外掛擴展你的 Sublime Text 功能，再也不用等慢吞吞的Dreamweaver了～",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBxAEOjw28bOgOc&w=130&h=130&url=http%3A%2F%2Fd6xfpzo6h49n1.cloudfront.net%2FVmp18MUZpieGcBCpuqlKQm6f7V4%3D%2Ffit-in%2F705x0%2Fhttps%3A%2F%2Fd2vvqscadf4c1f.cloudfront.net%2FgmjuWLNmQ4i6LDjVxix0_Sublime%2520%25E8%25B6%2585%25E5%25BC%25B7%25E5%25A4%2596%25E6%258E%259B%25E6%2587%2589%25E7%2594%25A8.jpg&cfs=1",
+    "id": "521085554595481_1023408767696488",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 150
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      258,
+      150,
+      16,
+      42
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 45
+    },
+    "created_time": "2016-07-06T03:15:17+0000",
+    "updated_time": "2016-07-07T13:38:04+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "CSS 一般有分排版與裝飾用途\n\n這篇簡報主要介紹的是後者，也就是裝飾用的 CSS ✨\n裡頭主要提的是「漸層背景的應用」：\n包括多重背景 & 疊加、覆蓋範圍等等的組合技\n\n或許你在之前就已明瞭些許這其中的技巧\n不過這簡報的許多範例都用了切換 3D 視角的方式\n可以更加直觀地瞭解其中的實作原理\n非常有趣！ 👍\n\nCSS for Decoration\nby Razvan Caliman\nhttp://razvancaliman.com/css-for-decoration/\n#f2etw\n\nvia: https://twitter.com/afutseng/status/749664928160559104\nsource: https://t.co/QaCa4vwV89\ntw note: https://mobile.twitter.com/RplusTW/status/750398163689705472",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/POlxpIZ2bM",
+    "name": "CSS for Decoration",
+    "description": "Practical use cases for CSS Gradients, multi-background, and CSS Blend Modes",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBQNLk3jEALvp59&w=130&h=130&url=http%3A%2F%2Frazvancaliman.com%2Fcss-for-decoration%2Fscreenshots%2Fcsstricks-repeating-linear-gradients.png&cfs=1",
+    "id": "521085554595481_1024417707595594",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 129
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      229.5,
+      129,
+      7,
+      45
+    ],
+    "order": 4
+  },
+  {
+    "created_time": "2016-07-03T02:24:22+0000",
+    "updated_time": "2016-07-04T00:59:07+0000",
+    "from": {
+      "name": "陳柏融",
+      "id": "966822483415769"
+    },
+    "message": "【學習分享 - EMMET】\n\nEMMET是網頁前端開發者經常使用的一個插件，\n透過EMMET可以加速整個網頁開發的流程，\n避免不必要的打字錯誤，更重要的是簡單易學！\n\n如果你還不知道什麼是EMMET？或者聽過可是沒時間是學習？\n在這個快速上手包中，讓你利用短短幾分鐘，快速上手EMMET！\n\n------\n\n學習的時候如果還不想安裝EMMET，可以直接利用線上編輯器JSBin來做操作：\n\nhttp://jsbin.com/",
+    "link": "https://www.facebook.com/pjchender/photos/a.1060692780682824.1073741831.768320183253420/1060692800682822/?type=3",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "EMMET是網頁前端開發者經常使用的一個插件，透過EMMET可以加速整個網頁開發的流程，並且避免不必要的打字錯誤，更重要的是簡單易學！\n> 如果你還不知道什麼是EMMET？或者聽過可是沒時間是學習？\n> 在這個快速上手包中，讓你利用短短幾分鐘，快速上手EMMET！",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13438897_1060692800682822_865570788404072363_n.png?oh=34bf7e702b7d7f95bb7e08924d83dfff&oe=5833919D",
+    "id": "521085554595481_1022817384422293",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 206
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      219.5,
+      206,
+      9,
+      0
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-07-09T08:28:24+0000",
+    "updated_time": "2016-07-13T01:36:26+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "[練習 todo list]\n\n這是我這個禮拜做的一個小練習\n在控制todo list 不同事項的狀態\n是用jquery 來給予不同的class name\n不知道有沒有更直覺、簡單的方式去做todo list\n\nhttp://codepen.io/lichin-lin/full/QEgXvp/",
+    "id": "521085554595481_1027126693991362",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 154
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 24
+      }
+    },
+    "power": [
+      190,
+      154,
+      24,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 46
+    },
+    "created_time": "2016-07-05T16:08:05+0000",
+    "updated_time": "2016-07-06T09:58:18+0000",
+    "from": {
+      "name": "郭孝直",
+      "id": "10203537517513403"
+    },
+    "message": "設計師的免費網路資源2016第一季合計38筆\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.kocpc.com.tw/archives/101546",
+    "name": "設計師的免費網路資源2016第一季合計38筆",
+    "description": "合計38筆給設計師用的網路免費資源，內容包含了免費線上工具、素材圖檔、優質作品、課程教學、工作情境、免費字體等…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQACymTxnt0Xd3rS&w=130&h=130&url=https%3A%2F%2Fmedia.hiramlab.com%2Fkocpc%2F2016%2F07%2F1467642365-807d679bbc46bb9498290dd9ff2f0f81.png&cfs=1&sx=417&sy=0&sw=630&sh=630",
+    "id": "521085554595481_1024189637618401",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 77
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      170.5,
+      77,
+      1,
+      46
+    ],
+    "order": 7
+  },
+  {
+    "created_time": "2016-07-07T13:55:59+0000",
+    "updated_time": "2016-07-08T07:00:10+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "好文，不分享嗎？",
+    "link": "https://www.facebook.com/TaiwanBaby/photos/a.165221556875866.42716.146213548776667/1101262413271771/?type=3",
+    "name": "小科科恰爾斯",
+    "description": "「#恰心情」\n> 前公司的前端工程師常常吐血，因為老闆、PM、主管、客戶們常常會蹦出一些很可怕的話，卻不知道嚴重性...\n>  \n> 延伸閱讀｜讓工程師吐血的原因-->http://goo.gl/vtUPDg\n> #為什麼IE6跑版 #我也吐過一陣子XD",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13631466_1101262413271771_1822249023842339451_n.jpg?oh=462763cb9d5b5198c46219cb95a8e45d&oe=5836E8E1",
+    "id": "521085554595481_1025172487520116",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 161
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      170,
+      161,
+      6,
+      0
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 25
+    },
+    "created_time": "2016-07-03T13:44:11+0000",
+    "updated_time": "2016-07-03T15:29:18+0000",
+    "from": {
+      "name": "Akimoto Miharu",
+      "id": "1044566585607403"
+    },
+    "message": "有個網站每天會評選設計優良的網頁跟設計師，叫做CSS Winner\n\n想請問大家，今天得獎的這個long scroll作品，左邊的長頁活動捲軸是套jQuery lib嗎？我覺得這超美的，很想知道怎麼寫的😁求前輩們指導，謝謝",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.csswinner.com/details/ai-what-it-takes-to-be-human/10617",
+    "name": "AI: What It Takes to Be Human - CSS Winner",
+    "description": "T Brand Studio, Mediavest and UBS developed an interactive about artificial intelligence. The page hosts an article, video, timeline, photography and chatbot.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCbGSkxplA5hthQ&w=130&h=130&url=http%3A%2F%2Fcdn.csswinner.com%2Fimages%2Fwinners%2F2016%2Fjul%2F1093314584.jpg&cfs=1&sx=746&sy=0&sw=854&sh=854",
+    "id": "521085554595481_1023040391066659",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 104
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      167.5,
+      104,
+      9,
+      25
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-07-05T02:12:33+0000",
+    "updated_time": "2016-07-05T05:25:53+0000",
+    "from": {
+      "name": "Yuren Ju",
+      "id": "10152785149951631"
+    },
+    "message": "昨晚很無聊的用 nightwatch.js 寫了自動歸檔所有 pocket 上文章的 script，大家參考參考。 ",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/technology-coding/4d1cdd2889bc",
+    "name": "Nightwatch.js 應用 — 歸檔 pocket 所有文章 — Technology & Coding",
+    "description": "Nightwatch.js 是個 JavaScript 編寫自動化程序好用的小工具，通常拿來做 end-to-end testing，不過當然他也可以拿來解決一些我曾經做的一些愚蠢事情。很久以前我用了 IFTTT 隨便設定了一堆文章透過 RSS 餵給 pocket，所以我的未…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBUT7NRJ6LiPI8s&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AqNMcV71ghvcn3NypZ69hKA.png&cfs=1",
+    "id": "521085554595481_1023898584314173",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 18
+      }
+    },
+    "power": [
+      114,
+      71,
+      18,
+      8
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-07-05T04:02:43+0000",
+    "updated_time": "2016-07-05T04:15:26+0000",
+    "from": {
+      "name": "Evan Wu",
+      "id": "10205539565002216"
+    },
+    "message": "每兩個禮拜有一個 CSS 的題目，有興趣可以嘗試看看",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://cssquests.com/",
+    "name": "CSS quests",
+    "description": "A place for people who are passionate about creating stuff with CSS.",
+    "id": "521085554595481_1023935544310477",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 86
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      112.5,
+      86,
+      3,
+      11
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-07-03T18:23:09+0000",
+    "updated_time": "2016-07-03T18:23:09+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "若你正在設計或打算要把手邊做好的 Theme / UI Guideline 整理成 Pattern Library 的話，可以考慮使用 Astrum 這個套件來發布。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://astrum.nodividestudio.com/",
+    "name": "Astrum - A lightweight pattern library for any project",
+    "description": "Include in your web projects with a single-command, manage components and groups easily and provide well documented pattern libraries for your clients and colleagues.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCBaUbACcQih5DB&w=130&h=130&url=http%3A%2F%2Fnd-bin.imgix.net%2Fastrum%2Fastrum-share-image.jpg%3Fq%3D50%26w%3D1596%26fit%3Dmax%26dpr%3D2&cfs=1",
+    "id": "521085554595481_1023156777721687",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 66
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      104,
+      66,
+      0,
+      19
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-07-07T01:28:21+0000",
+    "updated_time": "2016-07-08T16:37:47+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "1127751007258578"
+    },
+    "message": "昨天在查，到底RWD的桌機板width應該以哪個尺寸為主\nhttp://www.hobo-web.co.uk/best-screen-size/\n1366 x 768 / 1920 x 1080 最多人用 ~???\n\n那 bootstrap 預設的 1200 / 992 / 768，lg 的 1200 勉強符合 1366，但和 1920 就差得有點遠了，會很容易跑版吧?? \n\n#只有6%的人跟我一樣用1280解析度呀..",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.hobo-web.co.uk/best-screen-size/",
+    "name": "What Is The Best Screen Size to Design Websites in 2016",
+    "description": "What is the best screen resolution to design your website in light of Google's new mobile friendliness ranking change launched in April 2015.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBtzXShRc4a5Y7K&w=130&h=130&url=http%3A%2F%2Fwww.hobo-web.co.uk%2Fwp-content%2Fuploads%2FG-ww-feb-apr-2016.jpg&cfs=1",
+    "id": "521085554595481_1024898330880865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 38
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 25
+      }
+    },
+    "power": [
+      89.5,
+      38,
+      25,
+      7
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-05T12:28:56+0000",
+    "updated_time": "2016-07-06T03:18:24+0000",
+    "from": {
+      "name": "Chris Wu",
+      "id": "10152698812861104"
+    },
+    "message": "[徵人啟事]\n\nFliegen 正在徵前後端工程師，歡迎加入我們！\n公司雖然不算大，但氣氛融洽，同事都熱衷 Open source ，關心流浪動物，希望找到合得來的夥伴。\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/jobs/issues/104",
+    "name": "【徵才】Fliegen – 前後端工程師 · Issue #104 · f2etw/jobs",
+    "description": "團隊簡介/地點 賦格創意科技是富有設計背景的內容網站開發公司，自 2010 年起為海內外客戶開發了多個網站與服務。 在業務發展之餘，亦支持開源軟體，鼓勵工作夥伴參加社群活動，貢獻開源程式。 工作職缺 Jr. / Sr. PHP Developer Jr. / Sr. Front-end Developer 工作內容及能力需求 Full Job Description is ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCs2Sj-B1mRjAJJ&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3444618%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_1024089337628431",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      89.5,
+      80,
+      5,
+      1
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-08T03:56:55+0000",
+    "updated_time": "2016-07-09T11:48:37+0000",
+    "from": {
+      "name": "林建良",
+      "id": "829622337134938"
+    },
+    "message": "前輩們請教一下想寫jQuery Mobile 有推薦哪些網站有範例可以參考嗎?",
+    "id": "521085554595481_1025738910796807",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 5
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 52
+      }
+    },
+    "power": [
+      87,
+      5,
+      52,
+      2
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-05T08:11:23+0000",
+    "updated_time": "2016-07-05T08:11:23+0000",
+    "from": {
+      "name": "Sam Wang",
+      "id": "10206816795532070"
+    },
+    "message": "[工商時間]\nhonestbee(新加坡商誠蜂股份有限公司)在台灣成立工程團隊了！！我們需要優秀的front-end工程師一起打造最棒的工作環境, 也會去新加坡總部受訓呦～期待您的加入\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://sudo.com.tw/companies/201/jobs/711",
+    "name": "資深前端工程師 Senior Software Engineer - Frontend - honestbee",
+    "description": "薪水範圍(年薪): NT$ 1,100,000 至 1,600,000 技能要求:JavaScript,React.js,Redux,Backbone,Node.js,CSS,HTML5,Rub...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAQGb55Ss3dTXcY&w=130&h=130&url=https%3A%2F%2Fdceq5qf6sv0er.cloudfront.net%2Fuploads%2Fcompanies%2Fcovers%2F000%2F000%2F201%2Fmedium%2F8a34fbfb28dd903239cb4a4efb95ba16.jpg%3F1465213427&cfs=1",
+    "id": "521085554595481_1024002317637133",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 71
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      75,
+      71,
+      0,
+      2
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-07-03T15:20:19+0000",
+    "updated_time": "2016-07-04T15:17:38+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "看到關於checked屬性的解釋，蠻驚訝的。 分享給大家。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://stackoverflow.com/questions/7851868/whats-the-proper-value-for-a-checked-attribute-of-an-html-checkbox",
+    "name": "What's the proper value for a checked attribute of an HTML checkbox?",
+    "description": "We all know how to form a checkbox input in HTML: <input name=\"checkbox_name\" id=\"checkbox_id\" type=\"checkbox\"> What I don't know -- what's the technically correct value for a checked chec...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA4atFBdowvWO-S&w=130&h=130&url=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402.png%3Fv%3D73d79a89bded%26a&cfs=1&sx=0&sy=0&sw=316&sh=316",
+    "id": "521085554595481_1023087061061992",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 42
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      74,
+      42,
+      8,
+      10
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-07-03T10:42:18+0000",
+    "updated_time": "2016-07-03T14:35:40+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "Facebook 上週二發布了 Social Plugin 的更新：\n\n1. Like Button 調整\n\n經過內部的測試後發現「讚」的圖示比「f」的 Logo 要更容易讓人識別，所以 Facebook 修改了按鈕的設計。\n\n現在按下去的時候會直接 Like 而非以往展開一個很容易超出畫面或被別的物件蓋住的 div 了，也會有一個小動畫將讚變成勾勾，並讓按鈕變色讓使用者識別已按過。\n.\n2. 按鈕大小調整\n\n由於以前的設計是 Mobile 並非主流的時候，所以這次因應 Mobile 的應用調整了按鈕的大小，目前看到分為 small 和 large 兩種，高度分別是 20px 和 28px。\n.\n3. 設計調整\n\n更扁平，顏色一致，計數器也改成包在按鈕內。\n\n- box_count 把計數器跟按鈕黏在一起了\n- button_count 從原本的按鈕外計數改為按鈕內\n\n可參考文件以及產生器自己玩看看\nhttps://developers.facebook.com/docs/plugins/like-button#configurator\n.\n4. Instant Articles 整合\n\n接下來 Instant Articles 文章底端也可以加入 Like、Share 和 Comment 按鈕。\n\n此外，Comment Plugin 設定如果有勾選 mirror 的話，可以同步該則動態、Instant Articles 以及網站這三個地方的留言。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://developers.facebook.com/blog/post/2016/06/28/new-ways-to-share-save-engage/",
+    "name": "New Ways to Share, Save and Engage - Facebook for Developers",
+    "description": "Today, we're introducing several new ways for developers to help people improve their sharing and saving experience. This includes two new Chrome extensions, as well as updating our full suite of...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRrUojVMFkJz79&w=130&h=130&url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Ft39.2178-6%2F13509153_1805784896317969_1620451962_n.png&cfs=1",
+    "id": "521085554595481_1022978607739504",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 40
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      65.5,
+      40,
+      5,
+      9
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-07-04T07:31:39+0000",
+    "updated_time": "2016-07-04T16:04:19+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "類似 BrowserStack 的線上測試平台\n想試試的可以免費註冊\n會有 14 天的試用期限，期間可跑 90 小時的自動測試 & 不限時的手動測試\n如果你需要簡易檢測又不想裝一堆 VM OS 的話，可以直接試用這線上服務唷~\n\n瀏覽器種類很足：\nhttps://saucelabs.com/platforms/\n\n* Mobile： iOS 系列 + Android 系列\n* XP IE6 ~ Win10 Edge13\n* Opera 新舊版\n* 連 windows 上的 Safari 都有 `淚目`\n\n****\n\nSauce Labs\nhttps://saucelabs.com/\n\n> Sauce Labs: Selenium Testing, Mobile Testing, JS Unit Testing\n\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/yMIldWIgiS",
+    "name": "Sauce Labs: Selenium Testing, Mobile Testing, JS Unit Testing",
+    "description": "Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on over 700 OS/browser platforms. Sign up for a free trial.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQArjJmyXkx64KkX&w=130&h=130&url=https%3A%2F%2Fsaucelabs.com%2Fhome%2F%2B%2Btheme%2B%2Bsaucelabs_new%2Fstatic%2Fimages%2Fh_ill_enhance2x.jpg&cfs=1",
+    "id": "521085554595481_1023480494355982",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      56,
+      44,
+      8,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-07-07T01:59:53+0000",
+    "updated_time": "2016-07-09T10:36:53+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "996025350417110"
+    },
+    "message": "昨天在線上教 2hr 基礎 jQuery 教學，\n內容包含環境介紹、選擇器、查詢別人使用的套件，\n也有學生在線上問到許多 jQuery 問題，\n相信也是大家在學習上時常會碰到的瓶頸，\n所以將全程影片上傳到 Youtube ，提供大家參考與學習 :D",
+    "link": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
+    "name": "六角學院",
+    "description": "兩小時的額外線上課程\n> 我們上傳到 Youtube 讓大家觀看\n> 如果沒有辦法參加或想再次複習的朋友\n> 可以透過以下連結收看喔\n> \n> jQuery運作原理：\n> https://youtu.be/GVWOIP-HX70?t=3m6s\n> \n> jQuery 下載檔案流程：\n> https://youtu.be/GVWOIP-HX70?t=17m44s\n> \n> 選擇器教學\n> https://youtu.be/GVWOIP-HX70?t=25m38s\n> \n> 六角學院學生地區調查：\n> https://youtu.be/GVWOIP-HX70?t=37m25s\n> \n> 讓網頁開始具有互動性：\n> https://youtu.be/GVWOIP-HX70?t=48m3s\n> \n> jQuery線上辭典：\n> https://youtu.be/GVWOIP-HX70?t=52m8s\n> \n> 如何查詢別人使用的 jQ Plugin與 js效果：\n> https://youtu.be/GVWOIP-HX70?t=1h38m8s\n> \n> 使用 chrome dev tools 偵測 CSS3 animation：\n> https://youtu.be/GVWOIP-HX70?t=1h42m44s\n> \n> PS：現場參加的朋友，還有許多額外的 Q&A 時間\n> 下次還是歡迎多參加",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCwrcaozKfQCRzu&w=130&h=130&url=https%3A%2F%2Fyt3.ggpht.com%2F-HxdAXDevCOM%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2Fcbt3vRJ_Bzc%2Fs900-c-k-no-rj-c0xffffff%2Fphoto.jpg&cfs=1",
+    "id": "521085554595481_1024912067546158",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      51.5,
+      50,
+      1,
+      0
+    ],
+    "order": 20
+  }
+]
