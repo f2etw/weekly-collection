@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-07-03",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/016/",
+    "title": "Collection #016",
+    "items": [
+      
+        {
+          "title": "JavaScript與前端程式設計入門自學參考",
+          "url": "https://tw.twincl.com/javascript/*6731",
+          "sharer": "Arthur Liao",
+          "sharer-id": "1023782794358947",
+          "permalink": "https://fb.com/521085554595481_1026248187412546",
+          "time": "2016-07-08T12:27:28+0000",
+          "intro": "文中介紹以 JS、演算法、網路協定、HTML、CSS 不同領域裡該掌握的前端基礎知識"
+        }
+        ,
+        
+        {
+          "title": "Sublime超強外掛應用",
+          "url": "http://course.cool3c.com/courses/sublime",
+          "sharer": "曾英綺",
+          "sharer-id": "1264586313559379",
+          "permalink": "https://fb.com/521085554595481_1023408767696488",
+          "time": "2016-07-04T04:22:02+0000",
+          "intro": "約半小時介紹 Sublime Text 基礎操作的線上教學"
+        }
+        ,
+        
+        {
+          "title": "CSS for Decoration",
+          "url": "https://t.co/POlxpIZ2bM",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1024417707595594",
+          "time": "2016-07-06T03:15:17+0000",
+          "intro": "介紹 CSS 漸層背景圖的進階應用及其組合技的簡報，其中範例大多可切換不同的 3D 視角以更直觀理解原理"
+        }
+        ,
+        
+        {
+          "title": "EMMET 快速上手包",
+          "url": "https://www.facebook.com/pjchender/photos/a.1060692780682824.1073741831.768320183253420/1060692800682822/?type=3",
+          "sharer": "陳柏融",
+          "sharer-id": "966822483415769",
+          "permalink": "https://fb.com/521085554595481_1022817384422293",
+          "time": "2016-07-03T02:24:22+0000",
+          "intro": "EMMET 是款便捷的快速輸入方式，這一 FB 相簿將原文文件整理為易懂的簡報模式。對於 EMMET 是個很好的上手指南唷~"
+        }
+        ,
+        
+        {
+          "title": "[練習 todo list]",
+          "url": "http://codepen.io/lichin-lin/full/QEgXvp/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_1027126693991362",
+          "time": "2016-07-09T08:28:24+0000",
+          "intro": "flat style 的 Todo List 習作"
+        }
+        ,
+        
+        {
+          "title": "AI: What It Takes to Be Human - CSS Winner",
+          "url": "http://www.csswinner.com/details/ai-what-it-takes-to-be-human/10617",
+          "sharer": "Akimoto Miharu",
+          "sharer-id": "1044566585607403",
+          "permalink": "https://fb.com/521085554595481_1023040391066659",
+          "time": "2016-07-03T13:44:11+0000",
+          "intro": "CSS Winner 是個挖掘美好網頁設計的平台，每天都會分享風格漂亮的網站"
+        }
+        ,
+        
+        {
+          "title": "小科科恰爾斯",
+          "url": "https://www.facebook.com/TaiwanBaby/photos/a.165221556875866.42716.146213548776667/1101262413271771/?type=3",
+          "sharer": "YuTin Liu",
+          "sharer-id": "10203040395925690",
+          "permalink": "https://fb.com/521085554595481_1025172487520116",
+          "time": "2016-07-07T13:55:59+0000",
+          "intro": "由恰爾斯創作的塗鴉：「讓工程師吐血的原因」"
+        }
+        ,
+        
+        {
+          "title": "CSS quests",
+          "url": "https://cssquests.com/",
+          "sharer": "Evan Wu",
+          "sharer-id": "10205539565002216",
+          "permalink": "https://fb.com/521085554595481_1023935544310477",
+          "time": "2016-07-05T04:02:43+0000",
+          "intro": "每雙週會發一篇 CSS 的挑戰題目，有興趣的可以試試身手"
+        }
+        ,
+        
+        {
+          "title": "Nightwatch.js 應用 — 歸檔 pocket 所有文章 — Technology &amp;amp; Coding",
+          "url": "https://medium.com/technology-coding/4d1cdd2889bc",
+          "sharer": "Yuren Ju",
+          "sharer-id": "10152785149951631",
+          "permalink": "https://fb.com/521085554595481_1023898584314173",
+          "time": "2016-07-05T02:12:33+0000",
+          "intro": "Yuren Ju 以自動化工具 Nightwatch.js 處理 Pocket 大量操作，文中以觀察分析再實作的步調記錄開發過程"
+        }
+        ,
+        
+        {
+          "title": "Astrum - A lightweight pattern library for any project",
+          "url": "http://astrum.nodividestudio.com/",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_1023156777721687",
+          "time": "2016-07-03T18:23:09+0000",
+          "intro": "Astrum 可將已製作完成的網站 theme、guideline 轉換為 pattern library"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-06-26",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/015/",
