@@ -77,5 +77,7 @@ prompt.get([{
 
     fs.writeFile(`_data/${date}.yml`, top10yaml.join('\n'));
     fs.writeFile(`_posts/${date}-0${frontMatter.week}.md`, mustache.render(mdTpl, frontMatter));
+
+    console.log('calc top 10 done!');
   });
 });
