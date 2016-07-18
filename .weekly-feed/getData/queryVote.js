@@ -1,8 +1,25 @@
 var fs = require('mz/fs');
 var argv = require('yargs').argv;
 var jsdom = require('jsdom');
+var prompt = require('prompt');
 
-var url = `https://github.com/f2etw/weekly-collection/issues/${argv.issue || 6}`;
+var confirmIssueNum = new Promise((resolve, reject) => {
+  prompt.get([{
+    name: 'issueNum',
+    pattern: /^\d+$/,
+    default: argv.issue || 6
+  }], (err, result) => {
+    if (err) {
+      console.log(err);
+      reject(result);
+    }
+
+    resolve(result);
+  });
+});
+
+confirmIssueNum.then((result) => {
+var url = `https://github.com/f2etw/weekly-collection/issues/${result.issueNum}`;
 
 var member = [
   'Rplus',
@@ -166,4 +183,5 @@ jsdom.env({
       JSON.stringify(window.top10, null, 2) + '\n'
     );
   }
+});
 });
