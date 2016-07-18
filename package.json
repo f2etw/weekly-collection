@@ -36,6 +36,7 @@
     "mz": "^2.4.0",
     "postcss-cli": "^2.5.1",
     "postcss-csso": "^1.0.1",
+    "prompt": "^1.0.0",
     "request": "^2.72.0",
     "yargs": "^4.7.1"
   }
