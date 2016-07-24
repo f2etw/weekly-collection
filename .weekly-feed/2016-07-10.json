@@ -1,0 +1,706 @@
+[
+  {
+    "shares": {
+      "count": 18
+    },
+    "created_time": "2016-07-10T04:54:29+0000",
+    "updated_time": "2016-07-19T12:13:55+0000",
+    "from": {
+      "name": "黃怡綾",
+      "id": "926174897471245"
+    },
+    "message": "大家好，第一次寫長篇文，小的還是Frontend初學者，最近想說邊學邊紀錄下學到的東西，文章如果有寫得不清楚或是理解錯誤的地方歡迎留言給我喔~!我還需要長更多知識>  < \nFrontend還真是個學不完的領域，希望我可以把這種好習慣繼續堅持下去，謝謝各位大神~!",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://elainehuang.github.io/so-simple-theme/articles/React-webpack/",
+    "name": "Webpack React 入門筆記",
+    "description": "學習筆記 - Webpack React 基本工作流程",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAukcrUWy-Wc7pj&w=130&h=130&url=http%3A%2F%2Felainehuang.github.io%2Fso-simple-theme%2Fimages%2Fjapan.jpg&cfs=1",
+    "id": "521085554595481_1028380007199364",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 273
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 28
+      }
+    },
+    "power": [
+      351,
+      273,
+      28,
+      18
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 49
+    },
+    "created_time": "2016-07-10T15:35:46+0000",
+    "updated_time": "2016-07-11T03:09:54+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "用簡易的比較圖顯示表單設計的優劣差異\n\n大致是示範如何組織及分組不同的元件\n有些是可以用完形去解釋\n不過基本上看圖說故事就差不多夠了~ \n\nDesign Better Forms\nby Andrew Coyle(@CoyleAndrew) 2016-07-05\nhttps://uxdesign.cc/design-better-forms-96fadca0f49c\n\nvia: https://www.facebook.com/permalink.php?story_fbid=211689572560607&id=168472513548980\n\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/VDOHqAjJXP",
+    "name": "Design Better Forms — uxdesign.cc – User Experience Design",
+    "description": "Common mistakes designers make and how to fix them",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCzgwiE_xksfFMw&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1%2ALJ0JHTq5_k1u23Fl9XTNmA.jpeg&cfs=1",
+    "id": "521085554595481_1029013687135996",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 160
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      264,
+      160,
+      4,
+      49
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 26
+    },
+    "created_time": "2016-07-11T14:42:24+0000",
+    "updated_time": "2016-07-18T02:28:14+0000",
+    "from": {
+      "name": "Denny Ku",
+      "id": "841989239187866"
+    },
+    "message": "Hi 大家，\n相信團隊為了提升程式碼的品質，\n第一步通常會是制定 style guide，\n但 style guide 越定越複雜後，要靠人工去檢查就顯得有點不切實際。\n這時候就需要靠程式自動來做語法上的檢查及 highlight，\n這就是 linter 的功用。\n\n這篇是我學習 eslint 時記下來的筆記，\n除了真正了解 eslint 到底要設定些什麼之外，\n最後也搭配 git hooks 和 webpack 的實作。\n\n我知道網路上有許多充滿獨到經驗的 JavaScript linter，\n最有名應該就是 airbnb 的那一套，\n直接拿來用當然也 ok，\n不過，我們固然要學工具，\n工具背後的想法才是我們更該了解的。\n這一篇並不是什麼懶人教學，\n複製貼上就能用的 eslint extends，\n不過對於想更了解 eslint 在幹嘛的人，\n應該能幫你省去不少爬文件的時間。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://abalone0204.github.io/2016/07/11/eslint-fxcking-setup/",
+    "name": "淺入淺出 eslint 與實作 · De-bug: 一鍵跑版",
+    "description": "淺入淺出 eslint 與實作 - Tsung-Chen Ku",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD08x9HJtcW9uQM&w=130&h=130&url=http%3A%2F%2Fi.imgur.com%2FyTf6igd.jpg&cfs=1&sx=0&sy=0&sw=363&sh=363",
+    "id": "521085554595481_1030127590357939",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 160
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 28
+      }
+    },
+    "power": [
+      254,
+      160,
+      28,
+      26
+    ],
+    "order": 3
+  },
+  {
+    "created_time": "2016-07-10T09:55:38+0000",
+    "updated_time": "2016-07-11T14:24:44+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "還蠻多人問過我寫網頁的感覺\n所以想說在這邊寫上一篇自學一年的心得\n希望能給自學的人一點共鳴\n祝大家都能在網頁這一塊好好發揮：）",
+    "link": "https://noootown.wordpress.com/2016/07/10/web-difficulties/",
+    "name": "沒一村前端筆記",
+    "description": "[#心路歷程]\n> \n> 還蠻多人問過我寫網頁的感覺\n> 所以想說在這邊寫上一篇自學一年的心得\n> 希望能給自學的人一點共鳴\n> 祝大家都能在網頁這一塊好好發揮\n> \n> https://noootown.wordpress.com/2016/07/10/web-difficulties/",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAnD72VhEs8qAro&w=130&h=130&url=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&cfs=1&sx=0&sy=0&sw=200&sh=200",
+    "id": "521085554595481_1028671233836908",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 130
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      163,
+      130,
+      22,
+      0
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 15
+    },
+    "created_time": "2016-07-11T10:55:36+0000",
+    "updated_time": "2016-07-13T14:40:21+0000",
+    "from": {
+      "name": "Cathy Tsai",
+      "id": "1072478696158004"
+    },
+    "message": "巨匠集團徵求: 網站前端工程師 薪五萬以上\n詳洽: julie.ju@pcschool.com.tw  \n\n1.UI/UX介面開發與設計 \n2.前端程式撰寫(RWD 網站,CSS, HTML, Javascript,  Ajax, JQuery,  Bootstrap)  \n3.熟悉行銷網頁相關設定與追蹤分析\n4.規劃執行軟體架構及模組設計。",
+    "id": "521085554595481_1030029663701065",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 47
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 49
+      }
+    },
+    "power": [
+      150.5,
+      47,
+      49,
+      15
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 22
+    },
+    "created_time": "2016-07-15T03:00:58+0000",
+    "updated_time": "2016-07-15T12:29:11+0000",
+    "from": {
+      "name": "Ian Lin",
+      "id": "10203375201735514"
+    },
+    "message": "一個不錯用的行動裝置版本及瀏覽器版本的工具，還能偵測螢幕尺寸\n很適合用於當客戶端 RWD 破版時，收集裝置上的相關資訊",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://ibrowser.info/",
+    "name": "偵測瀏覽器及螢幕尺寸 | 瀏覽器版本查詢 | 行動裝置版本查詢",
+    "description": "偵測手機螢幕尺寸、瀏覽器版本及作業系統版本，IOS 及 ANDROID 版本查詢及其他跨裝置瀏覽器的資訊查詢..。",
+    "id": "521085554595481_1032186263485405",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 84
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      143,
+      84,
+      10,
+      22
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-07-15T15:53:44+0000",
+    "updated_time": "2016-07-16T17:56:29+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "通常前端剛進專案時都會問的一個問題就是：「要支援到 IE 幾？」\n雖然有點無奈，但舊版的 IE 真的是滿令人頭疼的\n\n這篇 Mozilla Hacks 的文章\n也是著重於跨瀏覽器相容性的探討\n\n雖然文中論點有些勸世文的味道\n不過對於一些數據的分析與工具的介紹\n還是滿推薦一讀的\n\n(( 不過底下有些挺嘲諷的留言也挺趣味的 XDDD\n(( 但是討論本來就是這樣，放寬心去討論就好了~\n\n✨ Make the Web Work For Everyone\nby Justin Crawford, Chris Mills, Ali Spivak 2016-07-06\nhttps://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/\n\nvia: codrops 228\nsrc: https://t.co/YmDSzniEM1\ntw: https://twitter.com/RplusTW/status/753624176263507968\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/S8CwsfNN8R",
+    "name": "Make the Web Work For Everyone ★ Mozilla Hacks – the Web developer blog",
+    "description": "Millions of websites have compatibility problems on one or more of the major browsers, leading to a poor user experience. The web developer community can fix this. The web has changed immensely in the past 20 years. In 1996 there were roughly a million websites; now there are more than a billion. Ba...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCJalZXyRpnyK2J&w=130&h=130&url=https%3A%2F%2F2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com%2Ffiles%2F2016%2F06%2Fwebcompat_blog_graphics_600x800-03-500x667.jpg&cfs=1",
+    "id": "521085554595481_1032482996789065",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 55
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      78.5,
+      55,
+      5,
+      8
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-07-14T19:26:12+0000",
+    "updated_time": "2016-07-16T09:30:37+0000",
+    "from": {
+      "name": "顏永富",
+      "id": "10206378198162257"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.w3cplus.com/css/dirty-tricks-dark-corners-front-end-pt1.html?fb_ref=Default",
+    "name": "前端开发中的一些黑魔法Pt1_Dirty Tricks, 黑魔法 教程_w3cplus",
+    "description": "@Vitaly Friedman在今年3月份分享了一个主题《Dirty Tricks From The Dark Corners Of Front-End》。整个PPT中介绍了一些前端开发中使用到的一些黑魔法，当初看的时候特别的带劲。一直想将里面的内容整理出一篇文章出来，但一直没整，趁最近休假的闲暇时间整理了一下。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDa1xCtaKiHsf41&w=130&h=130&url=http%3A%2F%2Fcdn1.w3cplus.com%2Fcdn%2Ffarfuture%2FjudyuzROSeZ7hJ4BeBLIjGC3FFROC92eHJBEiSCO79M%2Fmtime%3A1468406066%2Fsites%2Fdefault%2Ffiles%2Fblogs%2F2016%2F1607%2Fdirty-tricks24.png&cfs=1",
+    "id": "521085554595481_1032003593503672",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 26
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      52,
+      26,
+      12,
+      4
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-07-14T01:57:28+0000",
+    "updated_time": "2016-07-16T03:53:05+0000",
+    "from": {
+      "name": "Mickey Chen",
+      "id": "129663824037099"
+    },
+    "message": "使用Google Web designer ，可以快速做出影片轉場切換的效果~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://i.imgur.com/7ZmrtGY.gifv",
+    "name": "i.imgur.com",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCFmHy9KFG3gBbr&url=https%3A%2F%2Fi.imgur.com%2F7ZmrtGY.gif%3Fnoredirect",
+    "id": "521085554595481_1031596870211011",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      44.5,
+      34,
+      3,
+      3
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-07-11T12:02:09+0000",
+    "updated_time": "2016-07-12T08:23:04+0000",
+    "from": {
+      "name": "黃馨民",
+      "id": "947225441984120"
+    },
+    "message": "#技術討論\n#firefox  #火狐\nbackground-image 讓背景圖置中的方式\n\n程式碼入下方\nhttp://jsbin.com/ricolajoze/edit?html,css,output\n\n我是用\nbackground-position-x: 50%; \n來實現chrome 上面的 置中\n\n但火狐上面不支援....\n\n請問各為前輩有什麼純css的點子可以讓他置中呢",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://jsbin.com/ricolajoze/edit?html%2Ccss%2Coutput",
+    "name": "JS Bin",
+    "description": "Sample of the bin:",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDl30-7eMAgRa_h&w=130&h=130&url=http%3A%2F%2Fstatic.jsbin.com%2Fimages%2Flogo.png&cfs=1",
+    "id": "521085554595481_1030047920365906",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 23
+      }
+    },
+    "power": [
+      42.5,
+      8,
+      23,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-12T08:04:04+0000",
+    "updated_time": "2016-07-14T05:04:27+0000",
+    "from": {
+      "name": "A-Za Chen",
+      "id": "1400206619995798"
+    },
+    "message": "hello 各位\n最近在開發網頁時畫Chart時，遇到了一堆問題，Google討論Chart好像不多，想請教各位大神，在做x軸需要顯示時間的Line Chart，是否有推的chart plugin呢？\n我本身有稍為看了一下C3、nvd3，這兩個文件都寫的有點精簡...目前還在研究google chart api中..想請各位幫忙出個主意QQ",
+    "id": "521085554595481_1030531586984206",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      35.5,
+      12,
+      13,
+      2
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-07-11T03:46:23+0000",
+    "updated_time": "2016-07-11T04:03:01+0000",
+    "from": {
+      "name": "吳承翰",
+      "id": "10205651825993609"
+    },
+    "message": "[已解決] 大家好，關於 d3.js 的部分，有問題想請教，我參考了 https://github.com/maptimeBoston/d3-maptime/blob/gh-pages/example5/index.html 來繪製台灣地圖上的點，使用的資料來源是 http://opendata.epa.gov.tw/Data/GeoDetails/GISCaseDistribution ，下載了 shp 檔案並轉換成 geojson 格式，出來的資料如下：\n.\n=====分隔線=====\n{\"type\":\"FeatureCollection\",\"features\": [\n{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[168784.89379999973,2544675.2272]},\"properties\":{\"short_name\":\"臺南市\",\"short_na_1\":\"臺南市\",\"Pollution_\":\"噪音\",\"Pollution1\":\"擴音設備\",\"Handle\":\"查證被陳情對象屬實_依法告發(罰鍰)並限期改善中\",\"case_date\":\"2014/01/01\",\"LON\":120.207761,\"LAT\":23.001559}},...\n=====分隔線=====\n.\n參考了上方 github 範例連結 example5 的 index.html 53 行的部分，.attr( \"d\", geoPath )，繪製的時候他會直接抓 geometry 底下的 coordinates，經過發問之後，知道這是屬於 TWD97 的格式，但繪製地圖我需要的像 LON, LAT 欄位的經緯度格式，不知道要如何轉換，或是說要怎麼來處理這個問題...謝謝大家",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/maptimeBoston/d3-maptime/blob/gh-pages/example5/index.html",
+    "name": "maptimeBoston/d3-maptime",
+    "description": "d3-maptime - Intro to mapping with D3 for Maptime Boston",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBkaGt11aEaD3hd&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7799408%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1029729620397736",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      30.5,
+      9,
+      9,
+      4
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-15T02:55:40+0000",
+    "updated_time": "2016-07-18T02:26:34+0000",
+    "from": {
+      "name": "吳智楷",
+      "id": "1120326234652619"
+    },
+    "message": "問大家 font-family 的設定樣式@@\n\n一般英文可以引用 google fonts 上各式各樣的 style，但是常常在中文字體上會感覺糊糊的或怪怪的XD。\n\n調了 line-height 可以稍微改善，但是有時候字體調大以後一整個還是很奇怪XD，個人是覺得 12px 13px 比較精緻，但是有些地方卻顯得太小= =\n\n其實想問大家會在刻網站的時候幫 font-family 做怎樣的設定(中文)(中文)(中文)....",
+    "id": "521085554595481_1032184353485596",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      18.5,
+      4,
+      7,
+      2
+    ],
+    "order": 13
+  },
+  {
+    "created_time": "2016-07-12T09:54:47+0000",
+    "updated_time": "2016-07-13T03:23:12+0000",
+    "from": {
+      "name": "文宗",
+      "id": "996509993781272"
+    },
+    "message": "我想再次請教各位\n若我使用CSS 將某框架設定為AUTO\n假設我希望把width,heigth  AUTO的值減少100跟200\n例如:\nwidth:auto;\nheigth:auto;\nwidth 大了一點,然而我想把auto值再減少100\n有點搞不清楚該怎麼寫\n我還再繼續查資料,也希望各位可以替我解答\n謝謝^^",
+    "id": "521085554595481_1030564943647537",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      17.5,
+      1,
+      11,
+      0
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-07-12T10:05:25+0000",
+    "updated_time": "2016-07-12T10:05:25+0000",
+    "from": {
+      "name": "林宛諭",
+      "id": "1165621783458119"
+    },
+    "message": "豐富的設計免費資源懶人包～",
+    "link": "https://goo.gl/vFl3oP",
+    "name": "Innovation Chat",
+    "description": "你好奇過設計師如何擁有這麼多的資源嗎？\n> \n> 資源懶人包在這裡!\n> 你可以從裡面找到網站、PSD 檔、UI 元件，以及網頁模板等材料，全都免費供你下載使用。\n> \n> https://goo.gl/vFl3oP",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAF47-qWJSrJIAP&w=130&h=130&url=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2014%2F12%2Fvsco-730x438.jpg&cfs=1",
+    "id": "521085554595481_1030567683647263",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      17,
+      17,
+      0,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-15T02:26:59+0000",
+    "updated_time": "2016-07-15T13:39:36+0000",
+    "from": {
+      "name": "廖某允",
+      "id": "921536114534433"
+    },
+    "message": "請問今年有人要去貴鬆鬆的ASIA CSSConf嗎?\n想說這輩子應該去體驗一次看看這樣，或是去過的可以分享一點經驗?\n感謝~\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://2016.cssconf.asia/",
+    "name": "CSSConf.Asia Singapore 2016",
+    "description": "Bridging web design and implementation. 24th November 2016, Singapore. Follow us on Twitter @cssconfasia",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDuTdnBsGlyQeEZ&w=130&h=130&url=https%3A%2F%2F2016.cssconf.asia%2Fassets%2Fog_cssconfasia.png&cfs=1",
+    "id": "521085554595481_1032172406820124",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      16,
+      9,
+      2,
+      2
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-07-12T15:23:30+0000",
+    "updated_time": "2016-07-12T15:23:30+0000",
+    "from": {
+      "name": "Amos Huang",
+      "id": "10153825697619389"
+    },
+    "message": "Hi, dear friends\n第一次發文，Viscovery是一間專注圖像及影音分析的公司，最近我們正在打造一款影音搜索平台，有點像Video版的Google，讓所有人可以快速的搜索全球的影片，並且將加入許多影音互動情境功能，需要前端RD包括H5、iOS、Android等伙伴加入，薪資約80~140萬/年，地點台北兄弟飯店旁，意者內洽，感謝！",
+    "id": "521085554595481_1030700816967283",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 13
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      13,
+      13,
+      0,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-11T06:06:17+0000",
+    "updated_time": "2016-07-11T06:06:17+0000",
+    "from": {
+      "name": "高嘉祥",
+      "id": "1093482287332614"
+    },
+    "message": "研究了Google Drive API，若要單純用前端且不透過OAuth\n取得已經在Google Drive分享的檔案，可以用Google Drive v2的drive.files.get和file id來取得檔案資訊(若是Google Document，可以選擇不同格式輸出)。 v3開始雖然保留drive.files.get，但似乎不再回傳file content了。 ：（",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://jsgao0.wordpress.com/2016/07/11/retrieve-file-from-google-drive/",
+    "name": "Retrieve File From Google Drive",
+    "description": "Scenario I want to retrieve public(shared with anyone and can be found) files without authentication(Google Auth). I tried the following solution. As you can see, Google API always refused the requ…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQClTQHejx5IDxrW&w=130&h=130&url=https%3A%2F%2Fjsgao0.files.wordpress.com%2F2016%2F07%2Fgoogle-drive-using-yql-0012.jpeg&cfs=1",
+    "id": "521085554595481_1029770313727000",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 11
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      13,
+      11,
+      0,
+      1
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-07-12T09:11:32+0000",
+    "updated_time": "2016-07-12T09:36:59+0000",
+    "from": {
+      "name": "陳茂霖",
+      "id": "812380708843944"
+    },
+    "message": "免費觀賽活動分享",
+    "id": "521085554595481_1030553806981984",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      12.5,
+      8,
+      3,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-07-11T10:50:50+0000",
+    "updated_time": "2016-07-11T12:17:16+0000",
+    "from": {
+      "name": "Sherdeadlock  Nil",
+      "id": "1613302692271500"
+    },
+    "message": "請問 webpack 編譯時, 會有 define 這個 function (AMD)?\n\nimport 了這個 package https://goo.gl/jDiJoD\n\n會跑進 AMD 那段程式碼，導致找不到其他 Package.\n不清楚這是 webpack 還是 babel 的問題?\n\n錯誤訊息\nERROR in ./packages/minimal/src/index.js\nModule not found: Error: Cannot resolve module 'ApiClient' in /Users/lin/git/swagger/webpack_minimal/packages/minimal/src\n @ ./packages/minimal/src/index.js 32:4-52",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/sherdeadlock/minimal-webpack-swagger/blob/master/packages/minimal/src/index.js#L25",
+    "name": "sherdeadlock/minimal-webpack-swagger",
+    "description": "Contribute to minimal-webpack-swagger development by creating an account on GitHub.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDn9LPxA8i2xl7Z&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6625010%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1030027683701263",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      12,
+      0,
+      8,
+      0
+    ],
+    "order": 20
+  }
+]
