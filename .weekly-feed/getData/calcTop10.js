@@ -26,30 +26,30 @@ prompt.get([{
   var top20Voted = fetchJSONFile(`.weekly-feed/${date}-vote.json`);
 
   var yamlTpl = `- permalink: 'https://fb.com/{{ id }}'
-    time: '{{ created_time }}'
-    sharer-name: '{{ from.name }}'
-    sharer-id: '{{ from.id }}'
-    title: '{{ name }}'
-    link: '{{{ link }}}'
-    {{# cover }}
-    cover: '{{{ cover }}}'
-    {{/ cover }}
-    intro: ''
-  `;
+  time: '{{ created_time }}'
+  sharer-name: '{{ from.name }}'
+  sharer-id: '{{ from.id }}'
+  title: '{{ name }}'
+  link: '{{{ link }}}'
+  {{# cover }}
+  cover: '{{{ cover }}}'
+  {{/ cover }}
+  intro: ''
+`;
 
   var mdTpl = `---
-  layout: post
-  title: "Collection #0{{ week }}"
-  categories: collection
-  tags: weekly-popular
-  publish-date: '{{ publishDate }}'
-  date-since: '{{ dateSince }}'
-  date-until: '{{ dateUntil }}'
-  volunteer: {{ volunteer }}
-  ---
+layout: post
+title: "Collection #0{{ week }}"
+categories: collection
+tags: weekly-popular
+publish-date: '{{ publishDate }}'
+date-since: '{{ dateSince }}'
+date-until: '{{ dateUntil }}'
+volunteer: {{ volunteer }}
+---
 
-  {% include card.html %}
-  `;
+{% include card.html %}
+`;
 
   Promise.all([top20, top20Voted]).then(v => {
     var top20 = v[0];
