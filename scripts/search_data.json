@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-07-10",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/017/",
+    "title": "Collection #017",
+    "items": [
+      
+        {
+          "title": "Webpack React 入門筆記",
+          "url": "http://elainehuang.github.io/so-simple-theme/articles/React-webpack/",
+          "sharer": "黃怡綾",
+          "sharer-id": "926174897471245",
+          "permalink": "https://fb.com/521085554595481_1028380007199364",
+          "time": "2016-07-10T04:54:29+0000",
+          "intro": "Elaine Huang 分享她 webpack + react 的開發環境，並從 install 開始到各相依 plugin 的使用逐一紀錄與簡介"
+        }
+        ,
+        
+        {
+          "title": "Design Better Forms",
+          "url": "https://t.co/VDOHqAjJXP",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1029013687135996",
+          "time": "2016-07-10T15:35:46+0000",
+          "intro": "用簡明的對照圖呈現較理想的表單排版方式，可更清楚地理解該如何群組各種表單元件，來讓表單的操作更加舒暢"
+        }
+        ,
+        
+        {
+          "title": "淺入淺出 eslint 與實作 · De-bug: 一鍵跑版",
+          "url": "http://abalone0204.github.io/2016/07/11/eslint-fxcking-setup/",
+          "sharer": "Denny Ku",
+          "sharer-id": "841989239187866",
+          "permalink": "https://fb.com/521085554595481_1030127590357939",
+          "time": "2016-07-11T14:42:24+0000",
+          "intro": "Denny Ku 分享個人學習 ESLint 的筆記，介紹 ESLint 各個參數的使用方式；並示範實際開發過程中如何與 webpack 及 git hook 搭配使用"
+        }
+        ,
+        
+        {
+          "title": "[點點滴滴] 寫網頁，很難嗎？ - 沒一村前端筆記",
+          "url": "https://noootown.wordpress.com/2016/07/10/web-difficulties/",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_1028671233836908",
+          "time": "2016-07-10T09:55:38+0000",
+          "intro": "邱弘毅分享學習網頁前端一年的感想，並列舉他認為可幫助學習的一些任務作為參考"
+        }
+        ,
+        
+        {
+          "title": "偵測瀏覽器及螢幕尺寸 | 瀏覽器版本查詢 | 行動裝置版本查詢",
+          "url": "http://ibrowser.info/",
+          "sharer": "Ian Lin",
+          "sharer-id": "10203375201735514",
+          "permalink": "https://fb.com/521085554595481_1032186263485405",
+          "time": "2016-07-15T03:00:58+0000",
+          "intro": "一個可簡易列舉 client 端瀏覽器環境資訊的檢測頁面，留言底下也有幾個類似且不錯的工具"
+        }
+        ,
+        
+        {
+          "title": "Make the Web Work For Everyone ★ Mozilla Hacks",
+          "url": "https://t.co/S8CwsfNN8R",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1032482996789065",
+          "time": "2016-07-15T15:53:44+0000",
+          "intro": "Mozilla Hacks 上的一篇跨瀏覽器相容性的勸世文，文中也介紹了不少相關的輔助開發工具"
+        }
+        ,
+        
+        {
+          "title": "前端开发中的一些黑魔法Pt1_Dirty Tricks, 黑魔法 教程_w3cplus",
+          "url": "http://www.w3cplus.com/css/dirty-tricks-dark-corners-front-end-pt1.html?fb_ref=Default",
+          "sharer": "顏永富",
+          "sharer-id": "10206378198162257",
+          "permalink": "https://fb.com/521085554595481_1032003593503672",
+          "time": "2016-07-14T19:26:12+0000",
+          "intro": "前段時間由 Smashing Magazine 主編 Vitaly Friedman 演講簡報《Dirty Tricks From The Dark Corners Of Front-End》的簡中譯文"
+        }
+        ,
+        
+        {
+          "title": "JS Bin",
+          "url": "http://jsbin.com/ricolajoze/edit?html%2Ccss%2Coutput",
+          "sharer": "黃馨民",
+          "sharer-id": "947225441984120",
+          "permalink": "https://fb.com/521085554595481_1030047920365906",
+          "time": "2016-07-11T12:02:09+0000",
+          "intro": "關於 Compass image sprite &amp; background-position 的討論串"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "http://i.imgur.com/7ZmrtGY.gifv",
+          "sharer": "Mickey Chen",
+          "sharer-id": "129663824037099",
+          "permalink": "https://fb.com/521085554595481_1031596870211011",
+          "time": "2016-07-14T01:57:28+0000",
+          "intro": "似乎是用 Google Web designer 製作的效果(？)"
+        }
+        ,
+        
+        {
+          "title": "maptimeBoston&amp;#x2F;d3-maptime",
+          "url": "https://github.com/maptimeBoston/d3-maptime/blob/gh-pages/example5/index.html",
+          "sharer": "吳承翰",
+          "sharer-id": "10205651825993609",
+          "permalink": "https://fb.com/521085554595481_1029729620397736",
+          "time": "2016-07-11T03:46:23+0000",
+          "intro": "關於 geojson 經緯度轉換的請益討論串"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-07-03",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/016/",
