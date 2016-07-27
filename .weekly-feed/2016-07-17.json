@@ -1,0 +1,733 @@
+[
+  {
+    "shares": {
+      "count": 117
+    },
+    "created_time": "2016-07-17T07:51:46+0000",
+    "updated_time": "2016-07-19T12:12:10+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "969639729722349"
+    },
+    "message": "大家好，小弟整理了一份非常簡單的 HTML 跟 CSS 自學教材、設計了幾個有趣小作業\n\n適合給正要入門網頁的朋友自學網頁的基本知識：HTML 跟 CSS\n\n不需要具備任何基礎、也不需要任何背景\n\n跟大家分享一下 謝謝大家 <( _ _ )>\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://class.turn.tw/portfolio/html-and-css/",
+    "name": "自學網頁の嬰兒教材：HTML與CSS",
+    "description": "自學網頁の嬰兒教材：HTML與CSS 大家好，有沒有想學網頁的朋友呢？ 我整理了一份非常簡單的 HTML 跟 CSS 自學教材、設計了幾個有趣小作業 全部做完之後，應該任何人都可以掌握網頁的基本知識：HTML 跟 CSS 您不需要具備任何基礎、也不需要任何背景 歡迎您試試看這份教材！ 自學網頁の嬰兒教材：第1週 ── HTML 輕入門 自學網頁の嬰兒教材：第2週 ── CSS 輕入門 自學網頁の嬰兒教材：第3週 ── 網頁排版 自學網頁の嬰兒教材：第4週 ── 好用的表格",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAkn4VkvnrdRbiZ&w=130&h=130&url=http%3A%2F%2Fclass.turn.tw%2Fwp-content%2Fuploads%2F2016%2F07%2Fboy.png&cfs=1&sx=0&sy=0&sw=423&sh=423&l",
+    "id": "521085554595481_1033400286697336",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 371
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      624.5,
+      371,
+      13,
+      117
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 13
+    },
+    "created_time": "2016-07-19T03:59:20+0000",
+    "updated_time": "2016-07-19T05:23:38+0000",
+    "from": {
+      "name": "Adam Wang",
+      "id": "10204966345691457"
+    },
+    "message": "📢   Pinkoi 徵前端工程師！歡迎來當我和 Fred Chu 的同事！:D\n\n應徵條件詳見 >> https://www.pinkoi.com/about/careers#frontend-engineer\n超歡樂工作氣氛 >> https://www.instagram.com/ilovepinkoi/\n\n薪資範圍：40K~80K / 月，太強面試時另議 \n\n履歷請寄 hr [at] pinkoi.com",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.pinkoi.com/about/careers#frontend-engineer",
+    "name": "Pinkoi 工作機會",
+    "description": "加入 Pinkoi！跟一群熱愛設計的人一起努力，讓設計師的作品被更多人看見，將好設計推向世界的各個角落。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCN_k1vn10N_mfe&w=130&h=130&url=https%3A%2F%2Fcdn04.pinkoi.com%2Fpinkoi.site%2Fabout%2Fabout_fb_share.jpg&cfs=1",
+    "id": "521085554595481_1034470956590269",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 249
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      282.5,
+      249,
+      5,
+      13
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-07-18T00:34:24+0000",
+    "updated_time": "2016-07-19T10:53:11+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "1066773103336031"
+    },
+    "message": "Hi 各位大大早！這幾天在家宅了一項作品，基本上去年有分享過了，不過這次有修改了前、後端架構，所以在重 po 一次！\n\nLive Demo：http://works.ioa.tw/weather/\n\nGitHub：https://github.com/comdan66/weather/\n\n這次心得有點長，為了不要造成洗版與閱讀不便，更多的細節可以看這裡：http://works.ioa.tw/weather/readme.html\n\n這裡主要就講解前端部分，這次比較特別的是 LocalStorage，我把 LocalStorage 作為暫存的機制，利用這項前端瀏覽器的功能，將它拿來記錄使用者瀏覽過的鄉鎮，同時也可以拿來做為收藏鄉鎮的功能！\n\n另外這次既然做成 S3 架構也有了 API 服務，既然取之於網路，那就一樣分享於網路，所幸我就連 apiDoc 一起建立，如此一來大家就可以一起使用我的資源，在我還沒有關閉我的服務之前，大家都可以使用喔！\n\n然後各位若喜歡此專案的話，可以到我的 GitHub 上幫我按個喜歡喔！\n\n--\n#天氣 #中央氣象局 #GoogleMaps #天氣地圖",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://works.ioa.tw/weather/",
+    "name": "天氣地圖 Weather Maps",
+    "description": "想查詢每個地方的天氣嗎？藉由GoogleMapsAPI的地圖服務，以及中央氣象局的天氣預報，讓你快速輕鬆的查詢台灣368個鄉鎮的天氣概況！使用中央氣象局網站公告的氣象預報資訊作為資料來源，平均每30分鐘更新最新天氣概況，分別顯示溫濕度、日出落時間、特別預報..等功能。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDURX9gkZiflRLx&w=130&h=130&url=http%3A%2F%2Fworks.ioa.tw%2Fweather%2Fimg%2Fog%2Findex.jpg&cfs=1",
+    "id": "521085554595481_1033814209989277",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 181
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      239.5,
+      181,
+      11,
+      21
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 35
+    },
+    "created_time": "2016-07-17T16:19:30+0000",
+    "updated_time": "2016-07-17T23:48:50+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "想要打造一個符合 Material Design 的 Google 風網站嗎？\n\n可以參考剛上 Product Hunt 熱門的 Material Kit，based on Bootstrap。\n\n另有付費的 Pro 版可當接案好朋友，內含大量 Section 模板可套。\nhttp://demos.creative-tim.com/material-kit-pro/presentation.html",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://ct-freebies.herokuapp.com/material-kit/index.html",
+    "name": "Material Kit by Creative Tim",
+    "description": "A Badass Bootstrap UI Kit based on Material Design.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyOMhAKWbvC-IE&w=130&h=130&url=http%3A%2F%2Fs3.amazonaws.com%2Fcreativetim_bucket%2Fproducts%2F38%2Foriginal%2Fopt_mk_thumbnail.jpg&cfs=1&sx=77&sy=0&sw=600&sh=600",
+    "id": "521085554595481_1033607520009946",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 122
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      193.5,
+      122,
+      1,
+      35
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 18
+    },
+    "created_time": "2016-07-18T14:27:45+0000",
+    "updated_time": "2016-07-19T08:20:35+0000",
+    "from": {
+      "name": "丘惟夫",
+      "id": "1008602195881724"
+    },
+    "message": "請問一下\n\n像這樣子橫向縱向都有的滾動視差網站\n\n現在大部分都是用哪一種套件來做比較多呢？\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://makeyourmoneymatter.org/",
+    "name": "Make Your Money Matter",
+    "description": "Discover the difference joining a credit union can make for you and your community. See the big picture at http://www.makeyourmoneymatter.org",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD-vXOw9v9jDi42&w=130&h=130&url=http%3A%2F%2Fmakeyourmoneymatter.org%2Fassets%2Fimages%2Fshare%2F01.jpg&cfs=1",
+    "id": "521085554595481_1034124613291570",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 99
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 36
+      }
+    },
+    "power": [
+      189,
+      99,
+      36,
+      18
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 20
+    },
+    "created_time": "2016-07-22T07:31:50+0000",
+    "updated_time": "2016-07-25T23:53:17+0000",
+    "from": {
+      "name": "陳冠霖",
+      "id": "1121673501184952"
+    },
+    "message": "多的是～你不知道的事～～",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://taobaofed.org/blog/2016/07/22/es6-basics/",
+    "name": "ES6 你可能不知道的事 - 基础篇",
+    "description": "序ES6，或许应该叫 ES2015（2015 年 6 月正式发布），对于大多数前端同学都不陌生。 首先这篇文章不是工具书，不会去过多谈概念，而是想聊聊关于每个特性 你可能不知道的事，希望能为各位同学 正确使用 ES6，提供一些指导。 对于 ES6，有些同学已经在项目中有过深入使用了，有些则刚刚开始认识他，但不论你是属于哪一类，相信这篇文章都有适合你的部分。针对文章中的问题或不同意见，欢迎随时拍砖",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBJAvYKxjlq8qYz&w=130&h=130&url=http%3A%2F%2Fimg.alicdn.com%2Ftfs%2FTB1HPI1KVXXXXbBXpXXXXXXXXXX-900-500.jpg&cfs=1",
+    "id": "521085554595481_1036265613077470",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 79
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      138.5,
+      79,
+      13,
+      20
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 13
+    },
+    "created_time": "2016-07-21T15:25:26+0000",
+    "updated_time": "2016-07-23T09:02:45+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "【 Web Font 加載策略大全】\n\n你想要的字型載入方式，這裡通通都有~\n　\n作者 Zach Leatherman 是一位一直都在把玩(？)網路字型的一位開發者\n這次他整理了目前為止他介紹過的字型加載方式的各種利弊\n\n主文長度適中，還非常關鍵地附了張一圖千言的加載策略分析圖\n但是，B‧U‧T…\n相關文章及外連資訊非常多 ( 我也還沒看完，跪… Orz\n歡迎有興趣的一起來看看 & 討論 :P\n\nA Comprehensive Guide To Font Loading Strategies\nby Zach Leatherman 2016-07-13\nhttps://www.zachleat.com/web/comprehensive-webfonts/\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://t.co/xgiLHNnMAv",
+    "name": "A Comprehensive Guide to Font Loading Strategies—zachleat.com",
+    "description": "A post by Zach Leatherman (zachleat), a Front End Engineer.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBekK9vzxLWmxF9&w=130&h=130&url=https%3A%2F%2Fwww.zachleat.com%2Fweb%2Fimg%2Favatar.png&cfs=1&sx=0&sy=0&sw=160&sh=160",
+    "id": "521085554595481_1035877713116260",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      134.5,
+      80,
+      19,
+      13
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-07-22T15:21:40+0000",
+    "updated_time": "2016-07-24T08:56:33+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "1127751007258578"
+    },
+    "message": "如果沒有環境，就建立環境\n如果沒有同好，就來 Web Tech Topic\n第一場 Web 技術分享會，分享就是學習 !\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amazingtutor.kktix.cc/events/8b8d3df1",
+    "name": "Web Tech Topic #1",
+    "description": "Web Tech Topic 是每週一次的主題式技術分享聚會 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAF-i0zDl2SMgv9&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F52785%2F0728wtt_original.jpg&cfs=1&sx=318&sy=0&sw=1280&sh=1280",
+    "id": "521085554595481_1036522199718478",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 105
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      123,
+      105,
+      8,
+      3
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-07-17T12:14:49+0000",
+    "updated_time": "2016-07-18T02:15:51+0000",
+    "from": {
+      "name": "Jhih-Sian Wu",
+      "id": "10208676198609126"
+    },
+    "message": "大家好，我整理了過去幾個月，下班後在Udemy平台學習網頁設計四門課的心得，包含平台簡介、30天內退款流程，以及想給同為上班族學習者的建議。\n\n以下簡單節錄：\n\n---\n\nUdemy平台介紹 /\n\n單一課程買斷制，付費後可以終身觀看，對於忙碌的上班族來說，時間壓力減輕不少，也方便之後回頭複習特定段落。\n\n學習網頁設計的原因 / \n\n下班時間很寶貴，幾點學習過程中可以反覆思考的：我能「解決什麼現有問題」、「創造什麼新價值」？\n\n基於這兩點，我現在所做的事情是「唯一」能達成目標的道路嗎？有沒有其他「替代方案」？\n\n課程推薦 / \n\n「使用HTML、CSS開發一個網站」，中文課程，適合完全沒有基礎的初學者，可以知道網頁設計的基礎概念。對於初學者，購買課程更深的意義，其實是「與老師的交流」。剛起步時，最重要的是要有「能問的對象」。\n\n另外三門分別是「使用 jQuery 打造互動性網頁動畫效果」、「Build Responsive Real World Websites」、「The Web Developer Bootcamp」。\n\n新手推薦書籍 /\nhttp://www.books.com.tw/products/0010546014\n\nHTML&CSS：網站設計建置優化之道。我從這本書開始接觸網頁設計的，非常推薦。\n\n結語 /\n\n通常老師講一段可能10秒到60秒，按暫停，然後打上老師剛剛講的程式碼，跑跑看有沒有錯誤，沒問題就繼續按播放，一直重複這個循環，所以就算課程進行很順暢，花費兩倍到三倍的時間都是正常的。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://pala.tw/learn-web-development-on-udemy/",
+    "name": "Udemy與網頁設計課程推薦",
+    "description": "Udemy平台介紹、退款流程，學習心得與四門前端課程推薦。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBewljj4m55Lbhi&w=130&h=130&url=http%3A%2F%2Fpala.tw%2Fimages%2Fud0.png&cfs=1",
+    "id": "521085554595481_1033500556687309",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 94
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      121.5,
+      94,
+      5,
+      10
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-07-18T05:34:59+0000",
+    "updated_time": "2016-07-25T01:54:55+0000",
+    "from": {
+      "name": "馬志瑋",
+      "id": "10206553800553347"
+    },
+    "message": "hello，各位\n久違了一年半終於活動再開\n本次主題是最近很夯的vue.js\n報名開始時間是 7/21 (四)\n活動時間是 8/4 (四)\n備註：此次沒有直播",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/f2e6-56d17c",
+    "name": "F2E Meetup 八月號",
+    "description": "主題：F2E Meetup 八月號 人數：35人 地點：台北市信義區信義路五段 106 號 4 樓 A1 日期：8/4(四) PM 7:00 =============================",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1033935896643775",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 86
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      120.5,
+      86,
+      11,
+      9
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-07-22T09:04:02+0000",
+    "updated_time": "2016-07-22T10:07:22+0000",
+    "from": {
+      "name": "Henry Lin",
+      "id": "10209356806052903"
+    },
+    "message": "[工商服務時間]\n美國FinTech新創團隊 Kyper 要在台灣擴大徵人，月薪 50k-120k。\n職位分別為:\nFrontend Engineer, Backend Engineer, Data Engineer, Data Scientist, Project Manager, Project Manager Associate\n有興趣的人麻煩寄email到 contact@kyper.com 標題是姓名＿應徵職位。\n有關Kyper的新聞:",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://technews.tw/2016/06/19/kyper-data-taiwan/",
+    "name": "大數據解密提前洞悉市場風向！正港台灣囝仔出招，打造華爾街新武器",
+    "description": "自 FinTech 在全球掀起新浪潮，科技人才大舉進軍華爾街，用更科學的人工智慧管理金錢。而金融業資訊量龐雜，可用與否影響金流，數據科學家將解密資料庫，做出數據界的 Airbnb。 奧斯卡影帝羅素克洛（Russell Ira Crowe）主演的電影《美麗境界》，故事主人翁約翰納許是一位瘋狂熱愛...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAeUtHw0jC8Kp4i&w=130&h=130&url=http%3A%2F%2Fimg.technews.tw%2Fwp-content%2Fuploads%2F2016%2F06%2Fkyper-taiwan.jpg&cfs=1",
+    "id": "521085554595481_1036312569739441",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 62
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      100.5,
+      62,
+      7,
+      14
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-07-23T00:58:29+0000",
+    "updated_time": "2016-07-25T00:36:08+0000",
+    "from": {
+      "name": "Huang Alun",
+      "id": "1075115052501841"
+    },
+    "message": "早安 請問各位前輩\n\n如果在ie5想做驗證圖片載入在進行長寬的判斷，常常圖片沒載完成，就驗證圖片長寬導致驗證不正確，要改良的話請問需要多做什麼? \n\n下方連結是程式\nhttps://jsfiddle.net/hunaglun/bbaddw4y/",
+    "id": "521085554595481_1036745953029436",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 13
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 49
+      }
+    },
+    "power": [
+      98.5,
+      13,
+      49,
+      6
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-19T01:55:50+0000",
+    "updated_time": "2016-07-19T04:54:35+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "想請教一下這個背景的斜角\n大家看到的會計入親代層的左右 padding 嗎？\n\n我在 Chrome 51 on Ubuntu 上會看到多餘的左右 padding\n( 等下補圖在留言裡\n\n雖然跟其它屬性沒關\n但我仍試著調整 background-clip, background-origin 也是枉然\n\n想問問這是怎麼一回事？？\n\nPS:\nChrome 53 on Ubuntu & Firefox 上皆正常(無額外 padding )\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://codepen.io/HugoGiraudel/pen/kXvVxV?editors=0100",
+    "name": "kXvVxV",
+    "description": "...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAh1035rvBLd-1J&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2FHugoGiraudel%2Fpen%2FkXvVxV%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1034427726594592",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 53
+      }
+    },
+    "power": [
+      95.5,
+      12,
+      53,
+      2
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-07-22T04:09:03+0000",
+    "updated_time": "2016-07-22T12:32:38+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "Stack Overflow 推出新功能 Documentation，鼓勵開發者共筆文件。\nhttp://stackoverflow.com/tour/documentation\n\n附帶一提，單純覺得下圖閃動效果的藍色點點 tool tip 很棒，干擾度低但又有一定程度提示。",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=10208995513538773&set=gm.1036206756416689&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13729016_10208995513538773_2169878553452502215_n.jpg?oh=d04d1b61916e6197e0e1ab38b2bff761&oe=5819737E",
+    "id": "521085554595481_1036206756416689",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 78
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      95,
+      78,
+      6,
+      4
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-07-20T06:37:48+0000",
+    "updated_time": "2016-07-20T06:37:48+0000",
+    "from": {
+      "name": "Chander Shiu",
+      "id": "690282577784734"
+    },
+    "message": "說明 CSS selector 的建議寫法",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://css-tricks.com/efficiently-rendering-css/",
+    "name": "Efficiently Rendering CSS | CSS-Tricks",
+    "description": "I admittedly don't think about this idea very often... how efficient is the CSS that we write, in terms of how quickly the browser can render it? This is d",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBoCwHePVtb-xcB&w=130&h=130&url=https%3A%2F%2Fcdn.css-tricks.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fcss-tricks-star.png&cfs=1",
+    "id": "521085554595481_1035122046525160",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 60
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      88,
+      60,
+      0,
+      14
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-07-22T06:05:19+0000",
+    "updated_time": "2016-07-22T08:05:00+0000",
+    "from": {
+      "name": "Amos Lee",
+      "id": "10153203944282889"
+    },
+    "message": "「自推」有不適合還請告知，感謝\n下週來去台中做bootstrap分享\n有朋友有興趣的話歡迎參加喔～\n另外一個重點是～\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n報名表單中的推薦人～還請填寫Amos，感謝各位\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nhttp://xueii.com.tw/bootstrap3%E6%A5%B5%E9%80%9Frwd%E7%B6%B2%E7%AB%99%E5%BB%BA%E7%BD%AE%E8%A1%93/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://xueii.com.tw/category/一次課程/",
+    "name": "一次課程 – 學藝",
+    "description": "Bootstrap排版 覺得Bootstrap很難使用嗎？每次使用都遇到一些怪奇症狀嗎？修改出困難了嗎？ 還是…根本還沒用但聽說很強大，老闆都說好快好簡單，工程師也說上網看看就會了，但為什麼我看了也做了卻還是覺得很困難呢？ 只要一堂3 小時課程，立馬讓你學會RWD網頁切版，讓我們一起來揭開Bootstrap強大的秘密、操作的密技、應用的實技、開發的效益以及學習中會帶來的那一份心悸(疑)。 Bootstrap內建多項系統化的規劃內容，加上針對各項開發實務上會使用到的模組與彈性快速的主題修改方式及外掛， 讓我們不僅應用在網站前後台都非常適合外，在開發階段更是異常的便利快速。對新創團隊以及專職在系統...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBER7fKjygXIgkO&w=130&h=130&url=http%3A%2F%2Fxueii.com.tw%2Fwp-content%2Fuploads%2F2016%2F07%2F20160721_Amos_Bootstrap%E6%8E%92%E7%89%88%E4%BB%8B%E7%B4%B9%E8%AA%AA%E6%98%8E.png&cfs=1&sx=911&sy=0&sw=200&sh=200",
+    "id": "521085554595481_1036241599746538",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 59
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      63.5,
+      59,
+      3,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-07-18T05:39:47+0000",
+    "updated_time": "2016-07-18T10:23:35+0000",
+    "from": {
+      "name": "馬志瑋",
+      "id": "10206553800553347"
+    },
+    "message": "hello，各位\n久違了一年半終於活動再開\n因為已經和RGBA合併，為照顧設計師們\n預計八月底會再開 一個設計向的活動\n目前已有講師乙名，預計再徵求一位講師，題目未定\n大家可以自由發揮或提議出來討論",
+    "id": "521085554595481_1033937179976980",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      51.5,
+      44,
+      5,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-07-20T06:11:36+0000",
+    "updated_time": "2016-07-20T17:42:15+0000",
+    "from": {
+      "name": "Eddy Chang",
+      "id": "10207756732170219"
+    },
+    "message": "小弟新開設的粉絲專頁，分享Reactjs與週邊技術的相關新聞，覺得不錯的可以幫忙按個讚吧~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.facebook.com/reactjs.tw/",
+    "name": "Reactjs新聞",
+    "description": "ReactJS新聞，成立於2016年，提供最新的React與相關技術的新聞轉貼。",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/12920528_850069695119004_339456858611678273_n.png?oh=475c144fd4ce1f45973eb5dbceafe468&oe=58220242",
+    "id": "521085554595481_1035116469859051",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      50,
+      44,
+      4,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-22T06:10:44+0000",
+    "updated_time": "2016-07-22T13:42:36+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "1127751007258578"
+    },
+    "message": "突然發現大家也想辦聚會，我從下週四開始在三重台北橋站 新北創力坊 辦主題分享，有人願意來做主題分享、火力展示、library / tools 教學\n\n也歡迎給活動些意見，感謝各位大大  ^^\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/README.md",
+    "name": "amazing-tutor/web-tutor-on-thursday",
+    "description": "Contribute to web-tutor-on-thursday development by creating an account on GitHub.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCJ5OqLoVI3lW_I&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F20479208%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1036243349746363",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 33
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      43,
+      33,
+      4,
+      2
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-07-22T09:20:11+0000",
+    "updated_time": "2016-07-25T17:42:06+0000",
+    "from": {
+      "name": "王柏元",
+      "id": "1162752390412909"
+    },
+    "message": "大家好，小弟最近上完課出來，目前在找前端工程師的工作，如果有先輩的公司有需要前端工程師的話，歡迎來找小弟聊聊，如果有違反社團規定，請通知我，謝謝。\n\n小弟是從景文科技大學企管系畢業，在4/11號的時候進入恆逸上java全方位網頁程式設計師班，課程裡面包含HTML、CSS、JavaScript、jQuery跟JAVA，課程詳細內容我會附在此文的下方。\n\n目前除了在尋找前端工程師方面的工作之外，為了能夠縮短學習的時間跟多認識一些新朋友，還是有在別的地方上課，目前主要在學習JavaScript的部分，希望這樣能夠讓大家更了解我。\n\n恆逸課程連結：http://www.uuu.com.tw/SkillTrain/ujwadp\ngithub：https://github.com/java5575",
+    "id": "521085554595481_1036318736405491",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 22
+      }
+    },
+    "power": [
+      39,
+      6,
+      22,
+      0
+    ],
+    "order": 20
+  }
+]
