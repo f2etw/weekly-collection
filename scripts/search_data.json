@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-07-17",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/018/",
+    "title": "Collection #018",
+    "items": [
+      
+        {
+          "title": "自學網頁の嬰兒教材：HTML與CSS",
+          "url": "http://class.turn.tw/portfolio/html-and-css/",
+          "sharer": "尤川豪",
+          "sharer-id": "969639729722349",
+          "permalink": "https://fb.com/521085554595481_1033400286697336",
+          "time": "2016-07-17T07:51:46+0000",
+          "intro": "尤川豪為前端初心者自行設計了一套自學教材，並義務提供 code review 幫忙檢驗是否完成任務"
+        }
+        ,
+        
+        {
+          "title": "天氣地圖 Weather Maps",
+          "url": "http://works.ioa.tw/weather/",
+          "sharer": "吳政賢",
+          "sharer-id": "1066773103336031",
+          "permalink": "https://fb.com/521085554595481_1033814209989277",
+          "time": "2016-07-18T00:34:24+0000",
+          "intro": "吳政賢重新調整之前小專案，以 LocalStorage 為「天氣地圖」加入了紀錄功能"
+        }
+        ,
+        
+        {
+          "title": "Material Kit by Creative Tim",
+          "url": "http://ct-freebies.herokuapp.com/material-kit/index.html",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_1033607520009946",
+          "time": "2016-07-17T16:19:30+0000",
+          "intro": "這是款以 Bootstrap 為骨架，重新套用 Material Design 風格的 UI 套件包"
+        }
+        ,
+        
+        {
+          "title": "Make Your Money Matter",
+          "url": "http://makeyourmoneymatter.org/",
+          "sharer": "丘惟夫",
+          "sharer-id": "1008602195881724",
+          "permalink": "https://fb.com/521085554595481_1034124613291570",
+          "time": "2016-07-18T14:27:45+0000",
+          "intro": "一篇詢問 parallax style 風格實作的請益文，卻能觀察到大批鄉民莫名亂入的奇妙現象 😕"
+        }
+        ,
+        
+        {
+          "title": "ES6 你可能不知道的事 - 基础篇",
+          "url": "http://taobaofed.org/blog/2016/07/22/es6-basics/",
+          "sharer": "陳冠霖",
+          "sharer-id": "1121673501184952",
+          "permalink": "https://fb.com/521085554595481_1036265613077470",
+          "time": "2016-07-22T07:31:50+0000",
+          "intro": "一篇關於 ES2015 新語法的介紹文，並註記一些值得留意的技巧用法"
+        }
+        ,
+        
+        {
+          "title": "A Comprehensive Guide to Font Loading Strategies",
+          "url": "https://t.co/xgiLHNnMAv",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1035877713116260",
+          "time": "2016-07-21T15:25:26+0000",
+          "intro": "Zach Leatherman 整理他目前已知的網路字型加載策略，羅列各方法的利弊，並繪製為策略分析圖；對網路字型調校有興趣者非常有參考價值！"
+        }
+        ,
+        
+        {
+          "title": "Web Tech Topic #1",
+          "url": "http://amazingtutor.kktix.cc/events/8b8d3df1",
+          "sharer": "王信凱",
+          "sharer-id": "1127751007258578",
+          "permalink": "https://fb.com/521085554595481_1036522199718478",
+          "time": "2016-07-22T15:21:40+0000",
+          "intro": "王信凱宣傳他在新北創力坊每週四會固定舉辦的技術分享會，希望能號召夥伴一同分享與學習"
+        }
+        ,
+        
+        {
+          "title": "F2E Meetup 八月號",
+          "url": "http://f2e.kktix.cc/events/f2e6-56d17c",
+          "sharer": "馬志瑋",
+          "sharer-id": "10206553800553347",
+          "permalink": "https://fb.com/521085554595481_1033935896643775",
+          "time": "2016-07-18T05:34:59+0000",
+          "intro": "F2ETW 實體活動再開，這次將帶來的是關於 Vue.js 的分享，有興趣者可密切關注"
+        }
+        ,
+        
+        {
+          "title": "Udemy與網頁設計課程推薦",
+          "url": "http://pala.tw/learn-web-development-on-udemy/",
+          "sharer": "Jhih-Sian Wu",
+          "sharer-id": "10208676198609126",
+          "permalink": "https://fb.com/521085554595481_1033500556687309",
+          "time": "2016-07-17T12:14:49+0000",
+          "intro": "Jhih-Sian Wu 介紹 Udemy 這個線上課程網的操作，並推薦他學習過的新手課程"
+        }
+        ,
+        
+        {
+          "title": "Stack Overflow Documentation",
+          "url": "https://www.facebook.com/photo.php?fbid=10208995513538773&amp;set=gm.1036206756416689&amp;type=3",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_1036206756416689",
+          "time": "2016-07-22T04:09:03+0000",
+          "intro": "Stack Overflow 推出自家的文件參考系統。利用常駐的大量專家，營造一個可信度較高的 wiki 式文件系統；對於未來在回答或查找問題能更加便利"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-07-10",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/017/",
