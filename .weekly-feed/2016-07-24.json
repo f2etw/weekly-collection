@@ -1,0 +1,693 @@
+[
+  {
+    "shares": {
+      "count": 14
+    },
+    "created_time": "2016-07-27T14:03:16+0000",
+    "updated_time": "2016-07-30T03:51:40+0000",
+    "from": {
+      "name": "李孟蓁",
+      "id": "974402572592574"
+    },
+    "message": "各位前輩們好～我是應屆畢業生李孟蓁Amy Lee\n這是我最近剛做的簡略個人網頁\n接下來陸續想要找前端開發的工作\n因為有面試幾家公司說jQuery會拉低網站效率\n所以這次主要以javascript和bootstrap開發\n想請各位提供意見，請不要客氣地鞭策><\n謝謝～\n\n另外想請教一下各位都怎麼評估JavaScript 和jQuery的效能並作出取決呢？\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amy801101.github.io/amyisthebest/cv/index.html",
+    "name": "Hi, I am Amy Lee",
+    "description": "Hi, I am Amy. My Chinese name is Meng-Chen Lee. Born in Taipei, Taiwan. I just graduated from National Taiwan University, majoring in information and management. I have great passion in implementing web applications, escpecially font-end development, and Also have various internship experience in we...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAoUe6f7bBFphW0&w=130&h=130&url=http%3A%2F%2Famy801101.github.io%2Famyisthebest%2Fcv%2Fimages%2Fpreview.png&cfs=1&sx=220&sy=0&sw=601&sh=601",
+    "id": "521085554595481_1039344532769578",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 387
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 163
+      }
+    },
+    "power": [
+      659.5,
+      387,
+      163,
+      14
+    ],
+    "order": 1
+  },
+  {
+    "created_time": "2016-07-29T05:48:48+0000",
+    "updated_time": "2016-07-29T18:03:59+0000",
+    "from": {
+      "name": "陳柏融",
+      "id": "966822483415769"
+    },
+    "message": "好用的 chrome 擴充套件，可以讓前端工程師在開發的過程中，享受更多的便利與樂趣。",
+    "link": "https://www.facebook.com/pjchender/photos/a.1078492305569538.1073741833.768320183253420/1078492338902868/?type=3",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "在這一次的分享中，我們整理了12個前端工程師最常使用到的 google chrome 擴充功能，有些是幫我們一覽他人網頁的架構，有些是幫助我們掌握網站元素的細節，有些則是讓我們的作品更容易和他人分享與溝通，快點一起來看看吧！",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13669646_1078492338902868_5948392900977533004_n.png?oh=20c49096f16b6bcc9bd20efb91d5d346&oe=581C83EB",
+    "id": "521085554595481_1040322676005097",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 268
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      272.5,
+      268,
+      3,
+      0
+    ],
+    "order": 2
+  },
+  {
+    "created_time": "2016-07-28T13:51:44+0000",
+    "updated_time": "2016-07-29T14:01:42+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "952773934745171"
+    },
+    "message": "https://lichin.me/hoverbtn2/\n大家好～\n這是我最近做的按鈕小練習，主要是一些想法的實現。\n其中大概最有感觸的就是 神奇寶貝了～\n台灣還玩不到啊～～\n--\n若是在動畫上，以及色彩跟形狀有任何建議都很歡迎提出來，希望這些東西可以給大家一點點想法!\n--\n若是想知道其中一些效果是怎麼產出的可以參考:\nhttps://lichin.me/css/2016/07/28/hover-button-animation3\n或是到codepen上面玩玩看:\nhttp://codepen.io/lichin-lin/details/kXJWvE/",
+    "id": "521085554595481_1039954716041893",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 213
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 34
+      }
+    },
+    "power": [
+      264,
+      213,
+      34,
+      0
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 23
+    },
+    "created_time": "2016-07-24T08:28:48+0000",
+    "updated_time": "2016-07-24T23:36:20+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10205598652859379"
+    },
+    "message": "<input> 的格式有時候很討厭，不只後端的格式處理與驗證，在前端的呈現上也是根據不同類資料有百百種格式。\n.\ncleave.js 則是幫助前端處理以下的 input 欄位資料格式，讓使用者輸入後自動根據資料內容調整排版，支援的格式類型包含：\n\n- 信用卡格式 (AE, VISA, MASTER, JCB, DISCOVER, DINER)\n- i18n 電話格式 (各國的資料可以切開以減少大小)\n- 日期\n- 數字\n- 自訂 (以符號分隔、Prefix)\n.\n有提供 REACT Component",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://nosir.github.io/cleave.js/",
+    "name": "Cleave.js - Format input text content when you are typing",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAkDQDs_TFdw0BO&w=130&h=130&url=https%3A%2F%2Faral.github.com%2Ffork-me-on-github-retina-ribbons%2Fright-graphite%402x.png&cfs=1",
+    "id": "521085554595481_1037503072953724",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 118
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      177.5,
+      118,
+      9,
+      23
+    ],
+    "order": 4
+  },
+  {
+    "created_time": "2016-07-26T02:03:05+0000",
+    "updated_time": "2016-07-26T02:03:05+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "996025350417110"
+    },
+    "message": "新手在設計網頁時常會擔心寫出來的 code 不如預期，\n所以會一直頻繁地在編輯器、瀏覽器上來回更新，\n但如果會使用網頁瀏覽器內建的開發人員工具，\n便能大幅提升開發效率，減少來回切換視窗的時間。\n　\n這裡我整理出個人實務上最常用的 Crhome 除錯功能，\n希望透過這20部共2hr的免費教學影片，\n迅速升級大家 Debug 的效率 XD\n　\n除了 Chrome 影片外，\nAtom 與 Sublime Text 教學也是免費的哩，\n歡迎大家踴躍加入觀看\n　\nChrome DevTools 免費課程傳送門：\nhttps://goo.gl/Tpp9MN\n　\n六角學院網站\nhttp://www.hexschool.com/\n　\nPS：粉絲頁有抽獎活動，也歡迎大家來參加 :D\n#六角學院 #ChromeDev",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.hexschool.com/",
+    "name": "六角學院",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/c25.0.200.200/p200x200/12376849_608978222584828_5924595313927774439_n.png?oh=19b147b5b85b55b70cab2b145b4e57ca&oe=5812D322",
+    "id": "521085554595481_1038484249522273",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 136
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      136,
+      136,
+      0,
+      0
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-07-28T14:16:24+0000",
+    "updated_time": "2016-07-30T06:05:49+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "嗨嗨~\n各位喜歡參加活動的朋友大家好~ ✋\n雖然這社團主辦的活動已經空窗了一年多 \n不過還是可以看到各處都有陸續在舉辦很棒的前端活動\n所以跑龍套的不才就想了個方式來整理這些活動的資訊 \n\n在參考之前分享的那份 conference 2016 列表後\n我覺得用 Google 的日曆是個不錯的方式 ✨\n* 可以直接網路上看\n* 也可以匯入到自己的行動日曆裡\n　\n於是乎，經過前幾天的調整跟測試，終於弄好了這個雛型~ \n歡迎有興趣追蹤台灣各地前端相關活動的夥伴們\n一起來關注 & 參與  ~\n　\n✨✨ 【 前端好聚好善！Seek Meetup 】✨✨\n　\n日曆的網址：(右下角的連結可以加進自己的日曆裡)\nhttps://calendar.google.com/calendar/embed?src=8lj511li54lc5q2etflo7utof8%40group.calendar.google.com&ctz=Asia/Taipei \n　\n順道一提，如果要幫忙加新活動的話也很簡單\n有三個方式可以來幫忙：(第一個最簡單無腦~ XDD )\n\n☀ 直接將活動分享至 前端好聚好善！Seek Meetup 的活動裡\n☀ 到 GitHub issue 裡新增一則活動\n☀ Fork repo 回去改完再送 PR\n　\n先感謝大家的支持~\n非常需要大家的支援投稿！    \n　\nGitHub repo: https://github.com/f2etw/seek-meetup\n\n#f2etw",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1166102196790895&set=gm.1039965596040805&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13872880_1166102196790895_3722703592024660799_n.jpg?oh=af58201a876ba2d303b2fd266ee76b37&oe=581CAA60",
+    "id": "521085554595481_1039965596040805",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 74
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      115,
+      74,
+      14,
+      10
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 13
+    },
+    "created_time": "2016-07-27T12:35:07+0000",
+    "updated_time": "2016-07-28T01:09:19+0000",
+    "from": {
+      "name": "顏敬柏",
+      "id": "10209568282945242"
+    },
+    "message": "[課程分享]\n\n前後端網頁一直是密不可分的技術。對於經常需要與後端工程師合作的你/妳，總是對後端技術望之卻步嗎？\n\n本課程專為已經懂一點的前端的同學設計，幫助你跨過各種地雷，快速上手後端開發。不管你想要獨立接案還是配合未來工作需要，我相信掌握一點後端技術都是好的開始！\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://hahow.in/cr/laravel-backend",
+    "name": "創業必備：Laravel 後端網站入門 - Hahow 好學校",
+    "description": "想要創業，沒有一個功能俱全的 Prototype 怎麼行呢？本課程幫助你從零開始架設一個動態網站，涵蓋 PHP 後端語言及 Laravel 框架、MySQL 資料庫、Ubuntu 主機管理及域名註冊等。Make your site live today!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCjqSkAzQK-uZ7J&w=130&h=130&url=https%3A%2F%2Fhahow.in%2Fimages%2F576e99bec2917a110075dd87%3Fwidth%3D1000&cfs=1",
+    "id": "521085554595481_1039306812773350",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 67
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      102,
+      67,
+      6,
+      13
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-07-30T16:56:33+0000",
+    "updated_time": "2016-07-30T18:16:13+0000",
+    "from": {
+      "name": "林楊興",
+      "id": "10205947936271938"
+    },
+    "message": "嗨大家~\n最近我們公司在用 React + Redux 做產品的時候，在把 \"送API request\" 這件事情抽象出來的過程當中有一些感想，也把最後的東西打包開源成一個 npm package。小弟把一些遇到的問題和想法寫了一篇 blog 和大家分享，希望對大家有幫助 :D\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://mz026.github.io/20160731/redux-api-middleman/",
+    "name": "Redux API Middleman · mz026's blog",
+    "description": "Redux API MiddlemanJul 31, 2016最近和同事們一起合作，做出了一個把 “送 API request” 這件事情抽象出來的 redux middleware: redux-api-middleman 這個東西本來是在 redux-universal-template 裡面的一個 middleware，但隨著功能越加越多，再者有別的 project 也要用到一樣的東西，所以索性把它抽出來變成一個獨立的 npm package Why?為什麼要把”送 API request” 這件事情特別拿出來討論呢？主要是因為送 API 這件事情是在一般的 web app 裡面很常見的...",
+    "id": "521085554595481_1041262775911087",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 81
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      98.5,
+      81,
+      5,
+      5
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-07-27T13:44:38+0000",
+    "updated_time": "2016-07-28T23:27:02+0000",
+    "from": {
+      "name": "邱弘毅",
+      "id": "824068551038406"
+    },
+    "message": "為了做一個網頁PPT，我昨天爬了一下\n個人覺得蠻好用的套件\n因為支援markdown，所以寫起來很快\n\n不過，還是想問問看有這方面經驗的各位，在寫網頁PPT時，都用些什麼套件或服務？\n\nhackmd剛看了一下，感覺也不錯用\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/ksky521/nodePPT",
+    "name": "ksky521/nodePPT",
+    "description": "nodePPT - This is probably the best web presentation tool so far!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAasCWTu8d568uP&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1073262%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1039334566103908",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 31
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 36
+      }
+    },
+    "power": [
+      95,
+      31,
+      36,
+      5
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-07-30T15:14:48+0000",
+    "updated_time": "2016-07-30T16:12:52+0000",
+    "from": {
+      "name": "馬志瑋",
+      "id": "10206553800553347"
+    },
+    "message": "hello，各位\nRGBA和F2E合併後的首場設計師活動\n因為第一次試辦，這次只開放20個名額，歡迎大家搶票(?\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/f2e6-56d17c-0f9e5b",
+    "name": "F2E&RGBA 設計 Meetup 八月號",
+    "description": "主題：F2E&RGBA 設計 Meetup 八月號 人數：20人 地點：台北市信義區松山路132號3樓 日期：8/26(五) PM 7:00 =============================",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1041193132584718",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 55
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      79,
+      55,
+      8,
+      6
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-07-27T16:33:23+0000",
+    "updated_time": "2016-07-28T08:26:03+0000",
+    "from": {
+      "name": "Jason Tseng",
+      "id": "1176445319046573"
+    },
+    "message": "Hi，這是小弟我開發純靜態網頁時整理出來的一個 gulp 開發架構，主要為 npm、bower，AngularJS 的 Framework，如果不需要也能移除。SCSS 框架開發，JS 是用 browserify 框架(ES6)，以及字型、圖片放置區。\n目前在前端還算是 Junior，如有更好的做法或改進的地方還請前輩多多指導 XD\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/jason90929/gulp-bower-angularjs-framework-example",
+    "name": "jason90929/gulp-bower-angularjs-framework-example",
+    "description": "gulp-bower-angularjs-framework-example - AngularJS with Gulp, Bower, jQuery, Bootstrap",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCJSNz7SVsCEhky&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16078042%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1039420422761989",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      67.5,
+      50,
+      5,
+      5
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-24T03:23:55+0000",
+    "updated_time": "2016-07-25T00:17:55+0000",
+    "from": {
+      "name": "蔡坤龍",
+      "id": "10205903119431859"
+    },
+    "message": "想請問各位\n大家平常如果趕時間的話\n都會去哪找已經寫好的網頁版型來套？\n付費的也可以～\n重點是要好用又漂亮～～",
+    "id": "521085554595481_1037401139630584",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 19
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      39,
+      19,
+      12,
+      1
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-07-28T10:13:11+0000",
+    "updated_time": "2016-07-31T01:21:04+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "903912066343244"
+    },
+    "message": "Web Design & Development News: Collective #232\nhttp://tympanus.net/codrops/collective/collective-232/\n\n這是最新一期的 Codrops Collective~\n社團裡有沒有人想來開讀書會？",
+    "link": "https://www.facebook.com/codrops/photos/a.490769262912.252968.159107397912/10153803676712913/?type=3",
+    "name": "Codrops",
+    "description": "Web Design & Development News: Collective #232\n>  http://tympanus.net/codrops/collective/collective-232/",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13781973_10153803676712913_702787539373701399_n.png?oh=0cd3a6c8483661fa5051fb44dfe5992e&oe=58195F2B",
+    "id": "521085554595481_1039845392719492",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 28
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      37,
+      28,
+      6,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-07-29T08:59:13+0000",
+    "updated_time": "2016-07-29T13:06:38+0000",
+    "from": {
+      "name": "Dominic Wu",
+      "id": "10205554355771502"
+    },
+    "message": "每年在檢查許願池的時候，都會碰到font-family的問題\n\nbody { font-family: '微軟正黑體', Arial; }\n.bold { font-family: 'Arial Black'; }\n\n然後.bold的中文字，就有可能會fallback到新細明體之類的\n\n--\n\n目前我們的作法是用sass，設一組變數，然後把這堆寫在後面\n\n$default_fonts: '微軟正黑體', Arial;\nbody { font-family: $default_fonts; }\n.bold { font-family: 'Arial Black', $default_fonts; }\n\n雖然有一點笨，但是在自己的範圍裡面這樣寫，還算可以正常工作\n\n--\n\n但是這個作法在碰到include進來的css的時候，就還是會變成以那一隻裡面的字體為準，很不方便\n\n請問有什麼其他作法可以建議嗎？\n\n--\n\n具體而言會碰到的問題是這樣：\n\n我們的css裡面寫了\nbody { font-family: $default_fonts; }\n\n引用的某一個套件，裡面寫了\n.some-plugin label { font-family: 'Roboto'; }\n\n然後label裡面的中文字就會變成Roboto，但是Roboto沒有這些字元，就fallback到新細明體",
+    "id": "521085554595481_1040400889330609",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 11
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      34.5,
+      11,
+      13,
+      2
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-07-30T15:53:02+0000",
+    "updated_time": "2016-07-30T16:15:43+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "跟大家分享玩了Firebase for React Native的心得，因為結果不如預期，放空下寫了此篇，歡迎大家來找碴。或者看看有沒有更好的方案^^",
+    "id": "521085554595481_1041225499248148",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      33,
+      27,
+      4,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-25T17:10:23+0000",
+    "updated_time": "2016-07-30T16:15:57+0000",
+    "from": {
+      "name": "張芫瑜",
+      "id": "1022758091075683"
+    },
+    "message": "請問各位前端大大們\n我想要實作 類似像chrome 文字搜尋時,會將結果的位置標記在scrollbar 上。這種效果有什麼關鍵字可以搜嗎？？？？我是想標記在div的scrollbar上",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1313157535369069&set=gm.1038286959542002&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13754301_1313157535369069_877206184999070417_n.jpg?oh=0cf1b9ccf92bfc001de1aede49b768af&oe=581C672B",
+    "id": "521085554595481_1038286959542002",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      27,
+      7,
+      12,
+      1
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-07-26T15:10:09+0000",
+    "updated_time": "2016-07-26T16:36:05+0000",
+    "from": {
+      "name": "莊為任",
+      "id": "821560307892406"
+    },
+    "id": "521085554595481_1038777966159568",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      19,
+      16,
+      2,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-07-30T14:59:45+0000",
+    "updated_time": "2016-07-30T17:21:13+0000",
+    "from": {
+      "name": "Shih Yuan Wang",
+      "id": "1110895778924339"
+    },
+    "message": "【工商時間】\n\n*** 毛遂自薦，若不適合請刪除，感謝大大 ***\n\n活動說明：\n北京中關村名聞遐邇，但對她的評價總是毀譽參半，\n也不知道到底該信好的還是該信壞的？\n活動中會分享在當地求職、生活和觀察創業環境的現況，\n歡迎有興趣的朋友報名～\n\n＊＊＊因場地大小關係，名額只有25位，以報名完成順序為準，造成不便敬請見諒＊＊＊\n\n活動時間：\n2016.08.14(日) 10:00~11:30\n\n活動地點：\n10043台北市中正區博愛路60號號 5 樓 A 室  不鳥穀共同工作空間\n\n議程：\n【10:00-10:15】 報到\n【10:20-11:00】 北京現況分享\n【11:00-11:10 】Q&A\n【11:10-11:30 】現場與講者交流\n\n詳細資訊：\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.accupass.com/event/register/1607221438423518658040",
+    "name": "【北京中關村】互聯網創業與就業觀察-Accupass 活動通",
+    "description": "對於大陸互聯網產業，我們總是有太多疑問。這次再也不聽說，讓我們一起去探索北京當地到底是如何創業，如何就業，如何生活！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAiGaNAvOdAM5Bb&w=130&h=130&url=http%3A%2F%2Fimg.accupass.com%2Fuserupload%2F9ff16bcc60314e20a73510e1a2804e2e.jpg&cfs=1",
+    "id": "521085554595481_1041186845918680",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 18
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      18,
+      18,
+      0,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-07-27T13:04:54+0000",
+    "updated_time": "2016-07-27T13:04:54+0000",
+    "from": {
+      "name": "蔡秉文",
+      "id": "1240925305952212"
+    },
+    "message": "分享一下自己寫的文章，文筆不好還請見諒。",
+    "id": "521085554595481_1039319672772064",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      17,
+      17,
+      0,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-07-24T14:51:22+0000",
+    "updated_time": "2016-07-24T19:39:25+0000",
+    "from": {
+      "name": "Cho Lin Tsai",
+      "id": "1112888695398764"
+    },
+    "message": "各位前輩好，今天剛踏入一級函式的進度\n這邊我有一個Javascript的問題想請教大家。\n\nfunction addN(n) {\n    var adder = function(x) {\n                    return n + x;\n                };\n    return adder;\n}\nvar add2 = addN(5);\nconsole.log(add2(10));\n\n我不懂為什麼log出來會是15\n尤其是function(x)的部分\nx是如何被賦值為10的呢?",
+    "id": "521085554595481_1037652672938764",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      16.5,
+      4,
+      7,
+      1
+    ],
+    "order": 20
+  }
+]
