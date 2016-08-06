@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-07-24",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/019/",
+    "title": "Collection #019",
+    "items": [
+      
+        {
+          "title": "Hi, I am Amy Lee",
+          "url": "http://amy801101.github.io/amyisthebest/cv/index.html",
+          "sharer": "李孟蓁",
+          "sharer-id": "974402572592574",
+          "permalink": "https://fb.com/521085554595481_1039344532769578",
+          "time": "2016-07-27T14:03:16+0000",
+          "intro": "關於 jQuery &amp; JavaScript Framework 選擇的大哉問"
+        }
+        ,
+        
+        {
+          "title": "PJCHENder網頁前端資源站",
+          "url": "https://www.facebook.com/pjchender/photos/a.1078492305569538.1073741833.768320183253420/1078492338902868/?type=3",
+          "sharer": "陳柏融",
+          "sharer-id": "966822483415769",
+          "permalink": "https://fb.com/521085554595481_1040322676005097",
+          "time": "2016-07-29T05:48:48+0000",
+          "intro": "陳柏融整理了一些能幫助前端工程的 Chrome Extension 成一個相簿，並個別介紹其功能與用途"
+        }
+        ,
+        
+        {
+          "title": "Hover! button animation#3",
+          "url": "https://lichin.me/hoverbtn2/",
+          "sharer": "林立秦",
+          "sharer-id": "952773934745171",
+          "permalink": "https://fb.com/521085554595481_1039954716041893",
+          "time": "2016-07-28T13:51:44+0000",
+          "intro": "林立秦分享新的按鈕樣式練習作品"
+        }
+        ,
+        
+        {
+          "title": "Cleave.js - Format input text content when you are typing",
+          "url": "http://nosir.github.io/cleave.js/",
+          "sharer": "Clement Tang",
+          "sharer-id": "10205598652859379",
+          "permalink": "https://fb.com/521085554595481_1037503072953724",
+          "time": "2016-07-24T08:28:48+0000",
+          "intro": "Cleave.js 是一套能自動驗證與格式化輸入框的 plugin，支援相當多種格式，包括信用卡號、電話號碼、日期甚至是自訂規則"
+        }
+        ,
+        
+        {
+          "title": "帶你學到會的線上課程 | 六角學院",
+          "url": "http://www.hexschool.com/",
+          "sharer": "廖洧杰",
+          "sharer-id": "996025350417110",
+          "permalink": "https://fb.com/521085554595481_1038484249522273",
+          "time": "2016-07-26T02:03:05+0000",
+          "intro": "來自六角學院的免費線上課程系列，新推出了免費的 Chrome DevTools 的線上教學課程"
+        }
+        ,
+        
+        {
+          "title": "前端好聚好善！Seek Meetup",
+          "url": "https://www.facebook.com/photo.php?fbid=1166102196790895&amp;set=gm.1039965596040805&amp;type=3",
+          "sharer": "Rplus Chen",
+          "sharer-id": "903912066343244",
+          "permalink": "https://fb.com/521085554595481_1039965596040805",
+          "time": "2016-07-28T14:16:24+0000",
+          "intro": "F2ETW 社團的新專案，專門來收集台灣各地的前端聚會活動，透過 Google 日曆可直接在網頁上瀏覽，也能匯入至個人日曆中"
+        }
+        ,
+        
+        {
+          "title": "Redux API Middleman · mz026&amp;#39;s blog",
+          "url": "https://mz026.github.io/20160731/redux-api-middleman/",
+          "sharer": "林楊興",
+          "sharer-id": "10205947936271938",
+          "permalink": "https://fb.com/521085554595481_1041262775911087",
+          "time": "2016-07-30T16:56:33+0000",
+          "intro": "林楊興以團隊使用 React + Rudux 開發流程中處理 request 的經驗整理後，寫成一支 npm package，並在文中簡介它的功能與用途"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "邱弘毅",
+          "sharer-id": "824068551038406",
+          "permalink": "https://fb.com/521085554595481_1039334566103908",
+          "time": "2016-07-27T13:44:38+0000",
+          "intro": "針對基於 markdown 語法的簡報工具討論串"
+        }
+        ,
+        
+        {
+          "title": "F2E&amp;amp;RGBA 設計 Meetup 八月號",
+          "url": "http://f2e.kktix.cc/events/f2e6-56d17c-0f9e5b",
+          "sharer": "馬志瑋",
+          "sharer-id": "10206553800553347",
+          "permalink": "https://fb.com/521085554595481_1041193132584718",
+          "time": "2016-07-30T15:14:48+0000",
+          "intro": "RGBA 與 F2ETW 社團結合後的第一次設計向主題活動就在八月底唷，有興趣者請把握搶票時機"
+        }
+        ,
+        
+        {
+          "title": "jason90929&amp;#x2F;gulp-bower-angularjs-framework-example",
+          "url": "https://github.com/jason90929/gulp-bower-angularjs-framework-example",
+          "sharer": "Jason Tseng",
+          "sharer-id": "1176445319046573",
+          "permalink": "https://fb.com/521085554595481_1039420422761989",
+          "time": "2016-07-27T16:33:23+0000",
+          "intro": "Jason Tseng 分享自己開發網站的 gulp 工具包"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-07-17",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/018/",
