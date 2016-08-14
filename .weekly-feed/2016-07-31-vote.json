@@ -1,0 +1,209 @@
+[
+  {
+    "order": "# 1",
+    "likes": "352",
+    "comments": "47",
+    "shares": "78",
+    "vote": 0,
+    "calcSum": 578.5,
+    "postId": "521085554595481_1042471939123504"
+  },
+  {
+    "order": "# 2",
+    "likes": "325",
+    "comments": "6",
+    "shares": "61",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 462,
+    "postId": "521085554595481_1044271272276904"
+  },
+  {
+    "order": "# 3",
+    "likes": "259",
+    "comments": "16",
+    "shares": "48",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 385,
+    "postId": "521085554595481_1041739435863421"
+  },
+  {
+    "order": "# 4",
+    "likes": "171",
+    "comments": "12",
+    "shares": "44",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 283,
+    "postId": "521085554595481_1041624442541587"
+  },
+  {
+    "order": "# 5",
+    "likes": "197",
+    "comments": "11",
+    "shares": "3",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 225.5,
+    "postId": "521085554595481_1044664578904240"
+  },
+  {
+    "order": "# 6",
+    "likes": "217",
+    "comments": "1",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 224.5,
+    "postId": "521085554595481_1044364105600954"
+  },
+  {
+    "order": "# 7",
+    "likes": "141",
+    "comments": "3",
+    "shares": "10",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 171.5,
+    "postId": "521085554595481_1043083402395691"
+  },
+  {
+    "order": "# 10",
+    "likes": "90",
+    "comments": "11",
+    "shares": "0",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 112.5,
+    "postId": "521085554595481_1044118348958863"
+  },
+  {
+    "order": "# 11",
+    "likes": "91",
+    "comments": "10",
+    "shares": "0",
+    "vote": 1,
+    "Rplus": "+1",
+    "calcSum": 109,
+    "postId": "521085554595481_1044772642226767"
+  },
+  {
+    "order": "# 14",
+    "likes": "32",
+    "comments": "14",
+    "shares": "3",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 65,
+    "postId": "521085554595481_1042466265790738"
+  },
+  {
+    "order": "# 16",
+    "likes": "20",
+    "comments": "0",
+    "shares": "4",
+    "vote": 2,
+    "Rplus": "+1",
+    "Clementtang": "+1",
+    "calcSum": 34,
+    "postId": "521085554595481_1042202792483752"
+  },
+  {
+    "order": "# 15",
+    "likes": "20",
+    "comments": "4",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 28,
+    "postId": "521085554595481_1042408065796558"
+  },
+  {
+    "order": "# 17",
+    "likes": "19",
+    "comments": "1",
+    "shares": "2",
+    "vote": 0,
+    "calcSum": 24.5,
+    "postId": "521085554595481_1044822092221822"
+  },
+  {
+    "order": "# 18",
+    "likes": "16",
+    "comments": "3",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 22.5,
+    "postId": "521085554595481_1042342369136461"
+  },
+  {
+    "order": "# 19",
+    "likes": "0",
+    "comments": "8",
+    "shares": "1",
+    "vote": 0,
+    "calcSum": 14,
+    "postId": "521085554595481_1042766169094081"
+  },
+  {
+    "order": "# 8",
+    "likes": "111",
+    "comments": "12",
+    "shares": "7",
+    "vote": -500,
+    "Rplus": "tada",
+    "Clementtang": "tada",
+    "calcSum": -1357,
+    "postId": "521085554595481_1042272435810121"
+  },
+  {
+    "order": "# 9",
+    "likes": "112",
+    "comments": "18",
+    "shares": "0",
+    "vote": -500,
+    "Rplus": "tada",
+    "Clementtang": "tada",
+    "calcSum": -1361,
+    "postId": "521085554595481_1043727042331327"
+  },
+  {
+    "order": "# 12",
+    "likes": "57",
+    "comments": "7",
+    "shares": "0",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1432.5,
+    "postId": "521085554595481_1044252658945432"
+  },
+  {
+    "order": "# 13",
+    "likes": "49",
+    "comments": "5",
+    "shares": "5",
+    "vote": -500,
+    "Rplus": "tada",
+    "calcSum": -1433.5,
+    "postId": "521085554595481_1042282812475750"
+  },
+  {
+    "order": "# 20",
+    "likes": "10",
+    "comments": "0",
+    "shares": "1",
+    "vote": -500,
+    "Rplus": "tada",
+    "Clementtang": "tada",
+    "calcSum": -1488,
+    "postId": "521085554595481_1043423162361715"
+  }
+]
