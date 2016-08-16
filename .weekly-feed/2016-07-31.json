@@ -1,0 +1,730 @@
+[
+  {
+    "shares": {
+      "count": 78
+    },
+    "created_time": "2016-08-01T15:55:04+0000",
+    "updated_time": "2016-08-03T04:13:13+0000",
+    "from": {
+      "name": "Moshi Huang",
+      "id": "847360741944867"
+    },
+    "message": "手法很簡單，開 developer tools 應該都看得出來，創意滿分!!!",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.whatcanyousee.com.tw/",
+    "name": "全聯中元祭 你看見了嗎？",
+    "description": "農曆7月，有一群朋友需要幫助，按下RIP鍵，你也能看得見。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCNm1kIux23evHA&w=130&h=130&url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJSQAxXhNqwQEKQHVrQIzi2dQIARcZlaJyslu91eCLsSlPqwegTM5GEzXhIZUToDq-cW5p9n-rx2NPHYpGZeVxNrxJUE4llKYdqOZxrn9xi5q1VEAjcqSzVxZwtpPpPUZzQnnYsnHO7YkkKgq5AK9Kz&cfs=1&sx=275&sy=0&sw=630&sh=630",
+    "id": "521085554595481_1042471939123504",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 352
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 47
+      }
+    },
+    "power": [
+      578.5,
+      352,
+      47,
+      78
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 61
+    },
+    "created_time": "2016-08-04T12:35:43+0000",
+    "updated_time": "2016-08-04T15:46:19+0000",
+    "from": {
+      "name": "Kuro Hsu",
+      "id": "10201028914003467"
+    },
+    "message": "真不好意思，其實我今天是來做課程宣傳的 (欸",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://speakerdeck.com/kurotanshi/qian-duan-kuang-jia-da-luan-dou-zhi-wo-wei-shi-mo-xuan-ze-vue-dot-js",
+    "name": "前端框架大亂鬥之我為什麼選擇 Vue.js",
+    "description": "F2E.tw 201608 @ Mozilla Taiwan",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDoDuLFOWrC1BQB&w=130&h=130&url=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2F2c9a6ba74ec64872a0df708fd212f48b%2Fslide_0.jpg&cfs=1",
+    "id": "521085554595481_1044271272276904",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 325
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      456,
+      325,
+      6,
+      61
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 48
+    },
+    "created_time": "2016-07-31T11:49:22+0000",
+    "updated_time": "2016-08-01T04:51:37+0000",
+    "from": {
+      "name": "Denny Ku",
+      "id": "722505421136249"
+    },
+    "message": "Hi 大家\n來拋磚引玉地分享一下前端工程師找工作的心得，\n不過可能不會根據公司和職缺一個一個來，\n主要想分享一下整個「找工作的流程」和「想法」，\n中間也會穿插一下對於徵才者的一些看法。\n（根據自己一點點面試和被面試的經驗。）\n希望讓求職或徵才的人，\n都能更了解要怎麽對待或成為前端工程師 XD",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.ptt.cc/bbs/Soft_Job/M.1469872083.A.55D.html",
+    "name": "[心得] 前端找工作之道",
+    "description": "Hi 大家， 關於找工作或職涯發展的東西我都是看這個版，",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBQxJXvOUMqkEaH&w=130&h=130&url=https%3A%2F%2Fi.imgur.com%2FQ101c5V.png&cfs=1&sx=217&sy=0&sw=271&sh=271",
+    "id": "521085554595481_1041739435863421",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 259
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      379,
+      259,
+      16,
+      48
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 44
+    },
+    "created_time": "2016-07-31T06:51:50+0000",
+    "updated_time": "2016-08-07T00:31:02+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10202921383529319"
+    },
+    "message": "各位碰到資料量很大、格式可能很醜、資料長度又很難預估的 Data Table 會怎麼處理呢？\n.\n我自己的經驗不多，頂多就是用 Foo Table 這種套件套一套，不過真的在做產品，尤其是統計報表、電商系統後台、ERP 等時，隨便用一用往往會造成用戶往後很多不便。\n.\n電商系統 Shopify 的 UX Team 在 Medium 上分享了一篇如何處理 Data Table 的 Mobile Friendly 文章，他們採取的做法是「把最左邊那欄凍結，其他欄則可以往凍結的那欄方向滑動，視覺效果類似滑進底端」，然而視覺上完成了但卻有很多針對閱讀器的使用者可能不便，進而延伸的改進細節，重點節錄如下：\n.\n第一課：不要太過於依賴 Prototype\n\n有時候很快就能在 codepen 上做好一個 prototype，但由於並非 semantic 所以在 VoiceOver 上幾乎完全失效，而且為了要能夠滑動所以只能把 cell 包在 column 內，這導致無法透過鍵盤方向鍵在 cell 之間移動。\n.\n第二課：不要小看 CSS 對螢幕閱讀器的影響\n\n針對凍結欄的 CSS，採用 WebAIM 建議的 Position Content Off-screen 讓內容在視覺上隱藏但仍能夠被 VoiceOver 念出。\n.\n第三課：注意細節\n\nVoiceOver 無法唸出 hyphen 連結號，所以所有採用連結號的負數數字對 VoiceOver 是無效的，最後解法是把連結後通通改成 Unicode 的 Minus Sign (U+2212)。\n.\n第四課：重視 HTML 語意結構\n\n要讓網頁能夠支援 Screen Reader 或 VoiceOver 這種無障礙的作法，最好就是堅持採用 HTML 語意結構。\n\n在本專案中，最後發現的最佳解竟然是把兩個 Table 用 position: absolute 疊在一起。上面的表格只顯示被凍結的最左欄，並且使用 aria-hidden: true 的屬性讓 Screen Reader 不會讀到它，而底端的表格則是作為滑動的效果。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/shopify-ux/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf#.e9dd5krru",
+    "name": "Lessons from building mobile-friendly, accessible data tables — Shopify UX",
+    "description": "This is the fifth post in a series on accessibility from Shopify’s UX team. We’re publishing posts every two weeks. You can check out the…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCk65SHCqmUmKFR&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AlC4bbrafop4flbu4rW6_Sw.png&cfs=1",
+    "id": "521085554595481_1041624442541587",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 171
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      277,
+      171,
+      12,
+      44
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-08-05T01:41:58+0000",
+    "updated_time": "2016-08-09T01:44:05+0000",
+    "from": {
+      "name": "Chung Jason",
+      "id": "10203870673912480"
+    },
+    "message": "分享一下～很努力刻完的皮卡丘 -\nhttps://codepen.io/shiningjason1989/details/NALzYQ/\n\n(｡•`ω´•｡) pika pika！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/shiningjason1989/details/NALzYQ/",
+    "name": "Pikachu",
+    "description": "Inspired from 1. http://codepen.io/kevinjannis/pen/GyCgn 2. https://dribbble.com/shots/2565803-Pika...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDsbKCJcnsw05BB&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fshiningjason1989%2Fpen%2FNALzYQ%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1044664578904240",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 197
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      219.5,
+      197,
+      11,
+      3
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-08-04T14:51:01+0000",
+    "updated_time": "2016-08-05T04:34:03+0000",
+    "from": {
+      "name": "Jace Ju",
+      "id": "629973690417661"
+    },
+    "message": "今晚的簡報，希望能讓大家一窺前端 TDD 的世界。",
+    "id": "521085554595481_1044364105600954",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 217
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      218.5,
+      217,
+      1,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-08-02T15:49:14+0000",
+    "updated_time": "2016-08-05T04:23:34+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "776166365736344"
+    },
+    "message": "高雄前端下次聚會時間出爐哩，\n禮拜五中午 12:00 準時報名！\n\n另外這次我們也會嘗試使用「線上直播」，\n是打算把這流程建立起來，\n讓往後各地的開發者們都能夠一同參與。\n\n希望透過這次聚會，\n讓大家更加了解 F2E 與 UI 的工作流程 :D\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://goo.gl/jHI5kz",
+    "name": "高雄前端社群#25 - 前端與 UI 真心合作的不二法門",
+    "description": "高雄前端社群年度熱門主題：前端與 UI 真心合作的不二法門，就在 8/28 熱烈展開。除了專業的 UI 設計分享設計流程外，我們特別請到 \"六位\" 相關領域的專家現場大 PK !!!!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAU8t1iRDDrqKAC&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F53074%2Fui-vs-f2e_original.jpg&cfs=1&sx=115&sy=0&sw=630&sh=630",
+    "id": "521085554595481_1043083402395691",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 141
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      165.5,
+      141,
+      3,
+      10
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-08-01T07:46:29+0000",
+    "updated_time": "2016-08-01T11:32:37+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "message": "【求職】 \n\n雖然 job repo 當初是心血來潮開的\n但還是很開心看到板上現在有很多的前端徵才文~\n也很高興有些單位與朋友透過這方式媒合了\n\n不過有個 label 一直都沒人用過\n也正好小弟我放假放得有點久了 XDD\n寫了一些個人簡介來求職\n希望有志同道合的公司願意撥個時間聊聊~\n也希望這個 「求職」label 可以有更多人來響應~ 🙏\n\nhttps://github.com/f2etw/jobs/issues/110\n\n求職 issue label #頭香 XDD",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/jobs/issues/110",
+    "name": "「求職」Rplus：Front-end Web Developer · Issue #110 · f2etw/jobs",
+    "description": "簡介 我是 Rplus Chen, 朋友間常用 R+ 稱呼 喜歡在社群分享及討論前端資訊 [1] [2] 之前從 KKTIX 與 PIXNET 畢業後，目前放長假中 個性偏網路宅，不過天氣好時會出門玩玩 POI 能力 Rplus on GitHub：可以直接在個人的 GitHub 上看到所有程式碼內容及撰寫風格 我喜歡語義化結構良好的 HTML 但有些細節並沒那麼熟，所以滿喜...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBtbW9Mv5noXuwH&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1808835%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1042272435810121",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 111
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      143,
+      111,
+      12,
+      7
+    ],
+    "order": 8
+  },
+  {
+    "created_time": "2016-08-03T15:31:31+0000",
+    "updated_time": "2016-08-04T18:12:45+0000",
+    "from": {
+      "name": "郭丞哲",
+      "id": "899672006717341"
+    },
+    "message": "「徵才」\n貝殼放大工程部徵人囉，誠摯邀請您來職缺頁面認識我們公司及部門><!!!\n誠心覺得是一間非常好的公司，從老闆到主管到同事，每個都是以人為本真心相待，尤其是我們 CTO ，特別帥；環境更是不在話下，公司正妹特多就不加贅述，盼得厲害的前端大大來帶領小弟我！\n　\n---------------------------------------------\n　\n薪資福利\n-年薪最少 50 以上\n-每季 KPI 激勵獎金與業績獎金\n-年度獎金\n　\n跟玩有關\n-每月公司家庭日\n-一年兩次的員工旅遊\n-迎新／送舊／慶祝／部門聚餐（全額或定額補助）\n　\n跟健康有關\n-自動補充的零食、飲料、現磨咖啡、書\n-固定體育課程（每週一次，平日晚上）\n-年度健康檢查\n　\n跟個人有關\n-每月不扣薪特休 16 小時（累積上限 80 小時）\n-每月不扣薪特休 16 小時（累積上限 80 小時）!!\n-每月不扣薪特休 16 小時（累積上限 80 小時）!!!\n-每年進修課程定額補助（往上可與主管討論）\n　\n若有不符合版規之處，通知將立即改善><!!!",
+    "link": "https://it-wanted.backer-founder.com/",
+    "name": "貝殼放大 Backer-Founder",
+    "description": "【貝殼徵才：為了你，我們架了一個網站！】\n> \n> 我們是貝殼放大工程部，由近 10 位夥伴組成的工程團隊，專長從前端到後端、從使用者體驗到工具串接、大數據，身為集資顧問公司的技術團隊，我們致力於讓每一位提案人可以得到更完整的服務，主要的發展方向有三：獨立集資工具（FinTech）、大數據與 Marketing。\n> \n> ■ 我們開發的產品 ■\n> 在貝殼成立近兩年間，我們開發出了 Backman 內部系統、Backme 亞洲唯一獨立集資工具以及將推出的 CrowdTrail 集資大數據架構，產品的開發過程是非常辛苦的，但同時我們也非常幸運，能和一群來自不同文化、專業思維的貝殼人一同工作，在介面操作體驗、功能開發上都能有更好的提升。\n> \n> ■ 我們在找的就是你！ ■\n> ★招兵買馬的職缺：前端工程師、後端工程師、技術專案經理、產品經理助理以及「隱藏職缺」。\n> 為了這次的徵才，我們用心地寫了一個網站，這是只有我們工程部才有的浪漫，如果你有興趣、或知道身邊有非常適合的人選，請務必造訪我們的徵才網站，或是幫我們分享！\n> \n> 貝殼放大 官方網站☛http://www.backer-founder.com\n> 貝殼放大 工程部徵才網站☛https://it-wanted.backer-founder.com/\n> 貝殼 CTO 個人網站☛https://blog.hothero.org/about-ronald/",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDWJeJ1W8ySEYt9&w=130&h=130&url=https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fit-wanted%2Fog-image.png&cfs=1",
+    "id": "521085554595481_1043727042331327",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 112
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 18
+      }
+    },
+    "power": [
+      139,
+      112,
+      18,
+      0
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-08-04T06:39:04+0000",
+    "updated_time": "2016-08-04T18:13:14+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/UziB2F8FiJ",
+    "name": "Rplus",
+    "description": "主要整理些可以來避免 loading 中空白畫面的各種技巧\n> \n> via: codrops 232\n> ( 其實是先在 frontend-front 看到的，\n> ( 擺著沒看就被收進 codrops 了…\n> src: https://t.co/8iwJb7XjRv\n> tw: https://twitter.com/RplusTW/status/760873477251346432\n> \n> ========== twitter 複製貼上中… ===========\n> \n> 這篇講到的技巧大多不是他原創的，\n> 所以我才會說是「整理」的\n> \n> ## 第一個是 skeleton screen，\n> Facebook & Slack 都有做的 component 預載畫面\n> 作者在文中以「Placeholder layouts」稱呼之~\n> \n> ## 第二個是圖片的預載背景\n> 有可能是圖片或是主顏色\n> 對於降低閃爍感是滿不錯的技巧\n> \n> ## 第三個是區塊的預載位置\n> 盡量讓晚載入的資源可以先把位置預留好\n> 這樣一來在載入完畢時，\n> 瀏覽器 re-layout 後才不會造成畫面內容的跳動\n> 通常就用很常見的等比技巧處理就可以了~\n> \n> ## 第四個是網路字型載入過程中\n> 造成的 FOIT 狀況\n> 作者也是比較建議採用 FOUT 的方式邊處理~\n> 那這個前不久有篇大文章是在介紹一拖拉庫的 web font loading 策略\n> \n> ## 那最後是他的套用實作 skeleton screen\n> \n> Card awaiting content\n> a pen by Kenan Yusuf\n> http://codepen.io/KenanYusuf/pen/JKkpWv/\n> \n> 　跟舊文一樣，\n> 　可以看到很趣味地用 &:empty 在處理樣式~\n> \n> *****\n> \n> Fake it 'til you Make it CSS\n> by Kenan Yusuf 2016-07-29\n> https://kyusuf.com/post/fake-it-til-you-make-it-css\n> #f2etw",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDAm7-MbmpGd-_0&w=130&h=130&url=https%3A%2F%2Fkyusuf.com%2Fassets%2Fimages%2Fcontent%2Ffake-it%2Fcard.png&cfs=1",
+    "id": "521085554595481_1044118348958863",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 90
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      106.5,
+      90,
+      11,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "created_time": "2016-08-05T06:42:34+0000",
+    "updated_time": "2016-08-08T00:12:29+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/MDhWGcqxm6",
+    "name": "Rplus",
+    "description": "睡醒看到 Codepen 上這個精奇的 CSS 技巧  ✨\n> 作者用純 CSS 來做到捲動位置的提示\n> 很天才的想法！😜\n> \n> 看 code 應該就能理解這也算是一種多圖層相疊的應用方法\n> 非常有趣~ 大家也可以想想有什麼地方可以延伸應用~ <3\n> \n> CSS only scroll indicator\n> a pen by Mike Riethmuller 2016-08-01\n> http://codepen.io/MadeByMike/details/ZOrEmr\n> #f2etw\n> \n> via: twitter 精選\n> src: https://t.co/htgObQ2Hbl\n> tw: https://m.twitter.com/RplusTW/status/761449492268802052",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBekcmcP_URctio&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2FMadeByMike%2Fpen%2FZOrEmr%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1044772642226767",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 91
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      106,
+      91,
+      10,
+      0
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-08-04T12:01:09+0000",
+    "updated_time": "2016-08-04T15:51:27+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "message": "at vue.js 佈道大會\n場地棒棒的～\n\n今晚的分享者：(按分享序)\n* Kuro Hsu：前端框架大亂鬥之我為什麼選擇 Vue.js\n* Jace Ju：一頭栽入 Vue.js TDD 的世界",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=1170699142997867&set=gm.1044252658945432&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/13876442_1170699142997867_5937873351704366703_n.jpg?oh=25769cb47326c2d86829b0af29c0d773&oe=58533774",
+    "id": "521085554595481_1044252658945432",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 57
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      67.5,
+      57,
+      7,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-08-01T08:28:32+0000",
+    "updated_time": "2016-08-01T12:41:19+0000",
+    "from": {
+      "name": "Jeffery Sheng",
+      "id": "100000240998234"
+    },
+    "message": "【徵才】\n小弟生平第一次發徵才文，如果有哪裡不合規定\b請告訴我，\n會立刻修正 : )\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/jobs/issues/111",
+    "name": "【徵才】正法寶藏工作室誠徵技術學徒 · Issue #111 · f2etw/jobs",
+    "description": "正法寶藏工作室徵才 職務分類: 程式技術學徒 工作地點: 新北市板橋區文化路一段 137 號 7 樓，能獨立作業者可遠端工作 薪資範圍: 正職月薪 NT$ 30,000 起，依能力經驗面議 「正法寶藏工作室」是一個非營利組織。 致力推動西藏文化之經典、古籍研究及保存，提升西藏文化之知識教育，促進國際西藏文化學術之交流。 目標： 一、 西藏經典、古籍的現代化，以符合現代閱讀習慣，方便更多...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAkf6I5ah3p9fCv&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F880569%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_1042282812475750",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 49
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      66.5,
+      49,
+      5,
+      5
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-08-01T15:41:23+0000",
+    "updated_time": "2016-08-04T06:33:41+0000",
+    "from": {
+      "name": "Gao Jia Siang",
+      "id": "976124412401736"
+    },
+    "message": "CSS復刻小綠人，有人有各式舞蹈或招式可以提供嗎？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/jsgao0/details/AXgwZN",
+    "name": "Green Man Is Walking",
+    "description": "A Striding Xiaolüren....",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDQJXu-ETCxCCvX&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fjsgao0%2Fpen%2FAXgwZN%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1042466265790738",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 32
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 14
+      }
+    },
+    "power": [
+      59,
+      32,
+      14,
+      3
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-01T13:26:02+0000",
+    "updated_time": "2016-08-05T01:28:14+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "點Logo會404 xDD 呵呵",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://opendata.tca.org.tw/hackathon/",
+    "name": "跨國黑客競賽",
+    "description": "「亞洲跨國黑客交流座談會」針對主題，邀請臺灣、泰國、印尼3大領域專家進行跨國座談，",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCM4XxDsKyAqpav&w=130&h=130&url=http%3A%2F%2Fopendata.tca.org.tw%2Fhackathon%2Fimages%2Fslides1.jpg&cfs=1",
+    "id": "521085554595481_1042408065796558",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      28,
+      20,
+      4,
+      1
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-08-01T03:49:16+0000",
+    "updated_time": "2016-08-01T03:49:16+0000",
+    "from": {
+      "name": "Chander Shiu",
+      "id": "462832947196366"
+    },
+    "message": "小小的分享一下實作的過程",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.tedshd.io/posts/774036-webdriverio-introduction-to-front-end-test-notes",
+    "name": "webdriver.io - 前端測試入門筆記... « tedshd's DevNote",
+    "description": "webdriver.io - 前端測試入門筆記... 前端測試工具很多種 我這裡的需求是要做自動化測試 不知為何就選了這套 webdriver.io 可能就只是單純名字很炫(誤 當然一開...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCohz2sW3rPHn6O&w=130&h=130&url=https%3A%2F%2Fs3.amazonaws.com%2Flogdown-production%2Fsystem%2Fblog%2F3202%2Fog_image%2Flogdown.png&cfs=1",
+    "id": "521085554595481_1042202792483752",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      28,
+      20,
+      0,
+      4
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-08-05T08:57:51+0000",
+    "updated_time": "2016-08-06T10:21:30+0000",
+    "from": {
+      "name": "Chen QiQi",
+      "id": "122780664777201"
+    },
+    "message": "大家好，和大家分享一個前端開發者做的直播視頻\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.livecoding.tv/fnnzzz/",
+    "name": "React, Redux and Material-UI",
+    "description": "Welcome to my channel, I'm front-end developer, I'm write in React+Redux and let me show you a little bit of magic....",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBCJ87y1WKcwE0c&w=130&h=130&url=https%3A%2F%2Fwww.livecoding.tv%2Fvideo%2Flivestream%2Ffnnzzz%2Fthumbnail_1024_576%2F&cfs=1",
+    "id": "521085554595481_1044822092221822",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 19
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      24.5,
+      19,
+      1,
+      2
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-01T11:13:36+0000",
+    "updated_time": "2016-08-02T01:41:49+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "有時候我們會把自行開發的npm package，放在另一個目錄，可能會叫做libraries。\n在react時，可以使用babel-plugin-module-alias\n在react native有個小功能\n@providesModule NAMEOFYOURMODULE\n\n挺有趣的xDD",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/facebook/react-native/issues/6118#issuecomment-215885029",
+    "name": "[babel] custom plugin not called with invalid module path · Issue #6118 · facebook/react-native",
+    "description": "Hi, I'm the author of the babel plugin module-alias, allowing users use aliases for the import/require path to their files. I tried to use it in a React Native application, but it doesn't work. Fr...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAvjrjsC2g7Mwrn&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1972567%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400",
+    "id": "521085554595481_1042342369136461",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      22.5,
+      16,
+      3,
+      1
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-02T03:14:15+0000",
+    "updated_time": "2016-08-10T18:32:57+0000",
+    "from": {
+      "name": "蔡奇展",
+      "id": "703329349769612"
+    },
+    "message": "在業界上有推薦的 front-end framework 嗎？",
+    "id": "521085554595481_1042766169094081",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      14,
+      0,
+      8,
+      1
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-03T06:49:59+0000",
+    "updated_time": "2016-08-03T06:50:00+0000",
+    "from": {
+      "name": "Roger Xue",
+      "id": "10152374331828134"
+    },
+    "message": "愛點科技(www.iclick.com.tw)尋人(之前貼過，這次有薪資範圍):\n目標：\n與以HTML、Javascript、CSS設計出客戶需求的網頁內容，以提供更好的前端使用者體驗。\n研究包括行動裝置、平板等跨平台的前端解決方案。\n\nSkill (照優先順序):\n1.與UI/UX Designers(或視覺設計師)、後端工程師協作，開發網頁前端互動程式\n2.網站前台程式設計與開發(jQuery、AJAX、json)\n3.熟悉任一JavaScript MVC框架(Angular.js、React..)\n4.懂HTML5、CSS3前端畫面切版工作，研究新的互動應用技術及瀏覽器可顯示之動態效果\n5.了解任一RWD Frameworks(FOUNDATION、BOOTSTRAP) \n6.若懂google map api加分。目前產品是www.viewtaiwan.com，希望在環景面板內新增一個可以以Cardboard觀看環景的功能，因此需要研究Google Map API。\n7.若涉獵Krpano加分。因離線環景需求，須研究Krpano，將讓環景Cardboard功能應用在部分專案需求內。\n8.以上不是通通要很強，會因專案與產品開發流程漸漸接觸，以全職受雇為主；我們接受短期先外包發案方式，中長期希望成為員工，持續維護並開發產品，歡迎有興趣者來聊聊。\n\n酬勞範圍:\n45K-60K(NT)\n\n聯絡:\n1.可以訊息聯繫我，\n2.02-23587566#25 Web Manager 薛永祥 Roger。\n3.rogerxue@iclick.com.tw\n\n版主若規則不符見諒，煩請指示不符合處 !",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.iclick.com.tw/",
+    "name": "iclick - Welcome to iclick",
+    "description": "不用到場，身歷其境，我們提供的不只是街景，是體驗，快打02-2358-7566。 即刻申請 建立客戶想要的信任感 挑選合適的餐廳、咖啡店或飯店，往往是個複雜的決策過程。利用第三方製作的高品質虛擬導覽，讓使用者在抵達前能先體驗實景，建立他們對您的信任感。這類引人入勝的虛擬體驗，能讓潛在客戶和老主顧對您的商家更有信心。 虛擬導覽讓商家資訊的吸引力加倍 如果使用者看到的商家資訊提供虛擬導覽，預訂的意願會提升兩倍之多。特別是 18 到 34 歲這個年齡層的潛在客戶，如果能看到虛擬導覽，下單的可能性會提高 130%。 三分之二的使用者希望有更多虛擬導覽 受訪者當中，有 67% 希望有更多商家資訊提供虛擬...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCu4HP9Fl8EFNBb&w=130&h=130&url=http%3A%2F%2Fwww.iclick.com.tw%2Fupload%2F1024x487_post_20150121.jpg&cfs=1",
+    "id": "521085554595481_1043423162361715",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 10
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      12,
+      10,
+      0,
+      1
+    ],
+    "order": 20
+  }
+]
