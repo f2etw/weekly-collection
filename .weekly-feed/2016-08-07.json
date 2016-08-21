@@ -1,0 +1,724 @@
+[
+  {
+    "shares": {
+      "count": 68
+    },
+    "created_time": "2016-08-13T13:22:15+0000",
+    "updated_time": "2016-08-13T16:32:10+0000",
+    "from": {
+      "name": "郭孝直",
+      "id": "10201278577881324"
+    },
+    "message": "介面退位、以人為本，2016 十大 UX 設計風向標",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.inside.com.tw/2016/01/20/ux-trends-2015-2016",
+    "name": "介面退位、以人為本，2016 十大 UX 設計風向標",
+    "description": "匯集使用者經驗相關資源的 uxdesign.cc 回顧了 2015 年的 UX 設計，並展望 2016 的趨勢，讓我們一起來看看這兩年 UX 的變化吧。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDV50LBalf-fKD_&w=130&h=130&url=http%3A%2F%2Fwww.inside.com.tw%2Fwp-content%2Fuploads%2F2016%2F01%2F1259784_a21f3ee6b9_b.jpg&cfs=1",
+    "id": "521085554595481_1050153568355341",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 170
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      307.5,
+      170,
+      1,
+      68
+    ],
+    "order": 1
+  },
+  {
+    "created_time": "2016-08-12T16:52:29+0000",
+    "updated_time": "2016-08-13T17:43:31+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "message": "很強的 CSS 動畫！\n歡迎大家補齊其祂一百多隻 pokemon …  XDD",
+    "link": "https://t.co/pwMpxG2HxF",
+    "name": "Rplus",
+    "description": "超寫實的 css #PokemonGo animation！\n> \n> CSS Eevee\n> by David Khourshid 2016-08-11\n> http://codepen.io/davidkpiano/details/NAZarB\n> #f2etw\n> \n> via: https://www.facebook.com/permalink.php?story_fbid=10207310670748163&id=1327135563\n> src: https://t.co/A7SmbYW5i4\n> tw: https://twitter.com/RplusTW/status/764141341844475904",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAAqHvqPquiGYBK&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fdavidkpiano%2Fpen%2FNAZarB%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1049620805075284",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 203
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      231.5,
+      203,
+      19,
+      0
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-08-08T02:08:03+0000",
+    "updated_time": "2016-08-12T01:01:42+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "791456187554730"
+    },
+    "message": "昨天一整天抓了35隻神奇寶貝，身為一位工程師，應該要有用 CSS 畫出神奇寶貝的能力 ?!! XDDD\n\n也許來 WTT #03 會有點幫助，本週8/11邀請到 林立秦、 R plus 為我們分享 CSS Animation \nfrontend engineer, designer 不能錯過呀!!\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amazingtutor.kktix.cc/events/wtt-03",
+    "name": "Web Tech Topic #3 - Play CSS3 Animation!!",
+    "description": "Web Tech Topic 是每週一次的主題式技術分享聚會 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB0c86NyOGrAGQ_&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F53199%2FWTT03_original.jpg&cfs=1&sx=290&sy=0&sw=1280&sh=1280",
+    "id": "521085554595481_1046615235375841",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 149
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 32
+      }
+    },
+    "power": [
+      211,
+      149,
+      32,
+      7
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 21
+    },
+    "created_time": "2016-08-11T13:34:32+0000",
+    "updated_time": "2016-08-16T02:45:12+0000",
+    "from": {
+      "name": "Suhan Tsai",
+      "id": "898041500209985"
+    },
+    "message": "支援手機版的mail寫法~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.yu8oj4wp3",
+    "name": "Coding mobile-first emails — Campaign Monitor Engineering",
+    "description": "A practical step-by-step guide",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCOiBV_REqSKKi_&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AqrzZaXdP_6nzIBL3krgDKQ.png&cfs=1",
+    "id": "521085554595481_1048901981813833",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 69
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      115.5,
+      69,
+      3,
+      21
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 10
+    },
+    "created_time": "2016-08-09T12:11:11+0000",
+    "updated_time": "2016-08-09T12:11:13+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10202921383529319"
+    },
+    "message": "Chrome 53 開始 Web Bluetooth API 的 Origin Trial，未來可打造跟實體裝置互動的 Web App。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials",
+    "name": "Interact with Bluetooth devices on the Web | Web Updates - Google Developers",
+    "description": "A Web API has been added to Chrome that makes it possible for websites to discover and communicate with devices over the Bluetooth 4 wireless standard using GATT.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBETkQ_80bF0n5h&w=130&h=130&url=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Fimgs%2Flogo.png&cfs=1",
+    "id": "521085554595481_1047513051952726",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 76
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      96,
+      76,
+      0,
+      10
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-11T02:51:26+0000",
+    "updated_time": "2016-08-15T07:57:24+0000",
+    "from": {
+      "name": "Jude Wang",
+      "id": "10202691522903500"
+    },
+    "message": "推薦一個好用的截圖跟分享服務 － Droplr\n\n這星期有特賣，是付費版的終生序號，變成只要 Pro 版大約兩個月的費用就可以使用所有付費服務了\nhttps://stacksocial.com/sales/lifetime-individual-license-of-droplr-pro?rid=359657\n\n我用這個服務已有兩三年，它可以：\n\n1. 截圖\n2. 截圖後直接標示註解\n3. 錄製銀幕影片\n4. 錄製銀幕影片並轉成 GIF\n5. 操作完畢自動上傳雲端並複製分享網址\n6. 在 Slack 貼上的分享網址會自動展開成截圖預覽\n7. 在分享網址尾巴加上「+」就可以直接引用原始圖檔，方便嵌入網頁\n8. 設定上傳檔案在一定時間後自動銷毀\n9. 用拖拉的方式上傳任何想要分享的檔案\n10. 用自己的 logo 客製化分享畫面的 logo\n11. 加上密碼來保護分享的檔案\n\n各種好用，真心推薦",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://stacksocial.com/sales/lifetime-individual-license-of-droplr-pro?rid=359657",
+    "name": "Transform Your Team's Productivity - Share Files with Anyone, Anywhere",
+    "description": "Droplr Pro: Lifetime License, Transform Your Team's Productivity - Share Files with Anyone, Anywhere",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD5q1vEzjhUCnGv&w=130&h=130&url=https%3A%2F%2Fimage-assets.stackcommerce.com%2Fimages%2F4922%2Fmedium_sale_4922_image.jpg&cfs=1",
+    "id": "521085554595481_1048599125177452",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 29
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      49,
+      29,
+      12,
+      1
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-08-13T13:53:02+0000",
+    "updated_time": "2016-08-13T15:35:24+0000",
+    "from": {
+      "name": "黃雅慧",
+      "id": "781472028530567"
+    },
+    "message": "畫面輸入如何控管２個欄位只輸入其－即可，\n可用 jquery bootstrapValidator 試看看～\n\nhttps://myyhhuang.wordpress.com/2016/08/10/jquery-bootstrapvalidator%e5%a6%82%e4%bd%95%e9%a9%97%e8%ad%892%e5%80%8b%e6%ac%84%e4%bd%8d%e5%8f%aa%e8%bc%b8%e5%85%a5%e5%85%b6%e4%b8%80%e5%8d%b3%e5%8f%af/w",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://myyhhuang.wordpress.com/2016/08/10/jquery-bootstrapvalidator%e5%a6%82%e4%bd%95%e9%a9%97%e8%ad%892%e5%80%8b%e6%ac%84%e4%bd%8d%e5%8f%aa%e8%bc%b8%e5%85%a5%e5%85%b6%e4%b8%80%e5%8d%b3%e5%8f%af/",
+    "name": "jquery bootstrapValidator如何驗證2個欄位只輸入其一即可",
+    "description": "期望的畫面如下 畫面的html如下   1.jquery bootstrapValidator如何驗…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAn0HmRQ5-zzHWu&w=130&h=130&url=https%3A%2F%2Fmyyhhuang.files.wordpress.com%2F2016%2F08%2F1.png&cfs=1",
+    "id": "521085554595481_1050170985020266",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 24
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      42,
+      24,
+      4,
+      6
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-08-13T07:36:39+0000",
+    "updated_time": "2016-08-13T15:40:57+0000",
+    "from": {
+      "name": "李明",
+      "id": "10202396117836515"
+    },
+    "message": "請問一下～\n有人知道這個CSS 3D 我們hover他得時候為什麼會抖抖嗎？\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/katydecorah/pen/HEgwl",
+    "name": "Navigation Bar by Jan Kaděra",
+    "description": "Give it a hover! Inspired by: Navigation Bar by Jan Kaděra http://dribbble.com/shots/1267103-Navigation-Bar...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCyMLL4pZHrNDme&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fkatydecorah%2Fpen%2FHEgwl%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1050006091703422",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 19
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      35,
+      19,
+      8,
+      2
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-08-11T15:25:18+0000",
+    "updated_time": "2016-08-13T02:51:54+0000",
+    "from": {
+      "name": "Yen Jing Bo",
+      "id": "10205046726589159"
+    },
+    "message": "【募資半價倒數兩天！】\n\n前後端網頁一直是密不可分的技術。對於經常需要與後端工程師合作的你/妳，總是對後端技術望之卻步嗎？\n\n本課程專為已經懂一點的前端的同學設計，幫助你跨過各種地雷，快速上手後端開發。不管你想要獨立接案還是配合未來工作需要，我相信掌握一點後端技術都是好的開始！\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://hahow.in/cr/laravel-backend",
+    "name": "創業必備：Laravel 後端網站入門 - Hahow 好學校",
+    "description": "想要創業，沒有一個功能俱全的 Prototype 怎麼行呢？本課程幫助你從零開始架設一個動態網站，涵蓋 PHP 後端語言及 Laravel 框架、MySQL 資料庫、Ubuntu 主機管理及域名註冊等。Make your site live today!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCjqSkAzQK-uZ7J&w=130&h=130&url=https%3A%2F%2Fhahow.in%2Fimages%2F576e99bec2917a110075dd87%3Fwidth%3D1000&cfs=1",
+    "id": "521085554595481_1048963518474346",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 26
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      33.5,
+      26,
+      1,
+      3
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-08-11T07:02:50+0000",
+    "updated_time": "2016-08-17T22:53:14+0000",
+    "from": {
+      "name": "黎竑廷",
+      "id": "734162050062455"
+    },
+    "message": "[ 文章收集器？ ]\n\n好文章會出現在各種地方, \n\nMedium, Alistapart, \n\n網友自己架的Blog, \n\n甚至是FB某人發的好文, \n\n當然也有在Github寫文章的 ... \n\n大家是都怎麼收集文章的？\n\n(例如 Pocket)",
+    "id": "521085554595481_1048712585166106",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 10
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      29.5,
+      10,
+      13,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-08-11T04:25:04+0000",
+    "updated_time": "2016-08-11T04:25:05+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10202921383529319"
+    },
+    "message": "有在用 Font Awesome 的 CDN 且使用 async loading 的人可以注意一下這次的調整，因應 async 衍生的 FOUT 跟 FOIT，有如下改變：\n.\n1. embed code 現在包含了 loadCSS https://github.com/filamentgroup/loadCSS\n.\n2. font event 偵測改用 FontFaceObserver https://github.com/bramstein/fontfaceobserver\n\n當 icon 準備好之後會加一個 fa-events-icons-ready 的 class 到 html 標籤。其他還有 loading 或 failed 所以你可以更為精確的掌握 FOUT FOIT 跟 FOFT。\n.\n3. Typeface events",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://articles.fortawesome.com/updates-to-our-asynchronous-icon-and-font-loader-2be80b1bd19d#.n7bvuk88z",
+    "name": "Updates to our asynchronous icon and font loader — Fort Awesome Articles",
+    "description": "“Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn’t have time to build it to scale or paint it…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_lCKquGpF00Ls&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AWFdaeYuRaZ0TXjWmLS9JsA.png&cfs=1",
+    "id": "521085554595481_1048654145171950",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      23,
+      17,
+      0,
+      3
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-08-08T01:34:30+0000",
+    "updated_time": "2016-08-08T03:43:23+0000",
+    "from": {
+      "name": "劉晏成",
+      "id": "777619972256998"
+    },
+    "message": "Hi 大家好，我是WendellLiu\n我現在在找新的公司\n雖然基於一些複雜的理由，有著研發替代役的限制\n（詳情可看求職頁面，這裡就不多寫了）\n總之期待能夠互相認識、一起共事\n\n求職頁面：https://github.com/f2etw/jobs/issues/119\n\n希望有機會能夠聊聊！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/jobs/issues/119",
+    "name": "「求職」WendellLiu - Front-end Web Developer · Issue #119 · f2etw/jobs",
+    "description": "簡介 Hi! 我是Wendell，喜愛Web，特別是Frontend 寫程式這件事情一直都是自學，熱愛學習應用上根本的基礎理論，以及尖端的新技術 對於以使用者體驗為出發的web app很有興趣 去年剛畢業，開始積極參與社群 大部分是Taipei.py 前端前陣子的票沒搶到  歡迎大家一起聊聊 目前有幾個小作品 react-upward-marquee https://github...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAr6EignAP3MoQ0&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8898129%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400&l",
+    "id": "521085554595481_1046605332043498",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      23,
+      20,
+      2,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-08-12T09:10:23+0000",
+    "updated_time": "2016-08-12T15:30:59+0000",
+    "from": {
+      "name": "楊宗穎",
+      "id": "10204234539639018"
+    },
+    "message": "新套件出爐!!  --- $.r_tooltip\n\n有點介於tooltip跟dialog之間的工具\n因為想要同時有自定內容與有個小箭頭指到目標這兩個特色\n有點找不到，所以自己刻了一個\n沒想到定位方面還是花了滿多時間的\n不太會形容，大家可以玩玩看~ ^^\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ryanyang0818.com/demo/RUI/docs/r_tooltip_example/demo2.html",
+    "name": "www.ryanyang0818.com",
+    "id": "521085554595481_1049406901763341",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      18,
+      12,
+      4,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-08T01:27:25+0000",
+    "updated_time": "2016-08-08T08:07:01+0000",
+    "from": {
+      "name": "Ryo Peng",
+      "id": "10152356467636602"
+    },
+    "message": "https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/?%3Ftid%3D=sm_pg",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/?%3Ftid%3D=sm_pg",
+    "name": "Sizing up the Olympics",
+    "description": "Here’s a look at the scale of the courts and equipment of the summer games.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCXCbrMfPGlRhJE&w=130&h=130&url=https%3A%2F%2Fwww.washingtonpost.com%2Fgraphics%2Fsports%2Folympics%2Fscale-of-the-olympics%2Fimg%2Folympic-scale-promo.jpg&cfs=1",
+    "id": "521085554595481_1046602988710399",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 10
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      16.5,
+      10,
+      3,
+      1
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-08-12T10:07:11+0000",
+    "updated_time": "2016-08-12T12:13:35+0000",
+    "from": {
+      "name": "林罡北",
+      "id": "623171171093560"
+    },
+    "message": "大家好~\n不知道大家有沒有這個困擾\nchrome v52版開始\n上一頁原本是按下「BackSpace」\n被改成要按「alt」+「←」\n\n更改之後我自己使用上滿不習慣的...\n所以這兩天花了一些時間寫了這個小套件\n讓大家能按下「BackSpace」回到上一頁\n(只有相容\"大部分\"網頁，確認Google Map無法相容)\n\n剛剛上架成功囉\n\n大家有覺得有任何能改進的地方歡迎留言跟我說\n謝謝",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://chrome.google.com/webstore/detail/backspace/hlipjhnplogjbmafbjifidjlnecnikhj",
+    "name": "BackSpace",
+    "description": "push backspace button to return previous page.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA9pm7FyIEByQZ8&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2F3JRViO1GwvQpVecI7BImmEgpY0qsfJqDxG2d6O-nxHChe1w9i8OdoD-a-9Qp9iLJ9P6apHDxkA%3Ds128-h128-e365&cfs=1",
+    "id": "521085554595481_1049424538428244",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      16,
+      7,
+      6,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-09T10:56:53+0000",
+    "updated_time": "2016-08-09T10:56:53+0000",
+    "from": {
+      "name": "蔡存菁",
+      "id": "10204500595928619"
+    },
+    "message": "我們需要一位出色的UI設計師的加入~\n希望有APP，Wireframe的相關經驗，並且可以獨當 一面。\n公司待遇福利優（福利可以上104查看），薪資40~60k/m\n\n有意者請Mail履歷表至hrd@17life.com",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.bnext.com.tw/article/view/id/39966",
+    "name": "別再叫我團購網！17Life獲1.5億元A輪投資，加速發展ODM與數據服務",
+    "description": "「希望大家不要再稱呼我們17Life團購網了。」17Life總經理李易騰",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBsl_EY5632pcAM&w=130&h=130&url=https%3A%2F%2F3.bp.blogspot.com%2F-7cfrIBuLbgk%2FV2fGeHj7AlI%2FAAAAAAACrR8%2FF-XeiQs8w3EpxZRb8qt3bFA33VrtmhO0ACKgB%2Fs1024%2F&cfs=1&sx=249&sy=0&sw=520&sh=520",
+    "id": "521085554595481_1047479291956102",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      10,
+      8,
+      0,
+      1
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-08-11T06:42:06+0000",
+    "updated_time": "2016-08-11T06:42:07+0000",
+    "from": {
+      "name": "Casa Lin",
+      "id": "10153323633861029"
+    },
+    "message": "分享一個賣米的網站\n順便可以練一下 css transform\n算是近期看到無極限的Kuso網站\n\nhttps://www.facebook.com/dramanita/posts/1136643276396549",
+    "link": "https://www.facebook.com/dramanita/photos/a.463437427050474.102548.455023981225152/1136641126396764/?type=3",
+    "name": "口渴米菇 Dramanita",
+    "description": "[ Web ] 18禁？歡樂的“堅硬\"大米 網站\n> \n> 今天爭相討論的網站\n> 農夫堅強的特殊部位，著實的太令人震驚了 . . . \n> 是說吃了此款米之後，會產生這樣的堅硬 . . . 感嗎？\n> \n> 尤其是一般網頁的GO Top , 這顆Top也還會拉長變堅挺！\n> 重點是，一旦按下TOP , 回到上方之後農夫的下體就開始回到上方之後農夫的下體就開始閃爍長大，每按一次Top鍵就是令人害羞呀！！！！！！\n> \n> 只能說這真的是最近看到無極限的網站\n> http://bhb.co.jp/karadameate/",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13882643_1136641126396764_3030469815896524958_n.jpg?oh=71212b838cc8b822d2ac28a308e45648&oe=581AC096",
+    "id": "521085554595481_1048706911833340",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      7,
+      7,
+      0,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-08-11T14:30:25+0000",
+    "updated_time": "2016-08-11T14:30:25+0000",
+    "from": {
+      "name": "Tung-Chieh Shen",
+      "id": "884109194941308"
+    },
+    "message": "「用 iBeacon 和 APP，讓盲人的世界不再一片黑暗。」這個分享會的主講人之一是微光計畫的發起人，他曾開發盲人導航產品以及給漸凍人使用的溝通輔具，用自己的專業，賦予APP更多的意義及這個社會更多的價值。這次是利用新興科技iBeacon的微定位技術，為視障者建構一個更為友善的街區地圖，協助他們了解生活週遭的環境資訊。使用者可以認識路程中各個商家、建築和公園等更為細節的資訊，久而久之便能在使用者的腦海中建立個人化的心智地圖。\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.accupass.com/go/makerpro__0818",
+    "name": "【Maker Hatch Night】加入吧！社會自造者運動-Accupass 活動通",
+    "description": "我們每天都面對著不同的社會問題，我們可以選擇批判，也可以選擇想辦法解決這些問題。當自造者碰上社會設計，可望引領出一股「社會自造者運動」！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBqTNF6oCAqquA5&w=130&h=130&url=http%3A%2F%2Fimg.accupass.com%2Fuserupload%2Fb3d12244821f4b04a6804107ceb8f09f.jpg&cfs=1&sx=540&sy=0&sw=540&sh=540",
+    "id": "521085554595481_1048928755144489",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      6,
+      6,
+      0,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-13T10:03:21+0000",
+    "updated_time": "2016-08-13T10:03:21+0000",
+    "from": {
+      "name": "Lulu Chuang",
+      "id": "10205350700112958"
+    },
+    "message": "想請問一下\n目前在製作多國語系網站\n使用jquery i18next套件來處理\n但因為所有文字都是在client-side動態產生的\ngoogle webmaster分析不到任何關鍵字\n如果要兼顧SEO與維護性\n是否只能用server-side的方式或將網站存成不同語系的檔案呢?\n謝謝~~",
+    "id": "521085554595481_1050067185030646",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      5,
+      3,
+      0,
+      1
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-08-13T18:45:24+0000",
+    "updated_time": "2016-08-14T10:50:56+0000",
+    "from": {
+      "name": "Jason Lee",
+      "id": "855384391144386"
+    },
+    "message": "[Chrome手機瀏覽器問題] 大家好，小弟這邊有個問題，就是在iPhone上使用Chrome瀏覽網頁，若該網頁有fixed header時如果你來來回回的捲動該頁面，會出現fixed header不斷往下掉的問題(您可以使用iPhone上的Chrome瀏覽像是http://www.books.com.tw/ 或 http://www.myfone.com.tw/ 等等網站)，我做過測試也google了一些文章，似乎問題出在position:fixed 這個樣式身上，但試過別人建議的一些方法都沒有用，請問有沒有高手遇過且解過這個問題的，請指導解惑 一下，感謝~",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.books.com.tw/",
+    "name": "歡迎光臨博客來",
+    "description": "博客來提供上百萬書籍、百貨、影音、設計、文具、美食、有機、美妝、服飾。網路書店有齊全的繁簡體外文書籍雜誌，購物網多樣性百貨設計商品滿足您購物需求。取貨安全方便，中午前訂7-11隔日取",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBpyIYGbzobgZDS&w=130&h=130&url=http%3A%2F%2Fwww.books.com.tw%2Fcsss%2Fimages%2Fbooks_logo.png&cfs=1",
+    "id": "521085554595481_1050314475005917",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      3,
+      0,
+      2,
+      0
+    ],
+    "order": 20
+  }
+]
