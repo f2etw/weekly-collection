@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-08-07",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/021/",
+    "title": "Collection #021",
+    "items": [
+      
+        {
+          "title": "CSS Eevee",
+          "url": "https://t.co/pwMpxG2HxF",
+          "sharer": "Rplus Chen",
+          "sharer-id": "697526476981805",
+          "permalink": "https://fb.com/521085554595481_1049620805075284",
+          "time": "2016-08-12T16:52:29+0000",
+          "intro": "趕著 Pokemon 熱潮，國外開發者 David Khourshid 以華麗的 CSS animation 做出了其中一隻 Eevee 非常精細的動畫！裡頭有不少有趣的 CSS 技巧唷！"
+        }
+        ,
+        
+        {
+          "title": "Web Tech Topic #3 - Play CSS3 Animation!!",
+          "url": "http://amazingtutor.kktix.cc/events/wtt-03",
+          "sharer": "王信凱",
+          "sharer-id": "791456187554730",
+          "permalink": "https://fb.com/521085554595481_1046615235375841",
+          "time": "2016-08-08T02:08:03+0000",
+          "intro": "WTT 第三場的前端分享聚會，主題為 CSS Animation，有興趣的可以多加關注活動動態"
+        }
+        ,
+        
+        {
+          "title": "Coding mobile-first emails",
+          "url": "https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.yu8oj4wp3",
+          "sharer": "Suhan Tsai",
+          "sharer-id": "898041500209985",
+          "permalink": "https://fb.com/521085554595481_1048901981813833",
+          "time": "2016-08-11T13:34:32+0000",
+          "intro": "該文作者分享如何實作好能夠符合 mobile 的 email 版面。除了 mobile first 以外，還有許多鮮見的 hack 技巧"
+        }
+        ,
+        
+        {
+          "title": "Interact with Bluetooth devices on the Web",
+          "url": "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials",
+          "sharer": "Clement Tang",
+          "sharer-id": "10202921383529319",
+          "permalink": "https://fb.com/521085554595481_1047513051952726",
+          "time": "2016-08-09T12:11:11+0000",
+          "intro": "Chrome 在 Web Bluetooth 已經可先試用，未來網頁將可與實體裝置進行更多的互動模式"
+        }
+        ,
+        
+        {
+          "title": "jquery bootstrapValidator如何驗證2個欄位只輸入其一即可",
+          "url": "https://myyhhuang.wordpress.com/2016/08/10/jquery-bootstrapvalidator%e5%a6%82%e4%bd%95%e9%a9%97%e8%ad%892%e5%80%8b%e6%ac%84%e4%bd%8d%e5%8f%aa%e8%bc%b8%e5%85%a5%e5%85%b6%e4%b8%80%e5%8d%b3%e5%8f%af/",
+          "sharer": "黃雅慧",
+          "sharer-id": "781472028530567",
+          "permalink": "https://fb.com/521085554595481_1050170985020266",
+          "time": "2016-08-13T13:53:02+0000",
+          "intro": "該文示範如何使用套件來驗證表單雙欄"
+        }
+        ,
+        
+        {
+          "title": "Navigation Bar by Jan Kaděra",
+          "url": "https://fb.com/521085554595481_1050006091703422",
+          "sharer": "李明",
+          "sharer-id": "10202396117836515",
+          "permalink": "https://fb.com/521085554595481_1050006091703422",
+          "time": "2016-08-13T07:36:39+0000",
+          "intro": "關於 CSS transform 抖動的疑問，但因裝置不一，不能穩定重現問題，所以也沒有較深入的討論"
+        }
+        ,
+        
+        {
+          "title": "Updates to our asynchronous icon and font loader — Fort Awesome Articles",
+          "url": "https://articles.fortawesome.com/updates-to-our-asynchronous-icon-and-font-loader-2be80b1bd19d#.n7bvuk88z",
+          "sharer": "Clement Tang",
+          "sharer-id": "10202921383529319",
+          "permalink": "https://fb.com/521085554595481_1048654145171950",
+          "time": "2016-08-11T04:25:04+0000",
+          "intro": "Font Awesome CDN 優化了非同步載入的方式，讓載入方式更順暢 &amp; 更方便控制各個狀態的時間點，非常值得深入理解"
+        }
+        ,
+        
+        {
+          "title": "www.ryanyang0818.com",
+          "url": "http://www.ryanyang0818.com/demo/RUI/docs/r_tooltip_example/demo2.html",
+          "sharer": "楊宗穎",
+          "sharer-id": "10204234539639018",
+          "permalink": "https://fb.com/521085554595481_1049406901763341",
+          "time": "2016-08-12T09:10:23+0000",
+          "intro": "楊宗穎分享自製的 tooltip 套件，可自動判斷出現在適合的位置"
+        }
+        ,
+        
+        {
+          "title": "Sizing up the Olympics",
+          "url": "https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/?%3Ftid%3D=sm_pg",
+          "sharer": "Ryo Peng",
+          "sharer-id": "10152356467636602",
+          "permalink": "https://fb.com/521085554595481_1046602988710399",
+          "time": "2016-08-08T01:27:25+0000",
+          "intro": "網站裡透過 parallax 來縮放的 svg，搭配趣味的相對尺寸來呈現奧運各競技項目的場地規模"
+        }
+        ,
+        
+        {
+          "title": "BackSpace",
+          "url": "https://chrome.google.com/webstore/detail/backspace/hlipjhnplogjbmafbjifidjlnecnikhj",
+          "sharer": "林罡北",
+          "sharer-id": "623171171093560",
+          "permalink": "https://fb.com/521085554595481_1049424538428244",
+          "time": "2016-08-12T10:07:11+0000",
+          "intro": "林罡北寫了個 extension，將 Chrome v52 移除掉的 BackSpace 快速鍵重新綁定為退回前一頁的動作"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-07-31",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/020/",
