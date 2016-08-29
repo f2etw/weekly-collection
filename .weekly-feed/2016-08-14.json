@@ -1,0 +1,689 @@
+[
+  {
+    "shares": {
+      "count": 26
+    },
+    "created_time": "2016-08-20T05:16:48+0000",
+    "updated_time": "2016-08-21T06:05:56+0000",
+    "from": {
+      "name": "Fred Lin",
+      "id": "10203797498037037"
+    },
+    "message": "早上做了一個網頁版(純前端)的 #coscup2016 聊天機器人，可以拿來查交通(公車, 開車, youbike, 高鐵, 火車), 議程, 贊助商, 會場地圖 https://gasolin.github.io/cosbot/ \n\n還沒想到純前端的聊天機器人可以拿來幹什麼，但反正 core 只有 80多行, 拿來學學聊天機器人架構也不錯",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://gasolin.github.io/cosbot/",
+    "name": "Coscup 2016 網頁版機器人",
+    "description": "client side chatbot that can be embedded in any web site.",
+    "id": "521085554595481_1054696881234343",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 189
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      251.5,
+      189,
+      7,
+      26
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 29
+    },
+    "created_time": "2016-08-14T09:18:54+0000",
+    "updated_time": "2016-08-16T02:42:44+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "766857926667198"
+    },
+    "message": "大家好，小弟上次整理了一份簡單的 HTML 跟 CSS 自學教材\n\n這次接著整理了一份簡單的 PHP 跟 MySQL 自學教材，\n\n希望可以幫助正要入門的朋友，稍微瞭解後端在做的事情，\n\n也希望它能對前端知識的學習有幫助\n\n跟大家分享一下 謝謝大家 <( _ _ )>\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://class.turn.tw/portfolio/php-and-mysql/",
+    "name": "自學網頁の嬰兒教材：PHP與MySQL",
+    "description": "自學網頁の嬰兒教材：PHP與MySQL 大家好，有沒有想學寫網站的朋友呢？ 我整理了一份有趣的 PHP 跟 MySQL 自學教材，每堂課附有一個小作業 會帶領大家在作業中，從部落格文章頁、首頁、後台管理面板、到留言、按讚功能，實作出一套完整的部落格系統！ 您不需要具備任何基礎、也不需要任何背景 歡迎您試試看這份教材！ 自學網頁の嬰兒教材：第1課 ── 踏上旅程×懶人 自學網頁の嬰兒教材：第2課 ── 撈資料×日誌內文 （陸續增加中…）",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAWYdA89g__Gcev&w=130&h=130&url=http%3A%2F%2Fclass.turn.tw%2Fwp-content%2Fuploads%2F2016%2F08%2Fgirl_norm.jpg&cfs=1&sx=115&sy=0&sw=400&sh=400",
+    "id": "521085554595481_1050711991632832",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 137
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      202.5,
+      137,
+      5,
+      29
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-08-19T09:21:28+0000",
+    "updated_time": "2016-08-19T12:59:58+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "828387647183801"
+    },
+    "message": ":: 25sprout 徵才 Front-end Developer 前端工程師 & Front-end Developer Intern 前端開發實習生 ::\n\n嗨大家好\n目前小弟待的公司 25sprout 新芽\n正在徵求 正職以及實習前端工程師\n--\n公司靠近象山捷運站，環境很好同事也很棒\n有免費的點心零食茶點，以及很多福利聚會\n\n△ Front-end Developer 前 端 工 程 師 △\n詳細職缺工作內容請見：https://goo.gl/pQIxeS\n薪資 : NT 504,000 - NT 756,000\n\n△ Front-end Developer Intern 前 端 開 發 實 習 生 △\n詳細職缺工作內容請見：https://goo.gl/XqTCFg\n薪資: NT 150/hr\n\n如果你符合連結條件，歡迎直接來信：\nmilu@25sprout.com，主旨：[ 應徵前端工程師 ] _你的姓名 / [ 應徵前端開發實習生 ] _你的姓名",
+    "id": "521085554595481_1054084601295571",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 80
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      95.5,
+      80,
+      1,
+      7
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-08-15T11:17:58+0000",
+    "updated_time": "2016-08-23T17:02:43+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "791456187554730"
+    },
+    "message": "WTT #04 來了，用 atom 寫 vue.js 開發勞基法計算機，三個願望一次滿足 (這聽得懂的都30了吧?)\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amazingtutor.kktix.cc/events/wtt-04",
+    "name": "Web Tech Topic #4 - 勞基法計算機、vue.js、atom編輯器",
+    "description": "Web Tech Topic 是每週一次的主題式技術分享聚會 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDXB19elsMgKVjU&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F53519%2Fwtt04_original.jpg&cfs=1&sx=300&sy=0&sw=1280&sh=1280",
+    "id": "521085554595481_1051413341562697",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 74
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      93.5,
+      74,
+      5,
+      6
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-18T08:40:14+0000",
+    "updated_time": "2016-08-23T02:09:37+0000",
+    "from": {
+      "name": "Milk Midi",
+      "id": "10205503104962948"
+    },
+    "message": "米蘭營銷策劃徵才，這次要找前端攻程師\n薪資 40k ~ 60k\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.104.com.tw/job/?jobno=51lp1&jobsource=checkc",
+    "name": "前端網頁工程師_米蘭營銷策劃股份有限公司 - 104人力銀行",
+    "description": "迎接 HTML5 的時代。我們徵求對於下個世代的前端互動具有高度興趣及熱忱的夥伴一起創造新的互動感受。 在這裡，我們擁有一群強力的前端互動設計師，除了 HTML/Javascript 以外，也一直持續對其它的互動裝置/介面有高度的關注及瞭解。 在這裡，我們有一群天馬行空的創意團隊，常常會丟出充滿挑戰性的點子，讓互動設計師與創意能夠發揮出意想不到的成果。 在這裡，人都瘋瘋的，所以你也不用太正經。 工作內容： 1. 將視覺設計的圖檔切版產生 CSS + HTML。 2. 依照效果需求編寫 Javascript。 3. 研究跨平台的前端解決方案，包括行動裝置。 4. 研究新型態的前端互動方式。 我們...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBSnP7iHct5Cz9F&w=130&h=130&url=http%3A%2F%2Fstatic.104.com.tw%2Flogo%2F104logo_200x200_fbogW2.png&cfs=1",
+    "id": "521085554595481_1053385474698817",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 41
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      71.5,
+      41,
+      19,
+      1
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-08-20T20:26:07+0000",
+    "updated_time": "2016-08-22T11:17:49+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/UvpHqwTeXS",
+    "name": "Rplus",
+    "description": "JS 真心話大冒險！\n> 努力讓 return 值為 true 吧！\n> \n> 大家週末可以自己挑戰一下 JS 的腦力激盪 XDD\n> \n> return true to win\n> by Erling Ellingsen\n> http://alf.nu/ReturnTrue\n> #f2etw\n> \n> // 覺得我不懂 JS… O_Q\n> \n> via: codrops 237\n> src: https://t.co/78ifEl91XN\n> tw: https://twitter.com/RplusTW/status/767094432482996224",
+    "id": "521085554595481_1055188821185149",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      65.5,
+      34,
+      21,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "created_time": "2016-08-16T01:44:34+0000",
+    "updated_time": "2016-08-16T01:44:34+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10152532814308343"
+    },
+    "message": "想破頭了嗎，來點靈感吧！",
+    "id": "521085554595481_1051836604853704",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 63
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      63,
+      63,
+      0,
+      0
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-08-20T08:38:41+0000",
+    "updated_time": "2016-08-20T10:31:19+0000",
+    "from": {
+      "name": "David Kross",
+      "id": "658778647502762"
+    },
+    "message": "【課程分享】\n\n對於想要管理網頁樣式感到困擾嗎？或是在寫CSS3時，要處理相容性的問題感到頭痛？甚至想要學習Sass卻不知道該從何下手嗎？\n\n我們再Hahow有開設Sass&Compass的相關課程，將帶領各位學習如何使用Sass管理你的網站，從最初的基本變數到Compass的應用，每個單元都將以實作的方式來講解。\n\n本課程專為想要學習管理CSS的設計師或者剛開始入門Sass卻不知道該怎麼應用的開發者，幫助你跨過這個門檻，快速的掌握Sass的技巧，並且應用在你未來的網站中，讓你不再因為業主想要修改樣式顏色而爆氣的必備良藥。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://goo.gl/P5Iyzq",
+    "name": "Sass - 讓CSS變得更簡單有趣 - Hahow 好學校",
+    "description": "此課程能帶你進入CSS的魔法世界，透過黑魔法Sass帶領你快速地打造網頁樣式，並且讓你無須再害怕CSS3，透過Compass的幫助，能加快打造各種CSS3的樣式，只需透過一個標籤就能達到效果，心動了嗎？我們在六又四分之三月台相見，一起搭上前往霍格喵茲的列車吧！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBOt8-tTWicq2JL&w=130&h=130&url=https%3A%2F%2Fhahow.in%2Fimages%2F57999febd0c303070041a9ac%3Fwidth%3D1000&cfs=1",
+    "id": "521085554595481_1054798877890810",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 50
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      61,
+      50,
+      2,
+      4
+    ],
+    "order": 8
+  },
+  {
+    "created_time": "2016-08-14T10:31:28+0000",
+    "updated_time": "2016-08-14T10:31:28+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://speakerdeck.com/mobywhale/css-code-smell-sanitation",
+    "name": "坤福",
+    "description": "如何儘早發現 CSS 程式碼裡的壞味道\n> \n> 1. Linting (stylelint/css-lint/scss-lint)\n> 命名慣例\n> 重複的 Properties\n> 巢狀層數限制\n> 單位使用，例如 0 不加單位\n> 色碼值的一致性，例如全小寫\n> \n> 2. 介接到團隊的持續整合流程\n> 送 Pull Request 時自動顯示 Lint 是否通過\n> 沒有衝突的 PR 可以自動合併進主幹\n> \n> 3.度量單一 Rule 的垂直與水平長度\n> 水平長度：Selector 命名是否過長？是否用了過多後代選擇器？ e.g. html body ul li a {...}\n> 垂直長度：Declaration block 裡是否宣告太多 properties？\n> \n> 4. 魔法數字\n> 能否整理成變數？\n> 如果一定得用，寫下註解\n> \n> 5.絕對定位\n> 有沒有更適合或更簡單的解決方案？\n> \n> 6. 在多種環境下測試 UI\n> 調整字體大小檢查會不會破版\n> 不同類型的內容 (圖/文/表格/影音..等)\n> 不同的裝置或螢幕大小\n> 對頁面增加或移除某些元素\n> \n> 7. 老舊瀏覽器的前綴字\n> 檢查 Autoprefixer 設定是否需要更新，例如 IE 只支援 10 以上\n> \n> 8. Code 是否易於維護\n> 命名\n> 元件的組織管理 \n> \n> 9. 不依賴自動化 Lint 工具，仍須人工複審",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCdKsZ-xcWVXgAI&w=130&h=130&url=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2F1052db5428fb40b4947f07d7d58d9bde%2Fslide_0.jpg&cfs=1",
+    "id": "521085554595481_1050742531629778",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      54,
+      54,
+      0,
+      0
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-08-14T09:07:38+0000",
+    "updated_time": "2016-08-14T10:47:20+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10152532814308343"
+    },
+    "message": "#什麼是FLIP技術\n\n「CSS 動畫已經存在很多年了，使用恰當可以很好地提高網站的用戶體驗，也正是由於其容易使用，就很可能出現性能低下的動畫，從而降低了整個頁面的運行效率」\n\nhttp://www.w3cplus.com/animation/high-performance-animations.html",
+    "id": "521085554595481_1050706401633391",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 52
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      53.5,
+      52,
+      1,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "created_time": "2016-08-15T19:17:01+0000",
+    "updated_time": "2016-08-16T15:11:25+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/wy2hg6U0qb",
+    "name": "Rplus",
+    "description": "「10k 網站競賽」\n> 由 MS Edge + A List Apart 團隊共同舉辦\n> \n> 挑戰製作一個功能完整而總體積不大於 10kb 的網站吧！\n> 不需要 JS 也要能動唷！XD\n> \n> 10K Apart\n> > Inspiring the Web with Just 10K\n> https://a-k-apart.com/\n> #f2etw\n> \n> via: alistapart\n> src: https://t.co/vMsOovYdLW\n> tw: https://twitter.com/RplusTW/status/765265096486457344",
+    "id": "521085554595481_1051651694872195",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      41.5,
+      34,
+      5,
+      0
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-08-16T08:57:22+0000",
+    "updated_time": "2016-08-16T12:18:00+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "message": "想請教一個 FB api 的疑問\n(狀況描述)\nhttps://github.com/f2etw/weekly-collection/issues/101\n\n我用自己 App 的 token 去戳 Facebook 會拿不到完整的公開資料(1)\n但是透過 Graph API Explorer 的操作可以拿到(2)\n\n如果把 1 使用的 token 換成 2 生成的 token 去打\n就能拿到完整的資料 Orz\n\n想請教一下，FB App 的 access_token 有什麼需要另外設定的嗎？\n感謝",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/f2etw/weekly-collection/issues/101",
+    "name": "Facebook API 拿不到轉分享貼文中的 message · Issue #101 · f2etw/weekly-collection",
+    "description": "出問題的貼文例子： https://fb.com/521085554595481_1044772642226767 用一般的拿法拿不到 description 但透過 Graph API Explorer - Facebook for Developers 卻能拿到 Orz https://developers.facebook.com/tools/explorer/14563499...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBtbW9Mv5noXuwH&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1808835%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1052019021502129",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 24
+      }
+    },
+    "power": [
+      40,
+      4,
+      24,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-08-16T14:28:12+0000",
+    "updated_time": "2016-08-17T06:47:09+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/uadgPnDqjC",
+    "name": "Rplus",
+    "description": "Lea Verou 在訪談中聊到 CSS Secrets 的寫作初衷在於\n> 向讀者傳達如何用創意的 CSS 來思考及解決問題\n> \n> 進一步地也提到了一些如何推展成就的方式\n> Lea Verou 認為溝通 & 表達非常的重要\n> 　這邊她以自己寫前端技術部落格為例，\n> 　用希臘母語，沒人看吶…\n> 　改用英文寫一寫就變大姐大了 XDD\n> \n> 也聊到她待過的技術團隊比較少遇到性別平等問題\n> 所以她還滿愜意的\n> ( 這邊我覺得不管男女，\n> ( 在她的程式碼面前可能都會有被霸凌的感覺 XDDD\n> \n> 如同標題，\n> 她很喜歡開放的資訊環境\n> 分享、合作，一起讓某些功能更加完整\n> \n> 主持人也問到她演講喜歡 Live Coding 的問題\n> 她說她會事前一再地確認，補不起來就先閉眼跳過\n> ( 我記得之前她電腦才在研討會前一天開不了機不是嗎？ XDDD\n> \n> CSS 問題就主要是標準走太慢，瀏覽器實作歪七扭八\n> 不過她也說到救世主 Houdini 也可能帶來一些過度依賴的問題~\n> \n> 至於 CSS in JS 的東西，\n> 在她這種 CSS 狂教徒眼裡肯定是異端份子吶 XD\n> 不過 component CSS 的 scope 問題肯定是要找的方法來處理的\n> \n> 最後提到的 print CSS 要推到出版業\n> 我覺得可能還要一段不短的時間吧？\n> 至少現有出版設計師還是大多用 indesign 在作業的哩(？\n> \n> *****\n> \n> 圖靈社區 : 閱讀 : [英文版]《CSS揭秘》作者Lea Verou：I love the openness of our industry （圖靈訪談）\n> 08-05\n> http://www.ituring.com.cn/article/261346\n> #f2etw\n> \n> via: https://www.facebook.com/leaverou/posts/10154365216261192\n> src: https://t.co/8Dhniw824y\n> tw: https://twitter.com/RplusTW/status/765544458129592320",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC2qaSkoqo1bSm3&w=48&h=48&url=http%3A%2F%2Fwww.ituring.com.cn%2FUsers%2FGetAvatar%2F199012%3Fsize%3DMiddle&cfs=1&sx=0&sy=0&sw=48&sh=48",
+    "id": "521085554595481_1052168514820513",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      34,
+      22,
+      8,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-16T05:57:17+0000",
+    "updated_time": "2016-08-16T16:25:57+0000",
+    "from": {
+      "name": "蘇汛沅",
+      "id": "648282495220098"
+    },
+    "message": "各位大大  想請教一種jquery套件\n有沒有一種套件是可以讓你的div無限左右循環呢\n假設你有10個橫排的div  然後可以左右滑動\n但他不會滑動到底  會無限輪播的功能??",
+    "id": "521085554595481_1051952364842128",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      32.5,
+      2,
+      19,
+      1
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-08-18T06:38:58+0000",
+    "updated_time": "2016-08-18T06:38:58+0000",
+    "from": {
+      "name": "劉晏成",
+      "id": "777619972256998"
+    },
+    "message": "嗨嗨！\n\n這幾天把玩了Elm，所以寫了篇文章，稍微作一點Elm的介紹，以及純函數式語言對於我的影響。\n\n一個月前先摸摸Haskell，其實已經對我在寫其他程式碼有不少影響，但由於Haskell畢竟是後端語言，缺乏共鳴。而Elm專注於Web UI，因此相對我來說也比較實際。\n\n不過函數式語言真的是博大精深，因此沒辦法完全在文章中一步一步詳細的介紹起，是比較可惜的一點。\n\n另外標題是惡搞哏阿，千萬不要直接開罵 XD",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.com/@WendellLiu/%E8%AA%9E%E8%A8%80%E7%95%8C%E7%9A%84redux-%E5%BE%9E%E5%AD%B8%E7%BF%92elm%E5%88%B0%E5%87%BD%E6%95%B8%E5%BC%8F%E7%B7%A8%E7%A8%8B%E7%9A%84%E5%95%9F%E7%99%BC-9d24775500a2#.udckm1lt9",
+    "name": "語言界的Redux —從學習Elm到函數式編程的啟發",
+    "description": "Preface",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCUjXqQwms7BtF2&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2Aoc1x0W-QO1EyYJaBQSzVtg.png&cfs=1",
+    "id": "521085554595481_1053348548035843",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 23
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      27,
+      23,
+      0,
+      2
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-08-19T11:37:30+0000",
+    "updated_time": "2016-08-20T00:44:21+0000",
+    "from": {
+      "name": "唐雯倩",
+      "id": "956495327698135"
+    },
+    "message": "想請問一下，像這種影片播放的按鈕，中間三角形是透明的，如果不用clip path和mask，有其他方法可以做到嗎",
+    "id": "521085554595481_1054148774622487",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 12
+      }
+    },
+    "power": [
+      25,
+      7,
+      12,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-16T04:28:30+0000",
+    "updated_time": "2016-08-17T03:02:18+0000",
+    "from": {
+      "name": "Jay Tsai",
+      "id": "10152863568310050"
+    },
+    "message": "徵求JS家教協助Debug。\n\n我朋友在一個功能上卡關，想找前輩幫忙看一下，了解該怎麼解決問題。\n\n徵求一位前輩能在旁指點解決問題的方法，費用一小時1500，無論有無解決問題，按時計酬，當日發給。\n\n地址在台北捷運科技大樓站旁，上下班時間均可，意者請與我連絡，謝謝幫忙。",
+    "id": "521085554595481_1051922551511776",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      21.5,
+      15,
+      3,
+      1
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-08-15T02:51:32+0000",
+    "updated_time": "2016-08-17T15:59:33+0000",
+    "from": {
+      "name": "Ting Hong",
+      "id": "10201377900449044"
+    },
+    "message": "各位大神好,這兩天發現一件弔詭的事情。\nwindow.onload = 匿名函式在Chrome裡沒有作用...\n他並沒有等我圖load完就先跳alert了 (版本 52.0.2743.116 m)\n在Firefox/ IE則正常。\n\n附上原始碼給大家測試,求解。感謝各位大神\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n <meta charset=\"UTF-8\">\n <title>Document</title>\n <script>\n window.onload = function(){\n alert(\"Hi!\");\n }\n </script>\n</head>\n<body>\n <h1>Hello World</h1>\n <p>Test window onload</p>\n <img src=\"flower.jpg\" />\n</body>\n</html>",
+    "id": "521085554595481_1051218734915491",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      19.5,
+      3,
+      11,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-18T07:32:33+0000",
+    "updated_time": "2016-08-19T06:29:10+0000",
+    "from": {
+      "name": "岳書呂",
+      "id": "10203100196293453"
+    },
+    "message": "[自答]\nhttps://github.com/google/ios-webkit-debug-proxy/issues/154 目前此工具不能 Debug UIWebView (because iOS doesn't expose them to WebInspector)。\n--\n請問有人會 debug iOS 的 Chrome 嗎？目前有找到一個工具 https://github.com/google/ios-webkit-debug-proxy ，經測試，可以 Debug iOS 的 Safari，但 Chrome 或其他 UIWebViews 都沒有出現在 localhost:9222/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/google/ios-webkit-debug-proxy",
+    "name": "google/ios-webkit-debug-proxy",
+    "description": "ios-webkit-debug-proxy - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDu7piLXyAbaQf2&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1342004%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1053363034701061",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      14.5,
+      8,
+      3,
+      1
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-19T04:46:40+0000",
+    "updated_time": "2016-08-19T04:46:40+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10152841703735982"
+    },
+    "message": "已經在使用Karma 做JavaScript TDD可以參考在WebStorm IDE要如何整合，在IDE就可以看到測試結果與測試覆蓋率。 \n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/2016/08/18/webstormkarma/",
+    "name": "在WebStorm使用Karma執行JavaScripts測試",
+    "description": "本文源自  這篇文章最早 2013/10/3 由Ekaterina Prigara發佈，2016/8/8更新。…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB7l58BWyyFHYKZ&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F06%2Fwebstorme4b8bbe9a18c.png&cfs=1",
+    "id": "521085554595481_1053970871306944",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      10,
+      8,
+      0,
+      1
+    ],
+    "order": 20
+  }
+]
