@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-08-21",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/023/",
+    "title": "Collection #023",
+    "items": [
+      
+        {
+          "title": "g0v&amp;#x2F;react-native-sample",
+          "url": "https://github.com/g0v/react-native-sample",
+          "sharer": "YuTin Liu",
+          "sharer-id": "1678986882",
+          "permalink": "https://fb.com/521085554595481_1058641660839865",
+          "time": "2016-08-25T08:37:35+0000",
+          "intro": "YuTin Liu 分享自己開發 React Native 的模版專案，並希望有興趣者一起聚會，分享開發經驗"
+        }
+        ,
+        
+        {
+          "title": "Diving into Modern Web Development Toolchain: TypeScript, React and Redux",
+          "url": "https://bcbcarl.github.io/community-open-camp/slide.html",
+          "sharer": "Carl Su",
+          "sharer-id": "476922195774434",
+          "permalink": "https://fb.com/521085554595481_1060247600679271",
+          "time": "2016-08-27T15:19:21+0000",
+          "intro": "Carl Su 分享其在 Community Open Camp 2016 的議程簡報，主要介紹 TypeScript, React &amp; Redux 構成的開發流程"
+        }
+        ,
+        
+        {
+          "title": "幾個 HTML 秘訣 | Mozilla Taiwan",
+          "url": "http://blog.mozilla.com.tw/posts/9085/html-tips",
+          "sharer": "Ivan Wei",
+          "sharer-id": "839285239423022",
+          "permalink": "https://fb.com/521085554595481_1058729957497702",
+          "time": "2016-08-25T11:37:36+0000",
+          "intro": "這篇源於 Mozilla Hacks 的中譯文介紹了幾個網頁標準裡 HTML 的撰寫細節，可以讓網頁結構更為明確"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Jas Chen",
+          "sharer-id": "812162062127549",
+          "permalink": "https://fb.com/521085554595481_1057802410923790",
+          "time": "2016-08-24T10:15:53+0000",
+          "intro": "一張畫在 Modern Web 2016 玻璃上的討戰相片…"
+        }
+        ,
+        
+        {
+          "title": "超全面！聊聊UI設計師的工作流程和高頻使用工具",
+          "url": "http://goo.gl/qeEWpX",
+          "sharer": "Hank Huang",
+          "sharer-id": "10152532814308343",
+          "permalink": "https://fb.com/521085554595481_1058632434174121",
+          "time": "2016-08-25T08:15:55+0000",
+          "intro": "針對 UI 設計輔助工具的介紹文，包括 UI、互動、標注等工具使用流程"
+        }
+        ,
+        
+        {
+          "title": "F2E Meetup 九月號",
+          "url": "http://f2e.kktix.cc/events/f2e6-56d17c-b579f3",
+          "sharer": "馬志瑋",
+          "sharer-id": "10205258676256049",
+          "permalink": "https://fb.com/521085554595481_1059255244111840",
+          "time": "2016-08-26T04:41:28+0000",
+          "intro": "F2ETW 九月的小聚會將在 Mozilla 辦公室，有興趣者可以多加關注"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "Yu-Chi Ding",
+          "sharer-id": "10152619617669332",
+          "permalink": "https://fb.com/521085554595481_1057808177589880",
+          "time": "2016-08-24T10:30:34+0000",
+          "intro": "一篇關於 IKEA 網頁效能問題的討論串"
+        }
+        ,
+        
+        {
+          "title": "Web Tech Topic #5 - vue.js on Rails, S3! 系統架構的好夥伴",
+          "url": "http://www.youtube.com/watch?v=KNxsqlYU2Rs",
+          "sharer": "王信凱",
+          "sharer-id": "791456187554730",
+          "permalink": "https://fb.com/521085554595481_1058718010832230",
+          "time": "2016-08-25T11:11:26+0000",
+          "intro": "Web Tech Topic 第五次聚會，這次主題是 Vue.js 與 Rails 的搭配"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "尤川豪",
+          "sharer-id": "766857926667198",
+          "permalink": "https://fb.com/521085554595481_1057966324240732",
+          "time": "2016-08-24T15:23:16+0000",
+          "intro": "尤川豪分享兩款 WYSIWYG web Editor: Quill &amp; medium-editor"
+        }
+        ,
+        
+        {
+          "title": "NIPPON COLORS - 日本の伝統色",
+          "url": "http://nipponcolors.com/#karakurenai",
+          "sharer": "Xilophia Sunson",
+          "sharer-id": "777228082287907",
+          "permalink": "https://fb.com/521085554595481_1056877444349620",
+          "time": "2016-08-23T02:27:27+0000",
+          "intro": "Xilophia Sunson 分享這一經典的色彩網站，裡頭的動畫與排版都非常漂亮唷！"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-08-14",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/022/",
