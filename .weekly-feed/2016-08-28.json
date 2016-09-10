@@ -1,0 +1,684 @@
+[
+  {
+    "shares": {
+      "count": 26
+    },
+    "created_time": "2016-09-02T04:49:13+0000",
+    "updated_time": "2016-09-03T08:47:35+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "905090839504259"
+    },
+    "message": "分享一下這三天自己實作的 Pokémon Go 工具！\n\n功能主要是實作查詢進化後的數值範圍，這次是沒有用到太多新潮技術..，主要是 jQuery、compass 實作的，不過一樣把 GitHub 分享給大家參考囉：）\n\nGitHub：https://github.com/comdan66/evolution/\n\nLive Demo：http://works.ioa.tw/evolution/index.html\n\n--",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://works.ioa.tw/evolution/index.html",
+    "name": "Pokémon Go 進化後 CP 推測工具",
+    "description": "這是一個 Pokémon Go 進化後 CP 推測工具，可以快速查詢寶可夢進化後的 CP 範圍值，同時藉由網友互助回報而建立的全台寶可夢巢穴位置，讓大家可以查詢各精靈在台灣的分佈，若大家想要共同編輯巢穴文件可與網站作者聯絡。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBzxTFD4rKWT3xh&w=130&h=130&url=http%3A%2F%2Fworks.ioa.tw%2Fevolution%2Fimg%2Fog%2Findex.png&cfs=1",
+    "id": "521085554595481_1064416303595734",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 478
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      552.5,
+      478,
+      15,
+      26
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-08-30T09:24:41+0000",
+    "updated_time": "2016-08-30T14:56:23+0000",
+    "from": {
+      "name": "Po-Jung Chen",
+      "id": "559767417454613"
+    },
+    "message": "過去大家一開始看到 CSS3 中 linear-gradient 屬性，都會直覺上認為只能拿來做為漸層的使用，但實際上 linear-gradient 的使用範圍非常廣，從漸層到色塊的使用，一直到 CSS 的繪圖都脫離不瞭它。\n讓我們一起來看看 CSS3 中不只是漸層的漸層吧！\n\nSlideshare: http://www.slideshare.net/pojungchen3/css3-65434538",
+    "link": "https://www.facebook.com/pjchender/photos/a.1103460186406083.1073741834.768320183253420/1103460249739410/?type=3",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "大家一開始看到 CSS3 中 linear-gradient 屬性，都會直覺上認為只能拿來做為漸層的使用，但實際上 linear-gradient 的使用範圍非常廣，從漸層到色塊的使用，一直到 CSS 的繪圖都脫離不瞭它。讓我們一起來看看 CSS3 中不只是漸層的漸層吧！\n> \n> Slideshare: http://www.slideshare.net/pojungchen3/css3-65434538\n> \n> #高雄前端社群 #六角學院 #CSS3漸層",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14117883_1103460249739410_5344591090841344346_n.jpg?oh=53085a78f90b8fa30b73bc5de0571301&oe=587B8340",
+    "id": "521085554595481_1062255257145172",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 149
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      170,
+      149,
+      2,
+      9
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 25
+    },
+    "created_time": "2016-09-03T16:23:00+0000",
+    "updated_time": "2016-09-03T16:23:00+0000",
+    "from": {
+      "name": "James Liang",
+      "id": "10151995304366957"
+    },
+    "message": "jQuery 完整遊戲設計教學",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.youtube.com/watch?v=m7C3Y2OvEms&index=1&list=PL6Q8GhJpeKWSkGM9lH6Y6V7vPYMDD92w6",
+    "name": "[主角日常] Re:從零開始的 jQuery 撰寫網頁遊戲教學 - Rocket 1/6",
+    "description": "想做飛機射擊遊戲、節奏音樂遊戲，先學學這款遊戲設計基礎概念喔，影片共6集～有預備技能 HTML, jQuery, CSS更佳。影片有不懂的地方可以留言喔！歡迎大家討論～",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB7VGjLWn2cOwFR&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm7C3Y2OvEms%2Fmaxresdefault.jpg&cfs=1",
+    "id": "521085554595481_1065557440148287",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 115
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      165,
+      115,
+      0,
+      25
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 15
+    },
+    "created_time": "2016-08-31T04:10:01+0000",
+    "updated_time": "2016-09-01T06:49:49+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "message": "這是一篇進階的 flexbox 應用文章\n主要想達到是類似於 Google 圖片牆那樣的排版效果：\n多列、同列等高、各圖寬度不一、寬高比恆定\n\n文中裡面以漸進式的方式\n來介紹有哪些方法可以去\"逼近\"預期的排版效果\n直到最後的 CSS 寫法範例仍會有些情況未達完美狀態\n不過其中有許多不一樣的處理方式都滿值得學習的\n或許哪天就會遇上能使用的情境了~\n\n這篇文要記得看程式碼\n裡面有很多有趣的技巧~ <3\n\n*****\n\n使用纯 CSS 实现 Google Photos 照片列表布局\nby 谢然 2016-04-22\nhttps://github.com/xieranmaya/blog/issues/4\n#f2etw",
+    "link": "https://t.co/wMbTRLA7ns",
+    "name": "Rplus",
+    "description": "使用纯 CSS 实现 Google Photos 照片列表布局\n> by 谢然 2016-04-22\n> https://github.com/xieranmaya/blog/issues/4\n> #f2etw\n> \n> 應用 padding 等比、flexbox 的自適應填滿、flex-grow 的寬度比\n> 很有趣的 CSS 排版技巧~\n> \n> via: https://www.facebook.com/yungfu.yan/posts/10210405133473123\n> tw: https://twitter.com/RplusTW/status/770578774337331201",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBpFt5_k57AfUCk&w=130&h=130&url=https%3A%2F%2Fcloud.githubusercontent.com%2Fassets%2F2993947%2F14738104%2F5e28601c-08b2-11e6-8262-5351a575f3fb.png&cfs=1&sx=689&sy=0&sw=1026&sh=1026",
+    "id": "521085554595481_1062867850417246",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 117
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      156,
+      117,
+      6,
+      15
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-30T11:29:10+0000",
+    "updated_time": "2016-08-30T11:29:10+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "ReactNative工作坊的報名網址出來瞜！\n兩個重點：\n1. 開源 300壯士 可以優先報名\n2. 講者自介：被寫在唐鳳的簡報裡",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/1894833b",
+    "name": "ReactNative 仰望星空工作坊 Run1",
+    "description": "React Native 是一個使用React框架來開發App的開源專案 https://github.com/facebook/react-native",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1062322177138480",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 110
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      112,
+      110,
+      0,
+      1
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-08-28T11:29:38+0000",
+    "updated_time": "2016-08-29T11:05:09+0000",
+    "from": {
+      "name": "林立秦",
+      "id": "828387647183801"
+    },
+    "message": "這是一個美好的假日\n但被IE搞得哭笑不得\n\n--\n以下是我跟它的\n第一次相遇小心得：\nhttps://lichin.me/blog/2016/08/27/ie8-the-miserable-monster\n\n--\n不知道大家也有沒有\n慘痛的經驗可以分享～\n一起避開這些雷吧><",
+    "id": "521085554595481_1060823947288303",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 91
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      107.5,
+      91,
+      11,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-08-31T15:36:24+0000",
+    "updated_time": "2016-09-04T07:36:18+0000",
+    "from": {
+      "name": "賴咸文",
+      "id": "10206785334744449"
+    },
+    "message": "請益：\n\n這一年多來React正夯，\n找工作每個職缺上面一定有React這關鍵字，\n但想問問除這樣的Framework要很熟悉外，還有什麼技術或Know-How是前端工程師應該具備的？\n有想到像是localstorage, sessionstorage, cookie的應用，\u0010\u0010\u0010\n還有authentication的處理，資料串接與資料正規化，\n或是CSS切版、RWD等等\n如果可以分\n\n基本的：\n進階的：\n資深的：\n\n如果各位高手們剛好有在思考就給點意見吧！？",
+    "id": "521085554595481_1063192623718102",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 41
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 21
+      }
+    },
+    "power": [
+      76.5,
+      41,
+      21,
+      2
+    ],
+    "order": 7
+  },
+  {
+    "created_time": "2016-08-28T15:05:01+0000",
+    "updated_time": "2016-08-28T17:10:26+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "776166365736344"
+    },
+    "message": "分享今天高雄前端社群活動內容，\n共筆連結：https://goo.gl/fZqpKG\n　\n直播影片也已上傳，\n每個 section 內容也都提供了逐字稿與影片斷點方便閱讀，\n希望透過這次 UI、F2E 的討論內容，\n能夠讓大家更加了解彼此的工作流程 :D\n　\n另外這次直播相當順利，\n以後我們活動都會支援直播哩 :D",
+    "id": "521085554595481_1060936893943675",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 69
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      75,
+      69,
+      4,
+      0
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-09-01T15:12:06+0000",
+    "updated_time": "2016-09-06T11:15:16+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "有人想redesign它嗎？",
+    "id": "521085554595481_1063985163638848",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 42
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      70.5,
+      42,
+      11,
+      6
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-09-01T04:11:25+0000",
+    "updated_time": "2016-09-02T02:28:23+0000",
+    "from": {
+      "name": "Allie Chen",
+      "id": "1004991619515614"
+    },
+    "message": "【徵才】Positive Grid 強力徵求 Staff Front-End Engineer\n\n## 工作內容\n◆ 帶領前端開發團隊，搭配產品經理及設計師，開發支援跨平台桌面產品。\n◆ 與部門主管制定團隊目標，並負全責與成員合作達成。\n◆ 與 C++ 工程師共同制定 command 規格，將使用者的操作結果傳遞至 native 底層進行音訊處理。\n◆ 開發 SPA web app 並實作即時跨域 (cross-origin) 通訊。\n◆ 與產品經理、設計師、後端工程師頻繁溝通，協助專案分配人力，提供技術指導與培訓。\n◆ 設計產品前端架構，制定核心介面規格。\n## 能力需求\n◆ 至少兩年帶領五人以上開發團隊，主導大型網站的前端架構設計、建置和開發的經驗\n◆ 非常了解 JavaScript、CSS 和 HTML，並熟悉各種前端的技術、工具和趨勢，例如：Angular.js、React、Vue.js 或 Webpack、PostCSS 等等\n◆ 熟悉 SASS、LESS 或是 Stylus 任一 CSS preprocessor\n◆ 熟悉 Unit-Test 和自動化測試，並能寫出可測試性與可維護性高的程式碼架構\n◆ 熟悉前端效能優化的方法，並能寫出與標準相容且兼容各種瀏覽器的程式碼\n◆ 熟悉各種設計模式 (Design Pattern)，並能設計出良好的大型軟體架構\n◆ 熟悉並暸解 Scrum 或 Kanban 等敏捷開發法\n◆ 卓越的分析能力，能夠有效且快速的除錯和解決問題\n◆ 卓越的最佳化能力，以及對相關技術知識細節的了解\n◆ 卓越的溝通能力，在與產品經理及客戶緊密配合，規劃開發快速測試原型\n## 加分加分\n◆ 熟悉C++開發。\n◆ 熟悉並了解函數式程式設計 (Functional Programming)\n◆ 熟悉 ES6、ES7 或 TypeScript\n## 薪資範圍\n◆ 1.2 M~1.4 M\n## 工時/特休\n◆ 週休二日\n◆ 09:00-18:00 (彈性上班時間保持skype暢通，可即時處理e-mail即可)\n## 福利/推薦\n◆ 提供 Macbook pro成為你上班的好夥伴。 \n◆ 舒服的辦公室環境，就好像在咖啡廳培養文青。 \n◆ 冰箱無限量供應啤酒、可樂、ZERO、綠茶，記得上班不要喝醉囉。 \n◆ 無限量供應餅乾、零食、小點心，隨時填飽你的肚子。 \n◆ LIRIKA咖啡機每天讓辦公室飄咖啡香，除了美式、義式還有拿鐵多樣化選擇。 \n◆ 每週五下午茶開心吃開心喝，互相分享與學習這週彼此的成長。 \n◆ 第一年就有特休是基本的，我們還有給薪病假(但我們希望最好不要用到...) \n◆ 同時還有給薪的家庭照顧假讓每個人可以兼顧家庭，第一年就有26天給薪假讓你運用。 \n◆ 不定期提供健康檢查的服務，關心自己與關心家人的身體。 \n◆ 上班氣氛很歡樂，希望你不介意有時候比較吵鬧的辦公室。 \n◆ 開車來嗎？ 我們還有停車費補助唷。 \n◆ 跟一群優秀的人一起工作是最棒的福利！其他還有更多，等你來體驗！\n## 聯絡方式\nAllie Chen\nE-mail: allie.chen@positivegrid.com\nSkype: ting8489qq",
+    "id": "521085554595481_1063640840339947",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 35
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      54.5,
+      35,
+      13,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-08-30T16:24:16+0000",
+    "updated_time": "2016-09-01T11:05:16+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "791456187554730"
+    },
+    "message": "Web Tech Topic 本週有 WebRTC，適合有 js, ror 基礎，希望網站有語音功能，可以來看看怎麼實做喲\n\nhttp://amazingtutor.kktix.cc/events/wtt-06\nps:\n1. 過往場次都可在 youtube 搜尋到直播影片\n2. WTT github: https://github.com/amazing-tutor/web-tutor-on-thursday",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amazingtutor.kktix.cc/events/wtt-06",
+    "name": "Web Tech Topic #6 - WebRTC入門、Clean Rails code basic",
+    "description": "Web Tech Topic 是每週一次的主題式技術分享聚會 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCIGLas2qAuODdc&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F53932%2Fwtt06_original.jpg&cfs=1&sx=290&sy=0&sw=1280&sh=1280",
+    "id": "521085554595481_1062477660456265",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 46
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      53.5,
+      46,
+      1,
+      3
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-08-31T07:00:44+0000",
+    "updated_time": "2016-08-31T20:36:31+0000",
+    "from": {
+      "name": "賴宗賢",
+      "id": "834228226591912"
+    },
+    "message": "[ #發問 ]\nHI 各位前輩你們好，小弟這裡有個小小疑問\n請問有碰過 在 IE11 使用css 的\n before 跟 after  是無法使用的情況嗎?\n\n有排除的情況\n1. 除了「 IE 」 其他瀏覽器是正常\n    (測試過的有 chrome 、 saifari 、 firefox)\n2. 有崁入 css3 的js ( 雖然我覺得這沒關係xd )\n3. 有確認是否 media query 是否判斷錯誤 但正常沒寫錯\n4. 只有部份框架 使用才會出現不正常現象..\n    ( 很詭異xd 但我相信一定不是見鬼 ... 應該吧xd\n\n以下在請各位前輩協助幫忙 謝謝您們\n\n#css3 #html #before #after #fontend",
+    "id": "521085554595481_1062943120409719",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 31
+      }
+    },
+    "power": [
+      49.5,
+      3,
+      31,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-30T12:26:24+0000",
+    "updated_time": "2016-09-09T10:16:28+0000",
+    "from": {
+      "name": "Ivan Wei",
+      "id": "839285239423022"
+    },
+    "message": "【活動】【售票到 9/16 截止】\n今年主題為 #核心概念與整合實戰，因此國外講者邀請到 #Netflix、#Vuejs、奇虎360 前端團隊 #奇舞團  、#RxJS、 Google #PWA  的核心成員。\n\n其他議程呢？\n想聽 #Angular2 + #Firebase 有 #保哥\n想聽 #GraphQL 有 Steven Su\n想聽 #JavaScript + #SEO 有 awoo 的 Jose & Wildcat\n\n想知道更多可以點擊下方連結，連到今年 JSDC 活動官網取得更多消息 :D\nhttps://www.facebook.com/JSDC.TW/posts/890595671045947\n\n【招募 + 工商時間】\n#JSDC 2016 活動開跑囉！\n因此需要招募工讀生 :)\n\n時間：10/21 - 10/23\n薪資：120 元/小\n（加班9 - 10 x 1.33，11 - 12 x 1.66。）\n發薪：10/23 活動結束\n資料提供：姓名、性別、聯絡方式、工作經驗 / 學校系所\n其他說明：勞基法最低時薪有調整將同步調整\n\n應徵方式和其他資訊，請看詳細內容：\nhttps://www.ptt.cc/bbs/part-time/M.1472450288.A.239.html",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://2016.jsdc.tw/agenda.html",
+    "name": "JSDC 2016",
+    "description": "JavaScript 開發者年會 ( JavaScript Developers Conference，簡稱 JSDC ) 是台灣最⼤的 JavaScript 年度性技術研討會，旨在提供台灣中⾼階 JavaScript 技術人才與世界最新 JavaScript 相關技術討論與分享。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD-IGo3SQEiwgx1&w=130&h=130&url=http%3A%2F%2F2016.jsdc.tw%2Fdist%2Fimages%2Fog-jsdc.jpg&cfs=1&sx=0&sy=0&sw=222&sh=222",
+    "id": "521085554595481_1062357840468247",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 35
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      46,
+      35,
+      6,
+      1
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 4
+    },
+    "created_time": "2016-09-01T06:35:06+0000",
+    "updated_time": "2016-09-05T05:12:18+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "300壯士優先資格！「完售」！ >///<",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/1894833b",
+    "name": "ReactNative 仰望星空工作坊 Run1",
+    "description": "React Native 是一個使用React框架來開發App的開源專案 https://github.com/facebook/react-native",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1063693730334658",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      43,
+      20,
+      10,
+      4
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-08-31T05:06:59+0000",
+    "updated_time": "2016-08-31T05:06:59+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10152532814308343"
+    },
+    "message": "#Taurus 測試框架\n\n公司成長到一個階段，測試就必須開始自動化，有做自動化的團隊多多少少也會聽到 DevOps 這個名詞，下面介紹的這個工具，整合了市面上多種最受歡迎的測試工具，有壓力測試、效能測試、網頁互動測試等等，透過簡單的 yaml 檔案來管理，很容易可以跟其他的自動化流程整合在一起。\n\n不管你是剛開始要導入測試，或是已經有 DevOps 在公司，這都會是個很有前景的工具～\n\n#影片只有10分鐘",
+    "id": "521085554595481_1062894113747953",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 28
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      42,
+      28,
+      0,
+      7
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-09-03T14:21:05+0000",
+    "updated_time": "2016-09-06T01:39:25+0000",
+    "from": {
+      "name": "Clement Tang",
+      "id": "10202921383529319"
+    },
+    "message": "有人也有導入 AMP 的嗎？\n\n剛剛在看我的網站的 Search Console 發現 AMP 竟然不允許 <a> 裡面有 alt 屬性耶，為什麼？\n\n還是也沒有原因，反正就乖乖照做就對了？XD\n\n---\n\nEDIT\n\n本來就沒這個屬性，自己罰自己回去熟讀 W3C 標準 XD\nhttp://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link",
+    "id": "521085554595481_1065479550156076",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 14
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 15
+      }
+    },
+    "power": [
+      36.5,
+      14,
+      15,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-30T03:56:46+0000",
+    "updated_time": "2016-08-30T09:17:25+0000",
+    "from": {
+      "name": "Yi-an Chen",
+      "id": "10202980653901753"
+    },
+    "message": "[工商服務]\n因組織人事異動，徵求一名前端工程師。年薪會有 700k up，依據能力條件\n- 精通 html5, css3\n- 熟悉 javascript/jquery，具網頁前端程式編寫執行經驗\n- 了解 AJAX/JSON 的運用，並與後端人員有合作經驗\n- 具有 mobile web 開發經驗\n- 能解決各瀏覽器兼容性問題\n- 具有 RWD 經驗者佳\n- 具有 UX 相關經驗者佳\n- 具有良好的溝通能力，能與團隊溝通合作\n若有興趣者可以留言給我。謝謝。\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.104.com.tw/job/?jobno=4l8g2&jobsource",
+    "name": "RD2254 Front-End Engineer (ZenTalk)_華碩電腦股份有限公司 - 104人力銀行",
+    "description": "1.UI & 動線設計規劃 2.靜態頁面設計 3.HTML/xHTML和Div+CSS佈局 4.實現多流覽器相容，實現整體操作界面的易用性。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDqBsZLew3hPADv&w=130&h=130&url=https%3A%2F%2Fstatic.104.com.tw%2Flogo%2F104logo_200x200_fbogW2.png&cfs=1",
+    "id": "521085554595481_1062123787158319",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 24
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      30.5,
+      24,
+      3,
+      1
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-09-01T05:28:40+0000",
+    "updated_time": "2016-09-01T15:43:56+0000",
+    "from": {
+      "name": "廖某允",
+      "id": "750360244985355"
+    },
+    "message": "來發問了～認識的企劃朋友想摸一點CSS和HTML，因為他們有時會自己修改靜態頁面的資料，除了線上教學（已給六角學院課程ＸＤ）之外，有什麼適合他們的實體書可以推薦嗎？",
+    "id": "521085554595481_1063668807003817",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 9
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      21,
+      9,
+      8,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "created_time": "2016-09-02T04:15:55+0000",
+    "updated_time": "2016-09-02T04:15:55+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "希望前端能夠成為台灣一個成熟的產業!\n主要討論: 前端網頁技術，使用者介面探討，網頁設計。\nHTML，CSS，JavaScript等語言技術討論，瀏覽器開發工具。\niOS, Android 等 Mobile App 使用者介面相關議題討論。\n\n也歡迎前端經驗分享，以及企業徵才。(請附上薪資)\n\n歡迎在fb/twitter 的前端技術文章標上hashtag #f2etw 方便大家follow歐\nhttps://twitter.com/hashtag/f2etw \n\n徵才github : https://github.com/f2etw/jobs/issues \n官網: www.f2e.tw\n召集人: Kevin Zhuang - 莊為任 (www.kvzhuang.net)\n策展人: 劉宇庭 (github.com/yutin1987)",
+    "id": "521085554595481_1064403876930310",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 16
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      16,
+      16,
+      0,
+      0
+    ],
+    "order": 19
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-29T02:10:18+0000",
+    "updated_time": "2016-08-29T12:14:06+0000",
+    "from": {
+      "name": "李榮維",
+      "id": "10204587216914625"
+    },
+    "message": "大螢幕的解析度要支援到(多小) 才算合理呢?\n(現在只有調到(1366*769 以上支援))\n#不想用mediaquery",
+    "id": "521085554595481_1061372187233479",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 4
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      13.5,
+      4,
+      5,
+      1
+    ],
+    "order": 20
+  }
+]
