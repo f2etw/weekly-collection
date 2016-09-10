@@ -1,0 +1,675 @@
+[
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-25T08:37:35+0000",
+    "updated_time": "2016-08-30T10:55:07+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "不知道有沒有人對ReactNative有興趣？\n\n我在這邊放了一個sample, 把常用的package都已安好(尤其codepush與firebase), 想看看有沒有人有興趣來個小聚會.\n\n目標是跟大家分享怎麼使用, 然後看有沒有人願意把文件補齊.",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://github.com/g0v/react-native-sample",
+    "name": "g0v/react-native-sample",
+    "description": "Contribute to react-native-sample development by creating an account on GitHub.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAE6Le6lNKakYyk&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2668086%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1058641660839865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 220
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 47
+      }
+    },
+    "power": [
+      292.5,
+      220,
+      47,
+      1
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-08-27T15:19:21+0000",
+    "updated_time": "2016-08-27T17:22:17+0000",
+    "from": {
+      "name": "Carl Su",
+      "id": "476922195774434"
+    },
+    "message": "小弟今日在中研院的小小分享，簡報已釋出。\n\n主題是 TypeScript, React 和 Redux，也有提到 Saga。\n\nhttps://bcbcarl.github.io/community-open-camp/slide.html",
+    "id": "521085554595481_1060247600679271",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 228
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      273.5,
+      228,
+      5,
+      19
+    ],
+    "order": 2
+  },
+  {
+    "created_time": "2016-08-25T11:37:36+0000",
+    "updated_time": "2016-08-27T02:59:15+0000",
+    "from": {
+      "name": "Ivan Wei",
+      "id": "839285239423022"
+    },
+    "message": "看了無害，多多亦善 XDD\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.mozilla.com.tw/posts/9085/html-tips",
+    "name": "幾個 HTML 秘訣 | 部落格 | Mozilla Taiwan",
+    "description": "提供 Mozilla 與 Firefox、Firefox OS 的五花八門最新訊息，包括 Firefox 開發、Firefox 最新功能、Firefox 使用教學、Firefox 錯誤迷思導正、Firefox 好用附加元件訊息，以及由 Mozilla Taiwan 官方舉辦的各式 Firefox 活動訊息、新聞、部落文分享",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA6WCA6LIER6n3f&w=130&h=130&url=http%3A%2F%2Fblog.mozilla.com.tw%2Fwp-content%2Fuploads%2F%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2016-08-25-15.55.15.png&cfs=1",
+    "id": "521085554595481_1058729957497702",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 174
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      177,
+      174,
+      2,
+      0
+    ],
+    "order": 3
+  },
+  {
+    "created_time": "2016-08-22T06:03:13+0000",
+    "updated_time": "2016-08-25T04:39:37+0000",
+    "from": {
+      "name": "Allie Chen",
+      "id": "1004991619515614"
+    },
+    "message": "【徵才】Positive Grid強力徵求 Senior Front-end Engineer\n\n## 工作內容\n● 利用 WebView 開發支援跨平台桌面產品的 UI，搭配御用設計師，手刻酷炫的介面。\n● 與 C++ 工程師共同制定 command spec，將使用者的操作結果從前端透過 bridge 傳遞至 native 底層進行音訊處理。\n● 開發 SPA web app 並實作 cross-origin communication。\n● 專職前端開發，不需要兼後端、設計、手機開發等等。\n\n## 能力需求\n● 熟悉 JavaScript、CSS3、HTML5 和 JQuery，並有 Angular.js 與 React 相關開發經驗\n● 有使用 Gulp.js 、Grunt 或 Webpack 等相關經驗\n● 熟悉並暸解 Scrum 或 Kanban 等敏捷開發法\n● 熟悉使用 3rd Party Libraries 進行快速開發\n● 能寫出架構乾淨並與標準相容並跨瀏覽器的程式碼\n● 需熟悉物件導向軟體開發 (Object-Oriented Development) 及軟體設計模式 (Design Pattern) 等概念\n● 卓越的最佳化能力，以及對相關技術知識細節的了解，並有卓越的除錯能力\n● 卓越的溝通能力，在與產品經理及客戶緊密配合，規劃開發快速測試原型\n\n## 薪資範圍\n● NT900,000~NT1,200,000\n\n## 福利/特休\n● 提供 Macbook pro成為你上班的好夥伴。 \n● 冰箱無限量供應啤酒、可樂、ZERO、綠茶，記得上班不要喝醉囉。 \n● 無限量供應餅乾、零食、小點心，隨時填飽你的肚子。 \n● LIRIKA咖啡機每天讓辦公室飄咖啡香，除了美式、義式還有拿鐵多樣化選擇。 \n● 每週五下午茶開心吃開心喝，互相分享與學習這週彼此的成長。 \n● 第一年就有26天給薪假讓你運用。 \n● 不定期提供健康檢查的服務，關心自己與關心家人的身體。 \n● 上班氣氛很歡樂，希望你不介意有時候比較吵鬧的辦公室。 \n● 開車來嗎？ 我們還有停車費補助唷。 \n● 跟一群優秀的人一起工作是最棒的福利！其他還有更多，等你來體驗！\n\n## 聯絡方式\nAllie Chen\nE-mail: allie.chen@positivegrid.com\nSkype: ting8489qq",
+    "id": "521085554595481_1056209064416458",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 127
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      142,
+      127,
+      10,
+      0
+    ],
+    "order": 4
+  },
+  {
+    "created_time": "2016-08-24T10:15:53+0000",
+    "updated_time": "2016-08-26T05:30:55+0000",
+    "from": {
+      "name": "Jas Chen",
+      "id": "812162062127549"
+    },
+    "message": "XDDD\n#ModernWeb2016",
+    "id": "521085554595481_1057802410923790",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 93
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      117,
+      93,
+      16,
+      0
+    ],
+    "order": 5
+  },
+  {
+    "created_time": "2016-08-25T08:15:55+0000",
+    "updated_time": "2016-08-25T14:36:06+0000",
+    "from": {
+      "name": "Hank Huang",
+      "id": "10152532814308343"
+    },
+    "message": "乾貨分享，大家平常又是使用哪些好用的工具來做設計上的規劃、修改時候的標記與節省時間呢？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://goo.gl/qeEWpX",
+    "name": "超全面！聊聊UI設計師的工作流程和高頻使用工具",
+    "description": "@楓之醉語：設計師的工作流程鑒於不同規模的公司和項目會有所差異，但基本大同小異，必須有的流程還是要執行的，今天就拿目前我所在的公司的日常舉例，順便推薦一下UI設計師日常使用的工具，乾貨較多，篇幅較長，強烈推薦。 產品經理： 初期：需求調研 → 競品分析 → 產品規劃； 前期：思維導圖「功能模塊」 → 需求文檔「流程邏輯」，原型設計「信息架構」→ 評審； 設計師： 中期：準備工作 → UI設計 → ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAamQN3LRoGNG51&w=130&h=130&url=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs4%2Fsh%2F71430bc1-7f00-4131-a977-5ef618b49c9f%2F1d045785669d2a89%2Fthm%2Fnote%2F71430bc1-7f00-4131-a977-5ef618b49c9f&cfs=1",
+    "id": "521085554595481_1058632434174121",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 104
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      105.5,
+      104,
+      1,
+      0
+    ],
+    "order": 6
+  },
+  {
+    "created_time": "2016-08-26T04:41:28+0000",
+    "updated_time": "2016-08-26T04:49:40+0000",
+    "from": {
+      "name": "馬志瑋",
+      "id": "10205258676256049"
+    },
+    "message": "Hello，大家\n下次技術聚會時間訂在 9/9 (五)，請大家先把時間空出來\n本次主題為 D3.js & three.js \n9/1 開始開放購票 \n講師部分稍晚會補，敬請期待",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/f2e6-56d17c-b579f3",
+    "name": "F2E Meetup 九月號",
+    "description": "主題：F2E Meetup 九月號 人數：40人 地點：台北市信義區信義路五段 106 號 4 樓 A1 日期：9/9(四) PM 7:00 =============================",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1059255244111840",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 95
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      98,
+      95,
+      2,
+      0
+    ],
+    "order": 7
+  },
+  {
+    "created_time": "2016-08-24T10:30:34+0000",
+    "updated_time": "2016-08-26T00:39:26+0000",
+    "from": {
+      "name": "Yu-Chi Ding",
+      "id": "10152619617669332"
+    },
+    "message": "IKEA網頁不知道誰做的，開下去CPU狂飆，飆到我以為風扇壞了。查了一下原來是JS裡面有鬼，瘋狂Call這隻不知道幹麻用的Function，有興趣的人可以研究一下 XD",
+    "id": "521085554595481_1057808177589880",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 78
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      85.5,
+      78,
+      5,
+      0
+    ],
+    "order": 8
+  },
+  {
+    "created_time": "2016-08-26T12:08:51+0000",
+    "updated_time": "2016-08-30T04:06:00+0000",
+    "from": {
+      "name": "馬志瑋",
+      "id": "10205258676256049"
+    },
+    "id": "521085554595481_1059427757427922",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 41
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      51.5,
+      41,
+      7,
+      0
+    ],
+    "order": 9
+  },
+  {
+    "created_time": "2016-08-24T15:23:16+0000",
+    "updated_time": "2016-08-24T15:23:17+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "766857926667198"
+    },
+    "message": "最近在找 WYSIWYG 的編輯器來用\n\n發現兩款不錯的 跟大家推薦一下 有需要的話可以試試看\n\nhttp://quilljs.com/\n\nhttps://yabwe.github.io/medium-editor/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://quilljs.com/",
+    "name": "Quill - A Rich Text WYSIWYG Editor with an API",
+    "description": "Quill is a free, open source WYSIWYG editor built for the modern web. With its expressive API, you can completely customize it to fulfill your needs.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA2JXtNrsTpwgI1&w=130&h=130&url=http%3A%2F%2Fquilljs.com%2Fassets%2Fimages%2Fcloud-large.png&cfs=1",
+    "id": "521085554595481_1057966324240732",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 45
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      45,
+      45,
+      0,
+      0
+    ],
+    "order": 10
+  },
+  {
+    "created_time": "2016-08-25T12:20:31+0000",
+    "updated_time": "2016-08-25T15:41:42+0000",
+    "from": {
+      "name": "Lucy Tsao",
+      "id": "10202513422381990"
+    },
+    "message": "大家好，請問各位前輩一個問題。\n今天看skel.css文檔 (參考:http://getskel.com/ 的 Baseline)內，在.row 後面有加 .\\31 25\\25 請問這是什麼意思呢?? 之前有請教過老師,老師說是classname的關係,可是沒有unicode表或是說明檔,那我要怎麼知道是哪個區塊然後進行修改？很苦惱啊！\n\n我是下載html5 up的版型想要修改,但碰到這個問題",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://getskel.com/",
+    "name": "ajlkn/skel",
+    "description": "skel - A lightweight responsive framework for the www",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBJV2ceSh2ZcoL2&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2937342%3Fv%3D3%26s%3D400&cfs=1",
+    "id": "521085554595481_1058751250828906",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 0
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 27
+      }
+    },
+    "power": [
+      40.5,
+      0,
+      27,
+      0
+    ],
+    "order": 11
+  },
+  {
+    "created_time": "2016-08-25T11:11:26+0000",
+    "updated_time": "2016-08-25T11:16:40+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "791456187554730"
+    },
+    "message": "youtube 直播網址，若直播有問題跟我說一聲喲~~ \n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.youtube.com/watch?v=KNxsqlYU2Rs",
+    "name": "Web Tech Topic #5 - vue.js on Rails, S3! 系統架構的好夥伴",
+    "description": "8/25 Web Tech Topic #5 1. S3！系統架構的好夥伴 講者: 吳政賢 主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！ 2. vue.js on rails 講者...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDyGh1MzCUePzE_&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKNxsqlYU2Rs%2Fmaxresdefault_live.jpg&cfs=1",
+    "id": "521085554595481_1058718010832230",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 39
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      40.5,
+      39,
+      1,
+      0
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-08-23T02:27:27+0000",
+    "updated_time": "2016-08-23T15:16:35+0000",
+    "from": {
+      "name": "Xilophia Sunson",
+      "id": "777228082287907"
+    },
+    "message": "如有回鍋請刪除~謝謝\n[日本美感 <3 <3 <3 ]\nhttp://nipponcolors.com/#karakurenai\n\n[學學台灣文化色彩]\nhttp://www.xuexuecolors.com/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://nipponcolors.com/#karakurenai",
+    "name": "NIPPON COLORS - 日本の伝統色",
+    "description": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDhYnOzYaU8Rayc&w=130&h=130&url=http%3A%2F%2Fnipponcolors.com%2Fimages%2Fsite_thumb.jpg&cfs=1",
+    "id": "521085554595481_1056877444349620",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 27
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      40.5,
+      27,
+      9,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-23T13:26:42+0000",
+    "updated_time": "2016-08-23T14:00:05+0000",
+    "from": {
+      "name": "尤川豪",
+      "id": "766857926667198"
+    },
+    "message": "請問有辦法只調整中文字的字元間距，而不動到英文字的字元間距嗎？\n\n小弟用 letter-spacing 設定，發現會把中英文的字元間距一起改變\n\n感恩大大！",
+    "id": "521085554595481_1057200757650622",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 20
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      31,
+      20,
+      6,
+      1
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-08-21T12:22:42+0000",
+    "updated_time": "2016-08-22T05:08:00+0000",
+    "from": {
+      "name": "Gao Jia Siang",
+      "id": "976124412401736"
+    },
+    "message": "用input+label+CSS實作了一個客製化的仿select元素。 目前在點開選單、點選項之後，會沒辦法像select一樣將選單縮回去（隱藏），請大家有什麼建議嗎？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://codepen.io/jsgao0/details/AXzPrX/",
+    "name": "CSS Only Custom Selector",
+    "description": "A custom selector using label, CSS as layout and input as interactive element. The role of <input type=\"checkbox\"> is the selector button and the role ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB7gX99UbeWS6rb&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fjsgao0%2Fpen%2FAXzPrX%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1055653827805315",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      19.5,
+      12,
+      5,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-08-23T08:41:11+0000",
+    "updated_time": "2016-08-23T08:41:12+0000",
+    "from": {
+      "name": "王信凱",
+      "id": "791456187554730"
+    },
+    "message": "WTT 第五場開放報名\n\n1. S3！系統架構的好夥伴\n講者: 吳政賢\n主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！\n\n2. vue.js on rails\n講者: Vincent - Rails engineer\n主題說明: Show the basic vue.js and rails api mechanism through an basic implementation\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://amazingtutor.kktix.cc/events/wtt-05",
+    "name": "Web Tech Topic #5 - vue.js on Rails, S3! 系統架構的好夥伴",
+    "description": "Web Tech Topic 是每週一次的主題式技術分享聚會 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAyYmzXpGEWPWrI&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fassets%2Fkktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&cfs=1",
+    "id": "521085554595481_1057049134332451",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 19
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      19,
+      19,
+      0,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "created_time": "2016-08-24T10:09:12+0000",
+    "updated_time": "2016-08-24T10:39:00+0000",
+    "from": {
+      "name": "YGhost Yang",
+      "id": "10201874623935681"
+    },
+    "message": "【徵才】Skymirror - Web Front-end Developer\n\n打擾了！敝公司最近因邁入下個階段，求才若渴，相關詳細職務內容如連結，希望能一同共事、學習新技術。\n\n## 工作內容\n　公司自有產品的 Web、跨平台 App 開發 (WebView)、設計與維護。\n\n## 薪資範圍\n　月薪 NT$ 50,000 ~ 90,000\n\n## 工作環境      \n    * 新莊運動公園第一排樹海美景 \n    * 交通便利，近新莊捷運站 \n    * 開放式工作空間，拉近距離 \n\n## 福利制度      \n\n### 國家級的福利保障：1.享勞保、健保、2.男性員工陪產假、3.員工退休金制度...國家保證的，我們一定給！ \n\n### 休假\n    * 特休\n    * 彈休\n\n### 各式各樣的公司福利制度:          \n    1. 彈性的上下班工作時間，讓您輕鬆運用重要的生活時間。 \n    2. 需要醣份補充腦袋嘛！？我們有吃不完的零食、飲料、咖啡。         \n    3. 怕坐太久、吃太多嘛！？我們有每週上班兩小時健康運動時間 (公司有健身器材、隔條街的運動公圓有各種大型運動設施)。 \n    4. 對技術有熱誠，看到什麼課都想上？我們有書籍、進修課程費用輔助，讓您可以一直提升自我。 \n    5. 三節節日有獎金及禮品，讓您假日能更愉快的放假。 \n    6. 不定期的員工聚餐滿足你各種口腹之慾 \n    7. 人才是公司最寶貴的資產，公司分紅、績效獎金當然不會少 \n    8. 族繁不及備載，歡迎您來聊聊！",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.104.com.tw/job/?jobno=3twld&jobsource=n104bank1",
+    "name": "資深前端工程師 (Frontend)_天鏡科技股份有限公司 - 104人力銀行",
+    "description": "Required Skills & Experience * 進行 Web、跨平台 App 開發、設計與維護。 * 精通 HTML, CSS, JavaScript, RWD。 * 熟悉樣式表語言，例如：SASS。 * 熟悉 JavaScript 程式庫與框架，例如：AngularJS、ReactJS、EmberJS。 * 熟悉 HTTP 協定，RESTful API 設計。 Nice To Have Skills & Experience * 接觸過單元測試框架。 * 對新技術有學習熱情，自我要求高，不斷提升自身技術水準者。 * 可獨立完成任務亦可團隊合作者尤佳。 公司簡介         ...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBSnP7iHct5Cz9F&w=130&h=130&url=http%3A%2F%2Fstatic.104.com.tw%2Flogo%2F104logo_200x200_fbogW2.png&cfs=1",
+    "id": "521085554595481_1057799444257420",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 15
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      16.5,
+      15,
+      1,
+      0
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-24T10:06:33+0000",
+    "updated_time": "2016-08-24T10:06:33+0000",
+    "from": {
+      "name": "Han Sheng",
+      "id": "10203583322214353"
+    },
+    "message": "【TradingValley徵才文】\n\n哈囉～大家好！\nTradingValley 是一個專為年輕人設計的機器人理財平台, 透過內建的儲蓄與長期投資機器人，目標是幫助年輕人積攢微薄的薪水，聚沙成塔，一步一步實現人生夢想。\n\n我們正在招募前端的夥伴，有興趣的朋友歡迎與我們聯繫：\nJerry / hsheng@leadinfo.com.tw",
+    "id": "521085554595481_1057798324257532",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      14,
+      12,
+      0,
+      1
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-08-22T12:55:25+0000",
+    "updated_time": "2016-08-22T16:52:30+0000",
+    "from": {
+      "name": "Ming Ching Chen",
+      "id": "10201015816517640"
+    },
+    "message": "請問各位有購物網站有做 structure data 較完整的範例網站可供參考嗎? (目前我網路上找購物網站有做較細的好像不多)，備註 是指 microdata schema.org\nhttps://search.google.com/structured-data/testing-tool/u/0/",
+    "id": "521085554595481_1056425724394792",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      13,
+      8,
+      2,
+      1
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-08-25T07:05:04+0000",
+    "updated_time": "2016-08-25T09:26:23+0000",
+    "from": {
+      "name": "Jotarun Lin",
+      "id": "10202188106081011"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://medium.engineering/typography-is-impossible-5872b0c7f891#.2r6ron963",
+    "name": "Typography is impossible – Medium Engineering",
+    "description": "The practical guide to why laying out type never quite does what you want",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDNAtH-VrI_A761&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2APCyVtk8vNwW8fJyiH4ri8Q%402x.png&cfs=1",
+    "id": "521085554595481_1058609270843104",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 7
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      11.5,
+      7,
+      3,
+      0
+    ],
+    "order": 20
+  }
+]
