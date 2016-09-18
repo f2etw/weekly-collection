@@ -2,6 +2,128 @@
   
   
   {
+    "date-since": "2016-08-28",
+    "volunteer": "Rplus",
+    "post-url": "/weekly-collection/collection/024/",
+    "title": "Collection #024",
+    "items": [
+      
+        {
+          "title": "Pokémon Go 進化後 CP 推測工具",
+          "url": "http://works.ioa.tw/evolution/index.html",
+          "sharer": "吳政賢",
+          "sharer-id": "905090839504259",
+          "permalink": "https://fb.com/521085554595481_1064416303595734",
+          "time": "2016-09-02T04:49:13+0000",
+          "intro": "吳政賢參考 PTT 文章製作了一個查找 CP 進化區間的工具"
+        }
+        ,
+        
+        {
+          "title": "不只是漸層的 CSS3 漸層",
+          "url": "https://www.facebook.com/pjchender/photos/a.1103460186406083.1073741834.768320183253420/1103460249739410/?type=3",
+          "sharer": "Po-Jung Chen",
+          "sharer-id": "559767417454613",
+          "permalink": "https://fb.com/521085554595481_1062255257145172",
+          "time": "2016-08-30T09:24:41+0000",
+          "intro": "Po-Jung Chen 整理了 CSS gradient 的諸多使用技巧於粉專相簿裡，想更進一步瞭解 CSS 漸層的可以參考唷"
+        }
+        ,
+        
+        {
+          "title": "[主角日常] Re:從零開始的 jQuery 撰寫網頁遊戲教學 - Rocket",
+          "url": "https://www.youtube.com/watch?v=m7C3Y2OvEms&amp;index=1&amp;list=PL6Q8GhJpeKWSkGM9lH6Y6V7vPYMDD92w6",
+          "sharer": "James Liang",
+          "sharer-id": "10151995304366957",
+          "permalink": "https://fb.com/521085554595481_1065557440148287",
+          "time": "2016-09-03T16:23:00+0000",
+          "intro": "James Liang 分享以 jQuery 製作網頁遊戲的線上課程影片"
+        }
+        ,
+        
+        {
+          "title": "使用纯 CSS 实现 Google Photos 照片列表布局",
+          "url": "https://t.co/wMbTRLA7ns",
+          "sharer": "Rplus Chen",
+          "sharer-id": "697526476981805",
+          "permalink": "https://fb.com/521085554595481_1062867850417246",
+          "time": "2016-08-31T04:10:01+0000",
+          "intro": "這篇進階排版應用文章使用各種 flexbox 技巧來模擬 Google 圖片牆的排版效果。文中漸進地示範不同的方法來達成相似的排版效果，裡頭有許多精妙的技巧唷"
+        }
+        ,
+        
+        {
+          "title": "ReactNative 仰望星空工作坊 Run1",
+          "url": "http://f2e.kktix.cc/events/1894833b",
+          "sharer": "YuTin Liu",
+          "sharer-id": "1678986882",
+          "permalink": "https://fb.com/521085554595481_1062322177138480",
+          "time": "2016-08-30T11:29:10+0000",
+          "intro": "YuTin Liu ReactNative 開發經驗的分享聚會首發！有興趣的快跟上"
+        }
+        ,
+        
+        {
+          "title": "IE8! the miserable monster",
+          "url": "https://lichin.me/blog/2016/08/27/ie8-the-miserable-monster",
+          "sharer": "林立秦",
+          "sharer-id": "828387647183801",
+          "permalink": "https://fb.com/521085554595481_1060823947288303",
+          "time": "2016-08-28T11:29:38+0000",
+          "intro": "林立秦整理部份 IE8 前端開發的坑以及需留意的事項"
+        }
+        ,
+        
+        {
+          "title": "[共筆] 前端與 UI 真心合作的不二法門",
+          "url": "https://quip.com/7Vt4AiNImcbg",
+          "sharer": "廖洧杰",
+          "sharer-id": "776166365736344",
+          "permalink": "https://fb.com/521085554595481_1060936893943675",
+          "time": "2016-08-28T15:05:01+0000",
+          "intro": "廖洧杰分享高雄前端分享活動的共筆與直播錄影，讓未能到場的朋友們也可以一同學習~"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "賴咸文",
+          "sharer-id": "10206785334744449",
+          "permalink": "https://fb.com/521085554595481_1063192623718102",
+          "time": "2016-08-31T15:36:24+0000",
+          "intro": "前端技能樹的討論串"
+        }
+        ,
+        
+        {
+          "title": "Web Tech Topic #6 - WebRTC入門、Clean Rails code basic",
+          "url": "http://amazingtutor.kktix.cc/events/wtt-06",
+          "sharer": "王信凱",
+          "sharer-id": "791456187554730",
+          "permalink": "https://fb.com/521085554595481_1062477660456265",
+          "time": "2016-08-30T16:24:16+0000",
+          "intro": "Web Tech Topic 第六週的聚會主題為 WebRTC，有興趣的可以關注一下"
+        }
+        ,
+        
+        {
+          "title": "",
+          "url": "",
+          "sharer": "賴宗賢",
+          "sharer-id": "834228226591912",
+          "permalink": "https://fb.com/521085554595481_1062943120409719",
+          "time": "2016-08-31T07:00:44+0000",
+          "intro": "關於 pseudo-element 在 IE devtool 上的請益文"
+        }
+        
+        
+    ]
+  }
+  ,
+  
+  
+  {
     "date-since": "2016-08-21",
     "volunteer": "Rplus",
     "post-url": "/weekly-collection/collection/023/",

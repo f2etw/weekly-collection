@@ -4,7 +4,7 @@
   <generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator>
   <link href="http://www.f2e.tw//weekly-collection/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://www.f2e.tw//weekly-collection/" rel="alternate" type="text/html" />
-  <updated>2016-09-10T16:50:42+08:00</updated>
+  <updated>2016-09-19T02:36:43+08:00</updated>
   <id>http://www.f2e.tw//weekly-collection/</id>
 
   
@@ -17,6 +17,435 @@
 
   
 
+  
+  
+    <entry>
+      <title>Collection #024</title>
+      <link href="http://www.f2e.tw//weekly-collection/collection/024/" rel="alternate" type="text/html" title="Collection #024" />
+      <published>2016-08-28T00:00:00+08:00</published>
+      
+        <updated>2016-08-28T00:00:00+08:00</updated>
+      
+
+      <id>http://www.f2e.tw//weekly-collection/collection/024</id>
+      <content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/024/">&lt;div class=&quot;Cards sm-flex flex-wrap pt2&quot;&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://works.ioa.tw/evolution/index.html&quot; style=&quot;background-image: url(&#39;http://works.ioa.tw/evolution/img/og/index.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://works.ioa.tw/evolution/img/og/index.png&quot; alt=&quot;Pokémon Go 進化後 CP 推測工具&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://works.ioa.tw/evolution/index.html&quot;&gt;Pokémon Go 進化後 CP 推測工具&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          吳政賢參考 PTT 文章製作了一個查找 CP 進化區間的工具
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-09-02T12:49:13+08:00&quot; title=&quot;2016-09-02T12:49:13+08:00&quot;&gt;2016-09-02&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1064416303595734&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/905090839504259&quot;&gt;
+            吳政賢
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/905090839504259/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;吳政賢&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://www.facebook.com/pjchender/photos/a.1103460186406083.1073741834.768320183253420/1103460249739410/?type=3&quot; style=&quot;background-image: url(&#39;https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/fr/cp0/e15/q65/14125647_1103460249739410_5344591090841344346_o.jpg&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/fr/cp0/e15/q65/14125647_1103460249739410_5344591090841344346_o.jpg&quot; alt=&quot;不只是漸層的 CSS3 漸層&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://www.facebook.com/pjchender/photos/a.1103460186406083.1073741834.768320183253420/1103460249739410/?type=3&quot;&gt;不只是漸層的 CSS3 漸層&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Po-Jung Chen 整理了 CSS gradient 的諸多使用技巧於粉專相簿裡，想更進一步瞭解 CSS 漸層的可以參考唷
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-30T17:24:41+08:00&quot; title=&quot;2016-08-30T17:24:41+08:00&quot;&gt;2016-08-30&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1062255257145172&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/559767417454613&quot;&gt;
+            Po-Jung Chen
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/559767417454613/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Po-Jung Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://www.youtube.com/watch?v=m7C3Y2OvEms&amp;amp;index=1&amp;amp;list=PL6Q8GhJpeKWSkGM9lH6Y6V7vPYMDD92w6&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/m7C3Y2OvEms/maxresdefault.jpg&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://i.ytimg.com/vi/m7C3Y2OvEms/maxresdefault.jpg&quot; alt=&quot;[主角日常] Re:從零開始的 jQuery 撰寫網頁遊戲教學 - Rocket&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://www.youtube.com/watch?v=m7C3Y2OvEms&amp;amp;index=1&amp;amp;list=PL6Q8GhJpeKWSkGM9lH6Y6V7vPYMDD92w6&quot;&gt;[主角日常] Re:從零開始的 jQuery 撰寫網頁遊戲教學 - Rocket&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          James Liang 分享以 jQuery 製作網頁遊戲的線上課程影片
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-09-04T00:23:00+08:00&quot; title=&quot;2016-09-04T00:23:00+08:00&quot;&gt;2016-09-03&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1065557440148287&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10151995304366957&quot;&gt;
+            James Liang
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10151995304366957/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;James Liang&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://t.co/wMbTRLA7ns&quot; style=&quot;background-image: url(&#39;https://cloud.githubusercontent.com/assets/2993947/14738104/5e28601c-08b2-11e6-8262-5351a575f3fb.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://cloud.githubusercontent.com/assets/2993947/14738104/5e28601c-08b2-11e6-8262-5351a575f3fb.png&quot; alt=&quot;使用纯 CSS 实现 Google Photos 照片列表布局&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://t.co/wMbTRLA7ns&quot;&gt;使用纯 CSS 实现 Google Photos 照片列表布局&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          這篇進階排版應用文章使用各種 flexbox 技巧來模擬 Google 圖片牆的排版效果。文中漸進地示範不同的方法來達成相似的排版效果，裡頭有許多精妙的技巧唷
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-31T12:10:01+08:00&quot; title=&quot;2016-08-31T12:10:01+08:00&quot;&gt;2016-08-31&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1062867850417246&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/697526476981805&quot;&gt;
+            Rplus Chen
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/697526476981805/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://f2e.kktix.cc/events/1894833b&quot; style=&quot;background-image: url(&#39;https://t.kfs.io/assets/kktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://t.kfs.io/assets/kktix-og-image-e49ca160c99f2162a6cecbf7cfc5644a.png&quot; alt=&quot;ReactNative 仰望星空工作坊 Run1&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://f2e.kktix.cc/events/1894833b&quot;&gt;ReactNative 仰望星空工作坊 Run1&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          YuTin Liu ReactNative 開發經驗的分享聚會首發！有興趣的快跟上
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-30T19:29:10+08:00&quot; title=&quot;2016-08-30T19:29:10+08:00&quot;&gt;2016-08-30&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1062322177138480&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1678986882&quot;&gt;
+            YuTin Liu
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1678986882/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;YuTin Liu&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://lichin.me/blog/2016/08/27/ie8-the-miserable-monster&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://lichin.me/img/dog.png&amp;amp;width=400&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://lichin.me/img/dog.png&amp;amp;width=400&quot; alt=&quot;IE8! the miserable monster&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://lichin.me/blog/2016/08/27/ie8-the-miserable-monster&quot;&gt;IE8! the miserable monster&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          林立秦整理部份 IE8 前端開發的坑以及需留意的事項
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-28T19:29:38+08:00&quot; title=&quot;2016-08-28T19:29:38+08:00&quot;&gt;2016-08-28&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1060823947288303&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/828387647183801&quot;&gt;
+            林立秦
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/828387647183801/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;林立秦&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://quip.com/7Vt4AiNImcbg&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://quip.com/7Vt4AiNImcbg&quot;&gt;[共筆] 前端與 UI 真心合作的不二法門&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          廖洧杰分享高雄前端分享活動的共筆與直播錄影，讓未能到場的朋友們也可以一同學習~
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-28T23:05:01+08:00&quot; title=&quot;2016-08-28T23:05:01+08:00&quot;&gt;2016-08-28&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1060936893943675&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/776166365736344&quot;&gt;
+            廖洧杰
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/776166365736344/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;廖洧杰&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://fb.com/521085554595481_1063192623718102&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://fb.com/521085554595481_1063192623718102&quot;&gt;&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          前端技能樹的討論串
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-31T23:36:24+08:00&quot; title=&quot;2016-08-31T23:36:24+08:00&quot;&gt;2016-08-31&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1063192623718102&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10206785334744449&quot;&gt;
+            賴咸文
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10206785334744449/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;賴咸文&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://amazingtutor.kktix.cc/events/wtt-06&quot; style=&quot;background-image: url(&#39;https://t.kfs.io/upload_images/53932/wtt06_original.jpg&#39;);&quot;&gt;
+          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://t.kfs.io/upload_images/53932/wtt06_original.jpg&quot; alt=&quot;Web Tech Topic #6 - WebRTC入門、Clean Rails code basic&quot; /&gt;
+        &lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://amazingtutor.kktix.cc/events/wtt-06&quot;&gt;Web Tech Topic #6 - WebRTC入門、Clean Rails code basic&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          Web Tech Topic 第六週的聚會主題為 WebRTC，有興趣的可以關注一下
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-31T00:24:16+08:00&quot; title=&quot;2016-08-31T00:24:16+08:00&quot;&gt;2016-08-30&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1062477660456265&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/791456187554730&quot;&gt;
+            王信凱
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/791456187554730/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;王信凱&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
+    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
+      
+
+      
+        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://fb.com/521085554595481_1062943120409719&quot;&gt;&lt;/a&gt;
+      
+
+      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
+
+        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
+          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://fb.com/521085554595481_1062943120409719&quot;&gt;&lt;/a&gt;
+        &lt;/h3&gt;
+
+        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
+          關於 pseudo-element 在 IE devtool 上的請益文
+        &lt;/p&gt;
+
+        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
+          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
+            &lt;time class=&quot;time&quot; datetime=&quot;2016-08-31T15:00:44+08:00&quot; title=&quot;2016-08-31T15:00:44+08:00&quot;&gt;2016-08-31&lt;/time&gt;
+            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1062943120409719&quot;&gt;
+              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
+          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/834228226591912&quot;&gt;
+            賴宗賢
+            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/834228226591912/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;賴宗賢&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+    &lt;/article&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;編按：最近有點忙，希望有人能一起來坦 Orz&lt;/p&gt;</content>
+
+      
+      
+      
+      
+
+      
+
+      
+        <category term="weekly-popular" />
+      
+
+      
+        <summary>Pokémon Go 進化後 CP 推測工具 吳政賢參考 PTT 文章製作了一個查找 CP 進化區間的工具 2016-09-02 吳政賢 不只是漸層的 CSS3 漸層 Po-Jung Chen 整理了 CSS gradient 的諸多使用技巧於粉專相簿裡，想更進一步瞭解 CSS 漸層的可以參考唷 2016-08-30 Po-Jung Chen [主角日常] Re:從零開始的 jQuery 撰寫網頁遊戲教學 - Rocket James Liang 分享以 jQuery 製作網頁遊戲的線上課程影片 2016-09-03 James Liang 使用纯 CSS 实现 Google Photos 照片列表布局 這篇進階排版應用文章使用各種 flexbox 技巧來模擬 Google 圖片牆的排版效果。文中漸進地示範不同的方法來達成相似的排版效果，裡頭有許多精妙的技巧唷 2016-08-31 Rplus Chen ReactNative 仰望星空工作坊 Run1 YuTin Liu ReactNative 開發經驗的分享聚會首發！有興趣的快跟上 2016-08-30 YuTin Liu IE8! the miserable monster 林立秦整理部份 IE8 前端開發的坑以及需留意的事項 2016-08-28 林立秦 [共筆] 前端與 UI 真心合作的不二法門 廖洧杰分享高雄前端分享活動的共筆與直播錄影，讓未能到場的朋友們也可以一同學習~ 2016-08-28 廖洧杰 前端技能樹的討論串 2016-08-31 賴咸文 Web Tech Topic #6 - WebRTC入門、Clean Rails code basic Web Tech Topic 第六週的聚會主題為 WebRTC，有興趣的可以關注一下 2016-08-30 王信凱 關於 pseudo-element 在 IE devtool 上的請益文 2016-08-31 賴宗賢</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -3888,431 +4317,6 @@
 
       
         <summary>純CSS點擊下拉式選單 Arthur Liao 以 CSS `:active` 作為下拉式選單的觸發事件，並用在 parent 層的 JS 事件輔助處理額外的點擊 2016-06-27 Arthur Liao [翻譯] 常被誤用的行動裝置 UX 設計模式 這篇分享譯文中提及了五種曾風靡一時的設計模式，並點出在部份情況下的盲點，進而提醒設計要確實做好研究功課及檢驗方法 2016-06-28 Ya Jing 台北 • 藝文活動 吳政賢利用新北市開放資料製作出了新北市藝文活動搜尋頁面，非常便利！ 2016-06-29 吳政賢 [教學] 寫給會在部落格中撰寫程式碼的你 ─ 在網頁中嵌入高亮程式碼上色 (syntax highlighting) 陳柏融參考部份知名網站，分享如何使用 Prism plugin 為網頁的程式碼區塊著色，以增加可讀性 2016-06-29 陳柏融 JSManipulate - Javascript Image Filters &amp;amp; Effects 這一 Canvas plugin 可幫忙處理非常多種圖片濾鏡效果的轉換，還能有動態變化 2016-06-29 乃綠茶 Typography Handbook 這篇網頁排版指南中主要分為排版設計、文字設定、style guide三大部份，參考資源充足、輔助工具眾多 2016-06-27 Rplus Chen 一篇關於 JS `this` 的請教文 2016-07-01 廖子勳 別這樣使用Promise 這篇分享文中提到了 JS 裡各式不妙的 Promise 寫法，及較佳的作法，最後也推薦考慮直接使用 synchronous-async pattern 2016-06-29 劉晏成 一篇 JS 糾錯的通靈文。【請益文的錯誤示範】 2016-06-26 江紹平 eslint for react native YuTin Liu 分享個人的 ESLint config，希望可以讓討論不同的操作設定 2016-06-27 YuTin Liu</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      <title>Collection #014</title>
-      <link href="http://www.f2e.tw//weekly-collection/collection/014/" rel="alternate" type="text/html" title="Collection #014" />
-      <published>2016-06-19T00:00:00+08:00</published>
-      
-        <updated>2016-06-19T00:00:00+08:00</updated>
-      
-
-      <id>http://www.f2e.tw//weekly-collection/collection/014</id>
-      <content type="html" xml:base="http://www.f2e.tw//weekly-collection/collection/014/">&lt;div class=&quot;Cards sm-flex flex-wrap pt2&quot;&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://t.co/XX1XHi9J6D&quot; style=&quot;background-image: url(&#39;http://leaverou.github.io/html-secrets/img/me-pirate.png&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://leaverou.github.io/html-secrets/img/me-pirate.png&quot; alt=&quot;HTML Secrets: HTML can do whaaat?!&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://t.co/XX1XHi9J6D&quot;&gt;HTML Secrets: HTML can do whaaat?!&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Lea Verou 在 CSS Day 2016 的演講中分享了諸多 HTML 相關神妙技巧 ㊙ 非常推薦一讀 ✨
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-24T22:55:18+08:00&quot; title=&quot;2016-06-24T22:55:18+08:00&quot;&gt;2016-06-24&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1018337444870287&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://t.co/64hJnqkhyv&quot; style=&quot;background-image: url(&#39;https://lh3.googleusercontent.com/mmFuCgIZGljp-Auc8mj_G7eig-0Ui5vtIQ0UTRg6zZvZGKNdgX4x6-2_mnY-vd9IMR_bDQkGglYem33jzeM=s400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://lh3.googleusercontent.com/mmFuCgIZGljp-Auc8mj_G7eig-0Ui5vtIQ0UTRg6zZvZGKNdgX4x6-2_mnY-vd9IMR_bDQkGglYem33jzeM=s400&quot; alt=&quot;Web Accessibility | Udacity&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://t.co/64hJnqkhyv&quot;&gt;Web Accessibility | Udacity&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Google 跟 Udacity 合作開了一門免費的 Web Accessibility 線上課程，透過課程可學習到扎實的 a11y 基本功！💪
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-22T23:33:06+08:00&quot; title=&quot;2016-06-22T23:33:06+08:00&quot;&gt;2016-06-22&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1017282864975745&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://rz12345.github.io/react-demo/wPOS/&quot;&gt;&lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://rz12345.github.io/react-demo/wPOS/&quot;&gt;練習以 ReactJS 實作 POS 點單介面&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Rz Chen 在看了「24 小時，React 快速入門」後，以點菜系統做為 React 的練習作品 👏
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-19T16:00:30+08:00&quot; title=&quot;2016-06-19T16:00:30+08:00&quot;&gt;2016-06-19&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1015450715158960&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1055611534453228&quot;&gt;
-            Rz Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1055611534453228/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rz Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://microsoft.github.io/monaco-editor/index.html&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://cloud.githubusercontent.com/assets/5047891/15751937/4267b918-28ec-11e6-9fbd-d6cd2973c770.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://cloud.githubusercontent.com/assets/5047891/15751937/4267b918-28ec-11e6-9fbd-d6cd2973c770.png&amp;amp;width=400&quot; alt=&quot;Monaco Editor&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://microsoft.github.io/monaco-editor/index.html&quot;&gt;Monaco Editor&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Monaco Editor 是微軟基於自家的 VS Code 而製作的一款開源網頁文字編輯器，除了一般常見的編輯器功能外，還有不少趣味且實用的功能等你探索唷 ☕
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-21T23:20:08+08:00&quot; title=&quot;2016-06-21T23:20:08+08:00&quot;&gt;2016-06-21&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1016680755035956&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/903912066343244&quot;&gt;
-            Rplus Chen
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/903912066343244/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Rplus Chen&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://hackpad.com/105-web--1rkiGxwMT3A&quot;&gt;&lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://hackpad.com/105-web--1rkiGxwMT3A&quot;&gt;105高雄大學資管系 web 前端開發專題&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          廖洧杰利用高雄 open data 資料讓高雄大學學生實作各種主題的專題，並將各專題整理在 hackpad 上，以作為期末專題成果展示 🌱
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-21T12:15:55+08:00&quot; title=&quot;2016-06-21T12:15:55+08:00&quot;&gt;2016-06-21&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1016422958395069&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/996025350417110&quot;&gt;
-            廖洧杰
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/996025350417110/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;廖洧杰&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.webdesignclip.com/&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=http://www.webdesignclip.com/img/ogp.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=http://www.webdesignclip.com/img/ogp.png&amp;amp;width=400&quot; alt=&quot;Web Design Clip | Webデザインクリップ&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.webdesignclip.com/&quot;&gt;Web Design Clip | Webデザインクリップ&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          Ya Jing 分享了這個收集了許多日系設計風格的網站列表，可作為靈感啟發或是技術研究的對象 ♨
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-21T12:26:16+08:00&quot; title=&quot;2016-06-21T12:26:16+08:00&quot;&gt;2016-06-21&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1016424988394866&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1024191214301340&quot;&gt;
-            Ya Jing
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1024191214301340/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Ya Jing&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.ryanyang0818.com/demo/RUI/docs/r_slidepanel_example/demo2.html&quot;&gt;&lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.ryanyang0818.com/demo/RUI/docs/r_slidepanel_example/demo2.html&quot;&gt;www.ryanyang0818.com&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          楊宗穎了自己撰寫的 off-Canvas 風格並帶有模糊 overlay 的側欄佈局 plugin 🐬
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-21T17:07:59+08:00&quot; title=&quot;2016-06-21T17:07:59+08:00&quot;&gt;2016-06-21&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1016534471717251&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10208527300355353&quot;&gt;
-            楊宗穎
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10208527300355353/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;楊宗穎&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://lichin.me/blog/2016/06/25/oldnews-design&quot; style=&quot;background-image: url(&#39;http://imageproxy.pimg.tw/zoomcrop?url=https://lichin.me/img/OldNews/OldNews-desktop.png&amp;amp;width=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;http://imageproxy.pimg.tw/zoomcrop?url=https://lichin.me/img/OldNews/OldNews-desktop.png&amp;amp;width=400&quot; alt=&quot;OldNews design&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://lichin.me/blog/2016/06/25/oldnews-design&quot;&gt;OldNews design&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          林立秦引用 Codrops 設計風格實作 SoftBank 報紙風格的個人動態牆 📮
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-25T17:54:43+08:00&quot; title=&quot;2016-06-25T17:54:43+08:00&quot;&gt;2016-06-25&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1018775261493172&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/952773934745171&quot;&gt;
-            林立秦
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/952773934745171/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;林立秦&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;http://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis&quot; style=&quot;background-image: url(&#39;https://i.guim.co.uk/img/media/7e2c81412e4ee5172d316c7b792f111a464332ce/0_0_800_480/800.jpg?w=1200&amp;amp;h=632&amp;amp;q=55&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=crop&amp;amp;bm=normal&amp;amp;ba=bottom%2Cleft&amp;amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;amp;s=2d11b28579182495c3b084592f4dbccb&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://i.guim.co.uk/img/media/7e2c81412e4ee5172d316c7b792f111a464332ce/0_0_800_480/800.jpg?w=1200&amp;amp;h=632&amp;amp;q=55&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=crop&amp;amp;bm=normal&amp;amp;ba=bottom%2Cleft&amp;amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;amp;s=2d11b28579182495c3b084592f4dbccb&quot; alt=&quot;EU referendum results – live tracker&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;http://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis&quot;&gt;EU referendum results – live tracker&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          由英國衛報所製，以資料視覺化呈現脫歐公投各種投票資訊與比例，包括主訴求、區域性、年齡分佈與教育程度等等 🔎
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-24T12:17:34+08:00&quot; title=&quot;2016-06-24T12:17:34+08:00&quot;&gt;2016-06-24&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1018127881557910&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/1072714999409439&quot;&gt;
-            Moshi Huang
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/1072714999409439/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;Moshi Huang&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;flex sm-col-6 md-col-4 lg-col-3&quot;&gt;
-    &lt;article class=&quot;Card flex flex-column flex-auto mx2 mb3&quot;&gt;
-      
-
-      
-        
-        &lt;a class=&quot;Card__cover--link&quot; href=&quot;https://github.com/commitizen/cz-cli&quot; style=&quot;background-image: url(&#39;https://avatars1.githubusercontent.com/u/11980392?v=3&amp;amp;s=400&#39;);&quot;&gt;
-          &lt;img class=&quot;Card__cover fit&quot; src=&quot;https://avatars1.githubusercontent.com/u/11980392?v=3&amp;amp;s=400&quot; alt=&quot;commitizen&amp;#x2F;cz-cli&quot; /&gt;
-        &lt;/a&gt;
-      
-
-      &lt;div class=&quot;flex flex-column flex-auto px2&quot;&gt;
-
-        &lt;h3 class=&quot;line-height-3 break-word&quot;&gt;
-          &lt;a class=&quot;Card__titleLink td-dash&quot; href=&quot;https://github.com/commitizen/cz-cli&quot;&gt;commitizen&amp;#x2F;cz-cli&lt;/a&gt;
-        &lt;/h3&gt;
-
-        &lt;p class=&quot;Card__desc flex-auto mt0 mb3&quot;&gt;
-          主要是希望幫忙 contributors 能更便利地輸入正確的 commit message；透過以 `git cz` 來 commit，可自動選擇訊息類型，還可驗證正確性。是款方便的開源協作輔助工具 🍺
-        &lt;/p&gt;
-
-        &lt;div class=&quot;Card__meta right-align pb3&quot;&gt;
-          &lt;div class=&quot;Card__meta__timestamp mb1&quot;&gt;
-            &lt;time class=&quot;time&quot; datetime=&quot;2016-06-21T17:05:11+08:00&quot; title=&quot;2016-06-21T17:05:11+08:00&quot;&gt;2016-06-21&lt;/time&gt;
-            &lt;a class=&quot;text-decoration-none&quot; title=&quot;Facebook permalink&quot; href=&quot;https://fb.com/521085554595481_1016532881717410&quot;&gt;
-              &lt;svg class=&quot;permalink-icon align-middle&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot; /&gt;&lt;/svg&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;a class=&quot;text-decoration-none&quot; href=&quot;https://fb.com/10203040395925690&quot;&gt;
-            YuTin Liu
-            &lt;img class=&quot;circle align-middle&quot; src=&quot;https://graph.facebook.com/10203040395925690/picture?width=32&amp;amp;height=32&amp;amp;type=square&quot; alt=&quot;YuTin Liu&quot; width=&quot;32&quot; height=&quot;32&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      
-    &lt;/article&gt;
-  &lt;/div&gt;
-  
-&lt;/div&gt;</content>
-
-      
-      
-      
-      
-
-      
-
-      
-        <category term="weekly-popular" />
-      
-
-      
-        <summary>HTML Secrets: HTML can do whaaat?! Lea Verou 在 CSS Day 2016 的演講中分享了諸多 HTML 相關神妙技巧 ㊙ 非常推薦一讀 ✨ 2016-06-24 Rplus Chen Web Accessibility | Udacity Google 跟 Udacity 合作開了一門免費的 Web Accessibility 線上課程，透過課程可學習到扎實的 a11y 基本功！💪 2016-06-22 Rplus Chen 練習以 ReactJS 實作 POS 點單介面 Rz Chen 在看了「24 小時，React 快速入門」後，以點菜系統做為 React 的練習作品 👏 2016-06-19 Rz Chen Monaco Editor Monaco Editor 是微軟基於自家的 VS Code 而製作的一款開源網頁文字編輯器，除了一般常見的編輯器功能外，還有不少趣味且實用的功能等你探索唷 ☕ 2016-06-21 Rplus Chen 105高雄大學資管系 web 前端開發專題 廖洧杰利用高雄 open data 資料讓高雄大學學生實作各種主題的專題，並將各專題整理在 hackpad 上，以作為期末專題成果展示 🌱 2016-06-21 廖洧杰 Web Design Clip | Webデザインクリップ Ya Jing 分享了這個收集了許多日系設計風格的網站列表，可作為靈感啟發或是技術研究的對象 ♨ 2016-06-21 Ya Jing www.ryanyang0818.com 楊宗穎了自己撰寫的 off-Canvas 風格並帶有模糊 overlay 的側欄佈局 plugin 🐬 2016-06-21 楊宗穎 OldNews design 林立秦引用 Codrops 設計風格實作 SoftBank 報紙風格的個人動態牆 📮 2016-06-25 林立秦 EU referendum results – live tracker 由英國衛報所製，以資料視覺化呈現脫歐公投各種投票資訊與比例，包括主訴求、區域性、年齡分佈與教育程度等等 🔎 2016-06-24 Moshi Huang commitizen&amp;#x2F;cz-cli 主要是希望幫忙 contributors 能更便利地輸入正確的 commit message；透過以 `git cz` 來 commit，可自動選擇訊息類型，還可驗證正確性。是款方便的開源協作輔助工具 🍺 2016-06-21 YuTin Liu</summary>
       
 
       
